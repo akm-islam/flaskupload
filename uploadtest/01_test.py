@@ -1,10 +1,10 @@
+# chmod 644 01_test.py
 from flask import Flask, render_template, request
 from werkzeug import secure_filename
 app = Flask(__name__)
-UPLOAD_FOLDER="./"
-app.config['UPLOAD_FOLDER']=UPLOAD_FOLDER
-@app.route('/upload2')
-def upload_file():
+app.config['UPLOAD_FOLDER']="/upload"
+@app.route('/upload')
+def upload_file1():
    return render_template('upload.html')
 	
 @app.route('/uploader', methods = ['GET', 'POST'])
@@ -13,6 +13,5 @@ def upload_file():
       f = request.files['file']
       f.save(secure_filename(f.filename))
       return 'file uploaded successfully'
-		
 if __name__ == '__main__':
    app.run(debug = True)
