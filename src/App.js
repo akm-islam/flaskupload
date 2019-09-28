@@ -14,15 +14,14 @@ export default class Example extends React.Component {
   handleFile=(e)=>{
     let file=e.target.files[0]
     this.setState({file:file})
-    console.log(e.target.files)
+    //console.log(e.target.files)
   }
   handleUpload=(e)=>{
     let file=this.state.file;
     let formdata=new FormData()
-    formdata.append('image',file)
-    formdata.append('name','mamun')
+    formdata.append('file',file)
     axios({
-      url:'https://c37d7e1c-3801-4b9f-bc9d-2390d4cb1561.mock.pstmn.io/api',
+      url:'http://localhost:5000/uploader',
       method:"POST",
       headers:{
         authorizaiotn:'Hello'
@@ -78,7 +77,7 @@ export default class Example extends React.Component {
         <Row>
           <Col md="2" className="sidebar">
               <div style={{backgroundColor:"rgb(224,224,224,.3)",width:"100%",height:"400px"}}>
-                <form>
+              <form action = "http://localhost:5000/uploader" method = "POST" >
                 <input type="file" name="fileupload" id="fileupload" onChange={(e)=>this.handleFile(e)}></input>
                 <label htmlFor="fileupload"></label>
                 <button type="button" onClick={(e)=>this.handleUpload(e)}>Upload</button>
