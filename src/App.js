@@ -25,7 +25,7 @@ export default class Example extends React.Component {
     formdata.append('file',this.state.file[key])
     }
     axios({
-      url:'http://localhost:5000/uploader',
+      url:'http://ec2-3-19-55-145.us-east-2.compute.amazonaws.com:5000/uploader',
       method:"POST",
       headers:{
       authorizition:'Hello'
