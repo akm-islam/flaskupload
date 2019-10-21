@@ -39,10 +39,6 @@ def hello_world3():
             for dataset in datasets:
                 dataset_name=dataset+".csv";
                 data=pd.read_csv(dataset_name)
-                #print("Dataset is: ",dataset_name, file=sys.stderr)
-                #constant_filter = VarianceThreshold(threshold=0)
-                #constant_filter.fit(data)
-                #data=dataset[dataset.columns[constant_filter.get_support()]]
                 newData={}
                 for i in data:
                     len=data[i].size
@@ -66,12 +62,12 @@ def hello_world2():
         if(req.get("myrequest")=='data'):
             datasets_with_Attributes={}
             count=0;
-            max=15;
+            max=150;
             for filename in glob.glob('./upload/*.csv'):
                 count=count+1;
                 if(count<max):
                     df = pd.read_csv(filename);
-                    fname=re.sub(r'.csv', '',filename)
+                    fname=re.sub(r'.csv', '',filename[9:])
                     datasets_with_Attributes[fname]=df.columns.str.lower().tolist()
             unionA={}
             for key in datasets_with_Attributes:
@@ -106,38 +102,46 @@ def hello_world2():
             return make_response(jsonify(dict1), 200)
     else:
         return make_response(jsonify({"message": "Else"}), 200)
-#--------------------------------Main program starts here
-if __name__ == '__main__':
-   app.run(host='0.0.0.0')
-   app.run(debug = True)
-#--------------------------------
+
+@app.route('/stat_metrics',methods=['POST','GET'])
+def stat_metric():
+    print("Hello")
+
+
 def process_data():
     # datasets_with_Attributes starts here
     datasets_with_Attributes={}
     for filename in glob.glob('*.csv'):
-        df = pd.read_csv(filename);
+        df = pd.read_csv(filename)
         fname=re.sub(r'.csv', '',filename)
         datasets_with_Attributes[fname]=df.columns.str.lower().tolist()
     unionA={}
     for key in datasets_with_Attributes:
         for val in datasets_with_Attributes[key]:
             if val not in unionA:
-                unionA[val]=1;
+                unionA[val]=1
             else:
-                unionA[val]=unionA[val]+1;
+                unionA[val]=unionA[val]+1
     sorted_Atrributes = sorted(unionA, key=unionA.get, reverse=True)
     # return only shared attrbutes
-    only_shared_attributes=[];
+    only_shared_attributes=[]
     count=0
     for key in sorted_Atrributes:
         if(unionA[key]>1):
-            count=count+1;
+            count=count+1
             only_shared_attributes.insert(count,key)
     # create the data for json reply
     mydata={"unionA":unionA,"datasets_with_Attributes":datasets_with_Attributes,"sorted_Atrributes":sorted_Atrributes,"only_shared_attributes":only_shared_attributes}
-    return mydata;
+    return mydata
 def pr():
     return {"hi":"data1"}
+
+
+#--------------------------------Main program starts here
+if __name__ == '__main__':
+   app.run(host='0.0.0.0')
+   app.run(debug = True)
+#--------------------------------
 
 
 #https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#Preflighted_requests
