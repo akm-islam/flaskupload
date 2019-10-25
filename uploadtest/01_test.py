@@ -2,11 +2,17 @@
 from flask import Flask, render_template, request
 from werkzeug import secure_filename
 import os,glob,sys
+import os.path
+from os import path
 import re
 import json
 from flask import jsonify, make_response
 import pandas as pd
+import numpy as np
 from sklearn.feature_selection import VarianceThreshold
+from sklearn.model_selection import train_test_split
+from sklearn.feature_selection import mutual_info_classif, mutual_info_regression
+from sklearn.feature_selection import SelectKBest, SelectPercentile
 from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
@@ -68,7 +74,7 @@ def hello_world2():
                 if(count<max):
                     df = pd.read_csv(filename);
                     fname=re.sub(r'.csv', '',filename[9:])
-                    datasets_with_Attributes[fname]=df.columns.str.lower().tolist()
+                    datasets_with_Attributes[fname]=df.columns.tolist()
             unionA={}
             for key in datasets_with_Attributes:
                 for val in datasets_with_Attributes[key]:
@@ -103,10 +109,109 @@ def hello_world2():
     else:
         return make_response(jsonify({"message": "Else"}), 200)
 
-@app.route('/stat_metrics',methods=['POST','GET'])
-def stat_metric():
-    print("Hello")
 
+
+#------------------------------------------------- Processing stat request
+@app.route('/statmetrics',methods=['POST','GET'])
+def stat_metric():
+    if(request.is_json):
+        req=request.get_json();
+# ---------------------------------------------------------------------------------------Prob distribution
+        if(req.get("req_for")=='prob_dist'):
+            given=req.get("given")
+            dict={}
+            for dataset in given[0]:
+                dataset2="./upload/"+dataset+".csv"
+                data=pd.read_csv(dataset2)
+                total=data.shape[0]
+                dict3={}
+                for col in data.columns:
+                    if col in given[1]:
+                        dict2={} 
+                        uniq=data[col].unique()
+                        for i in uniq:
+                            dict2[str(i)]=data.loc[data[col]==i].shape[0]/total
+                            #print(i,data.loc[data[col]==i].shape[0]/total)
+                        dict3[col]=dict2
+                dict[dataset]=dict3
+            return make_response(jsonify({"prob_data":dict}), 200)
+# ---------------------------------------------------------------------------------------Mutual_info
+        elif(req.get("req_for")=='mutual_info'):
+            given=req.get("given")
+            mydict1={}
+            mydict={}
+            for dataset in given[0]:
+                dataset2="./upload/"+dataset+".csv"
+                if(path.exists(dataset2)):
+                    data=pd.read_csv(dataset2)
+                    numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']
+                    numerical_vars = list(data.select_dtypes(include=numerics).columns)
+                    data = data[numerical_vars]
+                for col in data.columns:
+                    if col in given[1]:
+                        numerical_vars = list(data.select_dtypes(include=numerics).columns)
+                        data = data[numerical_vars]
+                        lab=[col]
+                        X_train, X_test, y_train, y_test = train_test_split(data.drop(labels=lab, axis=1),data[col],test_size=0.1,random_state=0)
+                        mi = mutual_info_regression(X_train.fillna(0), y_train)
+                        mi = pd.Series(mi)
+                        mi.index = X_train.columns
+                        mydict[col]=mi.to_dict()
+                mydict1[dataset]=mydict            
+            return make_response(jsonify({"mutual_info_data":mydict1}), 200)
+# ---------------------------------------------------------------------------------------Correlation
+        elif(req.get("req_for")=='correlation'):
+            #print("data is ",req.get("given"), file=sys.stderr)
+            corr_dict={}
+            given=req.get("given")
+            numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']
+            for dataset in given[0]:
+                dataset2="./upload/"+dataset+".csv"
+                if(path.exists(dataset2)):
+                    data=pd.read_csv(dataset2)
+                    numerical_vars = list(data.select_dtypes(include=numerics).columns)
+                    data = data[numerical_vars]
+                    dict2={}
+                    for att in given[1]:
+                        if att in data.columns:
+                            print(att)
+                            dict2[att]=data.corr()[att].drop(att,axis=0).to_dict()
+                    corr_dict[dataset]=dict2
+                            #print("data is ",corr_dict, file=sys.stderr)
+            return make_response(jsonify({"correlation_data":corr_dict}), 200)
+# ---------------------------------------------------------------------------------------KL-Divergnce
+        elif(req.get("req_for")=='kl_div'):
+            print("Kl_div got ",req.get("given"), file=sys.stderr)
+            kl_dict={}
+            given=req.get("given")
+            numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']
+            for dataset in given[0]:
+                dataset2="./upload/"+dataset+".csv"
+                if(path.exists(dataset2)):
+                    data=pd.read_csv(dataset2)
+                numerical_vars = list(data.select_dtypes(include=numerics).columns)
+                data = data[numerical_vars]
+                att1_dict={}
+                for att in given[1]:
+                    att2_dict={}
+                    for att2 in data.columns:
+                        data[att].fillna(0)
+                        data[att2].fillna(0)
+                        p=data[att]
+                        q=data[att2]
+                        kl_val=np.sum(np.where(p != 0, p * np.log(p / q), 0))
+                        if(np.isnan(kl_val)):
+                            print(kl_val)
+                        else:
+                            if((kl_val!=np.inf)):
+                                att2_dict[att2]=kl_val
+                    att1_dict[att]=att2_dict
+                kl_dict[dataset]=att1_dict 
+            return make_response(jsonify({"kl_data":kl_dict}), 200)
+        return make_response(jsonify({"else":"something wrong"}), 200)
+    else:
+        return make_response(jsonify({"message": "Else"}), 200)
+# ---------------------------------------------------------------------------------------
 
 def process_data():
     # datasets_with_Attributes starts here
@@ -114,7 +219,7 @@ def process_data():
     for filename in glob.glob('*.csv'):
         df = pd.read_csv(filename)
         fname=re.sub(r'.csv', '',filename)
-        datasets_with_Attributes[fname]=df.columns.str.lower().tolist()
+        datasets_with_Attributes[fname]=df.columns.tolist()
     unionA={}
     for key in datasets_with_Attributes:
         for val in datasets_with_Attributes[key]:
