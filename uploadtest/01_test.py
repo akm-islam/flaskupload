@@ -193,19 +193,20 @@ def stat_metric():
                 data = data[numerical_vars]
                 att1_dict={}
                 for att in given[1]:
-                    att2_dict={}
-                    for att2 in data.columns:
-                        data[att].fillna(0)
-                        data[att2].fillna(0)
-                        p=data[att]
-                        q=data[att2]
-                        kl_val=np.sum(np.where(p != 0, p * np.log(p / q), 0))
-                        if(np.isnan(kl_val)):
-                            print(kl_val)
-                        else:
-                            if((kl_val!=np.inf)):
-                                att2_dict[att2]=kl_val
-                    att1_dict[att]=att2_dict
+                    if(att in data.columns):
+                        att2_dict={}
+                        for att2 in data.columns:
+                            data[att].fillna(0)
+                            data[att2].fillna(0)
+                            p=data[att]
+                            q=data[att2]
+                            kl_val=np.sum(np.where(p != 0, p * np.log(p / q), 0))
+                            if(np.isnan(kl_val)):
+                                print(kl_val)
+                            else:
+                                if((kl_val!=np.inf)):
+                                    att2_dict[att2]=kl_val
+                        att1_dict[att]=att2_dict
                 kl_dict[dataset]=att1_dict 
             return make_response(jsonify({"kl_data":kl_dict}), 200)
         return make_response(jsonify({"else":"something wrong"}), 200)
