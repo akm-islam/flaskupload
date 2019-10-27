@@ -123,7 +123,9 @@ def stat_metric():
             for dataset in given[0]:
                 dataset2="./upload/"+dataset+".csv"
                 data=pd.read_csv(dataset2)
-                data=data.fillna(0)
+                data=data.dropna(how='all',axis='columns')
+                data=data.dropna(how='all',axis='rows')
+                data=data.fillna(value=0)
                 total=data.shape[0]
                 dict3={}
                 for col in data.columns:
@@ -145,10 +147,12 @@ def stat_metric():
                 dataset2="./upload/"+dataset+".csv"
                 if(path.exists(dataset2)):
                     data=pd.read_csv(dataset2)
-                    data=data.fillna(0)
                     numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']
                     numerical_vars = list(data.select_dtypes(include=numerics).columns)
                     data = data[numerical_vars]
+                    data=data.dropna(how='all',axis='columns')
+                    data=data.dropna(how='all',axis='rows')
+                    data=data.fillna(value=0)
                 for col in data.columns:
                     if col in given[1]:
                         numerical_vars = list(data.select_dtypes(include=numerics).columns)
@@ -171,9 +175,11 @@ def stat_metric():
                 dataset2="./upload/"+dataset+".csv"
                 if(path.exists(dataset2)):
                     data=pd.read_csv(dataset2)
-                    data=data.fillna(0)
                     numerical_vars = list(data.select_dtypes(include=numerics).columns)
                     data = data[numerical_vars]
+                    data=data.dropna(how='all',axis='columns')
+                    data=data.dropna(how='all',axis='rows')
+                    data=data.fillna(value=0)
                     dict2={}
                     for att in given[1]:
                         if att in data.columns:
@@ -192,9 +198,11 @@ def stat_metric():
                 dataset2="./upload/"+dataset+".csv"
                 if(path.exists(dataset2)):
                     data=pd.read_csv(dataset2)
-                    data=data.fillna(0)
                 numerical_vars = list(data.select_dtypes(include=numerics).columns)
                 data = data[numerical_vars]
+                data=data.dropna(how='all',axis='columns')
+                data=data.dropna(how='all',axis='rows')
+                data=data.fillna(value=0)
                 att1_dict={}
                 for att in given[1]:
                     if(att in data.columns):
