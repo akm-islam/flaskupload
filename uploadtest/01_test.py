@@ -123,6 +123,7 @@ def stat_metric():
             for dataset in given[0]:
                 dataset2="./upload/"+dataset+".csv"
                 data=pd.read_csv(dataset2)
+                data=data.fillna(0)
                 total=data.shape[0]
                 dict3={}
                 for col in data.columns:
@@ -144,6 +145,7 @@ def stat_metric():
                 dataset2="./upload/"+dataset+".csv"
                 if(path.exists(dataset2)):
                     data=pd.read_csv(dataset2)
+                    data=data.fillna(0)
                     numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']
                     numerical_vars = list(data.select_dtypes(include=numerics).columns)
                     data = data[numerical_vars]
@@ -169,6 +171,7 @@ def stat_metric():
                 dataset2="./upload/"+dataset+".csv"
                 if(path.exists(dataset2)):
                     data=pd.read_csv(dataset2)
+                    data=data.fillna(0)
                     numerical_vars = list(data.select_dtypes(include=numerics).columns)
                     data = data[numerical_vars]
                     dict2={}
@@ -189,6 +192,7 @@ def stat_metric():
                 dataset2="./upload/"+dataset+".csv"
                 if(path.exists(dataset2)):
                     data=pd.read_csv(dataset2)
+                    data=data.fillna(0)
                 numerical_vars = list(data.select_dtypes(include=numerics).columns)
                 data = data[numerical_vars]
                 att1_dict={}
@@ -196,8 +200,6 @@ def stat_metric():
                     if(att in data.columns):
                         att2_dict={}
                         for att2 in data.columns:
-                            data[att].fillna(0)
-                            data[att2].fillna(0)
                             p=data[att]
                             q=data[att2]
                             kl_val=np.sum(np.where(p != 0, p * np.log(p / q), 0))
