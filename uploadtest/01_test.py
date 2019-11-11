@@ -68,10 +68,10 @@ def hello_world2():
         if(req.get("myrequest")=='data'):
             datasets_with_Attributes={}
             count=0;
-            max=150;
+            max=req.get("size");
             for filename in glob.glob('./upload/*.csv'):
-                count=count+1;
                 if(count<max):
+                    count=count+1;
                     df = pd.read_csv(filename);
                     fname=re.sub(r'.csv', '',filename[9:])
                     datasets_with_Attributes[fname]=df.columns.tolist()
