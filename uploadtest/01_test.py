@@ -65,16 +65,36 @@ def hello_world3():
 def hello_world2():
     if(request.is_json):
         req=request.get_json();
+        datasets=req.get("datasets");
+        print("datasets are: ",req.get("all"), file=sys.stderr)
         if(req.get("myrequest")=='data'):
             datasets_with_Attributes={}
             count=0;
             max=req.get("size");
-            for filename in glob.glob('./upload/*.csv'):
-                if(count<max):
-                    count=count+1;
-                    df = pd.read_csv(filename);
-                    fname=re.sub(r'.csv', '',filename[9:])
-                    datasets_with_Attributes[fname]=df.columns.tolist()
+            if(max==20):
+                mypath='./uploaded/*.csv'
+            else:
+                mypath='./upload/*.csv'
+            for filename in glob.glob(mypath):
+                if(max!=20 and req.get("all")=="false" ):
+                    if(filename[9:] in datasets):
+                        if(count<150):
+                            count=count+1;
+                            df = pd.read_csv(filename);
+                            fname=re.sub(r'.csv', '',filename[9:])
+                            datasets_with_Attributes[fname]=df.columns.tolist()
+                elif(max==20):
+                    if(count<150):
+                        count=count+1;
+                        df = pd.read_csv(filename);
+                        fname=re.sub(r'.csv', '',filename[11:])
+                        datasets_with_Attributes[fname]=df.columns.tolist()
+                elif(req.get("all")=="true"):
+                    if(count<150):
+                        count=count+1;
+                        df = pd.read_csv(filename);
+                        fname=re.sub(r'.csv', '',filename[9:])
+                        datasets_with_Attributes[fname]=df.columns.tolist()
             unionA={}
             for key in datasets_with_Attributes:
                 for val in datasets_with_Attributes[key]:
@@ -84,11 +104,11 @@ def hello_world2():
                         unionA[val]=unionA[val]+1;
             sorted_Atrributes = sorted(unionA, key=unionA.get, reverse=True)
             only_shared_attributes=[];
-            count=0
+            count2=0
             for key in sorted_Atrributes:
                 if(unionA[key]>1):
-                    count=count+1;
-                    only_shared_attributes.insert(count,key)
+                    count2=count2+1;
+                    only_shared_attributes.insert(count2,key)
             # create the data for json reply
             mydata={"unionA":unionA,"datasets_with_Attributes":datasets_with_Attributes,"sorted_Atrributes":sorted_Atrributes,"only_shared_attributes":only_shared_attributes}
             #print("json is: ",mydata, file=sys.stderr)
@@ -98,12 +118,12 @@ def hello_world2():
             data=pd.read_csv(file)
             dict1={}
             dict2=[]
-            count=0;
+            count3=0;
             dict1["number_of_rows"]=data.shape[0];
             dict1["number_of_columns"]=data.shape[1];
             for columns in data.columns:
-                count=count+1
-                dict2.insert(count,columns);
+                count3=count3+1
+                dict2.insert(count3,columns);
             dict1["attributes"]=dict2
             return make_response(jsonify(dict1), 200)
     else:
