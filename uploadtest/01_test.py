@@ -60,7 +60,7 @@ def hello_world3():
         for i in result:
             print("Result is: ",i, file=sys.stderr)
         return make_response(jsonify(result), 200)
-#------------------------------------------------- Processing other request
+#------------------------------------------------- Processing first request
 @app.route('/json',methods=['POST','GET'])
 def hello_world2():
     if(request.is_json):
@@ -128,15 +128,36 @@ def hello_world2():
             return make_response(jsonify(dict1), 200)
     else:
         return make_response(jsonify({"message": "Else"}), 200)
-
-
-
-#------------------------------------------------- Processing stat request
+#------------------------------------------------- Processing first bar request
+@app.route('/first_bar',methods=['POST','GET'])
+def first_bar():
+    if(request.is_json):
+        req=request.get_json();
+        if(req.get("type")=="uploaded"):
+            mypath='./uploaded/*.csv'
+        else:
+            mypath='./upload/*.csv'
+        dict1={}
+        for filename in glob.glob(mypath):
+            df = pd.read_csv(filename);
+            fname=re.sub(r'.csv', '',filename[9:])
+            for col in df.columns:
+                if col not in dict1:
+                    dict1[col]=1
+                else:
+                    dict1[col]=dict1[col]+1
+        sorted_dict = sorted(dict1.items(), key=lambda x:x[1], reverse=True)
+        dict3={}
+        for a, b in sorted_dict: 
+            dict3[a]=b
+        dict4={"attributes":list(dict3.keys()),"frequency":list(dict3.values())}
+        return make_response(jsonify(dict4), 200)
+#--------------------------------------------------------------------- Processing stat request
 @app.route('/statmetrics',methods=['POST','GET'])
 def stat_metric():
     if(request.is_json):
         req=request.get_json();
-# ---------------------------------------------------------------------------------------Prob distribution
+# ------------------------------------------------------------Prob distribution
         if(req.get("req_for")=='prob_dist'):
             given=req.get("given")
             dict={}
@@ -158,7 +179,7 @@ def stat_metric():
                         dict3[col]=dict2
                 dict[dataset]=dict3
             return make_response(jsonify({"prob_data":dict}), 200)
-# ---------------------------------------------------------------------------------------Mutual_info
+# ------------------------------------------------------------Mutual_info
         elif(req.get("req_for")=='mutual_info'):
             given=req.get("given")
             mydict1={}
