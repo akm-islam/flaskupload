@@ -105,12 +105,20 @@ def hello_world2():
             sorted_Atrributes = sorted(unionA, key=unionA.get, reverse=True)
             only_shared_attributes=[];
             count2=0
+            first_bar_Arr=[]
+            first_bar_values=[]
             for key in sorted_Atrributes:
-                if(unionA[key]>1):
+                # change here to set the number of times attributes occurs
+                if(unionA[key]>2):
                     count2=count2+1;
+                    #print("UnionA is ",key,unionA[key], file=sys.stderr)
+                    #first_bar_dict[key]=unionA[key]
+                    first_bar_values.insert(count2,unionA[key])
                     only_shared_attributes.insert(count2,key)
             # create the data for json reply
-            mydata={"unionA":unionA,"datasets_with_Attributes":datasets_with_Attributes,"sorted_Atrributes":sorted_Atrributes,"only_shared_attributes":only_shared_attributes}
+            first_bar_Arr.insert(0,only_shared_attributes)
+            first_bar_Arr.insert(1,first_bar_values)
+            mydata={"first_bar_Arr":first_bar_Arr,"unionA":unionA,"datasets_with_Attributes":datasets_with_Attributes,"sorted_Atrributes":sorted_Atrributes,"only_shared_attributes":only_shared_attributes}
             #print("json is: ",mydata, file=sys.stderr)
             return make_response(jsonify(mydata), 200)
         elif(req.get("filename")!=''):
@@ -174,7 +182,7 @@ def stat_metric():
                         dict2={} 
                         uniq=data[col].unique()
                         for i in uniq:
-                            dict2[str(i)]=data.loc[data[col]==i].shape[0]/total
+                            dict2[str(i)]=data.loc[data[col]==i].shape[0]
                             #print(i,data.loc[data[col]==i].shape[0]/total)
                         dict3[col]=dict2
                 dict[dataset]=dict3
@@ -285,7 +293,7 @@ def stat_metric2():
                         dict2={} 
                         uniq=data[col].unique()
                         for i in uniq:
-                            dict2[str(i)]=data.loc[data[col]==i].shape[0]/total
+                            dict2[str(i)]=data.loc[data[col]==i].shape[0]
                             #print(i,data.loc[data[col]==i].shape[0]/total)
                         dict3[col]=dict2
                 dict[dataset]=dict3
