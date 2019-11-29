@@ -1,0 +1,111 @@
+,hospital_name,hcahps_question,hcahps_answer_description,hcahps_answer_percent
+0,BELLEVUE HOSPITAL CENTER,How often were the patients rooms and bathrooms kept clean?,"Room was ""always"" clean",56
+1,CONEY ISLAND HOSPITAL,How often were the patients rooms and bathrooms kept clean?,"Room was ""always"" clean",64
+2,ELMHURST HOSPITAL CENTER,How often were the patients rooms and bathrooms kept clean?,"Room was ""always"" clean",57
+3,HARLEM HOSPITAL CENTER,How often were the patients rooms and bathrooms kept clean?,"Room was ""always"" clean",61
+4,JACOBI MEDICAL CENTER,How often were the patients rooms and bathrooms kept clean?,"Room was ""always"" clean",63
+5,KINGS COUNTY HOSPITAL CENTER,How often were the patients rooms and bathrooms kept clean?,"Room was ""always"" clean",73
+6,LINCOLN MEDICAL & MENTAL HEALTH CENTER,How often were the patients rooms and bathrooms kept clean?,"Room was ""always"" clean",65
+7,METROPOLITAN HOSPITAL CENTER,How often were the patients rooms and bathrooms kept clean?,"Room was ""always"" clean",63
+8,NORTH CENTRAL BRONX HOSPITAL,How often were the patients rooms and bathrooms kept clean?,"Room was ""always"" clean",62
+9,QUEENS HOSPITAL CENTER,How often were the patients rooms and bathrooms kept clean?,"Room was ""always"" clean",68
+10,WOODHULL MEDICAL AND MENTAL HEALTH CENTER,How often were the patients rooms and bathrooms kept clean?,"Room was ""always"" clean",65
+11,BELLEVUE HOSPITAL CENTER,How often did nurses communicate well with patients?,"Nurses ""always"" communicated well",63
+12,CONEY ISLAND HOSPITAL,How often did nurses communicate well with patients?,"Nurses ""always"" communicated well",68
+13,ELMHURST HOSPITAL CENTER,How often did nurses communicate well with patients?,"Nurses ""always"" communicated well",57
+14,HARLEM HOSPITAL CENTER,How often did nurses communicate well with patients?,"Nurses ""always"" communicated well",64
+15,JACOBI MEDICAL CENTER,How often did nurses communicate well with patients?,"Nurses ""always"" communicated well",63
+16,KINGS COUNTY HOSPITAL CENTER,How often did nurses communicate well with patients?,"Nurses ""always"" communicated well",67
+17,LINCOLN MEDICAL & MENTAL HEALTH CENTER,How often did nurses communicate well with patients?,"Nurses ""always"" communicated well",66
+18,METROPOLITAN HOSPITAL CENTER,How often did nurses communicate well with patients?,"Nurses ""always"" communicated well",62
+19,NORTH CENTRAL BRONX HOSPITAL,How often did nurses communicate well with patients?,"Nurses ""always"" communicated well",67
+20,QUEENS HOSPITAL CENTER,How often did nurses communicate well with patients?,"Nurses ""always"" communicated well",63
+21,WOODHULL MEDICAL AND MENTAL HEALTH CENTER,How often did nurses communicate well with patients?,"Nurses ""always"" communicated well",68
+22,BELLEVUE HOSPITAL CENTER,How often did doctors communicate well with patients?,"Doctors ""always"" communicated well",77
+23,CONEY ISLAND HOSPITAL,How often did doctors communicate well with patients?,"Doctors ""always"" communicated well",74
+24,ELMHURST HOSPITAL CENTER,How often did doctors communicate well with patients?,"Doctors ""always"" communicated well",74
+25,HARLEM HOSPITAL CENTER,How often did doctors communicate well with patients?,"Doctors ""always"" communicated well",78
+26,JACOBI MEDICAL CENTER,How often did doctors communicate well with patients?,"Doctors ""always"" communicated well",75
+27,KINGS COUNTY HOSPITAL CENTER,How often did doctors communicate well with patients?,"Doctors ""always"" communicated well",76
+28,LINCOLN MEDICAL & MENTAL HEALTH CENTER,How often did doctors communicate well with patients?,"Doctors ""always"" communicated well",79
+29,METROPOLITAN HOSPITAL CENTER,How often did doctors communicate well with patients?,"Doctors ""always"" communicated well",78
+30,NORTH CENTRAL BRONX HOSPITAL,How often did doctors communicate well with patients?,"Doctors ""always"" communicated well",79
+31,QUEENS HOSPITAL CENTER,How often did doctors communicate well with patients?,"Doctors ""always"" communicated well",79
+32,WOODHULL MEDICAL AND MENTAL HEALTH CENTER,How often did doctors communicate well with patients?,"Doctors ""always"" communicated well",75
+33,BELLEVUE HOSPITAL CENTER,How often did patients receive help quickly from hospital staff?,"Patients ""always"" received help as soon as they wanted",49
+34,CONEY ISLAND HOSPITAL,How often did patients receive help quickly from hospital staff?,"Patients ""always"" received help as soon as they wanted",57
+35,ELMHURST HOSPITAL CENTER,How often did patients receive help quickly from hospital staff?,"Patients ""always"" received help as soon as they wanted",44
+36,HARLEM HOSPITAL CENTER,How often did patients receive help quickly from hospital staff?,"Patients ""always"" received help as soon as they wanted",48
+37,JACOBI MEDICAL CENTER,How often did patients receive help quickly from hospital staff?,"Patients ""always"" received help as soon as they wanted",47
+38,KINGS COUNTY HOSPITAL CENTER,How often did patients receive help quickly from hospital staff?,"Patients ""always"" received help as soon as they wanted",45
+39,LINCOLN MEDICAL & MENTAL HEALTH CENTER,How often did patients receive help quickly from hospital staff?,"Patients ""always"" received help as soon as they wanted",52
+40,METROPOLITAN HOSPITAL CENTER,How often did patients receive help quickly from hospital staff?,"Patients ""always"" received help as soon as they wanted",49
+41,NORTH CENTRAL BRONX HOSPITAL,How often did patients receive help quickly from hospital staff?,"Patients ""always"" received help as soon as they wanted",49
+42,QUEENS HOSPITAL CENTER,How often did patients receive help quickly from hospital staff?,"Patients ""always"" received help as soon as they wanted",56
+43,WOODHULL MEDICAL AND MENTAL HEALTH CENTER,How often did patients receive help quickly from hospital staff?,"Patients ""always"" received help as soon as they wanted",48
+44,BELLEVUE HOSPITAL CENTER,How often was patients pain well controlled?,"Pain was ""always"" well controlled",55
+45,CONEY ISLAND HOSPITAL,How often was patients pain well controlled?,"Pain was ""always"" well controlled",64
+46,ELMHURST HOSPITAL CENTER,How often was patients pain well controlled?,"Pain was ""always"" well controlled",59
+47,HARLEM HOSPITAL CENTER,How often was patients pain well controlled?,"Pain was ""always"" well controlled",57
+48,JACOBI MEDICAL CENTER,How often was patients pain well controlled?,"Pain was ""always"" well controlled",53
+49,KINGS COUNTY HOSPITAL CENTER,How often was patients pain well controlled?,"Pain was ""always"" well controlled",56
+50,LINCOLN MEDICAL & MENTAL HEALTH CENTER,How often was patients pain well controlled?,"Pain was ""always"" well controlled",57
+51,METROPOLITAN HOSPITAL CENTER,How often was patients pain well controlled?,"Pain was ""always"" well controlled",55
+52,NORTH CENTRAL BRONX HOSPITAL,How often was patients pain well controlled?,"Pain was ""always"" well controlled",60
+53,QUEENS HOSPITAL CENTER,How often was patients pain well controlled?,"Pain was ""always"" well controlled",60
+54,WOODHULL MEDICAL AND MENTAL HEALTH CENTER,How often was patients pain well controlled?,"Pain was ""always"" well controlled",58
+55,BELLEVUE HOSPITAL CENTER,How often did staff explain about medicines before giving them to patients?,"Staff ""always"" explained",54
+56,CONEY ISLAND HOSPITAL,How often did staff explain about medicines before giving them to patients?,"Staff ""always"" explained",52
+57,ELMHURST HOSPITAL CENTER,How often did staff explain about medicines before giving them to patients?,"Staff ""always"" explained",45
+58,HARLEM HOSPITAL CENTER,How often did staff explain about medicines before giving them to patients?,"Staff ""always"" explained",51
+59,JACOBI MEDICAL CENTER,How often did staff explain about medicines before giving them to patients?,"Staff ""always"" explained",51
+60,KINGS COUNTY HOSPITAL CENTER,How often did staff explain about medicines before giving them to patients?,"Staff ""always"" explained",59
+61,LINCOLN MEDICAL & MENTAL HEALTH CENTER,How often did staff explain about medicines before giving them to patients?,"Staff ""always"" explained",53
+62,METROPOLITAN HOSPITAL CENTER,How often did staff explain about medicines before giving them to patients?,"Staff ""always"" explained",57
+63,NORTH CENTRAL BRONX HOSPITAL,How often did staff explain about medicines before giving them to patients?,"Staff ""always"" explained",53
+64,QUEENS HOSPITAL CENTER,How often did staff explain about medicines before giving them to patients?,"Staff ""always"" explained",61
+65,WOODHULL MEDICAL AND MENTAL HEALTH CENTER,How often did staff explain about medicines before giving them to patients?,"Staff ""always"" explained",55
+66,WOODHULL MEDICAL AND MENTAL HEALTH CENTER,How often was the area around patients rooms kept quiet at night?,Always quiet at night,50
+67,BELLEVUE HOSPITAL CENTER,Were patients given information about what to do during their recovery at home?,"Yes, staff ""did"" give patients this information",80
+68,CONEY ISLAND HOSPITAL,Were patients given information about what to do during their recovery at home?,"Yes, staff ""did"" give patients this information",79
+69,ELMHURST HOSPITAL CENTER,Were patients given information about what to do during their recovery at home?,"Yes, staff ""did"" give patients this information",80
+70,HARLEM HOSPITAL CENTER,Were patients given information about what to do during their recovery at home?,"Yes, staff ""did"" give patients this information",77
+71,JACOBI MEDICAL CENTER,Were patients given information about what to do during their recovery at home?,"Yes, staff ""did"" give patients this information",76
+72,KINGS COUNTY HOSPITAL CENTER,Were patients given information about what to do during their recovery at home?,"Yes, staff ""did"" give patients this information",79
+73,LINCOLN MEDICAL & MENTAL HEALTH CENTER,Were patients given information about what to do during their recovery at home?,"Yes, staff ""did"" give patients this information",75
+74,METROPOLITAN HOSPITAL CENTER,Were patients given information about what to do during their recovery at home?,"Yes, staff ""did"" give patients this information",82
+75,NORTH CENTRAL BRONX HOSPITAL,Were patients given information about what to do during their recovery at home?,"Yes, staff ""did"" give patients this information",75
+76,QUEENS HOSPITAL CENTER,Were patients given information about what to do during their recovery at home?,"Yes, staff ""did"" give patients this information",80
+77,WOODHULL MEDICAL AND MENTAL HEALTH CENTER,Were patients given information about what to do during their recovery at home?,"Yes, staff ""did"" give patients this information",81
+78,BELLEVUE HOSPITAL CENTER,How do patients rate the hospital overall?,"Patients who gave a rating of ""9"" or ""10"" (high)",56
+79,CONEY ISLAND HOSPITAL,How do patients rate the hospital overall?,"Patients who gave a rating of ""9"" or ""10"" (high)",56
+80,ELMHURST HOSPITAL CENTER,How do patients rate the hospital overall?,"Patients who gave a rating of ""9"" or ""10"" (high)",52
+81,HARLEM HOSPITAL CENTER,How do patients rate the hospital overall?,"Patients who gave a rating of ""9"" or ""10"" (high)",42
+82,JACOBI MEDICAL CENTER,How do patients rate the hospital overall?,"Patients who gave a rating of ""9"" or ""10"" (high)",50
+83,KINGS COUNTY HOSPITAL CENTER,How do patients rate the hospital overall?,"Patients who gave a rating of ""9"" or ""10"" (high)",59
+84,LINCOLN MEDICAL & MENTAL HEALTH CENTER,How do patients rate the hospital overall?,"Patients who gave a rating of ""9"" or ""10"" (high)",51
+85,METROPOLITAN HOSPITAL CENTER,How do patients rate the hospital overall?,"Patients who gave a rating of ""9"" or ""10"" (high)",58
+86,NORTH CENTRAL BRONX HOSPITAL,How do patients rate the hospital overall?,"Patients who gave a rating of ""9"" or ""10"" (high)",58
+87,QUEENS HOSPITAL CENTER,How do patients rate the hospital overall?,"Patients who gave a rating of ""9"" or ""10"" (high)",58
+88,WOODHULL MEDICAL AND MENTAL HEALTH CENTER,How do patients rate the hospital overall?,"Patients who gave a rating of ""9"" or ""10"" (high)",54
+89,BELLEVUE HOSPITAL CENTER,How often was the area around patients rooms kept quiet at night?,Always quiet at night,41
+90,CONEY ISLAND HOSPITAL,How often was the area around patients rooms kept quiet at night?,Always quiet at night,51
+91,ELMHURST HOSPITAL CENTER,How often was the area around patients rooms kept quiet at night?,Always quiet at night,35
+92,HARLEM HOSPITAL CENTER,How often was the area around patients rooms kept quiet at night?,Always quiet at night,56
+93,JACOBI MEDICAL CENTER,How often was the area around patients rooms kept quiet at night?,Always quiet at night,49
+94,KINGS COUNTY HOSPITAL CENTER,How often was the area around patients rooms kept quiet at night?,Always quiet at night,56
+95,LINCOLN MEDICAL & MENTAL HEALTH CENTER,How often was the area around patients rooms kept quiet at night?,Always quiet at night,53
+96,METROPOLITAN HOSPITAL CENTER,How often was the area around patients rooms kept quiet at night?,Always quiet at night,50
+97,NORTH CENTRAL BRONX HOSPITAL,How often was the area around patients rooms kept quiet at night?,Always quiet at night,53
+98,QUEENS HOSPITAL CENTER,How often was the area around patients rooms kept quiet at night?,Always quiet at night,52
+99,BELLEVUE HOSPITAL CENTER,Would patients recommend the hospital to friends and family?,"""YES"", patients would definitely recommend the hospital",63
+100,CONEY ISLAND HOSPITAL,Would patients recommend the hospital to friends and family?,"""YES"", patients would definitely recommend the hospital",54
+101,ELMHURST HOSPITAL CENTER,Would patients recommend the hospital to friends and family?,"""YES"", patients would definitely recommend the hospital",58
+102,HARLEM HOSPITAL CENTER,Would patients recommend the hospital to friends and family?,"""YES"", patients would definitely recommend the hospital",50
+103,JACOBI MEDICAL CENTER,Would patients recommend the hospital to friends and family?,"""YES"", patients would definitely recommend the hospital",58
+104,KINGS COUNTY HOSPITAL CENTER,Would patients recommend the hospital to friends and family?,"""YES"", patients would definitely recommend the hospital",64
+105,LINCOLN MEDICAL & MENTAL HEALTH CENTER,Would patients recommend the hospital to friends and family?,"""YES"", patients would definitely recommend the hospital",57
+106,METROPOLITAN HOSPITAL CENTER,Would patients recommend the hospital to friends and family?,"""YES"", patients would definitely recommend the hospital",56
+107,NORTH CENTRAL BRONX HOSPITAL,Would patients recommend the hospital to friends and family?,"""YES"", patients would definitely recommend the hospital",61
+108,QUEENS HOSPITAL CENTER,Would patients recommend the hospital to friends and family?,"""YES"", patients would definitely recommend the hospital",71
+109,WOODHULL MEDICAL AND MENTAL HEALTH CENTER,Would patients recommend the hospital to friends and family?,"""YES"", patients would definitely recommend the hospital",59

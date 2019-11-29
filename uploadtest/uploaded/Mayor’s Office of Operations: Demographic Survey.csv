@@ -1,0 +1,1001 @@
+,id,survey_number,survey_instance_id,survey_status,survey_language,dt_submitted,question,answer,answer_is_optional,data_source,create_dt
+0,86483,55,90002903,Complete,English,2019-01-23T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-01-23T00:00:00.000
+1,128139,50003666,3472,Complete,English,2019-02-22T00:00:00.000,Are you intersex?,No,False,OnLine,2019-03-08T00:00:00.000
+2,25111,29,90000338,Complete,English,,Do you want to answer the questions?,Yes,False,Paper,2018-12-18T00:00:00.000
+3,93101,50003666,2401,Complete,English,2019-01-21T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-02-07T00:00:00.000
+4,85443,52,90002821,Complete,Spanish,2018-12-18T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+5,120237,50003666,3024,Complete,English,2019-02-07T00:00:00.000,What other languages do you speak?,English,False,OnLine,2019-02-19T00:00:00.000
+6,23872,24,90000239,Complete,English,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+7,118957,64,90005023,Complete,Spanish,2018-12-13T00:00:00.000,What other languages do you speak?,Spanish,False,Paper,2019-02-07T00:00:00.000
+8,88407,54,90003054,Complete,English,2019-01-23T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-01-23T00:00:00.000
+9,78066,51,90002258,Complete,Spanish,2018-11-14T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-01-23T00:00:00.000
+10,66783,50003666,1951,Complete,English,2018-11-20T00:00:00.000,What NYC agency did you apply for services with today?,DOE - Department of Education,False,OnLine,2019-01-11T00:00:00.000
+11,106792,59,90004075,Complete,English,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+12,30873,33,90000792,Complete,English,,What other languages do you speak?,None,False,Paper,2018-12-18T00:00:00.000
+13,216661,50003666,8764,Complete,English,2019-08-08T00:00:00.000,What ancestries or heritages do you identify with?,Hispanic or Latino not listed Write-in: Spaniard,True,OnLine,2019-09-10T00:00:00.000
+14,223751,108,90011082,Complete,Spanish,2019-09-10T00:00:00.000,What service did you apply for?,Temporary emergency shelter,False,Paper,2019-09-10T00:00:00.000
+15,83009,55,90002639,Complete,English,2019-01-23T00:00:00.000,What other languages do you speak?,French,False,Paper,2019-01-23T00:00:00.000
+16,123922,73,90005397,Complete,Spanish,2019-02-19T00:00:00.000,How well do you speak English?,Not well,False,Paper,2019-02-19T00:00:00.000
+17,121340,73,90005165,Complete,Spanish,2019-01-24T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-19T00:00:00.000
+18,117035,64,90004872,Complete,English,2018-11-09T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+19,112038,64,90004488,Complete,English,2018-10-24T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-07T00:00:00.000
+20,72285,50003666,2333,Complete,English,2018-12-11T00:00:00.000,What other languages do you speak?,Spanish,False,OnLine,2019-01-11T00:00:00.000
+21,110510,63,90004367,Complete,English,2019-01-08T00:00:00.000,Has anyone in your household served Write in:,none,True,Paper,2019-02-07T00:00:00.000
+22,108245,61,90004187,Complete,English,2019-02-07T00:00:00.000,What ancestries or heritages do you identify with?,Native American,False,Paper,2019-02-07T00:00:00.000
+23,21608,21,90000059,Complete,English,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+24,72923,51,90001857,Complete,English,2019-01-23T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+25,85465,54,90002823,Complete,English,2019-01-23T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-01-23T00:00:00.000
+26,79689,53,90002387,Complete,English,2019-01-23T00:00:00.000,What other languages do you speak?,French,False,Paper,2019-01-23T00:00:00.000
+27,70394,50003666,2200,Complete,English,2018-11-29T00:00:00.000,What sex were you given at birth?,Male,False,OnLine,2019-01-11T00:00:00.000
+28,217010,50003666,8816,Complete,English,2019-08-10T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-09-10T00:00:00.000
+29,23456,26,90000205,Complete,English,,What other languages do you speak?,Italian,False,Paper,2018-12-18T00:00:00.000
+30,66376,50003666,1920,Complete,English,2018-11-13T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-01-11T00:00:00.000
+31,41348,24,90001626,Complete,English,,What ancestries or heritages do you identify with?,American,False,Paper,2018-12-18T00:00:00.000
+32,61438,50003666,1566,Complete,English,2018-10-14T00:00:00.000,What other languages do you speak?,Chinese Cantonese,False,OnLine,2019-01-11T00:00:00.000
+33,114981,62,90004716,Complete,English,2019-02-07T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-02-07T00:00:00.000
+34,127709,50003666,3398,Complete,English,2019-02-20T00:00:00.000,Are you intersex?,No,False,OnLine,2019-03-08T00:00:00.000
+35,38709,27,90001422,Complete,Chinese,,What service did you apply for?,Preventive Services,False,Paper,2018-12-18T00:00:00.000
+36,89457,52,90003132,Complete,Russian,2019-01-23T00:00:00.000,What other languages do you speak?,Russian,False,Paper,2019-01-23T00:00:00.000
+37,27238,34,90000504,Complete,English,,Do you want to answer the questions?,Yes,False,Paper,2018-12-18T00:00:00.000
+38,133920,50003666,4262,Complete,Spanish,2019-03-21T00:00:00.000,Has anyone in your household served Write in:,Other - Write-in: Sobrino,True,OnLine,2019-03-22T00:00:00.000
+39,116966,64,90004867,Complete,Chinese,2019-02-07T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+40,110163,63,90004340,Complete,English,2018-12-14T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-02-07T00:00:00.000
+41,36686,34,90001263,Complete,English,,What ancestries or heritages do you identify with?,Chinese,False,Paper,2018-12-18T00:00:00.000
+42,120934,50003666,3117,Complete,English,2019-02-11T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-02-19T00:00:00.000
+43,78339,54,90002279,Complete,Spanish,2018-12-17T00:00:00.000,What ancestries or heritages do you identify with?,Puerto Rican,False,Paper,2019-01-23T00:00:00.000
+44,66842,50003666,1955,Complete,English,2018-11-20T00:00:00.000,What ancestries or heritages do you identify with?,Italian,False,OnLine,2019-01-11T00:00:00.000
+45,25219,19,90000348,Complete,Chinese,,What ancestries or heritages do you identify with?,Ecuadorian,False,Paper,2018-12-18T00:00:00.000
+46,89232,50,90003115,Complete,English,2018-11-13T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+47,127079,76,90005683,Complete,English,2019-02-19T00:00:00.000,What ancestries or heritages do you identify with?,African American,False,Paper,2019-02-19T00:00:00.000
+48,128699,50003666,3550,Complete,English,2019-02-25T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-03-08T00:00:00.000
+49,73757,50,90001922,Complete,English,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,Asian Pacific Islander,False,Paper,2019-01-23T00:00:00.000
+50,26294,21,90000433,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+51,128783,50003666,3558,Complete,Spanish,2019-02-26T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-03-08T00:00:00.000
+52,67618,50003666,2005,Complete,English,2018-11-20T00:00:00.000,What races or ethnicities do you identify with?,White,False,OnLine,2019-01-11T00:00:00.000
+53,71527,50003666,2280,Complete,English,2018-12-11T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-01-11T00:00:00.000
+54,90457,55,90003207,Complete,Spanish,2018-12-12T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-01-23T00:00:00.000
+55,88385,53,90003053,Complete,English,2018-11-01T00:00:00.000,How would you describe your gender?,Male,False,Paper,2019-01-23T00:00:00.000
+56,6746,16,3,Complete,English,2018-09-28T00:00:00.000,What sex were you given at birth?,Male,False,Paper,2018-11-15T00:00:00.000
+57,129772,50003666,3692,Complete,English,2019-03-02T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-03-08T00:00:00.000
+58,102105,59,90003711,Complete,English,2018-10-17T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-02-07T00:00:00.000
+59,65821,50003666,1879,Complete,English,2018-11-08T00:00:00.000,What NYC agency did you apply for services with today?,DOHMH - Department of Health and Mental Hygiene,False,OnLine,2019-01-11T00:00:00.000
+60,121383,50003666,3192,Complete,English,2019-02-12T00:00:00.000,Has anyone in your household served Write in:,English,False,OnLine,2019-02-19T00:00:00.000
+61,127934,50003666,3432,Complete,Spanish,2019-02-20T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-03-08T00:00:00.000
+62,68577,50003666,2073,Complete,English,2018-11-20T00:00:00.000,What NYC agency did you apply for services with today?,DOE - Department of Education,False,OnLine,2019-01-11T00:00:00.000
+63,60848,50003666,1526,Complete,English,2018-10-13T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-01-11T00:00:00.000
+64,7133,16,45,Complete,English,,What is the language you speak most at home?,English,False,Paper,2018-11-15T00:00:00.000
+65,63322,50003666,1698,Complete,English,2018-10-19T00:00:00.000,How well do you speak English?,Well,False,OnLine,2019-01-11T00:00:00.000
+66,67543,50003666,2000,Complete,English,2018-11-20T00:00:00.000,What ancestries or heritages do you identify with?,Unknown/unsure,False,OnLine,2019-01-11T00:00:00.000
+67,78820,50,90002319,Complete,English,2005-06-22T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-01-23T00:00:00.000
+68,93436,50003666,2438,Complete,English,2019-01-22T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,OnLine,2019-02-07T00:00:00.000
+69,223483,108,90011057,Complete,English,2019-07-24T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-09-10T00:00:00.000
+70,65738,50003666,1872,Complete,English,2018-11-08T00:00:00.000,How would you describe your gender?,Female,False,OnLine,2019-01-11T00:00:00.000
+71,113925,62,90004635,Complete,English,2019-02-07T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-02-07T00:00:00.000
+72,227361,105,90011375,Complete,English,2019-09-10T00:00:00.000,What ancestries or heritages do you identify with?,American,False,Paper,2019-09-10T00:00:00.000
+73,39232,19,90001462,Complete,English,,How well do you speak English?,Not well,False,Paper,2018-12-18T00:00:00.000
+74,61900,50003666,1598,Complete,English,2018-10-16T00:00:00.000,What ancestries or heritages do you identify with?,American,False,OnLine,2019-01-11T00:00:00.000
+75,35541,21,90001169,Complete,English,,How would you describe your gender?,Male,False,Paper,2018-12-18T00:00:00.000
+76,89347,54,90003123,Complete,Russian,2018-10-22T00:00:00.000,What other languages do you speak?,Russian,False,Paper,2019-01-23T00:00:00.000
+77,65085,50003666,1826,Complete,English,2018-11-01T00:00:00.000,What other languages do you speak?,Spanish,False,OnLine,2019-01-11T00:00:00.000
+78,120870,76,90005122,Complete,Spanish,2019-01-22T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-02-19T00:00:00.000
+79,227668,106,90011399,Complete,English,2019-07-29T00:00:00.000,What NYC agency did you apply for services with today?,DFTA - Department for The Aging,False,Paper,2019-09-10T00:00:00.000
+80,31088,17,90000809,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+81,217497,106,90010548,Complete,English,2019-09-10T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-09-10T00:00:00.000
+82,24470,25,90000290,Complete,Chinese,,What ancestries or heritages do you identify with?,Italian,False,Paper,2018-12-18T00:00:00.000
+83,227802,107,90011412,Complete,English,2019-09-10T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-09-10T00:00:00.000
+84,80004,55,90002411,Complete,Spanish,2018-12-04T00:00:00.000,How would you describe your gender?,Male,False,Paper,2019-01-23T00:00:00.000
+85,78304,53,90002277,Complete,English,2002-02-08T00:00:00.000,What races or ethnicities do you identify with?,None,False,Paper,2019-01-23T00:00:00.000
+86,61827,50003666,1592,Complete,English,2018-10-16T00:00:00.000,What service did you apply for?,Public school,False,OnLine,2019-01-11T00:00:00.000
+87,220345,50003666,9296,Complete,English,2019-08-27T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-09-10T00:00:00.000
+88,126849,73,90005661,Complete,Spanish,2019-01-24T00:00:00.000,What other languages do you speak?,Spanish,False,Paper,2019-02-19T00:00:00.000
+89,227709,107,90011404,Complete,English,2019-08-19T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-09-10T00:00:00.000
+90,233970,50003666,10539,Complete,English,2019-10-05T00:00:00.000,What sex were you given at birth?,Male,False,OnLine,2019-10-08T00:00:00.000
+91,106486,63,90004050,Complete,English,2019-01-10T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-02-07T00:00:00.000
+92,68339,50003666,2057,Complete,English,2018-11-20T00:00:00.000,What service did you apply for?,Public school,False,OnLine,2019-01-11T00:00:00.000
+93,70869,50003666,2234,Complete,English,2018-12-11T00:00:00.000,What service did you apply for?,Public school,False,OnLine,2019-01-11T00:00:00.000
+94,43773,22,90001816,Complete,English,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+95,121459,50003666,3206,Complete,English,2019-02-13T00:00:00.000,Has anyone in your household served Write in:,English,False,OnLine,2019-02-19T00:00:00.000
+96,71851,50003666,2303,Complete,English,2018-12-11T00:00:00.000,What service did you apply for?,Public school,False,OnLine,2019-01-11T00:00:00.000
+97,98702,63,90003444,Complete,Spanish,2018-12-10T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-02-07T00:00:00.000
+98,218687,50003666,9078,Complete,English,2019-08-19T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-09-10T00:00:00.000
+99,104047,61,90003867,Complete,English,1950-06-01T00:00:00.000,What service did you apply for?,Preventive Services,False,Paper,2019-02-07T00:00:00.000
+100,222271,50003666,9575,Complete,English,2019-09-05T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-09-10T00:00:00.000
+101,73927,54,90001934,Complete,Chinese,2019-01-23T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-01-23T00:00:00.000
+102,220277,107,90010785,Complete,English,2019-09-10T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-09-10T00:00:00.000
+103,124126,75,90005416,Complete,Chinese,2018-12-17T00:00:00.000,What other languages do you speak?,Chinese Mandarin,False,Paper,2019-02-19T00:00:00.000
+104,122251,76,90005245,Complete,Korean,0019-01-09T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-19T00:00:00.000
+105,78510,54,90002293,Complete,Russian,1945-08-01T00:00:00.000,What is the language you speak most at home?,Russian,False,Paper,2019-01-23T00:00:00.000
+106,133303,50003666,4168,Complete,English,2019-03-19T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-03-19T00:00:00.000
+107,99525,64,90003509,Complete,Chinese,2018-12-10T00:00:00.000,How would you describe your gender?,Male,False,Paper,2019-02-07T00:00:00.000
+108,221245,50003666,9428,Complete,English,2019-09-01T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-09-10T00:00:00.000
+109,111846,60,90004472,Complete,English,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+110,223328,108,90011043,Complete,English,2019-08-13T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-09-10T00:00:00.000
+111,72323,50003666,2335,Complete,English,2018-12-11T00:00:00.000,Has anyone in your household served Write in:,Other - Write-in: no one,True,OnLine,2019-01-11T00:00:00.000
+112,86266,50,90002887,Complete,English,2019-01-23T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-01-23T00:00:00.000
+113,77041,51,90002179,Complete,English,2018-11-05T00:00:00.000,How would you describe your gender?,Male,False,Paper,2019-01-23T00:00:00.000
+114,21222,26,90000026,Complete,English,,What ancestries or heritages do you identify with?,American,False,Paper,2018-12-18T00:00:00.000
+115,106577,61,90004059,Complete,English,2019-02-07T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-02-07T00:00:00.000
+116,220802,108,90010827,Complete,English,2019-07-01T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,Paper,2019-09-10T00:00:00.000
+117,24451,22,90000288,Complete,English,,Do you want to answer the questions?,Yes,False,Paper,2018-12-18T00:00:00.000
+118,79911,54,90002404,Complete,Spanish,2018-11-08T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-01-23T00:00:00.000
+119,82717,55,90002617,Complete,English,2019-01-23T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-01-23T00:00:00.000
+120,86072,50,90002872,Complete,English,2018-11-30T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+121,110296,63,90004350,Complete,Spanish,2019-02-07T00:00:00.000,How well do you speak English?,Not at all,False,Paper,2019-02-07T00:00:00.000
+122,110268,63,90004348,Complete,English,2019-02-07T00:00:00.000,What sex were you given at birth?,Male,False,Paper,2019-02-07T00:00:00.000
+123,230745,50003666,10087,Complete,English,2019-09-19T00:00:00.000,Has anyone in your household served Write in:,English,False,OnLine,2019-10-08T00:00:00.000
+124,111635,60,90004456,Complete,English,2019-02-07T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-02-07T00:00:00.000
+125,126655,76,90005647,Complete,Spanish,2004-01-03T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-02-19T00:00:00.000
+126,128957,50003666,3588,Complete,English,2019-02-26T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-03-08T00:00:00.000
+127,41933,33,90001672,Complete,Spanish,,What races or ethnicities do you identify with?,White,False,Paper,2018-12-18T00:00:00.000
+128,61833,50003666,1594,Complete,English,2018-10-16T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-01-11T00:00:00.000
+129,109484,61,90004285,Complete,English,2019-02-07T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-02-07T00:00:00.000
+130,104870,62,90003925,Complete,English,2002-12-18T00:00:00.000,What ancestries or heritages do you identify with?,Cuban,False,Paper,2019-02-07T00:00:00.000
+131,107481,60,90004128,Complete,English,2019-02-07T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+132,84183,54,90002728,Complete,Spanish,2019-01-23T00:00:00.000,Are you intersex?,Yes,False,Paper,2019-01-23T00:00:00.000
+133,82080,52,90002569,Complete,English,2019-01-23T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-01-23T00:00:00.000
+134,63968,50003666,1743,Complete,English,2018-10-22T00:00:00.000,How would you describe your gender?,Male,False,OnLine,2019-01-11T00:00:00.000
+135,84008,54,90002716,Complete,English,2018-10-04T00:00:00.000,What sex were you given at birth?,Male,False,Paper,2019-01-23T00:00:00.000
+136,68604,50003666,2075,Complete,English,2018-11-20T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-01-11T00:00:00.000
+137,73432,54,90001894,Complete,Chinese,2019-01-23T00:00:00.000,How well do you speak English?,Not well,False,Paper,2019-01-23T00:00:00.000
+138,128932,50003666,3583,Complete,English,2019-02-26T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-03-08T00:00:00.000
+139,85548,52,90002829,Complete,Spanish,2018-11-20T00:00:00.000,What races or ethnicities do you identify with?,Native Hawaiian or Other Pacific Islander,False,Paper,2019-01-23T00:00:00.000
+140,42986,29,90001754,Complete,English,,What is the language you speak most at home?,English,False,Paper,2018-12-18T00:00:00.000
+141,41674,34,90001650,Complete,Chinese,,What sex were you given at birth?,Female,False,Paper,2018-12-18T00:00:00.000
+142,38314,33,90001391,Complete,Chinese,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+143,133944,50003666,4266,Complete,English,2019-03-21T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-03-22T00:00:00.000
+144,216982,50003666,8808,Complete,English,2019-08-10T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-09-10T00:00:00.000
+145,24012,27,90000250,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+146,220136,108,90010773,Complete,English,2019-09-10T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-09-10T00:00:00.000
+147,102326,60,90003730,Complete,Spanish,2018-12-20T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-02-07T00:00:00.000
+148,98923,58,90003461,Complete,English,2019-02-07T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-02-07T00:00:00.000
+149,41484,26,90001636,Complete,English,,How would you describe your gender?,Female,False,Paper,2018-12-18T00:00:00.000
+150,70658,50003666,2220,Complete,English,2018-12-11T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-01-11T00:00:00.000
+151,221161,50003666,9416,Complete,English,2019-08-31T00:00:00.000,What races or ethnicities do you identify with?,Black / African American / African,False,OnLine,2019-09-10T00:00:00.000
+152,227490,108,90011386,Complete,English,2019-07-24T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-09-10T00:00:00.000
+153,88082,53,90003027,Complete,English,2019-01-23T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+154,30341,33,90000749,Complete,English,,What other languages do you speak?,French,False,Paper,2018-12-18T00:00:00.000
+155,67847,50003666,2023,Complete,English,2018-11-20T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-01-11T00:00:00.000
+156,64364,50003666,1773,Complete,English,2018-10-27T00:00:00.000,What other languages do you speak?,French,False,OnLine,2019-01-11T00:00:00.000
+157,219645,50003666,9205,Complete,English,2019-08-23T00:00:00.000,What other languages do you speak?,English,False,OnLine,2019-09-10T00:00:00.000
+158,121986,50003666,3281,Complete,English,2019-02-15T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-02-19T00:00:00.000
+159,85113,53,90002797,Complete,English,2019-01-23T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-01-23T00:00:00.000
+160,31670,21,90000857,Complete,English,,How would you describe your gender?,Female,False,Paper,2018-12-18T00:00:00.000
+161,25244,26,90000351,Complete,Russian,,What is the language you speak most at home?,English,False,Paper,2018-12-18T00:00:00.000
+162,77898,50,90002246,Complete,English,2018-11-27T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-01-23T00:00:00.000
+163,62251,50003666,1621,Complete,English,2018-10-18T00:00:00.000,What is the language you speak most at home?,English,False,OnLine,2019-01-11T00:00:00.000
+164,94256,50003666,2548,Complete,English,2019-01-25T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-02-07T00:00:00.000
+165,81219,51,90002500,Complete,Spanish,2018-12-06T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+166,91890,55,90003318,Complete,English,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,African American,False,Paper,2019-01-23T00:00:00.000
+167,73461,54,90001896,Complete,Chinese,2019-01-23T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-01-23T00:00:00.000
+168,89102,50,90003107,Complete,English,2018-11-14T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-01-23T00:00:00.000
+169,133679,50003666,4229,Complete,English,2019-03-20T00:00:00.000,What ancestries or heritages do you identify with?,Hispanic or Latino not listed Write-in: Hispanic or Latino not listed (write-in optional),True,OnLine,2019-03-22T00:00:00.000
+170,94491,50003666,2578,Complete,English,2019-01-26T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-02-07T00:00:00.000
+171,105623,62,90003980,Complete,English,2002-11-15T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-02-07T00:00:00.000
+172,94302,50003666,2555,Complete,English,2019-01-25T00:00:00.000,Has anyone in your household served Write in:,English,False,OnLine,2019-02-07T00:00:00.000
+173,112560,58,90004529,Complete,English,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+174,67349,50003666,1989,Complete,English,2018-11-20T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-01-11T00:00:00.000
+175,41968,21,90001675,Complete,English,,What ancestries or heritages do you identify with?,Hispanic or Latino not listed,False,Paper,2018-12-18T00:00:00.000
+176,219286,50003666,9154,Complete,English,2019-08-21T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-09-10T00:00:00.000
+177,73771,55,90001923,Complete,English,2018-11-20T00:00:00.000,What ancestries or heritages do you identify with?,Puerto Rican,False,Paper,2019-01-23T00:00:00.000
+178,91807,52,90003313,Complete,English,2018-10-29T00:00:00.000,What ancestries or heritages do you identify with?,Puerto Rican,False,Paper,2019-01-23T00:00:00.000
+179,102494,63,90003747,Complete,Spanish,2018-12-20T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-02-07T00:00:00.000
+180,101319,64,90003641,Complete,English,2019-02-07T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+181,74729,52,90001996,Complete,English,2019-01-23T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-01-23T00:00:00.000
+182,86898,52,90002935,Complete,Spanish,1925-10-07T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+183,70423,50003666,2203,Complete,English,2018-11-30T00:00:00.000,What ancestries or heritages do you identify with?,Unknown/unsure,False,OnLine,2019-01-11T00:00:00.000
+184,34377,34,90001079,Complete,Chinese,,What races or ethnicities do you identify with?,Asian,False,Paper,2018-12-18T00:00:00.000
+185,34862,28,90001118,Complete,Spanish,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+186,101396,63,90003649,Complete,Spanish,2018-12-18T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-02-07T00:00:00.000
+187,95421,50003666,2690,Complete,English,2019-01-29T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-02-07T00:00:00.000
+188,223173,50003666,9698,Complete,English,2019-09-09T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-09-10T00:00:00.000
+189,63846,50003666,1735,Complete,English,2018-10-22T00:00:00.000,What ancestries or heritages do you identify with?,Russian,False,OnLine,2019-01-11T00:00:00.000
+190,39924,19,90001516,Complete,Spanish,,What races or ethnicities do you identify with?,Native American or Alaska Native,False,Paper,2018-12-18T00:00:00.000
+191,126736,73,90005653,Complete,Spanish,2019-01-24T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-02-19T00:00:00.000
+192,79698,53,90002387,Complete,English,2019-01-23T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+193,41700,28,90001652,Complete,English,,What is the language you speak most at home?,English,False,Paper,2018-12-18T00:00:00.000
+194,115035,64,90004720,Complete,Chinese,2018-12-12T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-02-07T00:00:00.000
+195,39180,21,90001458,Complete,Chinese,,What is the language you speak most at home?,English,False,Paper,2018-12-18T00:00:00.000
+196,98265,62,90003412,Complete,English,2019-02-07T00:00:00.000,What ancestries or heritages do you identify with?,Cuban,False,Paper,2019-02-07T00:00:00.000
+197,222367,50003666,9586,Complete,English,2019-09-06T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-09-10T00:00:00.000
+198,104844,63,90003923,Complete,English,2018-12-20T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-02-07T00:00:00.000
+199,33521,19,90001009,Complete,Chinese,,What service did you apply for?,Preventive Services,False,Paper,2018-12-18T00:00:00.000
+200,95373,50003666,2686,Complete,English,2019-01-29T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-02-07T00:00:00.000
+201,88717,54,90003077,Complete,English,2018-10-19T00:00:00.000,What ancestries or heritages do you identify with?,African American,False,Paper,2019-01-23T00:00:00.000
+202,42123,34,90001687,Complete,English,,How well do you speak English?,Not at all,False,Paper,2018-12-18T00:00:00.000
+203,81628,53,90002532,Complete,English,1947-12-11T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-01-23T00:00:00.000
+204,22623,22,90000139,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+205,112659,61,90004537,Complete,English,2018-12-13T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+206,77394,53,90002209,Complete,English,2019-01-23T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+207,117865,62,90004938,Complete,English,2018-12-05T00:00:00.000,What other languages do you speak?,Spanish,False,Paper,2019-02-07T00:00:00.000
+208,132542,50003666,4055,Complete,English,2019-03-15T00:00:00.000,Has anyone in your household served Write in:,Spanish,False,OnLine,2019-03-18T00:00:00.000
+209,68043,50003666,2037,Complete,English,2018-11-20T00:00:00.000,What is the language you speak most at home?,English,False,OnLine,2019-01-11T00:00:00.000
+210,26511,25,90000451,Complete,English,,What ancestries or heritages do you identify with?,ALBANIAND,True,Paper,2018-12-18T00:00:00.000
+211,7506,16,93,Complete,Chinese,2018-09-28T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2018-11-15T00:00:00.000
+212,81756,51,90002542,Complete,Spanish,2018-10-12T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-01-23T00:00:00.000
+213,71591,50003666,2285,Complete,English,2018-12-11T00:00:00.000,What NYC agency did you apply for services with today?,DOE - Department of Education,False,OnLine,2019-01-11T00:00:00.000
+214,75833,55,90002083,Complete,English,2019-01-23T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-01-23T00:00:00.000
+215,220757,50003666,9363,Complete,English,2019-08-29T00:00:00.000,Has anyone in your household served Write in:,English,False,OnLine,2019-09-10T00:00:00.000
+216,108259,60,90004188,Complete,Spanish,2018-12-28T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-02-07T00:00:00.000
+217,21902,23,90000082,Complete,English,,How would you describe your gender?,Female,False,Paper,2018-12-18T00:00:00.000
+218,105768,62,90003992,Complete,English,1950-06-14T00:00:00.000,What races or ethnicities do you identify with?,ITALLAN_AM~RI,True,Paper,2019-02-07T00:00:00.000
+219,24296,33,90000273,Complete,English,,Do you want to answer the questions?,No,False,Paper,2018-12-18T00:00:00.000
+220,221792,107,90010916,Complete,English,2019-09-10T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-09-10T00:00:00.000
+221,27414,34,90000519,Complete,English,,What ancestries or heritages do you identify with?,African American,False,Paper,2018-12-18T00:00:00.000
+222,35269,24,90001148,Complete,English,,What ancestries or heritages do you identify with?,African Subsaharan African,False,Paper,2018-12-18T00:00:00.000
+223,121931,75,90005215,Complete,English,2019-01-08T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-19T00:00:00.000
+224,223604,105,90011067,Complete,English,2019-06-17T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-09-10T00:00:00.000
+225,128975,50003666,3589,Complete,Spanish,2019-02-26T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-03-08T00:00:00.000
+226,81466,53,90002519,Complete,English,2018-12-14T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-01-23T00:00:00.000
+227,106185,59,90004025,Complete,English,2019-02-07T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-02-07T00:00:00.000
+228,88439,52,90003056,Complete,English,7018-10-16T00:00:00.000,What other languages do you speak?,Spanish,False,Paper,2019-01-23T00:00:00.000
+229,114078,64,90004648,Complete,Chinese,2018-12-04T00:00:00.000,What other languages do you speak?,Chinese Cantonese,False,Paper,2019-02-07T00:00:00.000
+230,73336,55,90001887,Complete,Spanish,2019-01-23T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-01-23T00:00:00.000
+231,61537,50003666,1573,Complete,English,2018-10-15T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-01-11T00:00:00.000
+232,31152,34,90000815,Complete,Chinese,,What ancestries or heritages do you identify with?,Chinese,False,Paper,2018-12-18T00:00:00.000
+233,70893,50003666,2236,Complete,English,2018-12-11T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-01-11T00:00:00.000
+234,22952,32,90000168,Complete,Chinese,,What is the language you speak most at home?,Chinese Cantonese,False,Paper,2018-12-18T00:00:00.000
+235,91637,55,90003301,Complete,English,2018-09-10T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-01-23T00:00:00.000
+236,96706,50003666,2859,Complete,English,2019-02-03T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-02-07T00:00:00.000
+237,32069,22,90000888,Complete,English,,What other languages do you speak?,English,False,Paper,2018-12-18T00:00:00.000
+238,124770,73,90005477,Complete,English,2019-01-18T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-19T00:00:00.000
+239,132342,50003666,4023,Complete,English,2019-03-14T00:00:00.000,Has anyone in your household served Write in:,English,False,OnLine,2019-03-18T00:00:00.000
+240,217567,50003666,8897,Complete,English,2019-08-13T00:00:00.000,What ancestries or heritages do you identify with?,Puerto Rican,False,OnLine,2019-09-10T00:00:00.000
+241,118351,63,90004974,Complete,English,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+242,83836,52,90002704,Complete,English,0018-11-12T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-01-23T00:00:00.000
+243,74569,53,90001984,Complete,Russian,1924-10-29T00:00:00.000,What ancestries or heritages do you identify with?,Ukrainian,False,Paper,2019-01-23T00:00:00.000
+244,60335,50003666,1487,Complete,English,2018-10-11T00:00:00.000,What NYC agency did you apply for services with today?,DOE - Department of Education,False,OnLine,2019-01-11T00:00:00.000
+245,67471,50003666,1998,Complete,English,2018-11-20T00:00:00.000,What other languages do you speak?,Arabic,False,OnLine,2019-01-11T00:00:00.000
+246,226296,108,90011287,Complete,Chinese,2019-09-10T00:00:00.000,What other languages do you speak?,Chinese Mandarin,False,Paper,2019-09-10T00:00:00.000
+247,131126,50003666,3873,Complete,English,2019-03-07T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-03-08T00:00:00.000
+248,95693,50003666,2721,Complete,English,2019-01-30T00:00:00.000,Are you intersex?,No,False,OnLine,2019-02-07T00:00:00.000
+249,99461,64,90003503,Complete,Spanish,2019-02-07T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-02-07T00:00:00.000
+250,98431,64,90003426,Complete,Chinese,2014-05-23T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-02-07T00:00:00.000
+251,79389,54,90002364,Complete,English,2018-10-29T00:00:00.000,What ancestries or heritages do you identify with?,German,False,Paper,2019-01-23T00:00:00.000
+252,34346,22,90001077,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+253,77007,54,90002176,Complete,English,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,Irish,False,Paper,2019-01-23T00:00:00.000
+254,84380,53,90002743,Complete,Russian,2019-01-23T00:00:00.000,How well do you speak English?,Not at all,False,Paper,2019-01-23T00:00:00.000
+255,103954,58,90003859,Complete,Chinese,2018-12-04T00:00:00.000,What sex were you given at birth?,Male,False,Paper,2019-02-07T00:00:00.000
+256,83589,53,90002682,Complete,English,2019-01-23T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+257,28079,23,90000570,Complete,English,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+258,222220,105,90010951,Complete,English,2019-09-10T00:00:00.000,What NYC agency did you apply for services with today?,DOHMH - Department of Health and Mental Hygiene,False,Paper,2019-09-10T00:00:00.000
+259,94449,50003666,2574,Complete,English,2019-01-26T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-02-07T00:00:00.000
+260,66161,50003666,1904,Complete,English,2018-12-10T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-01-11T00:00:00.000
+261,29027,17,90000647,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+262,103715,64,90003842,Complete,Chinese,2019-02-07T00:00:00.000,What is the language you speak most at home?,Chinese Cantonese,False,Paper,2019-02-07T00:00:00.000
+263,117501,59,90004907,Complete,English,2019-02-07T00:00:00.000,What ancestries or heritages do you identify with?,French,False,Paper,2019-02-07T00:00:00.000
+264,60959,50003666,1532,Complete,English,2018-10-13T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-01-11T00:00:00.000
+265,96468,50003666,2820,Complete,English,2019-02-02T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-02-07T00:00:00.000
+266,91152,54,90003260,Complete,English,2019-01-23T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+267,77524,51,90002220,Complete,English,2018-10-30T00:00:00.000,How well do you speak English?,Not well,False,Paper,2019-01-23T00:00:00.000
+268,82503,50,90002600,Complete,English,2018-11-13T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-01-23T00:00:00.000
+269,61148,50003666,1546,Complete,English,2018-10-14T00:00:00.000,What is the language you speak most at home?,Bengali,False,OnLine,2019-01-11T00:00:00.000
+270,118457,58,90004983,Complete,English,1949-08-15T00:00:00.000,How would you describe your gender?,Male,False,Paper,2019-02-07T00:00:00.000
+271,27801,32,90000549,Complete,English,,What is the language you speak most at home?,Spanish,False,Paper,2018-12-18T00:00:00.000
+272,218408,108,90010626,Complete,Spanish,2019-09-10T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-09-10T00:00:00.000
+273,106546,64,90004056,Complete,Chinese,2019-02-07T00:00:00.000,What ancestries or heritages do you identify with?,Chinese,False,Paper,2019-02-07T00:00:00.000
+274,93677,50003666,2469,Complete,English,2019-01-23T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-02-07T00:00:00.000
+275,63972,50003666,1743,Complete,English,2018-10-22T00:00:00.000,What service did you apply for?,Public school,False,OnLine,2019-01-11T00:00:00.000
+276,31506,26,90000845,Complete,English,,Has anyone in your household served Write in:,Spouse Partner,False,Paper,2018-12-18T00:00:00.000
+277,117409,63,90004900,Complete,English,2018-12-21T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-07T00:00:00.000
+278,66788,50003666,1952,Complete,English,2018-11-20T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-01-11T00:00:00.000
+279,106651,60,90004065,Complete,Russian,2019-02-07T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-02-07T00:00:00.000
+280,61014,50003666,1536,Complete,English,2018-10-13T00:00:00.000,What NYC agency did you apply for services with today?,DOE - Department of Education,False,OnLine,2019-01-11T00:00:00.000
+281,101905,59,90003692,Complete,English,2019-02-07T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-07T00:00:00.000
+282,121555,75,90005181,Complete,English,2018-10-02T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-19T00:00:00.000
+283,114427,60,90004676,Complete,English,2018-11-06T00:00:00.000,What ancestries or heritages do you identify with?,Russian,False,Paper,2019-02-07T00:00:00.000
+284,131479,50003666,3916,Complete,English,2019-03-08T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-03-08T00:00:00.000
+285,79398,54,90002364,Complete,English,2018-10-29T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+286,75482,53,90002054,Complete,English,2018-11-19T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+287,100641,63,90003593,Complete,Spanish,2019-01-08T00:00:00.000,What ancestries or heritages do you identify with?,Puerto Rican,False,Paper,2019-02-07T00:00:00.000
+288,130858,50003666,3838,Complete,English,2019-03-06T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-03-08T00:00:00.000
+289,41070,32,90001603,Complete,English,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+290,39318,33,90001468,Complete,English,,How would you describe your gender?,Male,False,Paper,2018-12-18T00:00:00.000
+291,91543,55,90003292,Complete,English,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,American,False,Paper,2019-01-23T00:00:00.000
+292,80563,52,90002451,Complete,Spanish,2018-08-11T00:00:00.000,What ancestries or heritages do you identify with?,Hispanic or Latino not listed,False,Paper,2019-01-23T00:00:00.000
+293,33829,23,90001034,Complete,English,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+294,61047,50003666,1538,Complete,English,2018-10-13T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-01-11T00:00:00.000
+295,130409,50003666,3776,Complete,English,2019-03-04T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-03-08T00:00:00.000
+296,101100,59,90003625,Complete,English,2019-02-07T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-07T00:00:00.000
+297,6916,16,26,Complete,Chinese,,How would you describe your gender?,Female,False,Paper,2018-11-15T00:00:00.000
+298,105525,60,90003973,Complete,English,2018-12-07T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+299,112508,58,90004526,Complete,Chinese,2019-02-07T00:00:00.000,What is the language you speak most at home?,Chinese Cantonese,False,Paper,2019-02-07T00:00:00.000
+300,27559,27,90000530,Complete,English,,Has anyone in your household served Write in:,Self,False,Paper,2018-12-18T00:00:00.000
+301,38330,17,90001392,Complete,English,,What ancestries or heritages do you identify with?,African American,False,Paper,2018-12-18T00:00:00.000
+302,221282,108,90010873,Complete,English,2019-08-06T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,Paper,2019-09-10T00:00:00.000
+303,81325,51,90002508,Complete,English,2018-10-26T00:00:00.000,Has anyone in your household served Write in:,Spouse Partner,False,Paper,2019-01-23T00:00:00.000
+304,64966,50003666,1817,Complete,English,2018-10-30T00:00:00.000,What service did you apply for?,Healthy Start Brooklyn,False,OnLine,2019-01-11T00:00:00.000
+305,96295,50003666,2797,Complete,English,2019-02-01T00:00:00.000,How would you describe your gender?,Female,False,OnLine,2019-02-07T00:00:00.000
+306,116199,64,90004808,Complete,Bengali,2019-01-02T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-07T00:00:00.000
+307,217349,105,90010536,Complete,English,2019-06-10T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-09-10T00:00:00.000
+308,42941,34,90001751,Complete,Spanish,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+309,106890,63,90004082,Complete,Arabic,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+310,222721,107,90010994,Complete,English,2019-09-10T00:00:00.000,What ancestries or heritages do you identify with?,Hispanic or Latino not listed,False,Paper,2019-09-10T00:00:00.000
+311,80171,53,90002424,Complete,English,2018-10-12T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-01-23T00:00:00.000
+312,73334,55,90001887,Complete,Spanish,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,Cuban,False,Paper,2019-01-23T00:00:00.000
+313,90682,54,90003224,Complete,English,2018-02-17T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-01-23T00:00:00.000
+314,41338,24,90001625,Complete,English,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+315,120335,50003666,3032,Complete,English,2019-02-08T00:00:00.000,What other languages do you speak?,Spanish,False,OnLine,2019-02-19T00:00:00.000
+316,121585,50003666,3225,Complete,English,2019-02-13T00:00:00.000,What other languages do you speak?,English,False,OnLine,2019-02-19T00:00:00.000
+317,70119,50003666,2181,Complete,English,2018-11-26T00:00:00.000,What other languages do you speak?,Russian,False,OnLine,2019-01-11T00:00:00.000
+318,127958,50003666,3437,Complete,English,2019-02-21T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-03-08T00:00:00.000
+319,42229,24,90001695,Complete,Chinese,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+320,124592,73,90005459,Complete,English,2019-01-10T00:00:00.000,What ancestries or heritages do you identify with?,Haitian,False,Paper,2019-02-19T00:00:00.000
+321,99413,60,90003499,Complete,English,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+322,86686,54,90002919,Complete,English,1940-08-08T00:00:00.000,What other languages do you speak?,German,False,Paper,2019-01-23T00:00:00.000
+323,132513,50003666,4051,Complete,English,2019-03-15T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-03-18T00:00:00.000
+324,226934,106,90011340,Complete,Spanish,2019-07-30T00:00:00.000,What service did you apply for?,Summer Youth Employment Program (SYEP),False,Paper,2019-09-10T00:00:00.000
+325,218524,106,90010639,Complete,English,2019-07-18T00:00:00.000,What NYC agency did you apply for services with today?,ACS - Administration for Children's Services,False,Paper,2019-09-10T00:00:00.000
+326,118016,64,90004950,Complete,Chinese,2019-02-07T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-07T00:00:00.000
+327,80045,52,90002415,Complete,English,2019-01-23T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+328,24218,29,90000266,Complete,English,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+329,121523,50003666,3214,Complete,English,2019-02-13T00:00:00.000,How would you describe your gender?,Female,False,OnLine,2019-02-19T00:00:00.000
+330,83635,54,90002686,Complete,English,2018-10-26T00:00:00.000,What ancestries or heritages do you identify with?,~Dm~~I~N,True,Paper,2019-01-23T00:00:00.000
+331,126504,73,90005632,Complete,English,2019-01-14T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-02-19T00:00:00.000
+332,42265,33,90001697,Complete,English,,What sex were you given at birth?,Male,False,Paper,2018-12-18T00:00:00.000
+333,104759,58,90003917,Complete,English,2018-10-22T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-02-07T00:00:00.000
+334,99488,64,90003506,Complete,Spanish,2019-02-07T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-02-07T00:00:00.000
+335,96070,50003666,2767,Complete,English,2019-01-31T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-02-07T00:00:00.000
+336,98317,58,90003417,Complete,English,2019-02-07T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-02-07T00:00:00.000
+337,67803,50003666,2020,Complete,English,2018-11-20T00:00:00.000,What is your sexual orientation?,Not sure,False,OnLine,2019-01-11T00:00:00.000
+338,74538,54,90001982,Complete,English,2018-10-25T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-01-23T00:00:00.000
+339,69044,50003666,2107,Complete,English,2018-11-20T00:00:00.000,What races or ethnicities do you identify with?,White,False,OnLine,2019-01-11T00:00:00.000
+340,22817,32,90000157,Complete,English,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+341,83069,51,90002644,Complete,English,2019-01-23T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+342,119759,64,90005082,Complete,English,2019-02-07T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+343,115258,61,90004734,Complete,English,2019-02-07T00:00:00.000,What ancestries or heritages do you identify with?,Dominican,False,Paper,2019-02-07T00:00:00.000
+344,110987,59,90004406,Complete,English,2019-02-07T00:00:00.000,What ancestries or heritages do you identify with?,Russian,False,Paper,2019-02-07T00:00:00.000
+345,96925,50003666,2887,Complete,English,2019-02-04T00:00:00.000,What ancestries or heritages do you identify with?,Unknown/unsure,False,OnLine,2019-02-07T00:00:00.000
+346,62833,50003666,1663,Complete,English,2018-10-18T00:00:00.000,What ancestries or heritages do you identify with?,Polish,False,OnLine,2019-01-11T00:00:00.000
+347,101451,61,90003655,Complete,English,2019-02-07T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-02-07T00:00:00.000
+348,128649,50003666,3542,Complete,English,2019-02-25T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-03-08T00:00:00.000
+349,117437,64,90004902,Complete,Chinese,2019-02-07T00:00:00.000,What races or ethnicities do you identify with?,None,False,Paper,2019-02-07T00:00:00.000
+350,216185,106,90010448,Complete,Spanish,2019-09-10T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-09-10T00:00:00.000
+351,69980,50003666,2171,Complete,English,2018-11-25T00:00:00.000,What ancestries or heritages do you identify with?,American,False,OnLine,2019-01-11T00:00:00.000
+352,88911,52,90003093,Complete,Spanish,2018-11-08T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-01-23T00:00:00.000
+353,63391,50003666,1704,Complete,English,2018-10-21T00:00:00.000,What races or ethnicities do you identify with?,Multiracial / Multiethnic,False,OnLine,2019-01-11T00:00:00.000
+354,216818,107,90010493,Complete,English,2019-03-19T00:00:00.000,What NYC agency did you apply for services with today?,DOE - Department of Education,False,Paper,2019-09-10T00:00:00.000
+355,29560,32,90000689,Complete,English,,What is the language you speak most at home?,English,False,Paper,2018-12-18T00:00:00.000
+356,6905,15,23,Complete,English,,Do you want to answer the questions?,Yes,False,Paper,2018-11-15T00:00:00.000
+357,222290,105,90010957,Complete,Chinese,2019-09-10T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-09-10T00:00:00.000
+358,29205,33,90000661,Complete,English,,What is the language you speak most at home?,English,False,Paper,2018-12-18T00:00:00.000
+359,220883,108,90010836,Complete,English,2019-09-10T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-09-10T00:00:00.000
+360,112991,63,90004563,Complete,Chinese,2019-01-09T00:00:00.000,What ancestries or heritages do you identify with?,Chinese,False,Paper,2019-02-07T00:00:00.000
+361,87260,52,90002965,Complete,English,2019-01-23T00:00:00.000,How would you describe your gender?,Male,False,Paper,2019-01-23T00:00:00.000
+362,62644,50003666,1650,Complete,English,2018-10-18T00:00:00.000,What is your sexual orientation?,Pansexual,False,OnLine,2019-01-11T00:00:00.000
+363,29796,32,90000708,Complete,English,,How would you describe your gender?,Female,False,Paper,2018-12-18T00:00:00.000
+364,78076,55,90002259,Complete,English,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,Caribbean not listed,False,Paper,2019-01-23T00:00:00.000
+365,219259,50003666,9149,Complete,English,2019-08-21T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-09-10T00:00:00.000
+366,75365,54,90002046,Complete,Chinese,2018-01-20T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-01-23T00:00:00.000
+367,122441,76,90005265,Complete,English,2019-02-19T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-02-19T00:00:00.000
+368,218142,106,90010606,Complete,English,2019-09-10T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-09-10T00:00:00.000
+369,23349,33,90000196,Complete,English,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+370,73445,52,90001895,Complete,English,2019-01-23T00:00:00.000,What sex were you given at birth?,Male,False,Paper,2019-01-23T00:00:00.000
+371,132784,50003666,4083,Complete,Spanish,2019-03-17T00:00:00.000,How would you describe your gender?,Female,False,OnLine,2019-03-18T00:00:00.000
+372,96767,50003666,2867,Complete,Spanish,2019-02-04T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,OnLine,2019-02-07T00:00:00.000
+373,216587,108,90010477,Complete,English,2019-08-21T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-09-10T00:00:00.000
+374,90481,55,90003208,Complete,English,2018-10-19T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+375,96819,50003666,2872,Complete,Spanish,2019-02-04T00:00:00.000,What ancestries or heritages do you identify with?,Caribbean not listed Write-in: Caribbean not listed (write-in optional),True,OnLine,2019-02-07T00:00:00.000
+376,133590,50003666,4212,Complete,English,2019-03-20T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-03-22T00:00:00.000
+377,124976,75,90005495,Complete,English,2019-02-19T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-19T00:00:00.000
+378,42670,33,90001730,Complete,Chinese,,What ancestries or heritages do you identify with?,Puerto Rican,False,Paper,2018-12-18T00:00:00.000
+379,23344,33,90000196,Complete,English,,What is the language you speak most at home?,English,False,Paper,2018-12-18T00:00:00.000
+380,61376,50003666,1562,Complete,English,2018-10-14T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-01-11T00:00:00.000
+381,84911,52,90002782,Complete,English,1949-05-04T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-01-23T00:00:00.000
+382,68871,50003666,2095,Complete,English,2018-11-20T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-01-11T00:00:00.000
+383,78259,52,90002273,Complete,English,2019-01-23T00:00:00.000,What is your sexual orientation?,Questioning,False,Paper,2019-01-23T00:00:00.000
+384,216769,108,90010490,Complete,Spanish,2019-07-31T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-09-10T00:00:00.000
+385,125393,76,90005533,Complete,Spanish,2019-02-19T00:00:00.000,What service did you apply for?,Early Care and Education,False,Paper,2019-02-19T00:00:00.000
+386,92860,50003666,2375,Complete,English,2019-01-20T00:00:00.000,What ancestries or heritages do you identify with?,Puerto Rican,False,OnLine,2019-02-07T00:00:00.000
+387,35592,33,90001174,Complete,Spanish,,What other languages do you speak?,English,False,Paper,2018-12-18T00:00:00.000
+388,85004,55,90002789,Complete,Spanish,2018-11-14T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-01-23T00:00:00.000
+389,80452,55,90002443,Complete,English,2018-11-26T00:00:00.000,What ancestries or heritages do you identify with?,Hispanic or Latino not listed,False,Paper,2019-01-23T00:00:00.000
+390,89069,55,90003104,Complete,Russian,1918-12-13T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+391,69583,50003666,2142,Complete,English,2018-11-21T00:00:00.000,What ancestries or heritages do you identify with?,American,False,OnLine,2019-01-11T00:00:00.000
+392,96700,50003666,2859,Complete,English,2019-02-03T00:00:00.000,Has anyone in your household served Write in:,English,False,OnLine,2019-02-07T00:00:00.000
+393,121305,50003666,3181,Complete,English,2019-02-12T00:00:00.000,What other languages do you speak?,Spanish,False,OnLine,2019-02-19T00:00:00.000
+394,133007,50003666,4121,Complete,English,2019-03-18T00:00:00.000,What races or ethnicities do you identify with?,Black / African American / African,False,OnLine,2019-03-18T00:00:00.000
+395,21036,34,90000011,Complete,Polish,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+396,222196,50003666,9566,Complete,English,2019-09-05T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-09-10T00:00:00.000
+397,92657,50003666,2355,Complete,English,2019-01-19T00:00:00.000,What other languages do you speak?,Italian,False,OnLine,2019-02-07T00:00:00.000
+398,87748,55,90003000,Complete,English,2019-01-23T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-01-23T00:00:00.000
+399,103266,59,90003807,Complete,English,2019-02-07T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-02-07T00:00:00.000
+400,97777,64,90003377,Complete,English,2019-02-07T00:00:00.000,What ancestries or heritages do you identify with?,AtRICA~A~E,True,Paper,2019-02-07T00:00:00.000
+401,118344,63,90004974,Complete,English,2019-02-07T00:00:00.000,Has anyone in your household served Write in:,Other,False,Paper,2019-02-07T00:00:00.000
+402,74146,51,90001952,Complete,English,2019-01-23T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-01-23T00:00:00.000
+403,37793,22,90001349,Complete,Spanish,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+404,117360,63,90004896,Complete,English,2018-09-27T00:00:00.000,How well do you speak English?,Not at all,False,Paper,2019-02-07T00:00:00.000
+405,35463,23,90001163,Complete,Spanish,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+406,24736,33,90000309,Complete,English,,What sex were you given at birth?,Female,False,Paper,2018-12-18T00:00:00.000
+407,226634,105,90011313,Complete,English,2018-11-01T00:00:00.000,How well do you speak English?,Not well,False,Paper,2019-09-10T00:00:00.000
+408,40710,36,90001578,Complete,Chinese,,What ancestries or heritages do you identify with?,American,False,Paper,2018-12-18T00:00:00.000
+409,26894,27,90000478,Complete,English,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+410,220362,105,90010792,Complete,Chinese,2019-09-10T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-09-10T00:00:00.000
+411,99051,62,90003471,Complete,English,2018-12-18T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+412,130422,50003666,3777,Complete,English,2019-03-05T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-03-08T00:00:00.000
+413,109226,61,90004264,Complete,English,2018-12-17T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+414,59233,50003666,1387,Complete,English,2018-07-19T00:00:00.000,What races or ethnicities do you identify with?,Black / African American / African,False,OnLine,2019-01-11T00:00:00.000
+415,109897,64,90004320,Complete,Chinese,2019-02-07T00:00:00.000,What is the language you speak most at home?,Chinese Cantonese,False,Paper,2019-02-07T00:00:00.000
+416,85801,53,90002849,Complete,Spanish,2019-01-23T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+417,6750,16,3,Complete,English,2018-09-28T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2018-11-15T00:00:00.000
+418,127255,73,90005697,Complete,English,2019-02-19T00:00:00.000,What is the language you speak most at home?,Vietnamese,False,Paper,2019-02-19T00:00:00.000
+419,73780,55,90001923,Complete,English,2018-11-20T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-01-23T00:00:00.000
+420,92938,50003666,2382,Complete,English,2019-01-20T00:00:00.000,How would you describe your gender?,Male,False,OnLine,2019-02-07T00:00:00.000
+421,110451,59,90004362,Complete,English,2001-10-23T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+422,109134,62,90004258,Complete,English,2019-02-07T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-02-07T00:00:00.000
+423,22610,28,90000138,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+424,77437,52,90002212,Complete,English,2019-01-23T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+425,117129,61,90004879,Complete,English,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+426,94611,50003666,2589,Complete,English,2019-01-26T00:00:00.000,What sex were you given at birth?,Male,False,OnLine,2019-02-07T00:00:00.000
+427,218043,50003666,8960,Complete,English,2019-08-15T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-09-10T00:00:00.000
+428,71459,50003666,2276,Complete,English,2018-12-11T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-01-11T00:00:00.000
+429,121778,50003666,3247,Complete,English,2019-02-14T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-02-19T00:00:00.000
+430,67194,50003666,1978,Complete,English,2018-11-20T00:00:00.000,What ancestries or heritages do you identify with?,Irish,False,OnLine,2019-01-11T00:00:00.000
+431,109483,61,90004285,Complete,English,2019-02-07T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-02-07T00:00:00.000
+432,85104,54,90002796,Complete,English,2019-01-23T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+433,111539,64,90004447,Complete,English,2018-10-25T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-02-07T00:00:00.000
+434,66098,50003666,1900,Complete,English,2018-11-09T00:00:00.000,Has anyone in your household served Write in:,Other - Write-in: None,True,OnLine,2019-01-11T00:00:00.000
+435,34921,17,90001122,Complete,Spanish,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+436,124667,76,90005465,Complete,English,2019-02-19T00:00:00.000,Do you want to answer the questions?,No,False,Paper,2019-02-19T00:00:00.000
+437,37791,22,90001349,Complete,Spanish,,What is the language you speak most at home?,English,False,Paper,2018-12-18T00:00:00.000
+438,78379,54,90002282,Complete,English,2019-01-23T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-01-23T00:00:00.000
+439,121110,75,90005143,Complete,English,2019-02-19T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-02-19T00:00:00.000
+440,69000,50003666,2103,Complete,English,2018-11-20T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-01-11T00:00:00.000
+441,76435,53,90002132,Complete,English,2018-10-25T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-01-23T00:00:00.000
+442,133977,50003666,4272,Complete,English,2019-03-22T00:00:00.000,What other languages do you speak?,None,False,OnLine,2019-03-22T00:00:00.000
+443,72130,50003666,2324,Complete,English,2018-12-11T00:00:00.000,What ancestries or heritages do you identify with?,Arab Write-in: arab,True,OnLine,2019-01-11T00:00:00.000
+444,25928,33,90000403,Complete,English,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+445,89075,51,90003105,Complete,English,2018-12-07T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-01-23T00:00:00.000
+446,111911,60,90004476,Complete,English,2018-11-26T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-07T00:00:00.000
+447,117135,61,90004880,Complete,Spanish,1935-10-24T00:00:00.000,What service did you apply for?,Early Care and Education,False,Paper,2019-02-07T00:00:00.000
+448,133686,50003666,4229,Complete,English,2019-03-20T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-03-22T00:00:00.000
+449,83405,50,90002670,Complete,English,2019-01-23T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+450,61231,50003666,1552,Complete,English,2018-10-14T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-01-11T00:00:00.000
+451,93501,50003666,2443,Complete,English,2019-01-22T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-02-07T00:00:00.000
+452,219813,50003666,9225,Complete,English,2019-08-24T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-09-10T00:00:00.000
+453,89682,54,90003146,Complete,English,2019-01-23T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+454,218822,108,90010665,Complete,Spanish,2019-08-16T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-09-10T00:00:00.000
+455,130934,50003666,3849,Complete,English,2019-03-06T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-03-08T00:00:00.000
+456,70120,50003666,2181,Complete,English,2018-11-26T00:00:00.000,What is the language you speak most at home?,Russian,False,OnLine,2019-01-11T00:00:00.000
+457,30975,21,90000799,Complete,English,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+458,93662,50003666,2468,Complete,English,2019-01-23T00:00:00.000,Has anyone in your household served Write in:,English,False,OnLine,2019-02-07T00:00:00.000
+459,94991,50003666,2634,Complete,English,2019-01-28T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-02-07T00:00:00.000
+460,79466,51,90002369,Complete,Chinese,2019-01-23T00:00:00.000,How would you describe your gender?,Male,False,Paper,2019-01-23T00:00:00.000
+461,105866,58,90003998,Complete,Chinese,2018-12-17T00:00:00.000,How well do you speak English?,Well,False,Paper,2019-02-07T00:00:00.000
+462,221707,50003666,9506,Complete,English,2019-09-04T00:00:00.000,How would you describe your gender?,Male,False,OnLine,2019-09-10T00:00:00.000
+463,97342,50003666,2942,Complete,English,2019-02-05T00:00:00.000,What other languages do you speak?,Other - Write-in: UZBEK,True,OnLine,2019-02-07T00:00:00.000
+464,127999,50003666,3447,Complete,English,2019-02-21T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-03-08T00:00:00.000
+465,63941,50003666,1741,Complete,English,2018-10-22T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-01-11T00:00:00.000
+466,119064,64,90005031,Complete,English,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+467,79804,55,90002396,Complete,English,2019-01-23T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-01-23T00:00:00.000
+468,219103,106,90010689,Complete,Spanish,2019-07-30T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-09-10T00:00:00.000
+469,64245,50003666,1765,Complete,English,2018-10-26T00:00:00.000,What ancestries or heritages do you identify with?,African American,False,OnLine,2019-01-11T00:00:00.000
+470,28999,34,90000644,Complete,English,,How well do you speak English?,Not well,False,Paper,2018-12-18T00:00:00.000
+471,130380,50003666,3772,Complete,English,2019-03-04T00:00:00.000,Has anyone in your household served Write in:,English,False,OnLine,2019-03-08T00:00:00.000
+472,130452,50003666,3782,Complete,English,2019-03-05T00:00:00.000,What ancestries or heritages do you identify with?,Dominican,False,OnLine,2019-03-08T00:00:00.000
+473,101104,59,90003625,Complete,English,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+474,85807,50,90002850,Complete,English,2019-01-23T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-01-23T00:00:00.000
+475,112770,60,90004546,Complete,English,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+476,22547,28,90000132,Complete,English,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+477,118365,63,90004976,Complete,Chinese,2019-02-07T00:00:00.000,What ancestries or heritages do you identify with?,Chinese,False,Paper,2019-02-07T00:00:00.000
+478,130757,50003666,3826,Complete,English,2019-03-06T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-03-08T00:00:00.000
+479,22257,23,90000112,Complete,English,,Has anyone in your household served Write in:,Self,False,Paper,2018-12-18T00:00:00.000
+480,77230,55,90002193,Complete,English,2019-01-23T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-01-23T00:00:00.000
+481,73787,53,90001924,Complete,Russian,2019-01-23T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-01-23T00:00:00.000
+482,68883,50003666,2095,Complete,English,2018-11-20T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-01-11T00:00:00.000
+483,104978,60,90003933,Complete,Spanish,2018-12-21T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-02-07T00:00:00.000
+484,24329,36,90000278,Complete,English,,Do you want to answer the questions?,Yes,False,Paper,2018-12-18T00:00:00.000
+485,72150,50003666,2325,Complete,English,2018-12-11T00:00:00.000,What other languages do you speak?,English,False,OnLine,2019-01-11T00:00:00.000
+486,67276,50003666,1983,Complete,English,2018-11-20T00:00:00.000,Has anyone in your household served Write in:,Other - Write-in: parent,True,OnLine,2019-01-11T00:00:00.000
+487,34553,27,90001094,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+488,107500,61,90004130,Complete,English,2019-02-07T00:00:00.000,What ancestries or heritages do you identify with?,Colombian,False,Paper,2019-02-07T00:00:00.000
+489,34091,21,90001057,Complete,English,,Has anyone in your household served Write in:,NO~E~,True,Paper,2018-12-18T00:00:00.000
+490,37697,30,90001341,Complete,Chinese,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+491,80283,52,90002430,Complete,Chinese,2019-01-23T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+492,227676,105,90011400,Complete,English,2019-09-10T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-09-10T00:00:00.000
+493,95517,50003666,2701,Complete,English,2019-01-29T00:00:00.000,What other languages do you speak?,Spanish,False,OnLine,2019-02-07T00:00:00.000
+494,78804,55,90002317,Complete,Spanish,2019-01-23T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+495,75558,53,90002060,Complete,English,2019-01-23T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-01-23T00:00:00.000
+496,118315,60,90004972,Complete,English,2018-10-23T00:00:00.000,What ancestries or heritages do you identify with?,African American,False,Paper,2019-02-07T00:00:00.000
+497,69621,50003666,2144,Complete,English,2018-11-21T00:00:00.000,What service did you apply for?,Public school,False,OnLine,2019-01-11T00:00:00.000
+498,77567,50,90002224,Complete,English,2018-11-09T00:00:00.000,How well do you speak English?,Not well,False,Paper,2019-01-23T00:00:00.000
+499,125548,76,90005544,Complete,English,2019-01-09T00:00:00.000,What ancestries or heritages do you identify with?,American,False,Paper,2019-02-19T00:00:00.000
+500,123421,73,90005352,Complete,English,2019-02-19T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-02-19T00:00:00.000
+501,22702,29,90000148,Complete,Spanish,,What races or ethnicities do you identify with?,White,False,Paper,2018-12-18T00:00:00.000
+502,29234,21,90000663,Complete,Spanish,,Has anyone in your household served Write in:,NONE~,True,Paper,2018-12-18T00:00:00.000
+503,37592,36,90001334,Complete,English,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+504,226783,108,90011326,Complete,Chinese,2019-08-13T00:00:00.000,What ancestries or heritages do you identify with?,i,True,Paper,2019-09-10T00:00:00.000
+505,78936,51,90002328,Complete,Spanish,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,Dominican,False,Paper,2019-01-23T00:00:00.000
+506,95268,50003666,2672,Complete,English,2019-01-29T00:00:00.000,How would you describe your gender?,Male,False,OnLine,2019-02-07T00:00:00.000
+507,21398,33,90000038,Complete,English,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+508,111895,59,90004475,Complete,English,2019-02-07T00:00:00.000,How well do you speak English?,Well,False,Paper,2019-02-07T00:00:00.000
+509,116205,64,90004808,Complete,Bengali,2019-01-02T00:00:00.000,Do you want to answer the questions?,No,False,Paper,2019-02-07T00:00:00.000
+510,73501,50,90001900,Complete,English,2018-11-21T00:00:00.000,What ancestries or heritages do you identify with?,Arab,False,Paper,2019-01-23T00:00:00.000
+511,81057,53,90002488,Complete,English,,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+512,28765,28,90000623,Complete,Chinese,,How would you describe your gender?,Female,False,Paper,2018-12-18T00:00:00.000
+513,30148,27,90000735,Complete,English,,What is the language you speak most at home?,Korean,False,Paper,2018-12-18T00:00:00.000
+514,73116,50,90001872,Complete,English,2018-11-13T00:00:00.000,Has anyone in your household served Write in:,Other,False,Paper,2019-01-23T00:00:00.000
+515,125043,76,90005503,Complete,Spanish,2019-02-19T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-02-19T00:00:00.000
+516,226837,108,90011330,Complete,English,2005-06-13T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-09-10T00:00:00.000
+517,43140,26,90001768,Complete,Chinese,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+518,113949,59,90004637,Complete,Russian,2008-10-29T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-02-07T00:00:00.000
+519,94438,50003666,2571,Complete,English,2019-01-26T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-02-07T00:00:00.000
+520,25399,34,90000363,Complete,English,,How would you describe your gender?,Male,False,Paper,2018-12-18T00:00:00.000
+521,97965,58,90003390,Complete,Chinese,2019-02-07T00:00:00.000,How well do you speak English?,Not at all,False,Paper,2019-02-07T00:00:00.000
+522,27570,27,90000530,Complete,Chinese,,Do you want to answer the questions?,Yes,False,Paper,2018-12-18T00:00:00.000
+523,60736,50003666,1516,Complete,English,2018-10-11T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-01-11T00:00:00.000
+524,115228,61,90004734,Complete,English,2019-02-07T00:00:00.000,What ancestries or heritages do you identify with?,Peruvian,False,Paper,2019-02-07T00:00:00.000
+525,95139,50003666,2650,Complete,English,2019-01-28T00:00:00.000,What races or ethnicities do you identify with?,Black / African American / African,False,OnLine,2019-02-07T00:00:00.000
+526,30767,21,90000784,Complete,Chinese,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+527,100942,59,90003615,Complete,English,2019-02-07T00:00:00.000,What ancestries or heritages do you identify with?,African American,False,Paper,2019-02-07T00:00:00.000
+528,25967,34,90000407,Complete,English,,What ancestries or heritages do you identify with?,Ecuadorian,False,Paper,2018-12-18T00:00:00.000
+529,223221,107,90011035,Complete,English,2019-09-10T00:00:00.000,What is the language you speak most at home?,Other,False,Paper,2019-09-10T00:00:00.000
+530,34923,17,90001122,Complete,Spanish,,What sex were you given at birth?,Female,False,Paper,2018-12-18T00:00:00.000
+531,131322,50003666,3894,Complete,English,2019-03-07T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-03-08T00:00:00.000
+532,71452,50003666,2274,Complete,English,2018-12-11T00:00:00.000,What service did you apply for?,Public school,False,OnLine,2019-01-11T00:00:00.000
+533,34975,33,90001126,Complete,English,,What ancestries or heritages do you identify with?,Chinese,False,Paper,2018-12-18T00:00:00.000
+534,116251,63,90004813,Complete,Chinese,2019-02-07T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-02-07T00:00:00.000
+535,64643,50003666,1794,Complete,English,2018-10-30T00:00:00.000,What is the language you speak most at home?,English,False,OnLine,2019-01-11T00:00:00.000
+536,89239,54,90003116,Complete,English,2018-10-18T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-01-23T00:00:00.000
+537,80562,52,90002451,Complete,Spanish,2018-08-11T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-01-23T00:00:00.000
+538,63501,50003666,1711,Complete,English,2018-10-21T00:00:00.000,What other languages do you speak?,English,False,OnLine,2019-01-11T00:00:00.000
+539,218570,107,90010644,Complete,English,2019-09-10T00:00:00.000,What ancestries or heritages do you identify with?,African American,False,Paper,2019-09-10T00:00:00.000
+540,105306,59,90003958,Complete,English,2018-11-15T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+541,89218,54,90003114,Complete,Chinese,2019-01-23T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+542,28007,24,90000565,Complete,English,,What service did you apply for?,Case Management,False,Paper,2018-12-18T00:00:00.000
+543,82781,51,90002622,Complete,Spanish,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,Mexican,False,Paper,2019-01-23T00:00:00.000
+544,125045,76,90005503,Complete,Spanish,2019-02-19T00:00:00.000,What ancestries or heritages do you identify with?,Mexican,False,Paper,2019-02-19T00:00:00.000
+545,59669,50003666,1429,Complete,English,2018-08-30T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,OnLine,2019-01-11T00:00:00.000
+546,227214,107,90011361,Complete,English,2019-03-20T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-09-10T00:00:00.000
+547,223356,50003666,9720,Complete,English,2019-09-09T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-09-10T00:00:00.000
+548,101825,62,90003685,Complete,English,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+549,75539,51,90002059,Complete,English,2018-12-02T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-01-23T00:00:00.000
+550,82722,55,90002617,Complete,English,2019-01-23T00:00:00.000,What is the language you speak most at home?,U~BE~,True,Paper,2019-01-23T00:00:00.000
+551,100318,58,90003569,Complete,English,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+552,127745,50003666,3404,Complete,English,2019-02-20T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-03-08T00:00:00.000
+553,92532,54,90003367,Complete,English,2019-01-23T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-01-23T00:00:00.000
+554,29900,33,90000717,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+555,100140,60,90003557,Complete,English,2019-02-07T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-02-07T00:00:00.000
+556,110398,58,90004358,Complete,Chinese,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+557,64383,50003666,1774,Complete,English,2018-10-27T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-01-11T00:00:00.000
+558,219501,50003666,9187,Complete,English,2019-08-22T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-09-10T00:00:00.000
+559,74753,52,90001999,Complete,English,2019-01-23T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-01-23T00:00:00.000
+560,226897,108,90011336,Complete,English,2019-09-10T00:00:00.000,How would you describe your gender?,Male,False,Paper,2019-09-10T00:00:00.000
+561,223163,107,90011031,Complete,English,2019-08-13T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-09-10T00:00:00.000
+562,38269,17,90001386,Complete,English,,Do you want to answer the questions?,Yes,False,Paper,2018-12-18T00:00:00.000
+563,218295,50003666,8991,Complete,English,2019-08-16T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-09-10T00:00:00.000
+564,218464,106,90010634,Complete,English,2019-09-10T00:00:00.000,What service did you apply for?,IDNYC,False,Paper,2019-09-10T00:00:00.000
+565,27730,29,90000544,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+566,132588,50003666,4061,Complete,English,2019-03-15T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-03-18T00:00:00.000
+567,62128,50003666,1613,Complete,English,2018-10-17T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-01-11T00:00:00.000
+568,31877,27,90000872,Complete,Chinese,,What races or ethnicities do you identify with?,Asian,False,Paper,2018-12-18T00:00:00.000
+569,133315,50003666,4168,Complete,English,2019-03-19T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-03-19T00:00:00.000
+570,220208,106,90010779,Complete,English,2019-09-10T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,Paper,2019-09-10T00:00:00.000
+571,107153,62,90004104,Complete,Spanish,2018-12-10T00:00:00.000,Do you want to answer the questions?,No,False,Paper,2019-02-07T00:00:00.000
+572,123075,76,90005318,Complete,Spanish,2019-01-09T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-02-19T00:00:00.000
+573,62294,50003666,1624,Complete,English,2018-10-18T00:00:00.000,What other languages do you speak?,English,False,OnLine,2019-01-11T00:00:00.000
+574,22165,32,90000104,Complete,Spanish,,How well do you speak English?,Not at all,False,Paper,2018-12-18T00:00:00.000
+575,27860,21,90000553,Complete,English,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+576,30083,26,90000730,Complete,English,,What ancestries or heritages do you identify with?,Chinese,False,Paper,2018-12-18T00:00:00.000
+577,22721,30,90000149,Complete,English,,What is the language you speak most at home?,English,False,Paper,2018-12-18T00:00:00.000
+578,222502,108,90010975,Complete,English,2019-09-10T00:00:00.000,How well do you speak English?,Well,False,Paper,2019-09-10T00:00:00.000
+579,37802,34,90001350,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+580,132311,50003666,4019,Complete,English,2019-03-14T00:00:00.000,What is your sexual orientation?,Another sexual orientation - Write-in: optional,True,OnLine,2019-03-18T00:00:00.000
+581,63739,50003666,1727,Complete,English,2018-10-22T00:00:00.000,What other languages do you speak?,Spanish,False,OnLine,2019-01-11T00:00:00.000
+582,32246,21,90000901,Complete,English,,What ancestries or heritages do you identify with?,Hispanic or Latino not listed,False,Paper,2018-12-18T00:00:00.000
+583,124492,73,90005450,Complete,English,2019-02-19T00:00:00.000,What ancestries or heritages do you identify with?,Arab,False,Paper,2019-02-19T00:00:00.000
+584,117754,61,90004929,Complete,Spanish,2018-12-06T00:00:00.000,How well do you speak English?,Not at all,False,Paper,2019-02-07T00:00:00.000
+585,112780,61,90004547,Complete,English,2018-01-02T00:00:00.000,What ancestries or heritages do you identify with?,ITALIAN,True,Paper,2019-02-07T00:00:00.000
+586,21616,33,90000060,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+587,21532,36,90000051,Complete,Chinese,,What service did you apply for?,Public school,False,Paper,2018-12-18T00:00:00.000
+588,81853,50,90002550,Complete,English,2008-11-14T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-01-23T00:00:00.000
+589,216880,50003666,8793,Complete,English,2019-08-09T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,OnLine,2019-09-10T00:00:00.000
+590,109939,60,90004323,Complete,Russian,2019-02-07T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-02-07T00:00:00.000
+591,226062,107,90011268,Complete,Spanish,2019-09-10T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,Paper,2019-09-10T00:00:00.000
+592,32774,33,90000944,Complete,English,,What sex were you given at birth?,Female,False,Paper,2018-12-18T00:00:00.000
+593,69144,50003666,2113,Complete,English,2018-11-20T00:00:00.000,What other languages do you speak?,English,False,OnLine,2019-01-11T00:00:00.000
+594,103664,62,90003837,Complete,English,1944-06-30T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+595,218926,108,90010674,Complete,Arabic,2019-09-10T00:00:00.000,Are you intersex?,No,False,Paper,2019-09-10T00:00:00.000
+596,37369,29,90001317,Complete,Spanish,,How well do you speak English?,Not well,False,Paper,2018-12-18T00:00:00.000
+597,221650,50003666,9499,Complete,Spanish,2019-09-03T00:00:00.000,How well do you speak English?,Not well,False,OnLine,2019-09-10T00:00:00.000
+598,94022,50003666,2517,Complete,English,2019-01-24T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-02-07T00:00:00.000
+599,41856,17,90001666,Complete,Chinese,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+600,26999,28,90000485,Complete,English,,What other languages do you speak?,Italian,False,Paper,2018-12-18T00:00:00.000
+601,80093,55,90002419,Complete,Spanish,1943-05-17T00:00:00.000,What service did you apply for?,Early Care and Education,False,Paper,2019-01-23T00:00:00.000
+602,75645,51,90002067,Complete,English,1936-08-15T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-01-23T00:00:00.000
+603,221597,50003666,9492,Complete,English,2019-09-03T00:00:00.000,How would you describe your gender?,Female,False,OnLine,2019-09-10T00:00:00.000
+604,101889,64,90003691,Complete,Chinese,2019-02-07T00:00:00.000,What other languages do you speak?,Chinese Cantonese,False,Paper,2019-02-07T00:00:00.000
+605,74241,50,90001959,Complete,English,2019-01-23T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-01-23T00:00:00.000
+606,29080,29,90000651,Complete,English,,What other languages do you speak?,English,False,Paper,2018-12-18T00:00:00.000
+607,30725,28,90000781,Complete,English,,How would you describe your gender?,Female,False,Paper,2018-12-18T00:00:00.000
+608,23323,17,90000195,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+609,60232,50003666,1480,Complete,Spanish,2018-10-11T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-01-11T00:00:00.000
+610,83265,52,90002660,Complete,English,2018-11-19T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+611,43309,23,90001781,Complete,English,,Has anyone in your household served Write in:,N~,True,Paper,2018-12-18T00:00:00.000
+612,121361,50003666,3187,Complete,English,2019-02-12T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-02-19T00:00:00.000
+613,40627,36,90001572,Complete,English,,What ancestries or heritages do you identify with?,Puerto Rican,False,Paper,2018-12-18T00:00:00.000
+614,86206,54,90002882,Complete,English,2018-11-27T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-01-23T00:00:00.000
+615,220162,50003666,9273,Complete,English,2019-08-26T00:00:00.000,Are you intersex?,No,False,OnLine,2019-09-10T00:00:00.000
+616,27729,33,90000543,Complete,English,,Do you want to answer the questions?,Yes,False,Paper,2018-12-18T00:00:00.000
+617,90496,54,90003210,Complete,Spanish,2018-12-06T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-01-23T00:00:00.000
+618,92200,55,90003341,Complete,English,2019-01-23T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-01-23T00:00:00.000
+619,39728,26,90001499,Complete,English,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+620,68066,50003666,2039,Complete,English,2018-11-20T00:00:00.000,What races or ethnicities do you identify with?,White,False,OnLine,2019-01-11T00:00:00.000
+621,121443,75,90005173,Complete,English,2018-12-14T00:00:00.000,What service did you apply for?,Nurse Family Partnership,False,Paper,2019-02-19T00:00:00.000
+622,63070,50003666,1678,Complete,English,2018-10-18T00:00:00.000,What races or ethnicities do you identify with?,Native American or Alaska Native,False,OnLine,2019-01-11T00:00:00.000
+623,38569,29,90001410,Complete,Spanish,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+624,106835,62,90004079,Complete,English,2018-10-05T00:00:00.000,What ancestries or heritages do you identify with?,Cbinese,True,Paper,2019-02-07T00:00:00.000
+625,122784,76,90005293,Complete,Chinese,2019-01-14T00:00:00.000,What ancestries or heritages do you identify with?,Chinese,False,Paper,2019-02-19T00:00:00.000
+626,36069,34,90001213,Complete,English,,What races or ethnicities do you identify with?,Asian,False,Paper,2018-12-18T00:00:00.000
+627,73862,52,90001930,Complete,English,2019-01-23T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-01-23T00:00:00.000
+628,66553,50003666,1933,Complete,English,2018-11-16T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-01-11T00:00:00.000
+629,69371,50003666,2128,Complete,English,2018-11-21T00:00:00.000,What ancestries or heritages do you identify with?,Italian,False,OnLine,2019-01-11T00:00:00.000
+630,64369,50003666,1773,Complete,English,2018-10-27T00:00:00.000,What is your sexual orientation?,Asexual,False,OnLine,2019-01-11T00:00:00.000
+631,121068,75,90005140,Complete,English,2019-02-19T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-19T00:00:00.000
+632,88654,54,90003071,Complete,English,2018-11-20T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+633,29886,28,90000716,Complete,Korean,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+634,29237,21,90000663,Complete,Spanish,,How well do you speak English?,Well,False,Paper,2018-12-18T00:00:00.000
+635,70916,50003666,2238,Complete,English,2018-12-11T00:00:00.000,What races or ethnicities do you identify with?,Black / African American / African,False,OnLine,2019-01-11T00:00:00.000
+636,75782,52,90002077,Complete,English,2019-01-23T00:00:00.000,How well do you speak English?,Well,False,Paper,2019-01-23T00:00:00.000
+637,72101,50003666,2322,Complete,English,2018-12-11T00:00:00.000,How would you describe your gender?,Cisgender,False,OnLine,2019-01-11T00:00:00.000
+638,106052,58,90004013,Complete,English,2019-02-07T00:00:00.000,Has anyone in your household served Write in:,BROTHeR,True,Paper,2019-02-07T00:00:00.000
+639,118926,61,90005020,Complete,English,2018-11-28T00:00:00.000,How well do you speak English?,Well,False,Paper,2019-02-07T00:00:00.000
+640,125679,76,90005554,Complete,English,2019-02-19T00:00:00.000,What ancestries or heritages do you identify with?,Guyanese,False,Paper,2019-02-19T00:00:00.000
+641,132712,50003666,4078,Complete,English,2019-03-16T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-03-18T00:00:00.000
+642,81429,52,90002515,Complete,Spanish,2019-01-23T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+643,218101,108,90010603,Complete,English,2019-09-10T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-09-10T00:00:00.000
+644,66963,50003666,1962,Complete,English,2018-11-20T00:00:00.000,Has anyone in your household served Write in:,Other - Write-in: cousin,True,OnLine,2019-01-11T00:00:00.000
+645,95283,50003666,2673,Complete,English,2019-01-29T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-02-07T00:00:00.000
+646,66299,50003666,1914,Complete,English,2018-11-13T00:00:00.000,What ancestries or heritages do you identify with?,African American,False,OnLine,2019-01-11T00:00:00.000
+647,94397,50003666,2566,Complete,English,2019-01-26T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-02-07T00:00:00.000
+648,68559,50003666,2072,Complete,English,2018-11-20T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-01-11T00:00:00.000
+649,123607,75,90005371,Complete,Spanish,2018-11-15T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-19T00:00:00.000
+650,106038,63,90004012,Complete,Chinese,2018-09-27T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-07T00:00:00.000
+651,64669,50003666,1796,Complete,English,2018-10-30T00:00:00.000,Are you intersex?,No,False,OnLine,2019-01-11T00:00:00.000
+652,41440,32,90001633,Complete,Spanish,,What other languages do you speak?,Yiddish,False,Paper,2018-12-18T00:00:00.000
+653,127603,50003666,3387,Complete,English,2019-02-19T00:00:00.000,What races or ethnicities do you identify with?,Black / African American / African,False,OnLine,2019-03-08T00:00:00.000
+654,24210,17,90000265,Complete,English,,Do you want to answer the questions?,Yes,False,Paper,2018-12-18T00:00:00.000
+655,65926,50003666,1886,Complete,English,2018-11-09T00:00:00.000,What NYC agency did you apply for services with today?,DOHMH - Department of Health and Mental Hygiene,False,OnLine,2019-01-11T00:00:00.000
+656,123325,76,90005343,Complete,English,2014-01-02T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-02-19T00:00:00.000
+657,26178,28,90000423,Complete,English,,What races or ethnicities do you identify with?,White,False,Paper,2018-12-18T00:00:00.000
+658,25885,34,90000400,Complete,English,,What other languages do you speak?,English,False,Paper,2018-12-18T00:00:00.000
+659,41336,24,90001625,Complete,English,,What ancestries or heritages do you identify with?,Caribbean not listed,False,Paper,2018-12-18T00:00:00.000
+660,131642,50003666,3933,Complete,English,2019-03-09T00:00:00.000,What other languages do you speak?,English,False,OnLine,2019-03-14T00:00:00.000
+661,24015,27,90000250,Complete,English,,What ancestries or heritages do you identify with?,Chinese,False,Paper,2018-12-18T00:00:00.000
+662,72070,50003666,2320,Complete,French,2018-12-11T00:00:00.000,What ancestries or heritages do you identify with?,Haitian,False,OnLine,2019-01-11T00:00:00.000
+663,85184,51,90002802,Complete,English,2019-01-23T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+664,69956,50003666,2169,Complete,English,2018-11-25T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-01-11T00:00:00.000
+665,81551,53,90002526,Complete,English,2019-01-23T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-01-23T00:00:00.000
+666,37761,34,90001347,Complete,English,,What is the language you speak most at home?,Chinese Mandarin,False,Paper,2018-12-18T00:00:00.000
+667,89454,52,90003132,Complete,Russian,2019-01-23T00:00:00.000,What is the language you speak most at home?,Russian,False,Paper,2019-01-23T00:00:00.000
+668,64723,50003666,1800,Complete,English,2018-10-30T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-01-11T00:00:00.000
+669,95432,50003666,2691,Complete,English,2019-01-29T00:00:00.000,What other languages do you speak?,None,False,OnLine,2019-02-07T00:00:00.000
+670,133009,50003666,4121,Complete,English,2019-03-18T00:00:00.000,What other languages do you speak?,English,False,OnLine,2019-03-18T00:00:00.000
+671,131939,50003666,3972,Complete,English,2019-03-12T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-03-14T00:00:00.000
+672,30749,34,90000783,Complete,Chinese,,What ancestries or heritages do you identify with?,Chinese,False,Paper,2018-12-18T00:00:00.000
+673,113025,62,90004566,Complete,English,2018-11-28T00:00:00.000,What ancestries or heritages do you identify with?,Guatemalan,False,Paper,2019-02-07T00:00:00.000
+674,105380,58,90003963,Complete,English,2018-10-22T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-02-07T00:00:00.000
+675,111683,58,90004460,Complete,Chinese,2019-02-07T00:00:00.000,How well do you speak English?,Well,False,Paper,2019-02-07T00:00:00.000
+676,95057,50003666,2642,Complete,English,2019-01-28T00:00:00.000,What other languages do you speak?,French,False,OnLine,2019-02-07T00:00:00.000
+677,121304,73,90005162,Complete,Chinese,,What service did you apply for?,Public school,False,Paper,2019-02-19T00:00:00.000
+678,93242,50003666,2419,Complete,English,2019-01-21T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-02-07T00:00:00.000
+679,227252,105,90011365,Complete,English,2010-06-11T00:00:00.000,Are you intersex?,No,False,Paper,2019-09-10T00:00:00.000
+680,216376,50003666,8732,Complete,English,2019-08-07T00:00:00.000,What ancestries or heritages do you identify with?,Dominican,False,OnLine,2019-09-10T00:00:00.000
+681,35806,33,90001191,Complete,English,,What is the language you speak most at home?,Chinese Mandarin,False,Paper,2018-12-18T00:00:00.000
+682,102092,63,90003710,Complete,English,2003-02-13T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-07T00:00:00.000
+683,115654,59,90004766,Complete,English,2019-02-07T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-07T00:00:00.000
+684,97982,59,90003391,Complete,English,2019-02-07T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-02-07T00:00:00.000
+685,41456,32,90001634,Complete,English,,How would you describe your gender?,Female,False,Paper,2018-12-18T00:00:00.000
+686,28143,33,90000574,Complete,Chinese,,Do you want to answer the questions?,Yes,False,Paper,2018-12-18T00:00:00.000
+687,105336,58,90003960,Complete,English,1941-02-22T00:00:00.000,What other languages do you speak?,Japanese,False,Paper,2019-02-07T00:00:00.000
+688,108385,61,90004196,Complete,English,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+689,82541,54,90002603,Complete,English,1947-03-15T00:00:00.000,What ancestries or heritages do you identify with?,~AMA~CAN,True,Paper,2019-01-23T00:00:00.000
+690,122248,50003666,3316,Complete,English,2019-02-17T00:00:00.000,Has anyone in your household served Write in:,English,False,OnLine,2019-02-19T00:00:00.000
+691,43762,25,90001815,Complete,English,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+692,104296,61,90003882,Complete,Spanish,2018-12-12T00:00:00.000,What other languages do you speak?,None,False,Paper,2019-02-07T00:00:00.000
+693,216792,50003666,8779,Complete,English,2019-08-09T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-09-10T00:00:00.000
+694,129393,50003666,3635,Complete,English,2019-02-28T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-03-08T00:00:00.000
+695,36265,26,90001228,Complete,Chinese,,What sex were you given at birth?,Female,False,Paper,2018-12-18T00:00:00.000
+696,42547,32,90001720,Complete,English,,What other languages do you speak?,None,False,Paper,2018-12-18T00:00:00.000
+697,133348,50003666,4172,Complete,English,2019-03-19T00:00:00.000,Are you intersex?,No,False,OnLine,2019-03-19T00:00:00.000
+698,128898,50003666,3578,Complete,Spanish,2019-02-26T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-03-08T00:00:00.000
+699,114979,62,90004716,Complete,English,2019-02-07T00:00:00.000,What other languages do you speak?,None,False,Paper,2019-02-07T00:00:00.000
+700,76791,54,90002159,Complete,English,2018-10-24T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+701,65523,50003666,1857,Complete,English,2018-11-07T00:00:00.000,What NYC agency did you apply for services with today?,DOHMH - Department of Health and Mental Hygiene,False,OnLine,2019-01-11T00:00:00.000
+702,123625,73,90005374,Complete,English,2019-02-19T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-02-19T00:00:00.000
+703,109809,62,90004312,Complete,Spanish,2018-12-12T00:00:00.000,How well do you speak English?,Not well,False,Paper,2019-02-07T00:00:00.000
+704,82347,54,90002588,Complete,English,2019-01-23T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-01-23T00:00:00.000
+705,69305,50003666,2123,Complete,English,2018-11-21T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-01-11T00:00:00.000
+706,92647,50003666,2353,Complete,English,2019-01-18T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-02-07T00:00:00.000
+707,132013,50003666,3977,Complete,English,2019-03-13T00:00:00.000,Are you intersex?,No,False,OnLine,2019-03-14T00:00:00.000
+708,82165,50,90002575,Complete,English,2018-11-21T00:00:00.000,What ancestries or heritages do you identify with?,Russian,False,Paper,2019-01-23T00:00:00.000
+709,29906,33,90000717,Complete,English,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+710,220738,50003666,9359,Complete,English,2019-08-29T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-09-10T00:00:00.000
+711,130891,50003666,3841,Complete,English,2019-03-06T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-03-08T00:00:00.000
+712,125743,76,90005561,Complete,Arabic,,What is the language you speak most at home?,English,False,Paper,2019-02-19T00:00:00.000
+713,42424,26,90001710,Complete,English,,How would you describe your gender?,Female,False,Paper,2018-12-18T00:00:00.000
+714,37765,34,90001347,Complete,English,,What sex were you given at birth?,Male,False,Paper,2018-12-18T00:00:00.000
+715,121049,76,90005138,Complete,Spanish,2019-01-04T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-19T00:00:00.000
+716,62090,50003666,1610,Complete,English,2018-10-16T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-01-11T00:00:00.000
+717,31852,29,90000870,Complete,English,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+718,109572,59,90004293,Complete,English,2018-11-15T00:00:00.000,Do you want to answer the questions?,No,False,Paper,2019-02-07T00:00:00.000
+719,131324,50003666,3895,Complete,English,2019-03-07T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-03-08T00:00:00.000
+720,120547,50003666,3063,Complete,English,2019-02-09T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-02-19T00:00:00.000
+721,218401,108,90010626,Complete,Spanish,2019-09-10T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-09-10T00:00:00.000
+722,93735,50003666,2477,Complete,English,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,Hispanic or Latino not listed Write-in: Hispanic or Latino not listed (write-in optional),True,OnLine,2019-02-07T00:00:00.000
+723,97614,50003666,2979,Complete,English,2019-02-06T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-02-07T00:00:00.000
+724,119439,61,90005058,Complete,English,2019-02-07T00:00:00.000,What other languages do you speak?,Yiddish,False,Paper,2019-02-07T00:00:00.000
+725,226099,108,90011271,Complete,English,2019-07-02T00:00:00.000,What service did you apply for?,IDNYC,False,Paper,2019-09-10T00:00:00.000
+726,34931,26,90001123,Complete,English,,What is the language you speak most at home?,English,False,Paper,2018-12-18T00:00:00.000
+727,119969,62,90005097,Complete,English,2018-12-13T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+728,117908,61,90004941,Complete,Chinese,2018-12-26T00:00:00.000,Do you want to answer the questions?,No,False,Paper,2019-02-07T00:00:00.000
+729,62926,50003666,1668,Complete,English,2018-10-18T00:00:00.000,Are you intersex?,No,False,OnLine,2019-01-11T00:00:00.000
+730,121254,50003666,3172,Complete,English,2019-02-12T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-02-19T00:00:00.000
+731,122323,50003666,3330,Complete,English,2019-02-18T00:00:00.000,What other languages do you speak?,English,False,OnLine,2019-02-19T00:00:00.000
+732,75546,51,90002059,Complete,English,2018-12-02T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+733,106045,63,90004012,Complete,Chinese,2018-09-27T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+734,66838,50003666,1954,Complete,English,2018-11-20T00:00:00.000,Are you intersex?,No,False,OnLine,2019-01-11T00:00:00.000
+735,220117,107,90010772,Complete,English,2019-03-20T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-09-10T00:00:00.000
+736,69178,50003666,2115,Complete,English,2018-11-20T00:00:00.000,How would you describe your gender?,Male,False,OnLine,2019-01-11T00:00:00.000
+737,104616,64,90003905,Complete,Spanish,2019-02-07T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-02-07T00:00:00.000
+738,72470,50003666,2345,Complete,English,2018-12-14T00:00:00.000,Are you intersex?,No,False,OnLine,2019-01-11T00:00:00.000
+739,219517,50003666,9188,Complete,English,2019-08-22T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-09-10T00:00:00.000
+740,217027,50003666,8818,Complete,English,2019-08-11T00:00:00.000,How well do you speak English?,Well,False,OnLine,2019-09-10T00:00:00.000
+741,127300,76,90005701,Complete,Spanish,2019-02-19T00:00:00.000,What ancestries or heritages do you identify with?,African American,False,Paper,2019-02-19T00:00:00.000
+742,85602,55,90002831,Complete,Spanish,2018-12-17T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+743,225046,108,90011183,Complete,Spanish,2019-09-10T00:00:00.000,What sex were you given at birth?,Male,False,Paper,2019-09-10T00:00:00.000
+744,221363,107,90010880,Complete,English,2019-09-10T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,Paper,2019-09-10T00:00:00.000
+745,68230,50003666,2050,Complete,English,2018-11-20T00:00:00.000,What is the language you speak most at home?,English,False,OnLine,2019-01-11T00:00:00.000
+746,92834,50003666,2372,Complete,English,2019-01-20T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-02-07T00:00:00.000
+747,81911,52,90002554,Complete,Spanish,2018-11-26T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+748,122180,50003666,3310,Complete,English,2019-02-17T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-02-19T00:00:00.000
+749,83077,54,90002645,Complete,English,2019-01-23T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-01-23T00:00:00.000
+750,220059,50003666,9266,Complete,English,2019-08-26T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-09-10T00:00:00.000
+751,222016,108,90010934,Complete,Spanish,2019-08-21T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,Paper,2019-09-10T00:00:00.000
+752,94503,50003666,2579,Complete,English,2019-01-26T00:00:00.000,What sex were you given at birth?,Not sure,False,OnLine,2019-02-07T00:00:00.000
+753,112127,59,90004494,Complete,English,2018-10-19T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-02-07T00:00:00.000
+754,85447,51,90002822,Complete,Russian,1940-09-13T00:00:00.000,What is the language you speak most at home?,Russian,False,Paper,2019-01-23T00:00:00.000
+755,36524,21,90001249,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+756,35231,32,90001145,Complete,English,,What sex were you given at birth?,Female,False,Paper,2018-12-18T00:00:00.000
+757,220676,105,90010817,Complete,Spanish,2019-09-10T00:00:00.000,How well do you speak English?,Not at all,False,Paper,2019-09-10T00:00:00.000
+758,221129,50003666,9413,Complete,English,2019-08-30T00:00:00.000,What races or ethnicities do you identify with?,Asian,False,OnLine,2019-09-10T00:00:00.000
+759,36085,32,90001214,Complete,Chinese,,What is the language you speak most at home?,Spanish,False,Paper,2018-12-18T00:00:00.000
+760,22772,34,90000154,Complete,Spanish,,What races or ethnicities do you identify with?,Asian,False,Paper,2018-12-18T00:00:00.000
+761,77089,52,90002183,Complete,Spanish,2018-12-04T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-01-23T00:00:00.000
+762,131547,50003666,3924,Complete,English,2019-03-08T00:00:00.000,What ancestries or heritages do you identify with?,American,False,OnLine,2019-03-14T00:00:00.000
+763,73297,53,90001884,Complete,Chinese,2018-10-23T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+764,220297,108,90010786,Complete,English,2019-09-10T00:00:00.000,How would you describe your gender?,Male,False,Paper,2019-09-10T00:00:00.000
+765,97917,60,90003387,Complete,Spanish,2018-12-28T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-02-07T00:00:00.000
+766,99330,58,90003493,Complete,Chinese,2018-12-27T00:00:00.000,What is the language you speak most at home?,Chinese Cantonese,False,Paper,2019-02-07T00:00:00.000
+767,222286,105,90010957,Complete,Chinese,2019-09-10T00:00:00.000,What other languages do you speak?,Chinese Mandarin,False,Paper,2019-09-10T00:00:00.000
+768,119590,64,90005070,Complete,English,2018-10-24T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-02-07T00:00:00.000
+769,105540,58,90003974,Complete,English,2019-02-07T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-07T00:00:00.000
+770,34278,27,90001072,Complete,Chinese,,What sex were you given at birth?,Male,False,Paper,2018-12-18T00:00:00.000
+771,219046,50003666,9122,Complete,English,2019-08-21T00:00:00.000,Has anyone in your household served Write in:,English,False,OnLine,2019-09-10T00:00:00.000
+772,107385,62,90004122,Complete,English,2018-12-19T00:00:00.000,What is the language you speak most at home?,E~qi~Sh,True,Paper,2019-02-07T00:00:00.000
+773,106770,64,90004074,Complete,Chinese,2018-12-21T00:00:00.000,What ancestries or heritages do you identify with?,Chinese,False,Paper,2019-02-07T00:00:00.000
+774,84562,50,90002756,Complete,English,1938-11-12T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-01-23T00:00:00.000
+775,218120,50003666,8973,Complete,English,2019-08-15T00:00:00.000,What races or ethnicities do you identify with?,Black / African American / African,False,OnLine,2019-09-10T00:00:00.000
+776,24188,24,90000264,Complete,English,,What other languages do you speak?,Spanish,False,Paper,2018-12-18T00:00:00.000
+777,69212,50003666,2117,Complete,English,2018-11-21T00:00:00.000,Has anyone in your household served Write in:,Other - Write-in: No,True,OnLine,2019-01-11T00:00:00.000
+778,62531,50003666,1642,Complete,English,2018-10-18T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-01-11T00:00:00.000
+779,116091,60,90004799,Complete,Russian,2018-10-15T00:00:00.000,What ancestries or heritages do you identify with?,Russian,False,Paper,2019-02-07T00:00:00.000
+780,75700,52,90002071,Complete,English,2018-10-29T00:00:00.000,What service did you apply for?,Senior Center,False,Paper,2019-01-23T00:00:00.000
+781,87036,50,90002947,Complete,English,2018-11-21T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-01-23T00:00:00.000
+782,63303,50003666,1697,Complete,English,2018-10-19T00:00:00.000,What ancestries or heritages do you identify with?,Austrian,False,OnLine,2019-01-11T00:00:00.000
+783,127555,50003666,3380,Complete,English,2019-02-19T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-03-08T00:00:00.000
+784,225481,105,90011219,Complete,English,2018-11-01T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-09-10T00:00:00.000
+785,93303,50003666,2426,Complete,English,2019-01-22T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-02-07T00:00:00.000
+786,216974,106,90010506,Complete,English,2003-07-24T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-09-10T00:00:00.000
+787,79391,54,90002364,Complete,English,2018-10-29T00:00:00.000,What ancestries or heritages do you identify with?,Polish,False,Paper,2019-01-23T00:00:00.000
+788,98661,60,90003440,Complete,Russian,2019-02-07T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-02-07T00:00:00.000
+789,115640,59,90004765,Complete,English,2019-02-07T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-02-07T00:00:00.000
+790,221086,108,90010852,Complete,English,2019-08-02T00:00:00.000,What NYC agency did you apply for services with today?,DOE - Department of Education,False,Paper,2019-09-10T00:00:00.000
+791,223180,50003666,9698,Complete,English,2019-09-09T00:00:00.000,Are you intersex?,No,False,OnLine,2019-09-10T00:00:00.000
+792,125992,73,90005586,Complete,English,2019-02-19T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-19T00:00:00.000
+793,97609,50003666,2978,Complete,English,2019-02-06T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-02-07T00:00:00.000
+794,125477,76,90005539,Complete,Spanish,2019-09-01T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-02-19T00:00:00.000
+795,124756,75,90005475,Complete,English,2018-12-14T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-19T00:00:00.000
+796,123848,76,90005390,Complete,Spanish,2019-02-19T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-02-19T00:00:00.000
+797,221014,50003666,9397,Complete,English,2019-08-30T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-09-10T00:00:00.000
+798,223211,105,90011034,Complete,English,2019-09-10T00:00:00.000,Are you intersex?,No,False,Paper,2019-09-10T00:00:00.000
+799,127678,50003666,3396,Complete,English,2019-02-20T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-03-08T00:00:00.000
+800,108679,58,90004218,Complete,Chinese,2019-02-07T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+801,62318,50003666,1625,Complete,English,2018-10-18T00:00:00.000,Are you intersex?,No,False,OnLine,2019-01-11T00:00:00.000
+802,225584,108,90011228,Complete,English,2005-02-12T00:00:00.000,What ancestries or heritages do you identify with?,Chinese,False,Paper,2019-09-10T00:00:00.000
+803,65138,50003666,1830,Complete,Spanish,2018-11-02T00:00:00.000,What is the language you speak most at home?,Spanish,False,OnLine,2019-01-11T00:00:00.000
+804,92745,50003666,2364,Complete,English,2019-01-19T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-02-07T00:00:00.000
+805,217310,108,90010531,Complete,English,2019-07-02T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,Paper,2019-09-10T00:00:00.000
+806,32802,26,90000947,Complete,Russian,,What races or ethnicities do you identify with?,White,False,Paper,2018-12-18T00:00:00.000
+807,105168,59,90003947,Complete,English,2018-10-19T00:00:00.000,What other languages do you speak?,Ukrainian,False,Paper,2019-02-07T00:00:00.000
+808,67851,50003666,2023,Complete,English,2018-11-20T00:00:00.000,Has anyone in your household served Write in:,Other - Write-in: Other - (write-in optional),True,OnLine,2019-01-11T00:00:00.000
+809,32149,27,90000893,Complete,English,,What sex were you given at birth?,Female,False,Paper,2018-12-18T00:00:00.000
+810,119629,58,90005073,Complete,Chinese,2019-02-07T00:00:00.000,What other languages do you speak?,~~C~,True,Paper,2019-02-07T00:00:00.000
+811,63897,50003666,1738,Complete,English,2018-10-22T00:00:00.000,How would you describe your gender?,Male,False,OnLine,2019-01-11T00:00:00.000
+812,83824,53,90002703,Complete,English,2018-11-02T00:00:00.000,What ancestries or heritages do you identify with?,African American,False,Paper,2019-01-23T00:00:00.000
+813,132255,50003666,4013,Complete,English,2019-03-14T00:00:00.000,What other languages do you speak?,None,False,OnLine,2019-03-18T00:00:00.000
+814,21615,21,90000059,Complete,English,,Do you want to answer the questions?,Yes,False,Paper,2018-12-18T00:00:00.000
+815,28436,22,90000596,Complete,English,,How would you describe your gender?,Female,False,Paper,2018-12-18T00:00:00.000
+816,102391,62,90003735,Complete,Spanish,2019-02-07T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+817,66061,50003666,1898,Complete,English,2018-11-09T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-01-11T00:00:00.000
+818,89893,51,90003163,Complete,Spanish,2018-11-20T00:00:00.000,What ancestries or heritages do you identify with?,Ecuadorian,False,Paper,2019-01-23T00:00:00.000
+819,35505,25,90001167,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+820,117454,62,90004903,Complete,English,2019-12-13T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-02-07T00:00:00.000
+821,95954,50003666,2752,Complete,English,2019-01-31T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-02-07T00:00:00.000
+822,82295,53,90002585,Complete,English,2019-01-23T00:00:00.000,What other languages do you speak?,~I,True,Paper,2019-01-23T00:00:00.000
+823,67464,50003666,1997,Complete,English,2018-11-20T00:00:00.000,Has anyone in your household served Write in:,Other - Write-in: No ome,True,OnLine,2019-01-11T00:00:00.000
+824,120363,50003666,3039,Complete,English,2019-02-08T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-02-19T00:00:00.000
+825,95101,50003666,2646,Complete,English,2019-01-28T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-02-07T00:00:00.000
+826,226345,107,90011290,Complete,English,2019-03-21T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,Paper,2019-09-10T00:00:00.000
+827,60291,50003666,1484,Complete,English,2018-10-11T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-01-11T00:00:00.000
+828,87079,53,90002951,Complete,Spanish,2019-01-23T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-01-23T00:00:00.000
+829,93157,50003666,2409,Complete,English,2019-01-21T00:00:00.000,What ancestries or heritages do you identify with?,Dominican,False,OnLine,2019-02-07T00:00:00.000
+830,40207,33,90001539,Complete,Spanish,,What ancestries or heritages do you identify with?,American,False,Paper,2018-12-18T00:00:00.000
+831,126908,75,90005667,Complete,English,1944-04-14T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-02-19T00:00:00.000
+832,43815,33,90001819,Complete,Chinese,,What is the language you speak most at home?,English,False,Paper,2018-12-18T00:00:00.000
+833,68961,50003666,2100,Complete,English,2018-11-20T00:00:00.000,What NYC agency did you apply for services with today?,DOE - Department of Education,False,OnLine,2019-01-11T00:00:00.000
+834,99388,62,90003497,Complete,English,2019-01-07T00:00:00.000,Do you want to answer the questions?,No,False,Paper,2019-02-07T00:00:00.000
+835,85929,52,90002861,Complete,English,2019-01-23T00:00:00.000,What other languages do you speak?,None,False,Paper,2019-01-23T00:00:00.000
+836,89282,51,90003119,Complete,English,2019-01-23T00:00:00.000,How would you describe your gender?,Male,False,Paper,2019-01-23T00:00:00.000
+837,112229,61,90004501,Complete,English,2018-11-03T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+838,220475,106,90010801,Complete,Spanish,2019-07-23T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-09-10T00:00:00.000
+839,81809,54,90002547,Complete,Spanish,2019-01-23T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-01-23T00:00:00.000
+840,23609,17,90000218,Complete,English,,Has anyone in your household served Write in:,Other,False,Paper,2018-12-18T00:00:00.000
+841,91664,55,90003302,Complete,English,2019-01-23T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-01-23T00:00:00.000
+842,34906,17,90001121,Complete,English,,What is the language you speak most at home?,Spanish,False,Paper,2018-12-18T00:00:00.000
+843,119351,62,90005052,Complete,English,2018-12-13T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-02-07T00:00:00.000
+844,110724,59,90004384,Complete,English,2008-06-15T00:00:00.000,What ancestries or heritages do you identify with?,Chinese,False,Paper,2019-02-07T00:00:00.000
+845,22357,24,90000119,Complete,English,,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2018-12-18T00:00:00.000
+846,112575,61,90004530,Complete,English,2019-02-07T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-02-07T00:00:00.000
+847,101743,58,90003678,Complete,English,2019-02-07T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+848,36487,34,90001244,Complete,Chinese,,Do you want to answer the questions?,Yes,False,Paper,2018-12-18T00:00:00.000
+849,110020,58,90004329,Complete,English,2019-02-07T00:00:00.000,What other languages do you speak?,Chinese Cantonese,False,Paper,2019-02-07T00:00:00.000
+850,39975,22,90001519,Complete,English,,Do you want to answer the questions?,Yes,False,Paper,2018-12-18T00:00:00.000
+851,29528,29,90000687,Complete,Polish,,What ancestries or heritages do you identify with?,Filipino,False,Paper,2018-12-18T00:00:00.000
+852,61039,50003666,1538,Complete,English,2018-10-13T00:00:00.000,What races or ethnicities do you identify with?,Black / African American / African,False,OnLine,2019-01-11T00:00:00.000
+853,72472,50003666,2346,Complete,English,2018-12-17T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-01-11T00:00:00.000
+854,217906,108,90010586,Complete,English,2019-09-10T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-09-10T00:00:00.000
+855,112912,63,90004557,Complete,Spanish,2018-12-18T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-02-07T00:00:00.000
+856,22833,21,90000158,Complete,English,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+857,217220,50003666,8846,Complete,English,2019-08-12T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-09-10T00:00:00.000
+858,69331,50003666,2125,Complete,English,2018-11-21T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-01-11T00:00:00.000
+859,32440,26,90000920,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+860,92959,50003666,2384,Complete,English,2019-01-20T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-02-07T00:00:00.000
+861,37274,28,90001308,Complete,English,,Has anyone in your household served Write in:,Spouse Partner,False,Paper,2018-12-18T00:00:00.000
+862,226533,108,90011304,Complete,English,2019-09-10T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,Paper,2019-09-10T00:00:00.000
+863,64423,50003666,1777,Complete,English,2018-10-28T00:00:00.000,What NYC agency did you apply for services with today?,DOE - Department of Education,False,OnLine,2019-01-11T00:00:00.000
+864,81288,54,90002505,Complete,English,2018-12-18T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+865,93255,50003666,2420,Complete,English,2019-01-22T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-02-07T00:00:00.000
+866,76189,52,90002113,Complete,Chinese,2018-11-30T00:00:00.000,What ancestries or heritages do you identify with?,Chinese,False,Paper,2019-01-23T00:00:00.000
+867,89776,51,90003153,Complete,English,2019-01-23T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-01-23T00:00:00.000
+868,216681,50003666,8765,Complete,English,2019-08-08T00:00:00.000,How would you describe your gender?,Male,False,OnLine,2019-09-10T00:00:00.000
+869,71009,50003666,2244,Complete,English,2018-12-11T00:00:00.000,Are you intersex?,Not sure,False,OnLine,2019-01-11T00:00:00.000
+870,65185,50003666,1833,Complete,English,2018-11-02T00:00:00.000,What is the language you speak most at home?,English,False,OnLine,2019-01-11T00:00:00.000
+871,41645,27,90001648,Complete,English,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+872,75194,52,90002033,Complete,Spanish,2018-11-20T00:00:00.000,Do you want to answer the questions?,No,False,Paper,2019-01-23T00:00:00.000
+873,88350,54,90003050,Complete,English,2019-01-23T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-01-23T00:00:00.000
+874,122580,50003666,3360,Complete,English,2019-02-19T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-02-19T00:00:00.000
+875,60361,50003666,1489,Complete,English,2018-10-11T00:00:00.000,What ancestries or heritages do you identify with?,Hispanic or Latino not listed Write-in: Hispanic or Latino not listed (write-in optional),True,OnLine,2019-01-11T00:00:00.000
+876,94940,50003666,2629,Complete,English,2019-01-28T00:00:00.000,What ancestries or heritages do you identify with?,Dominican,False,OnLine,2019-02-07T00:00:00.000
+877,92774,50003666,2367,Complete,English,2019-01-20T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-02-07T00:00:00.000
+878,96756,50003666,2865,Complete,English,2019-02-04T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-02-07T00:00:00.000
+879,76311,53,90002122,Complete,English,2019-01-23T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-01-23T00:00:00.000
+880,227620,108,90011396,Complete,English,2619-06-26T00:00:00.000,What is your sexual orientation?,Bisexual,False,Paper,2019-09-10T00:00:00.000
+881,131477,50003666,3916,Complete,English,2019-03-08T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-03-08T00:00:00.000
+882,69033,50003666,2106,Complete,English,2018-11-20T00:00:00.000,What is the language you speak most at home?,Russian,False,OnLine,2019-01-11T00:00:00.000
+883,95085,50003666,2644,Complete,English,2019-01-28T00:00:00.000,Are you intersex?,No,False,OnLine,2019-02-07T00:00:00.000
+884,21675,34,90000064,Complete,English,,What other languages do you speak?,Chinese Cantonese,False,Paper,2018-12-18T00:00:00.000
+885,125520,73,90005542,Complete,English,2019-02-19T00:00:00.000,What ancestries or heritages do you identify with?,~AMAICANI,True,Paper,2019-02-19T00:00:00.000
+886,220357,107,90010790,Complete,Spanish,2019-09-10T00:00:00.000,Do you want to answer the questions?,No,False,Paper,2019-09-10T00:00:00.000
+887,120333,50003666,3032,Complete,English,2019-02-08T00:00:00.000,What ancestries or heritages do you identify with?,Puerto Rican,False,OnLine,2019-02-19T00:00:00.000
+888,94204,50003666,2541,Complete,English,2019-01-25T00:00:00.000,What ancestries or heritages do you identify with?,Other -(write-optional),False,OnLine,2019-02-07T00:00:00.000
+889,89560,52,90003139,Complete,English,1918-10-10T00:00:00.000,What ancestries or heritages do you identify with?,PVR~R~ORI~,True,Paper,2019-01-23T00:00:00.000
+890,7236,15,60,Complete,English,,Do you want to answer the questions?,No,False,Paper,2018-11-15T00:00:00.000
+891,110081,64,90004334,Complete,Chinese,2019-02-07T00:00:00.000,What ancestries or heritages do you identify with?,Chinese,False,Paper,2019-02-07T00:00:00.000
+892,97221,50003666,2927,Complete,English,2019-02-05T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-02-07T00:00:00.000
+893,59674,50003666,1429,Complete,English,2018-08-30T00:00:00.000,What ancestries or heritages do you identify with?,Native American Write-in: Native American (write-in optional),True,OnLine,2019-01-11T00:00:00.000
+894,129584,50003666,3662,Complete,English,2019-03-01T00:00:00.000,What ancestries or heritages do you identify with?,American,False,OnLine,2019-03-08T00:00:00.000
+895,119051,62,90005030,Complete,English,2019-02-07T00:00:00.000,Are you intersex?,No,False,Paper,2019-02-07T00:00:00.000
+896,104529,59,90003900,Complete,English,2019-02-07T00:00:00.000,What ancestries or heritages do you identify with?,Peruvian,False,Paper,2019-02-07T00:00:00.000
+897,31890,22,90000873,Complete,English,,Do you want to answer the questions?,No,False,Paper,2018-12-18T00:00:00.000
+898,101014,61,90003619,Complete,Spanish,2018-11-19T00:00:00.000,What other languages do you speak?,Spanish,False,Paper,2019-02-07T00:00:00.000
+899,78777,51,90002316,Complete,English,2018-12-14T00:00:00.000,What races or ethnicities do you identify with?,White,False,Paper,2019-01-23T00:00:00.000
+900,220196,50003666,9279,Complete,English,2019-08-26T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-09-10T00:00:00.000
+901,28138,33,90000574,Complete,English,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+902,84332,50,90002740,Complete,English,2018-11-30T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-01-23T00:00:00.000
+903,107025,58,90004093,Complete,English,2019-02-07T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-02-07T00:00:00.000
+904,116627,64,90004844,Complete,Chinese,2018-12-18T00:00:00.000,What ancestries or heritages do you identify with?,Chinese,False,Paper,2019-02-07T00:00:00.000
+905,102958,63,90003783,Complete,English,2018-12-18T00:00:00.000,What ancestries or heritages do you identify with?,American,False,Paper,2019-02-07T00:00:00.000
+906,35684,34,90001181,Complete,English,,Has anyone in your household served Write in:,Self,False,Paper,2018-12-18T00:00:00.000
+907,96397,50003666,2810,Complete,English,2019-02-01T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-02-07T00:00:00.000
+908,72314,50003666,2335,Complete,English,2018-12-11T00:00:00.000,What ancestries or heritages do you identify with?,African American,False,OnLine,2019-01-11T00:00:00.000
+909,67611,50003666,2004,Complete,English,2018-11-20T00:00:00.000,What is your sexual orientation?,Heterosexual (straight),False,OnLine,2019-01-11T00:00:00.000
+910,41593,33,90001644,Complete,English,,What is the language you speak most at home?,English,False,Paper,2018-12-18T00:00:00.000
+911,39074,33,90001449,Complete,English,,What other languages do you speak?,English,False,Paper,2018-12-18T00:00:00.000
+912,89647,54,90003144,Complete,English,2019-01-23T00:00:00.000,What sex were you given at birth?,Male,False,Paper,2019-01-23T00:00:00.000
+913,80511,50,90002447,Complete,English,2018-11-20T00:00:00.000,What service did you apply for?,Public school,False,Paper,2019-01-23T00:00:00.000
+914,103978,64,90003861,Complete,English,2018-12-18T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+915,26064,22,90000415,Complete,English,,How would you describe your gender?,Female,False,Paper,2018-12-18T00:00:00.000
+916,97357,50003666,2944,Complete,English,2019-02-05T00:00:00.000,What races or ethnicities do you identify with?,Asian,False,OnLine,2019-02-07T00:00:00.000
+917,82911,52,90002632,Complete,English,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,Trinidadian and Tobagonian,False,Paper,2019-01-23T00:00:00.000
+918,97620,50003666,2981,Complete,Spanish,2019-02-06T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-02-07T00:00:00.000
+919,91128,51,90003258,Complete,Spanish,2019-01-23T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-01-23T00:00:00.000
+920,106208,64,90004027,Complete,English,2018-11-09T00:00:00.000,What ancestries or heritages do you identify with?,Native American,False,Paper,2019-02-07T00:00:00.000
+921,75848,55,90002084,Complete,English,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,African American,False,Paper,2019-01-23T00:00:00.000
+922,221374,50003666,9448,Complete,English,2019-09-02T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-09-10T00:00:00.000
+923,121042,76,90005138,Complete,Spanish,2019-01-04T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-02-19T00:00:00.000
+924,82213,52,90002579,Complete,English,2018-12-14T00:00:00.000,What ancestries or heritages do you identify with?,Russian,False,Paper,2019-01-23T00:00:00.000
+925,220978,106,90010842,Complete,English,2019-07-31T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-09-10T00:00:00.000
+926,78966,53,90002330,Complete,Chinese,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,Chinese,False,Paper,2019-01-23T00:00:00.000
+927,95358,50003666,2685,Complete,English,2019-01-29T00:00:00.000,What races or ethnicities do you identify with?,Black / African American / African,False,OnLine,2019-02-07T00:00:00.000
+928,76865,54,90002165,Complete,English,2018-11-01T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-01-23T00:00:00.000
+929,31443,29,90000839,Complete,English,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+930,97086,50003666,2908,Complete,English,2019-02-04T00:00:00.000,How would you describe your gender?,Female,False,OnLine,2019-02-07T00:00:00.000
+931,107416,62,90004124,Complete,Spanish,2019-02-07T00:00:00.000,What is the language you speak most at home?,Spanish,False,Paper,2019-02-07T00:00:00.000
+932,226947,108,90011341,Complete,English,2005-03-29T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-09-10T00:00:00.000
+933,111188,60,90004420,Complete,English,2019-02-07T00:00:00.000,What other languages do you speak?,None,False,Paper,2019-02-07T00:00:00.000
+934,98928,58,90003461,Complete,English,2019-02-07T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-02-07T00:00:00.000
+935,74783,55,90002001,Complete,Spanish,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,Cuban,False,Paper,2019-01-23T00:00:00.000
+936,29757,19,90000705,Complete,English,,Are you intersex?,No,False,Paper,2018-12-18T00:00:00.000
+937,42464,34,90001714,Complete,English,,What service did you apply for?,Senior Center,False,Paper,2018-12-18T00:00:00.000
+938,87584,55,90002988,Complete,English,2018-10-16T00:00:00.000,Has anyone in your household served Write in:,B~~T~ER~,True,Paper,2019-01-23T00:00:00.000
+939,122491,75,90005270,Complete,Chinese,2018-12-17T00:00:00.000,What sex were you given at birth?,Male,False,Paper,2019-02-19T00:00:00.000
+940,39788,33,90001504,Complete,English,,What is the language you speak most at home?,English,False,Paper,2018-12-18T00:00:00.000
+941,31301,33,90000826,Complete,English,,What other languages do you speak?,Kru Ibo or Yoruba,False,Paper,2018-12-18T00:00:00.000
+942,89741,52,90003151,Complete,Spanish,2018-11-14T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,Paper,2019-01-23T00:00:00.000
+943,59244,50003666,1388,Complete,English,2018-07-20T00:00:00.000,What races or ethnicities do you identify with?,Black / African American / African,False,OnLine,2019-01-11T00:00:00.000
+944,122179,50003666,3310,Complete,English,2019-02-17T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-02-19T00:00:00.000
+945,85353,53,90002815,Complete,English,2019-01-23T00:00:00.000,What is the language you speak most at home?,English,False,Paper,2019-01-23T00:00:00.000
+946,221122,105,90010855,Complete,English,2019-09-10T00:00:00.000,Are you intersex?,No,False,Paper,2019-09-10T00:00:00.000
+947,25883,34,90000400,Complete,English,,Has anyone in your household served Write in:,Other,False,Paper,2018-12-18T00:00:00.000
+948,121945,50003666,3272,Complete,English,2019-02-14T00:00:00.000,Has anyone in your household served Write in:,Other - Write-in: None,True,OnLine,2019-02-19T00:00:00.000
+949,226360,105,90011291,Complete,English,,How would you describe your gender?,Female,False,Paper,2019-09-10T00:00:00.000
+950,61549,50003666,1574,Complete,English,2018-10-15T00:00:00.000,What races or ethnicities do you identify with?,Black / African American / African,False,OnLine,2019-01-11T00:00:00.000
+951,222848,50003666,9656,Complete,English,2019-09-08T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-09-10T00:00:00.000
+952,94370,50003666,2564,Complete,English,2019-01-25T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-02-07T00:00:00.000
+953,41546,34,90001641,Complete,English,,Has anyone in your household served Write in:,Spouse Partner,False,Paper,2018-12-18T00:00:00.000
+954,76364,53,90002126,Complete,English,2019-01-23T00:00:00.000,What ancestries or heritages do you identify with?,~~~SH,True,Paper,2019-01-23T00:00:00.000
+955,127389,76,90005710,Complete,Spanish,2019-01-09T00:00:00.000,What ancestries or heritages do you identify with?,Puerto Rican,False,Paper,2019-02-19T00:00:00.000
+956,102395,61,90003736,Complete,Spanish,2018-12-05T00:00:00.000,What ancestries or heritages do you identify with?,Dominican,False,Paper,2019-02-07T00:00:00.000
+957,27433,36,90000520,Complete,English,,How well do you speak English?,Well,False,Paper,2018-12-18T00:00:00.000
+958,127817,50003666,3411,Complete,English,2019-02-20T00:00:00.000,What NYC agency did you apply for services with today?,HRA - Human Resources Administration / Social Services,False,OnLine,2019-03-08T00:00:00.000
+959,27736,29,90000544,Complete,English,,What other languages do you speak?,Spanish,False,Paper,2018-12-18T00:00:00.000
+960,103189,62,90003800,Complete,Spanish,2019-01-08T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+961,43632,26,90001805,Complete,Chinese,,How well do you speak English?,Fluently/Very well,False,Paper,2018-12-18T00:00:00.000
+962,99737,61,90003524,Complete,English,2018-12-10T00:00:00.000,How would you describe your gender?,Male,False,Paper,2019-02-07T00:00:00.000
+963,24733,33,90000309,Complete,English,,What other languages do you speak?,None,False,Paper,2018-12-18T00:00:00.000
+964,83655,51,90002687,Complete,English,2019-01-23T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-01-23T00:00:00.000
+965,94909,50003666,2624,Complete,English,2019-01-28T00:00:00.000,What service did you apply for?,Supplemental Nutrition Assistance Program (SNAP) alone,False,OnLine,2019-02-07T00:00:00.000
+966,120254,50003666,3025,Complete,English,2019-02-07T00:00:00.000,How would you describe your gender?,Male,False,OnLine,2019-02-19T00:00:00.000
+967,129200,50003666,3614,Complete,English,2019-02-27T00:00:00.000,How well do you speak English?,Fluently/Very well,False,OnLine,2019-03-08T00:00:00.000
+968,66342,50003666,1917,Complete,English,2018-11-13T00:00:00.000,What is the language you speak most at home?,English,False,OnLine,2019-01-11T00:00:00.000
+969,99261,63,90003486,Complete,Russian,2019-02-07T00:00:00.000,How would you describe your gender?,Female,False,Paper,2019-02-07T00:00:00.000
+970,222424,50003666,9597,Complete,English,2019-09-06T00:00:00.000,What other languages do you speak?,Spanish,False,OnLine,2019-09-10T00:00:00.000
+971,59236,50003666,1387,Complete,English,2018-07-19T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-01-11T00:00:00.000
+972,216068,106,90010439,Complete,Chinese,2019-07-31T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-09-10T00:00:00.000
+973,68955,50003666,2100,Complete,English,2018-11-20T00:00:00.000,What other languages do you speak?,English,False,OnLine,2019-01-11T00:00:00.000
+974,105931,64,90004002,Complete,English,2018-12-13T00:00:00.000,Do you want to answer the questions?,Yes,False,Paper,2019-02-07T00:00:00.000
+975,68864,50003666,2094,Complete,English,2018-11-20T00:00:00.000,How would you describe your gender?,Male,False,OnLine,2019-01-11T00:00:00.000
+976,94740,50003666,2607,Complete,English,2019-01-27T00:00:00.000,What races or ethnicities do you identify with?,Hispanic or Latino,False,OnLine,2019-02-07T00:00:00.000
+977,117772,61,90004930,Complete,English,2018-12-14T00:00:00.000,What sex were you given at birth?,Female,False,Paper,2019-02-07T00:00:00.000
+978,70454,50003666,2205,Complete,English,2018-12-01T00:00:00.000,What ancestries or heritages do you identify with?,American,False,OnLine,2019-01-11T00:00:00.000
+979,97462,50003666,2960,Complete,English,2019-02-06T00:00:00.000,Do you want to answer the questions?,No,False,OnLine,2019-02-07T00:00:00.000
+980,127700,50003666,3398,Complete,English,2019-02-20T00:00:00.000,Has anyone in your household served Write in:,English,False,OnLine,2019-03-08T00:00:00.000
+981,122698,73,90005285,Complete,English,2019-01-14T00:00:00.000,Has anyone in your household served Write in:,Other,False,Paper,2019-02-19T00:00:00.000
+982,79125,52,90002343,Complete,English,2018-12-16T00:00:00.000,Are you intersex?,No,False,Paper,2019-01-23T00:00:00.000
+983,70455,50003666,2205,Complete,English,2018-12-01T00:00:00.000,What other languages do you speak?,English,False,OnLine,2019-01-11T00:00:00.000
+984,31952,26,90000879,Complete,English,,How would you describe your gender?,Male,False,Paper,2018-12-18T00:00:00.000
+985,133232,50003666,4154,Complete,English,2019-03-18T00:00:00.000,What other languages do you speak?,None,False,OnLine,2019-03-19T00:00:00.000
+986,61045,50003666,1538,Complete,English,2018-10-13T00:00:00.000,How would you describe your gender?,Female,False,OnLine,2019-01-11T00:00:00.000
+987,64004,50003666,1745,Complete,English,2018-10-23T00:00:00.000,What sex were you given at birth?,Female,False,OnLine,2019-01-11T00:00:00.000
+988,115961,62,90004789,Complete,English,2018-12-10T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-02-07T00:00:00.000
+989,35142,34,90001138,Complete,Chinese,,Do you want to answer the questions?,Yes,False,Paper,2018-12-18T00:00:00.000
+990,95149,50003666,2650,Complete,English,2019-01-28T00:00:00.000,Are you intersex?,No,False,OnLine,2019-02-07T00:00:00.000
+991,87006,54,90002945,Complete,English,2019-01-23T00:00:00.000,What other languages do you speak?,German,False,Paper,2019-01-23T00:00:00.000
+992,128979,50003666,3590,Complete,English,2019-02-26T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-03-08T00:00:00.000
+993,217224,105,90010525,Complete,English,2019-09-10T00:00:00.000,How well do you speak English?,Fluently/Very well,False,Paper,2019-09-10T00:00:00.000
+994,95597,50003666,2709,Complete,English,2019-01-30T00:00:00.000,What ancestries or heritages do you identify with?,African American,False,OnLine,2019-02-07T00:00:00.000
+995,64638,50003666,1794,Complete,English,2018-10-30T00:00:00.000,Do you want to answer the questions?,Yes,False,OnLine,2019-01-11T00:00:00.000
+996,103668,59,90003838,Complete,English,2019-02-07T00:00:00.000,Do you want to answer the questions?,No,False,Paper,2019-02-07T00:00:00.000
+997,131877,50003666,3962,Complete,English,2019-03-11T00:00:00.000,Has anyone in your household served Write in:,Spanish,False,OnLine,2019-03-14T00:00:00.000
+998,111288,64,90004429,Complete,Chinese,2019-02-07T00:00:00.000,What other languages do you speak?,English,False,Paper,2019-02-07T00:00:00.000
+999,35303,17,90001150,Complete,English,,What sex were you given at birth?,Female,False,Paper,2018-12-18T00:00:00.000

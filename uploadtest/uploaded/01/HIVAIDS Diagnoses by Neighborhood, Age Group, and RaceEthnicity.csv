@@ -1,0 +1,1001 @@
+,year,neighborhood,race,age,hiv_diagnoses_num,hiv_diagnoses_num_per_100k,hiv_aids_concurrent_num,concurrent_hiv_aids_among_all,aids_diagnoses_num,aids_diagnoses_num_per_100k
+0,2013,High Bridge - Morrisania,Native American,30 - 39,0,0,0,0,0,0
+1,2010,East Harlem,Unknown,40 - 49,0,NA,0,NA,0,NA
+2,2011,High Bridge - Morrisania,Unknown,40 - 49,0,NA,0,NA,0,NA
+3,2012,Greenwich Village - SoHo,Native American,50 - 59,0,0,0,0,0,0
+4,2011,Long Island City - Astoria,Multiracial,20 - 29,0,0,0,0,0,0
+5,2012,Upper Eastside,Multiracial,40 - 49,0,0,0,0,0,0
+6,2013,West Queens,Hispanic,All,101,39,23,22.8,51,19.7
+7,2013,Chelsea - Clinton,All,All,150,100.8,20,13.3,68,45.7
+8,2012,West Queens,Asian/Pacific Islander,20 - 29,8,36.4,2,25,3,13.7
+9,2011,Southeast Queens,All,All,30,15.3,10,33.3,20,10.2
+10,2010,Unknown,Asian/Pacific Islander,30 - 39,6,NA,2,NA,4,NA
+11,2011,East New York,Multiracial,50 - 59,0,0,0,0,0,0
+12,2010,East Flatbush - Flatbush,Native American,All,0,0,0,0,0,0
+13,2010,Greenpoint,Multiracial,30 - 39,0,0,0,0,0,0
+14,2010,Canarsie - Flatlands,Black,40 - 49,13,71.3,4,30.8,16,87.8
+15,2013,Long Island City - Astoria,Native American,20 - 29,0,0,0,0,0,0
+16,2012,Port Richmond,Asian/Pacific Islander,All,0,0,0,0,0,0
+17,2010,Central Harlem - Morningside Heights,Multiracial,0 - 19,0,0,0,0,0,0
+18,2013,Hunts Point - Mott Haven,Native American,30 - 39,0,0,0,0,0,0
+19,2011,Williamsburg - Bushwick,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+20,2011,Jamaica,Multiracial,50 - 59,0,0,0,0,0,0
+21,2010,Lower Manhattan,Multiracial,40 - 49,0,0,0,0,0,0
+22,2010,Pelham - Throgs Neck,Black,0 - 19,2,11.7,0,0,0,0
+23,2011,Lower Manhattan,White,60+,0,0,0,0,0,0
+24,2010,Hunts Point - Mott Haven,Asian/Pacific Islander,40 - 49,0,0,0,0,0,0
+25,2011,Hunts Point - Mott Haven,Native American,60+,0,0,0,0,0,0
+26,2010,Crotona - Tremont,Unknown,30 - 39,0,NA,0,NA,0,NA
+27,2013,Southeast Queens,Hispanic,0 - 19,0,0,0,0,0,0
+28,2011,Fordham - Bronx Park,Multiracial,40 - 49,0,0,0,0,0,0
+29,2012,Fordham - Bronx Park,Asian/Pacific Islander,30 - 39,0,0,0,0,0,0
+30,2011,East Flatbush - Flatbush,Hispanic,20 - 29,7,121.2,0,0,4,69.2
+31,2013,East Harlem,Black,0 - 19,1,12.8,0,0,0,0
+32,2012,Ridgewood - Forest Hills,Multiracial,60+,0,0,0,0,0,0
+33,2011,Hunts Point - Mott Haven,Hispanic,50 - 59,5,49.4,3,60,6,59.3
+34,2011,Williamsburg - Bushwick,Hispanic,0 - 19,5,15.7,1,20,1,3.1
+35,2013,Upper Eastside,Black,0 - 19,1,98.5,0,0,0,0
+36,2010,Downtown - Heights - Park Slope,Unknown,All,0,NA,0,NA,0,NA
+37,2011,Fordham - Bronx Park,All,All,111,43.6,26,23.4,118,46.3
+38,2010,Upper Eastside,Native American,40 - 49,0,0,0,0,0,0
+39,2011,Kingsbridge - Riverdale,Black,All,7,66.4,3,42.9,2,19
+40,2012,Flushing - Clearview,Native American,30 - 39,0,0,0,0,0,0
+41,2013,East New York,Native American,30 - 39,0,0,0,0,0,0
+42,2010,Kingsbridge - Riverdale,Native American,20 - 29,0,0,0,0,0,0
+43,2013,East Flatbush - Flatbush,Asian/Pacific Islander,40 - 49,0,0,0,0,0,0
+44,2012,Washington Heights - Inwood,Black,20 - 29,23,441.8,4,17.4,6,115.2
+45,2010,Kingsbridge - Riverdale,White,All,2,5.2,2,100,4,10.3
+46,2013,Flushing - Clearview,Native American,All,0,0,0,0,0,0
+47,2013,Stapleton - St. George,Unknown,60+,0,NA,0,NA,0,NA
+48,2011,Fordham - Bronx Park,Native American,60+,0,0,0,0,0,0
+49,2012,Willowbrook,Native American,60+,0,0,0,0,0,0
+50,2012,High Bridge - Morrisania,White,60+,1,172.6,0,0,1,172.6
+51,2011,Lower Manhattan,Unknown,60+,0,NA,0,NA,0,NA
+52,2012,Stapleton - St. George,White,0 - 19,1,8.9,0,0,0,0
+53,2012,Canarsie - Flatlands,White,0 - 19,0,0,0,0,0,0
+54,2011,High Bridge - Morrisania,Multiracial,20 - 29,*,*,0,0,0,0
+55,2011,Union Square - Lower Eastside,Multiracial,30 - 39,1,139.1,1,100,0,0
+56,2013,Unknown,Hispanic,30 - 39,19,NA,4,NA,17,NA
+57,2012,Stapleton - St. George,Asian/Pacific Islander,40 - 49,1,56.7,0,0,0,0
+58,2013,Upper Eastside,Multiracial,20 - 29,1,141.5,0,0,0,0
+59,2012,East Flatbush - Flatbush,Native American,40 - 49,*,*,*,*,*,*
+60,2013,Borough Park,Asian/Pacific Islander,All,2,2.7,0,0,0,0
+61,2012,East Flatbush - Flatbush,Unknown,40 - 49,0,NA,0,NA,0,NA
+62,2010,Flushing - Clearview,White,0 - 19,0,0,0,0,0,0
+63,2013,Port Richmond,White,50 - 59,0,0,0,0,0,0
+64,2010,Kingsbridge - Riverdale,Black,20 - 29,2,153.6,1,50,1,76.8
+65,2010,South Beach - Tottenville,Multiracial,60+,0,0,0,0,0,0
+66,2013,Washington Heights - Inwood,Black,All,40,130.1,13,32.5,32,104.1
+67,2013,Hunts Point - Mott Haven,White,40 - 49,0,0,0,0,0,0
+68,2013,Crotona - Tremont,Native American,0 - 19,0,0,0,0,0,0
+69,2012,Stapleton - St. George,Hispanic,40 - 49,1,26.5,0,0,2,52.9
+70,2011,West Queens,White,30 - 39,3,24.9,0,0,1,8.3
+71,2013,East New York,Native American,50 - 59,0,0,0,0,0,0
+72,2011,Upper Eastside,Native American,60+,0,0,0,0,0,0
+73,2011,Fresh Meadows,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+74,2011,Kingsbridge - Riverdale,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+75,2012,Kingsbridge - Riverdale,Native American,All,0,0,0,0,0,0
+76,2013,Jamaica,Native American,20 - 29,0,0,0,0,0,0
+77,2013,Lower Manhattan,Native American,50 - 59,0,0,0,0,0,0
+78,2013,Bayside - Little Neck,Unknown,30 - 39,0,NA,0,NA,0,NA
+79,2010,Upper Eastside,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+80,2011,Williamsburg - Bushwick,Hispanic,All,44,43.1,7,15.9,23,22.5
+81,2012,Sunset Park,Multiracial,60+,0,0,0,0,0,0
+82,2010,Union Square - Lower Eastside,Unknown,60+,0,NA,0,NA,0,NA
+83,2013,Pelham - Throgs Neck,Asian/Pacific Islander,40 - 49,1,30.7,0,0,0,0
+84,2011,Fordham - Bronx Park,White,40 - 49,1,43.5,0,0,1,43.5
+85,2011,East Harlem,Asian/Pacific Islander,20 - 29,0,0,0,0,1,73.7
+86,2013,Chelsea - Clinton,Black,30 - 39,4,303.3,0,0,2,151.6
+87,2012,Bayside - Little Neck,Native American,40 - 49,0,0,0,0,0,0
+88,2010,East Flatbush - Flatbush,Multiracial,40 - 49,0,0,0,0,0,0
+89,2010,Ridgewood - Forest Hills,Hispanic,40 - 49,2,20.1,0,0,1,10.1
+90,2013,Kingsbridge - Riverdale,Asian/Pacific Islander,30 - 39,0,0,0,0,0,0
+91,2012,Southeast Queens,Native American,All,0,0,0,0,0,0
+92,2011,Crotona - Tremont,Asian/Pacific Islander,30 - 39,0,0,0,0,0,0
+93,2013,Borough Park,Hispanic,50 - 59,1,24.3,1,100,1,24.3
+94,2011,Downtown - Heights - Park Slope,Hispanic,0 - 19,1,9.7,0,0,1,9.7
+95,2010,Hunts Point - Mott Haven,Native American,20 - 29,0,0,0,0,0,0
+96,2013,Bayside - Little Neck,Unknown,60+,0,NA,0,NA,0,NA
+97,2011,Southwest Queens,Asian/Pacific Islander,All,6,9,1,16.7,3,4.5
+98,2013,Southwest Queens,Black,60+,0,0,0,0,3,55.7
+99,2012,Lower Manhattan,Hispanic,60+,0,0,0,0,0,0
+100,2010,Kingsbridge - Riverdale,White,40 - 49,0,0,0,0,0,0
+101,2012,Central Harlem - Morningside Heights,White,30 - 39,5,97.9,0,0,0,0
+102,2013,Upper Eastside,Multiracial,0 - 19,0,0,0,0,0,0
+103,2011,Chelsea - Clinton,Unknown,30 - 39,0,NA,0,NA,0,NA
+104,2011,Canarsie - Flatlands,Multiracial,50 - 59,0,0,0,0,0,0
+105,2013,Fordham - Bronx Park,Unknown,60+,0,NA,0,NA,0,NA
+106,2011,Hunts Point - Mott Haven,White,50 - 59,0,0,0,0,*,*
+107,2010,Sunset Park,White,All,5,23.3,1,20,1,4.7
+108,2012,Downtown - Heights - Park Slope,Black,20 - 29,12,224.8,0,0,0,0
+109,2012,Willowbrook,Unknown,50 - 59,0,NA,0,NA,0,NA
+110,2011,Upper Westside,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+111,2010,Sunset Park,Asian/Pacific Islander,60+,0,0,0,0,0,0
+112,2012,Chelsea - Clinton,Unknown,60+,0,NA,0,NA,0,NA
+113,2011,Greenwich Village - SoHo,Black,20 - 29,1,188.3,0,0,1,188.3
+114,2013,Pelham - Throgs Neck,Unknown,50 - 59,0,NA,0,NA,0,NA
+115,2011,Southwest Queens,Unknown,40 - 49,0,NA,0,NA,0,NA
+116,2013,Central Harlem - Morningside Heights,Multiracial,0 - 19,0,0,0,0,0,0
+117,2010,Fresh Meadows,Unknown,All,0,NA,0,NA,0,NA
+118,2011,Sunset Park,Black,60+,0,0,0,0,0,0
+119,2011,Coney Island - Sheepshead Bay,Black,0 - 19,3,48.8,0,0,1,16.3
+120,2013,Pelham - Throgs Neck,Multiracial,0 - 19,0,0,0,0,0,0
+121,2011,Fresh Meadows,Unknown,0 - 19,0,NA,0,NA,0,NA
+122,2012,Sunset Park,Asian/Pacific Islander,40 - 49,1,14.1,0,0,0,0
+123,2013,Stapleton - St. George,White,50 - 59,0,0,0,0,1,9.9
+124,2013,Central Harlem - Morningside Heights,Unknown,0 - 19,0,NA,0,NA,0,NA
+125,2010,Ridgewood - Forest Hills,White,30 - 39,3,15.8,0,0,1,5.3
+126,2010,West Queens,Asian/Pacific Islander,30 - 39,7,32.3,3,42.9,3,13.8
+127,2011,Greenwich Village - SoHo,Black,30 - 39,*,*,0,0,*,*
+128,2010,Rockaway,Unknown,0 - 19,0,NA,0,NA,0,NA
+129,2013,Upper Eastside,Unknown,30 - 39,0,NA,0,NA,0,NA
+130,2010,Upper Eastside,Hispanic,20 - 29,1,34.5,1,100,1,34.5
+131,2011,Washington Heights - Inwood,Multiracial,0 - 19,0,0,0,0,0,0
+132,2010,Sunset Park,Black,All,3,98.2,0,0,8,261.9
+133,2012,Ridgewood - Forest Hills,Black,All,1,20,0,0,0,0
+134,2013,Coney Island - Sheepshead Bay,Native American,30 - 39,0,0,0,0,0,0
+135,2013,East New York,Multiracial,30 - 39,0,0,0,0,0,0
+136,2012,Flushing - Clearview,Hispanic,0 - 19,1,8.8,0,0,0,0
+137,2013,Chelsea - Clinton,Native American,40 - 49,0,0,0,0,0,0
+138,2010,Sunset Park,Multiracial,All,1,72,0,0,0,0
+139,2012,Hunts Point - Mott Haven,Unknown,0 - 19,0,NA,0,NA,0,NA
+140,2013,Jamaica,Hispanic,0 - 19,1,6.4,0,0,0,0
+141,2013,Central Harlem - Morningside Heights,Black,All,74,82.6,26,35.1,63,70.3
+142,2011,Greenpoint,White,0 - 19,0,0,0,0,0,0
+143,2011,Unknown,Unknown,50 - 59,0,NA,0,NA,0,NA
+144,2011,Willowbrook,Asian/Pacific Islander,All,0,0,0,0,0,0
+145,2013,Bayside - Little Neck,Hispanic,60+,0,0,0,0,0,0
+146,2012,Fordham - Bronx Park,Hispanic,0 - 19,5,9.8,0,0,1,2
+147,2013,Central Harlem - Morningside Heights,Multiracial,60+,0,0,0,0,0,0
+148,2011,Borough Park,White,40 - 49,2,10.4,1,50,1,5.2
+149,2010,Borough Park,Black,60+,2,77,1,50,1,38.5
+150,2013,East New York,White,0 - 19,0,0,0,0,0,0
+151,2013,Borough Park,Black,0 - 19,1,31.2,0,0,0,0
+152,2012,Chelsea - Clinton,All,All,147,99,21,14.3,70,47.1
+153,2012,Bayside - Little Neck,Multiracial,All,1,88.6,0,0,0,0
+154,2011,Fordham - Bronx Park,Native American,40 - 49,0,0,0,0,0,0
+155,2013,Upper Westside,Native American,40 - 49,0,0,0,0,0,0
+156,2010,Fresh Meadows,Native American,40 - 49,0,0,0,0,0,0
+157,2012,Port Richmond,Black,0 - 19,1,16.8,0,0,0,0
+158,2012,East Harlem,Hispanic,30 - 39,6,69.1,2,33.3,6,69.1
+159,2013,Downtown - Heights - Park Slope,Unknown,30 - 39,0,NA,0,NA,0,NA
+160,2010,Jamaica,Black,60+,8,27.1,3,37.5,9,30.4
+161,2010,Downtown - Heights - Park Slope,Black,20 - 29,15,287.5,1,6.7,3,57.5
+162,2012,Gramercy Park - Murray Hill,Unknown,30 - 39,0,NA,0,NA,0,NA
+163,2011,Gramercy Park - Murray Hill,Asian/Pacific Islander,30 - 39,2,34.4,0,0,0,0
+164,2010,Coney Island - Sheepshead Bay,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+165,2012,Central Harlem - Morningside Heights,Multiracial,All,1,27.8,0,0,0,0
+166,2010,Canarsie - Flatlands,Unknown,60+,0,NA,0,NA,0,NA
+167,2010,High Bridge - Morrisania,Asian/Pacific Islander,60+,0,0,0,0,0,0
+168,2011,Upper Eastside,Hispanic,30 - 39,2,64.5,1,50,1,32.2
+169,2011,Central Harlem - Morningside Heights,Hispanic,60+,0,0,0,0,2,46.1
+170,2013,West Queens,All,All,145,28.7,38,26.2,89,17.6
+171,2012,Gramercy Park - Murray Hill,Multiracial,20 - 29,0,0,0,0,0,0
+172,2013,East Flatbush - Flatbush,Black,All,90,41.3,18,20,59,27.1
+173,2011,Upper Westside,White,30 - 39,9,34.9,0,0,1,3.9
+174,2010,Hunts Point - Mott Haven,Hispanic,30 - 39,10,75,3,30,13,97.5
+175,2013,West Queens,Unknown,All,0,NA,0,NA,0,NA
+176,2011,Upper Eastside,Multiracial,30 - 39,0,0,0,0,0,0
+177,2011,Hunts Point - Mott Haven,Black,0 - 19,4,33.5,1,25,1,8.4
+178,2012,Sunset Park,Unknown,50 - 59,0,NA,0,NA,0,NA
+179,2011,Southeast Queens,Native American,60+,0,0,0,0,0,0
+180,2012,East Flatbush - Flatbush,White,0 - 19,0,0,0,0,0,0
+181,2012,Coney Island - Sheepshead Bay,Native American,All,0,0,0,0,0,0
+182,2011,East New York,Multiracial,60+,0,0,0,0,0,0
+183,2010,Coney Island - Sheepshead Bay,Multiracial,All,1,32.2,0,0,1,32.2
+184,2012,Kingsbridge - Riverdale,Hispanic,60+,0,0,0,0,1,18.6
+185,2012,Lower Manhattan,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+186,2012,Bensonhurst - Bay Ridge,Unknown,All,0,NA,0,NA,0,NA
+187,2013,East Flatbush - Flatbush,Hispanic,All,15,44.5,3,20,13,38.5
+188,2011,Flushing - Clearview,Multiracial,60+,0,0,0,0,0,0
+189,2012,Bayside - Little Neck,Asian/Pacific Islander,60+,0,0,0,0,0,0
+190,2013,South Beach - Tottenville,Native American,All,0,0,0,0,0,0
+191,2010,Chelsea - Clinton,Hispanic,50 - 59,4,154.6,2,50,3,116
+192,2012,Upper Westside,Hispanic,50 - 59,3,70.5,1,33.3,3,70.5
+193,2012,Crotona - Tremont,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+194,2011,Bedford Stuyvesant - Crown Heights,Native American,All,0,0,0,0,0,0
+195,2013,Rockaway,Unknown,All,0,NA,0,NA,0,NA
+196,2012,High Bridge - Morrisania,Unknown,30 - 39,0,NA,0,NA,0,NA
+197,2010,Washington Heights - Inwood,Black,60+,2,28.4,1,50,2,28.4
+198,2013,Rockaway,Native American,0 - 19,0,0,0,0,0,0
+199,2010,Downtown - Heights - Park Slope,Black,50 - 59,8,172,3,37.5,9,193.5
+200,2013,Fordham - Bronx Park,Black,50 - 59,8,90,1,12.5,8,90
+201,2011,Coney Island - Sheepshead Bay,Unknown,30 - 39,0,NA,0,NA,0,NA
+202,2010,East Harlem,Asian/Pacific Islander,20 - 29,1,73.8,0,0,0,0
+203,2010,Northeast Bronx,Multiracial,40 - 49,0,0,0,0,0,0
+204,2013,Fordham - Bronx Park,Multiracial,40 - 49,0,0,0,0,0,0
+205,2012,Bensonhurst - Bay Ridge,Black,30 - 39,0,0,0,0,0,0
+206,2012,Fordham - Bronx Park,Multiracial,30 - 39,0,0,0,0,0,0
+207,2010,Bensonhurst - Bay Ridge,Hispanic,60+,0,0,0,0,1,45.3
+208,2012,Stapleton - St. George,Multiracial,50 - 59,0,0,0,0,0,0
+209,2013,Central Harlem - Morningside Heights,White,20 - 29,5,72.4,0,0,0,0
+210,2010,Pelham - Throgs Neck,Native American,50 - 59,0,0,0,0,0,0
+211,2010,Central Harlem - Morningside Heights,White,40 - 49,2,65.8,1,50,2,65.8
+212,2011,Long Island City - Astoria,Native American,30 - 39,0,0,0,0,0,0
+213,2010,Greenwich Village - SoHo,White,0 - 19,0,0,0,0,0,0
+214,2013,Hunts Point - Mott Haven,Asian/Pacific Islander,30 - 39,0,0,0,0,0,0
+215,2012,Fordham - Bronx Park,Native American,All,0,0,0,0,0,0
+216,2013,Sunset Park,Black,30 - 39,0,0,0,0,0,0
+217,2013,Southwest Queens,Multiracial,40 - 49,0,0,0,0,0,0
+218,2011,Canarsie - Flatlands,Hispanic,40 - 49,1,41.3,1,100,2,82.6
+219,2010,Southwest Queens,Unknown,50 - 59,0,NA,0,NA,0,NA
+220,2011,Pelham - Throgs Neck,Hispanic,20 - 29,17,69.1,5,29.4,12,48.8
+221,2011,Hunts Point - Mott Haven,Native American,20 - 29,0,0,0,0,0,0
+222,2010,Port Richmond,Black,All,6,34.3,3,50,4,22.9
+223,2013,Central Harlem - Morningside Heights,Native American,50 - 59,0,0,0,0,0,0
+224,2010,Williamsburg - Bushwick,White,30 - 39,3,49.3,0,0,1,16.4
+225,2012,Jamaica,Hispanic,All,15,28.2,6,40,13,24.4
+226,2011,Borough Park,Native American,20 - 29,0,0,0,0,0,0
+227,2013,East New York,Black,20 - 29,18,112.7,3,16.7,16,100.2
+228,2013,Central Harlem - Morningside Heights,Hispanic,All,37,89.9,8,21.6,18,43.7
+229,2010,Sunset Park,Multiracial,20 - 29,0,0,0,0,0,0
+230,2010,Stapleton - St. George,All,All,28,22.6,9,32.1,27,21.8
+231,2013,Greenwich Village - SoHo,Multiracial,40 - 49,*,*,0,0,0,0
+232,2011,Long Island City - Astoria,Asian/Pacific Islander,All,6,16.1,0,0,1,2.7
+233,2011,Pelham - Throgs Neck,Native American,50 - 59,0,0,0,0,0,0
+234,2013,Bensonhurst - Bay Ridge,Unknown,40 - 49,0,NA,0,NA,0,NA
+235,2012,Bensonhurst - Bay Ridge,Unknown,30 - 39,0,NA,0,NA,0,NA
+236,2010,Stapleton - St. George,Multiracial,0 - 19,0,0,0,0,0,0
+237,2012,Unknown,Multiracial,50 - 59,0,NA,0,NA,0,NA
+238,2010,Bayside - Little Neck,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+239,2012,Port Richmond,Hispanic,40 - 49,1,29.1,0,0,1,29.1
+240,2010,Bayside - Little Neck,Asian/Pacific Islander,60+,0,0,0,0,0,0
+241,2010,Jamaica,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+242,2013,Port Richmond,Unknown,60+,0,NA,0,NA,0,NA
+243,2010,Downtown - Heights - Park Slope,Hispanic,All,18,44.6,1,5.6,17,42.2
+244,2013,Willowbrook,Hispanic,All,1,8.3,0,0,1,8.3
+245,2010,West Queens,Native American,60+,0,0,0,0,0,0
+246,2013,Washington Heights - Inwood,White,30 - 39,2,24.4,0,0,5,61
+247,2012,Borough Park,Hispanic,20 - 29,4,44.5,0,0,2,22.3
+248,2013,Upper Eastside,Asian/Pacific Islander,All,5,23.6,1,20,1,4.7
+249,2012,East Flatbush - Flatbush,Hispanic,40 - 49,3,69.5,2,66.7,4,92.6
+250,2011,Downtown - Heights - Park Slope,Black,0 - 19,4,50.8,0,0,0,0
+251,2010,Unknown,Multiracial,20 - 29,2,NA,0,NA,1,NA
+252,2012,Port Richmond,Black,30 - 39,2,91.8,0,0,0,0
+253,2011,South Beach - Tottenville,Multiracial,0 - 19,0,0,0,0,0,0
+254,2012,Long Island City - Astoria,Unknown,50 - 59,0,NA,0,NA,0,NA
+255,2011,Rockaway,Black,50 - 59,8,136.8,3,37.5,5,85.5
+256,2012,East Harlem,Black,20 - 29,10,190.3,2,20,6,114.2
+257,2010,Willowbrook,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+258,2011,Washington Heights - Inwood,Multiracial,40 - 49,0,0,0,0,0,0
+259,2013,Southwest Queens,Native American,30 - 39,0,0,0,0,0,0
+260,2013,Bensonhurst - Bay Ridge,Hispanic,40 - 49,1,26.3,0,0,0,0
+261,2012,Fresh Meadows,Unknown,0 - 19,0,NA,0,NA,0,NA
+262,2010,Washington Heights - Inwood,Multiracial,60+,0,0,0,0,0,0
+263,2012,Ridgewood - Forest Hills,Hispanic,60+,0,0,0,0,0,0
+264,2011,Greenpoint,Black,40 - 49,1,178,0,0,1,178
+265,2013,Port Richmond,White,All,3,13.4,1,33.3,2,9
+266,2012,Chelsea - Clinton,Unknown,0 - 19,0,NA,0,NA,0,NA
+267,2010,High Bridge - Morrisania,Unknown,0 - 19,0,NA,0,NA,0,NA
+268,2011,Long Island City - Astoria,Multiracial,40 - 49,0,0,0,0,0,0
+269,2011,Ridgewood - Forest Hills,White,All,8,6.1,3,37.5,6,4.5
+270,2013,Northeast Bronx,Asian/Pacific Islander,20 - 29,0,0,0,0,1,115
+271,2012,Southwest Queens,White,0 - 19,0,0,0,0,0,0
+272,2013,Williamsburg - Bushwick,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+273,2010,Chelsea - Clinton,Unknown,All,0,NA,0,NA,0,NA
+274,2011,Canarsie - Flatlands,Hispanic,30 - 39,3,129.1,0,0,1,43
+275,2011,Williamsburg - Bushwick,Hispanic,50 - 59,7,68.4,1,14.3,3,29.3
+276,2010,Bayside - Little Neck,Hispanic,0 - 19,0,0,0,0,0,0
+277,2013,Washington Heights - Inwood,Unknown,0 - 19,0,NA,0,NA,0,NA
+278,2011,Ridgewood - Forest Hills,Multiracial,50 - 59,0,0,0,0,0,0
+279,2012,South Beach - Tottenville,Native American,50 - 59,0,0,0,0,0,0
+280,2012,South Beach - Tottenville,Multiracial,All,0,0,0,0,0,0
+281,2012,East Flatbush - Flatbush,Black,40 - 49,22,75.7,7,31.8,21,72.2
+282,2013,Williamsburg - Bushwick,White,All,12,37.1,0,0,3,9.3
+283,2013,High Bridge - Morrisania,White,40 - 49,*,*,*,*,*,*
+284,2012,West Queens,White,50 - 59,1,8.9,0,0,3,26.8
+285,2012,Bedford Stuyvesant - Crown Heights,Black,30 - 39,28,90.2,8,28.6,22,70.8
+286,2010,East Flatbush - Flatbush,Asian/Pacific Islander,40 - 49,1,92.2,0,0,0,0
+287,2010,Crotona - Tremont,Unknown,0 - 19,0,NA,0,NA,0,NA
+288,2013,Flushing - Clearview,Hispanic,30 - 39,5,73.6,0,0,0,0
+289,2013,Downtown - Heights - Park Slope,Black,All,23,64.4,6,26.1,18,50.4
+290,2011,Canarsie - Flatlands,Black,20 - 29,15,81.3,0,0,7,37.9
+291,2013,Rockaway,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+292,2011,Crotona - Tremont,Multiracial,0 - 19,0,0,0,0,0,0
+293,2011,Kingsbridge - Riverdale,Unknown,30 - 39,0,NA,0,NA,0,NA
+294,2011,Williamsburg - Bushwick,Native American,30 - 39,0,0,0,0,0,0
+295,2011,Crotona - Tremont,White,50 - 59,0,0,0,0,0,0
+296,2013,Bedford Stuyvesant - Crown Heights,Native American,60+,0,0,0,0,0,0
+297,2011,Fordham - Bronx Park,Hispanic,40 - 49,14,68.9,4,28.6,22,108.3
+298,2010,Northeast Bronx,Black,0 - 19,2,6.7,1,50,1,3.3
+299,2012,Downtown - Heights - Park Slope,Multiracial,0 - 19,0,0,0,0,0,0
+300,2012,Rockaway,Hispanic,20 - 29,3,79.2,0,0,2,52.8
+301,2011,Pelham - Throgs Neck,Black,All,38,60.1,8,21.1,31,49
+302,2011,Willowbrook,Black,All,1,28.5,0,0,0,0
+303,2012,Northeast Bronx,White,60+,0,0,0,0,1,12.2
+304,2011,East Harlem,All,All,81,72.7,9,11.1,54,48.4
+305,2010,Borough Park,Asian/Pacific Islander,40 - 49,0,0,0,0,0,0
+306,2013,Upper Eastside,Hispanic,All,15,88,2,13.3,4,23.5
+307,2013,Unknown,Black,0 - 19,5,NA,0,NA,3,NA
+308,2010,Sunset Park,White,0 - 19,0,0,0,0,0,0
+309,2011,Bensonhurst - Bay Ridge,Black,0 - 19,0,0,0,0,0,0
+310,2010,Greenwich Village - SoHo,Asian/Pacific Islander,40 - 49,1,47.9,1,100,1,47.9
+311,2012,Borough Park,White,20 - 29,2,6.7,0,0,0,0
+312,2013,East New York,Hispanic,All,16,21.7,4,25,15,20.3
+313,2011,Flushing - Clearview,Native American,40 - 49,0,0,0,0,0,0
+314,2011,Coney Island - Sheepshead Bay,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+315,2011,East New York,White,50 - 59,0,0,0,0,0,0
+316,2012,Fresh Meadows,Unknown,40 - 49,0,NA,0,NA,0,NA
+317,2013,Upper Westside,Black,0 - 19,0,0,0,0,0,0
+318,2011,Bedford Stuyvesant - Crown Heights,Native American,40 - 49,0,0,0,0,0,0
+319,2010,Rockaway,Native American,All,0,0,0,0,0,0
+320,2013,Greenpoint,Multiracial,40 - 49,0,0,0,0,0,0
+321,2011,Flushing - Clearview,Black,30 - 39,0,0,0,0,0,0
+322,2012,Central Harlem - Morningside Heights,Hispanic,60+,2,45.3,1,50,1,22.7
+323,2011,Gramercy Park - Murray Hill,Hispanic,60+,0,0,0,0,0,0
+324,2010,Rockaway,Hispanic,0 - 19,2,24.1,0,0,0,0
+325,2012,Bensonhurst - Bay Ridge,Native American,50 - 59,0,0,0,0,0,0
+326,2013,Bayside - Little Neck,Native American,0 - 19,0,0,0,0,0,0
+327,2013,Jamaica,Black,0 - 19,2,5.1,0,0,1,2.5
+328,2011,Coney Island - Sheepshead Bay,Black,30 - 39,3,132.5,0,0,3,132.5
+329,2012,South Beach - Tottenville,White,40 - 49,0,0,0,0,1,4.1
+330,2010,Chelsea - Clinton,Unknown,40 - 49,0,NA,0,NA,0,NA
+331,2010,West Queens,Native American,40 - 49,0,0,0,0,0,0
+332,2013,Williamsburg - Bushwick,Black,50 - 59,10,123.8,3,30,7,86.7
+333,2013,Hunts Point - Mott Haven,Native American,60+,0,0,0,0,0,0
+334,2013,West Queens,White,50 - 59,1,9,0,0,1,9
+335,2013,Unknown,Multiracial,40 - 49,1,NA,0,NA,1,NA
+336,2011,Downtown - Heights - Park Slope,Native American,30 - 39,0,0,0,0,0,0
+337,2013,West Queens,Black,20 - 29,4,70.7,0,0,3,53
+338,2012,Hunts Point - Mott Haven,Unknown,30 - 39,0,NA,0,NA,0,NA
+339,2010,Upper Westside,Hispanic,All,16,48.9,1,6.3,18,55
+340,2012,Lower Manhattan,Multiracial,30 - 39,0,0,0,0,0,0
+341,2011,Unknown,Black,All,132,NA,14,NA,103,NA
+342,2010,Bedford Stuyvesant - Crown Heights,Native American,50 - 59,0,0,0,0,0,0
+343,2011,Long Island City - Astoria,Native American,40 - 49,0,0,0,0,0,0
+344,2013,Upper Eastside,Native American,20 - 29,0,0,0,0,0,0
+345,2011,Ridgewood - Forest Hills,White,50 - 59,0,0,0,0,2,9.8
+346,2013,Stapleton - St. George,Black,0 - 19,0,0,0,0,1,14.4
+347,2012,Willowbrook,White,30 - 39,1,14.7,0,0,0,0
+348,2013,Long Island City - Astoria,Hispanic,All,27,44.6,6,22.2,14,23.1
+349,2010,Williamsburg - Bushwick,Black,40 - 49,13,137,3,23.1,14,147.6
+350,2011,Northeast Bronx,Black,20 - 29,12,77.4,1,8.3,5,32.2
+351,2010,Greenpoint,Multiracial,40 - 49,0,0,0,0,0,0
+352,2013,Sunset Park,Unknown,50 - 59,0,NA,0,NA,0,NA
+353,2011,Kingsbridge - Riverdale,Native American,60+,0,0,0,0,0,0
+354,2012,Long Island City - Astoria,Native American,30 - 39,0,0,0,0,0,0
+355,2011,Greenwich Village - SoHo,Native American,30 - 39,0,0,0,0,0,0
+356,2011,Pelham - Throgs Neck,Native American,20 - 29,0,0,0,0,0,0
+357,2010,Ridgewood - Forest Hills,Black,40 - 49,4,494.5,0,0,1,123.6
+358,2010,Downtown - Heights - Park Slope,Black,60+,3,41.8,3,100,5,69.7
+359,2011,Gramercy Park - Murray Hill,Black,30 - 39,2,271.5,0,0,0,0
+360,2010,East Flatbush - Flatbush,Hispanic,All,20,59.7,2,10,16,47.8
+361,2012,Union Square - Lower Eastside,White,30 - 39,15,86.6,2,13.3,2,11.5
+362,2010,Flushing - Clearview,Black,60+,0,0,0,0,0,0
+363,2010,East Harlem,Black,0 - 19,2,23.9,1,50,3,35.8
+364,2010,Union Square - Lower Eastside,Native American,50 - 59,0,0,0,0,0,0
+365,2011,Upper Westside,Native American,50 - 59,0,0,0,0,0,0
+366,2012,Port Richmond,Multiracial,0 - 19,0,0,0,0,0,0
+367,2011,Greenwich Village - SoHo,Unknown,60+,0,NA,0,NA,0,NA
+368,2012,Chelsea - Clinton,Native American,40 - 49,0,0,0,0,*,*
+369,2011,Unknown,White,40 - 49,19,NA,5,NA,21,NA
+370,2013,Washington Heights - Inwood,Hispanic,0 - 19,3,6.9,0,0,0,0
+371,2012,Fordham - Bronx Park,Hispanic,60+,3,18.9,1,33.3,1,6.3
+372,2012,Kingsbridge - Riverdale,Hispanic,All,11,29.5,3,27.3,10,26.8
+373,2010,Unknown,Unknown,All,0,NA,0,NA,0,NA
+374,2011,Fresh Meadows,Hispanic,20 - 29,2,95,0,0,0,0
+375,2013,Rockaway,Unknown,40 - 49,0,NA,0,NA,0,NA
+376,2010,Upper Eastside,Hispanic,60+,0,0,0,0,0,0
+377,2012,Crotona - Tremont,Multiracial,40 - 49,0,0,0,0,0,0
+378,2013,Stapleton - St. George,Unknown,50 - 59,0,NA,0,NA,0,NA
+379,2011,Union Square - Lower Eastside,Black,40 - 49,4,230.6,2,50,7,403.6
+380,2011,Union Square - Lower Eastside,Black,50 - 59,0,0,0,0,3,168.3
+381,2011,Fresh Meadows,Asian/Pacific Islander,50 - 59,0,0,0,0,1,19.9
+382,2013,Bedford Stuyvesant - Crown Heights,Hispanic,All,20,47,4,20,13,30.6
+383,2012,Willowbrook,Black,All,0,0,0,0,0,0
+384,2011,Unknown,Asian/Pacific Islander,0 - 19,0,NA,0,NA,0,NA
+385,2013,Unknown,White,40 - 49,22,NA,4,NA,15,NA
+386,2011,Ridgewood - Forest Hills,Hispanic,All,19,29.2,3,15.8,6,9.2
+387,2012,Long Island City - Astoria,Unknown,0 - 19,0,NA,0,NA,0,NA
+388,2013,Bedford Stuyvesant - Crown Heights,Asian/Pacific Islander,40 - 49,0,0,0,0,1,129.6
+389,2010,Williamsburg - Bushwick,Native American,0 - 19,0,0,0,0,0,0
+390,2010,South Beach - Tottenville,Hispanic,0 - 19,1,17,0,0,0,0
+391,2011,Washington Heights - Inwood,Black,All,41,133.8,6,14.6,31,101.2
+392,2011,Coney Island - Sheepshead Bay,White,50 - 59,2,7.2,0,0,0,0
+393,2010,East Flatbush - Flatbush,White,40 - 49,1,26.6,0,0,2,53.3
+394,2010,Central Harlem - Morningside Heights,Native American,60+,0,0,0,0,0,0
+395,2013,Chelsea - Clinton,Black,60+,0,0,0,0,0,0
+396,2011,Bedford Stuyvesant - Crown Heights,Multiracial,60+,0,0,0,0,0,0
+397,2010,Bensonhurst - Bay Ridge,All,All,10,4.6,1,10,10,4.6
+398,2011,Jamaica,Black,60+,4,13.1,0,0,4,13.1
+399,2013,Washington Heights - Inwood,Black,0 - 19,0,0,0,0,0,0
+400,2011,Greenpoint,Unknown,60+,0,NA,0,NA,0,NA
+401,2012,Sunset Park,All,All,23,17.4,3,13,11,8.3
+402,2011,Kingsbridge - Riverdale,Black,60+,0,0,0,0,0,0
+403,2011,Ridgewood - Forest Hills,Hispanic,50 - 59,3,42.6,1,33.3,1,14.2
+404,2011,Fordham - Bronx Park,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+405,2010,Coney Island - Sheepshead Bay,Native American,0 - 19,0,0,0,0,0,0
+406,2012,Willowbrook,White,All,3,5.2,0,0,2,3.5
+407,2012,Bedford Stuyvesant - Crown Heights,Hispanic,40 - 49,5,93.7,3,60,6,112.4
+408,2012,Unknown,White,40 - 49,28,NA,7,NA,19,NA
+409,2011,Lower Manhattan,Native American,50 - 59,0,0,0,0,0,0
+410,2013,Port Richmond,Unknown,All,0,NA,0,NA,0,NA
+411,2012,East New York,Multiracial,30 - 39,0,0,0,0,0,0
+412,2013,Borough Park,Asian/Pacific Islander,30 - 39,1,8.8,0,0,0,0
+413,2011,Southeast Queens,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+414,2010,South Beach - Tottenville,Asian/Pacific Islander,All,0,0,0,0,0,0
+415,2010,Canarsie - Flatlands,White,50 - 59,2,27,1,50,1,13.5
+416,2013,Crotona - Tremont,Asian/Pacific Islander,All,2,62.9,0,0,0,0
+417,2010,Chelsea - Clinton,Black,0 - 19,3,270,1,33.3,0,0
+418,2011,Long Island City - Astoria,Unknown,40 - 49,0,NA,0,NA,0,NA
+419,2010,Unknown,Asian/Pacific Islander,0 - 19,0,NA,0,NA,0,NA
+420,2013,Fordham - Bronx Park,Native American,60+,0,0,0,0,0,0
+421,2013,Upper Westside,Asian/Pacific Islander,30 - 39,0,0,0,0,0,0
+422,2010,Fordham - Bronx Park,Multiracial,All,0,0,0,0,0,0
+423,2013,Greenwich Village - SoHo,Multiracial,30 - 39,0,0,0,0,0,0
+424,2010,Borough Park,Unknown,60+,0,NA,0,NA,0,NA
+425,2010,Fresh Meadows,Unknown,50 - 59,0,NA,0,NA,0,NA
+426,2010,Canarsie - Flatlands,Hispanic,50 - 59,1,45.5,1,100,2,90.9
+427,2013,Pelham - Throgs Neck,White,50 - 59,0,0,0,0,0,0
+428,2013,Bayside - Little Neck,White,20 - 29,0,0,0,0,0,0
+429,2010,Unknown,Black,0 - 19,8,NA,0,NA,1,NA
+430,2010,Sunset Park,Hispanic,50 - 59,5,95.2,1,20,1,19
+431,2013,Bedford Stuyvesant - Crown Heights,Hispanic,60+,0,0,0,0,0,0
+432,2012,Union Square - Lower Eastside,Asian/Pacific Islander,50 - 59,1,13.5,0,0,0,0
+433,2013,West Queens,Native American,All,0,0,0,0,0,0
+434,2012,Borough Park,Native American,20 - 29,0,0,0,0,0,0
+435,2011,Hunts Point - Mott Haven,White,0 - 19,0,0,0,0,0,0
+436,2011,Chelsea - Clinton,Hispanic,40 - 49,3,95.1,1,33.3,7,221.9
+437,2012,High Bridge - Morrisania,Multiracial,50 - 59,0,0,0,0,0,0
+438,2011,Coney Island - Sheepshead Bay,Asian/Pacific Islander,30 - 39,0,0,0,0,0,0
+439,2013,Bayside - Little Neck,Asian/Pacific Islander,All,0,0,0,0,0,0
+440,2012,Washington Heights - Inwood,Black,All,49,159.5,9,18.4,26,84.6
+441,2012,Ridgewood - Forest Hills,Unknown,20 - 29,0,NA,0,NA,0,NA
+442,2013,Sunset Park,Native American,20 - 29,0,0,0,0,0,0
+443,2013,Jamaica,Multiracial,40 - 49,0,0,0,0,0,0
+444,2010,Borough Park,Multiracial,All,0,0,0,0,0,0
+445,2012,Lower Manhattan,White,All,4,12.6,0,0,3,9.5
+446,2010,Long Island City - Astoria,Unknown,20 - 29,0,NA,0,NA,0,NA
+447,2011,Jamaica,Unknown,All,0,NA,0,NA,0,NA
+448,2012,East New York,Multiracial,0 - 19,0,0,0,0,0,0
+449,2012,West Queens,Hispanic,40 - 49,18,48.7,3,16.7,10,27.1
+450,2012,Unknown,Unknown,60+,0,NA,0,NA,0,NA
+451,2013,Bensonhurst - Bay Ridge,All,All,15,6.8,3,20,5,2.3
+452,2011,Greenwich Village - SoHo,Black,40 - 49,*,*,*,*,*,*
+453,2010,Port Richmond,Black,40 - 49,0,0,0,0,1,36.3
+454,2010,Southwest Queens,White,30 - 39,3,40.3,0,0,1,13.4
+455,2013,Jamaica,Unknown,All,0,NA,0,NA,0,NA
+456,2013,Pelham - Throgs Neck,Black,40 - 49,8,87.5,1,12.5,11,120.4
+457,2013,West Queens,Native American,40 - 49,0,0,0,0,0,0
+458,2010,Unknown,Asian/Pacific Islander,50 - 59,0,NA,0,NA,1,NA
+459,2010,Flushing - Clearview,Multiracial,30 - 39,0,0,0,0,0,0
+460,2010,Canarsie - Flatlands,Asian/Pacific Islander,20 - 29,1,98.3,0,0,1,98.3
+461,2012,Ridgewood - Forest Hills,Hispanic,40 - 49,4,39.6,4,100,4,39.6
+462,2011,East Harlem,Hispanic,60+,1,10.5,1,100,1,10.5
+463,2011,Chelsea - Clinton,Multiracial,0 - 19,0,0,0,0,0,0
+464,2013,Central Harlem - Morningside Heights,Native American,30 - 39,0,0,0,0,0,0
+465,2012,Bensonhurst - Bay Ridge,Unknown,50 - 59,0,NA,0,NA,0,NA
+466,2010,Bedford Stuyvesant - Crown Heights,Unknown,60+,0,NA,0,NA,0,NA
+467,2011,Hunts Point - Mott Haven,Black,30 - 39,12,266.8,3,25,10,222.3
+468,2010,High Bridge - Morrisania,Asian/Pacific Islander,All,0,0,0,0,0,0
+469,2012,Southwest Queens,Hispanic,30 - 39,6,44,1,16.7,2,14.7
+470,2010,Hunts Point - Mott Haven,Asian/Pacific Islander,All,0,0,0,0,0,0
+471,2010,Upper Eastside,Multiracial,50 - 59,0,0,0,0,0,0
+472,2011,Northeast Bronx,Black,40 - 49,10,57.9,2,20,12,69.5
+473,2011,Rockaway,White,50 - 59,1,16.6,1,100,1,16.6
+474,2012,Port Richmond,Native American,50 - 59,0,0,0,0,0,0
+475,2011,Kingsbridge - Riverdale,Asian/Pacific Islander,All,0,0,0,0,0,0
+476,2013,High Bridge - Morrisania,Hispanic,20 - 29,19,81.4,3,15.8,11,47.1
+477,2012,West Queens,Unknown,20 - 29,0,NA,0,NA,0,NA
+478,2010,Southwest Queens,Hispanic,0 - 19,0,0,0,0,2,7.6
+479,2013,Canarsie - Flatlands,Asian/Pacific Islander,60+,0,0,0,0,0,0
+480,2011,Borough Park,Multiracial,50 - 59,0,0,0,0,0,0
+481,2012,Bayside - Little Neck,Unknown,40 - 49,0,NA,0,NA,0,NA
+482,2011,Bensonhurst - Bay Ridge,Multiracial,50 - 59,0,0,0,0,0,0
+483,2013,East New York,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+484,2010,Gramercy Park - Murray Hill,White,0 - 19,1,12.7,0,0,0,0
+485,2012,West Queens,Hispanic,All,97,38,17,17.5,46,18
+486,2013,High Bridge - Morrisania,All,All,115,53.9,27,23.5,101,47.4
+487,2013,Southeast Queens,Asian/Pacific Islander,30 - 39,0,0,0,0,0,0
+488,2013,Stapleton - St. George,Asian/Pacific Islander,60+,0,0,0,0,0,0
+489,2010,Kingsbridge - Riverdale,Hispanic,0 - 19,1,9.6,0,0,1,9.6
+490,2010,Port Richmond,White,All,2,8.9,0,0,2,8.9
+491,2011,Union Square - Lower Eastside,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+492,2012,Greenpoint,Multiracial,50 - 59,0,0,0,0,0,0
+493,2012,Greenpoint,Black,All,4,105.6,0,0,1,26.4
+494,2013,Willowbrook,Multiracial,50 - 59,0,0,0,0,0,0
+495,2011,Greenpoint,Hispanic,60+,0,0,0,0,0,0
+496,2010,Borough Park,Native American,60+,0,0,0,0,0,0
+497,2010,Jamaica,Unknown,50 - 59,0,NA,0,NA,0,NA
+498,2012,Jamaica,Asian/Pacific Islander,40 - 49,0,0,0,0,0,0
+499,2013,Crotona - Tremont,Black,40 - 49,10,116.3,2,20,6,69.8
+500,2010,Coney Island - Sheepshead Bay,White,50 - 59,2,6.9,1,50,4,13.9
+501,2010,Southeast Queens,Multiracial,0 - 19,0,0,0,0,0,0
+502,2010,Union Square - Lower Eastside,White,30 - 39,10,59.9,0,0,2,12
+503,2013,Upper Eastside,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+504,2011,Rockaway,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+505,2011,Long Island City - Astoria,Native American,60+,0,0,0,0,0,0
+506,2011,Lower Manhattan,Hispanic,20 - 29,0,0,0,0,0,0
+507,2011,Pelham - Throgs Neck,Asian/Pacific Islander,60+,0,0,0,0,0,0
+508,2013,Rockaway,Multiracial,40 - 49,0,0,0,0,0,0
+509,2013,Coney Island - Sheepshead Bay,Hispanic,50 - 59,0,0,0,0,0,0
+510,2012,Upper Westside,Hispanic,All,17,50.4,4,23.5,12,35.6
+511,2013,South Beach - Tottenville,Multiracial,20 - 29,0,0,0,0,0,0
+512,2011,Canarsie - Flatlands,White,30 - 39,2,38.9,0,0,0,0
+513,2012,Jamaica,White,30 - 39,3,125.6,1,33.3,1,41.9
+514,2012,Hunts Point - Mott Haven,Multiracial,60+,0,0,0,0,0,0
+515,2011,Coney Island - Sheepshead Bay,White,20 - 29,0,0,0,0,1,4.2
+516,2010,Downtown - Heights - Park Slope,Hispanic,20 - 29,11,166.8,0,0,2,30.3
+517,2010,Northeast Bronx,Hispanic,60+,1,13.8,0,0,1,13.8
+518,2012,Greenwich Village - SoHo,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+519,2011,Williamsburg - Bushwick,Hispanic,60+,2,16,1,50,3,24
+520,2012,Bensonhurst - Bay Ridge,Black,50 - 59,0,0,0,0,0,0
+521,2012,High Bridge - Morrisania,White,50 - 59,0,0,0,0,*,*
+522,2010,South Beach - Tottenville,Multiracial,40 - 49,0,0,0,0,0,0
+523,2012,Bayside - Little Neck,Multiracial,50 - 59,0,0,0,0,0,0
+524,2012,Willowbrook,Black,20 - 29,0,0,0,0,0,0
+525,2013,Northeast Bronx,Asian/Pacific Islander,60+,0,0,0,0,0,0
+526,2012,Washington Heights - Inwood,Unknown,0 - 19,0,NA,0,NA,0,NA
+527,2011,Central Harlem - Morningside Heights,Hispanic,All,32,79.2,2,6.3,14,34.6
+528,2011,Hunts Point - Mott Haven,Multiracial,30 - 39,0,0,0,0,0,0
+529,2013,Port Richmond,Unknown,30 - 39,0,NA,0,NA,0,NA
+530,2012,Port Richmond,Native American,0 - 19,0,0,0,0,0,0
+531,2011,Gramercy Park - Murray Hill,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+532,2010,Greenwich Village - SoHo,Asian/Pacific Islander,20 - 29,1,34.6,0,0,0,0
+533,2012,Sunset Park,Native American,60+,0,0,0,0,0,0
+534,2012,Southeast Queens,Multiracial,40 - 49,0,0,0,0,0,0
+535,2011,Sunset Park,Multiracial,50 - 59,0,0,0,0,0,0
+536,2013,Kingsbridge - Riverdale,Black,All,6,56.5,0,0,1,9.4
+537,2013,Union Square - Lower Eastside,Asian/Pacific Islander,30 - 39,1,11,0,0,1,11
+538,2011,Upper Westside,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+539,2012,Downtown - Heights - Park Slope,Unknown,40 - 49,0,NA,0,NA,0,NA
+540,2011,Port Richmond,Hispanic,60+,0,0,0,0,0,0
+541,2013,Washington Heights - Inwood,Unknown,40 - 49,0,NA,0,NA,0,NA
+542,2011,Upper Eastside,Unknown,20 - 29,0,NA,0,NA,0,NA
+543,2010,Jamaica,All,All,110,38,18,16.4,89,30.7
+544,2013,Southeast Queens,Black,40 - 49,5,31.3,4,80,9,56.3
+545,2012,Ridgewood - Forest Hills,Unknown,60+,0,NA,0,NA,0,NA
+546,2010,Pelham - Throgs Neck,White,50 - 59,3,31.9,2,66.7,3,31.9
+547,2010,Hunts Point - Mott Haven,Hispanic,All,42,42.5,9,21.4,42,42.5
+548,2012,High Bridge - Morrisania,White,0 - 19,1,122.6,0,0,0,0
+549,2011,Crotona - Tremont,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+550,2012,Jamaica,Unknown,0 - 19,0,NA,0,NA,0,NA
+551,2010,Greenpoint,Native American,40 - 49,0,0,0,0,0,0
+552,2011,Bayside - Little Neck,Native American,50 - 59,0,0,0,0,0,0
+553,2012,Hunts Point - Mott Haven,Unknown,40 - 49,0,NA,0,NA,0,NA
+554,2013,Upper Westside,Black,30 - 39,0,0,0,0,2,107.9
+555,2010,Upper Eastside,White,20 - 29,5,16.7,0,0,0,0
+556,2013,Lower Manhattan,Black,60+,0,0,0,0,0,0
+557,2011,Pelham - Throgs Neck,Native American,30 - 39,0,0,0,0,0,0
+558,2013,Fresh Meadows,Unknown,30 - 39,0,NA,0,NA,0,NA
+559,2011,Borough Park,Unknown,20 - 29,0,NA,0,NA,0,NA
+560,2012,Northeast Bronx,Asian/Pacific Islander,40 - 49,0,0,0,0,0,0
+561,2013,South Beach - Tottenville,Unknown,50 - 59,0,NA,0,NA,0,NA
+562,2012,Greenwich Village - SoHo,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+563,2011,Rockaway,Hispanic,0 - 19,0,0,0,0,0,0
+564,2012,Sunset Park,Unknown,60+,0,NA,0,NA,0,NA
+565,2011,Gramercy Park - Murray Hill,Unknown,20 - 29,0,NA,0,NA,0,NA
+566,2012,Coney Island - Sheepshead Bay,Asian/Pacific Islander,All,0,0,0,0,1,2
+567,2012,Washington Heights - Inwood,Multiracial,30 - 39,0,0,0,0,0,0
+568,2010,Coney Island - Sheepshead Bay,Multiracial,50 - 59,0,0,0,0,0,0
+569,2011,Kingsbridge - Riverdale,Unknown,0 - 19,0,NA,0,NA,0,NA
+570,2013,West Queens,Native American,0 - 19,0,0,0,0,0,0
+571,2010,Jamaica,Unknown,20 - 29,0,NA,0,NA,0,NA
+572,2013,Crotona - Tremont,Hispanic,All,61,43.1,12,19.7,25,17.7
+573,2011,Southeast Queens,Asian/Pacific Islander,60+,0,0,0,0,0,0
+574,2011,West Queens,Unknown,20 - 29,0,NA,0,NA,0,NA
+575,2011,Upper Westside,White,20 - 29,5,22.6,1,20,3,13.6
+576,2011,Lower Manhattan,Black,30 - 39,*,*,*,*,*,*
+577,2011,Lower Manhattan,Asian/Pacific Islander,All,0,0,0,0,0,0
+578,2011,Jamaica,Black,30 - 39,13,65.2,1,7.7,6,30.1
+579,2010,Southwest Queens,Unknown,0 - 19,0,NA,0,NA,0,NA
+580,2010,Downtown - Heights - Park Slope,Unknown,60+,0,NA,0,NA,0,NA
+581,2011,Rockaway,Native American,60+,0,0,0,0,0,0
+582,2013,Northeast Bronx,Multiracial,40 - 49,0,0,0,0,0,0
+583,2012,Upper Westside,Hispanic,40 - 49,4,93.1,2,50,4,93.1
+584,2010,Borough Park,Unknown,All,0,NA,0,NA,0,NA
+585,2013,Long Island City - Astoria,Native American,60+,0,0,0,0,0,0
+586,2012,East Harlem,Hispanic,60+,1,10.3,0,0,2,20.7
+587,2013,Long Island City - Astoria,Black,All,15,111,2,13.3,7,51.8
+588,2011,Downtown - Heights - Park Slope,Asian/Pacific Islander,40 - 49,1,49.2,0,0,0,0
+589,2012,Port Richmond,Unknown,30 - 39,0,NA,0,NA,0,NA
+590,2012,East Harlem,Multiracial,All,0,0,0,0,0,0
+591,2013,Kingsbridge - Riverdale,Hispanic,60+,0,0,0,0,0,0
+592,2011,Crotona - Tremont,Multiracial,40 - 49,0,0,0,0,0,0
+593,2012,Stapleton - St. George,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+594,2010,Fresh Meadows,Hispanic,30 - 39,0,0,0,0,0,0
+595,2011,Crotona - Tremont,Native American,50 - 59,0,0,0,0,0,0
+596,2013,Downtown - Heights - Park Slope,Asian/Pacific Islander,60+,0,0,0,0,0,0
+597,2011,East Flatbush - Flatbush,Multiracial,30 - 39,0,0,0,0,0,0
+598,2013,Gramercy Park - Murray Hill,Multiracial,All,0,0,0,0,0,0
+599,2013,Upper Eastside,White,20 - 29,6,21.2,2,33.3,2,7.1
+600,2011,East Flatbush - Flatbush,Black,40 - 49,30,101.4,9,30,26,87.8
+601,2011,Ridgewood - Forest Hills,White,60+,1,2.8,1,100,1,2.8
+602,2011,Flushing - Clearview,White,50 - 59,0,0,0,0,0,0
+603,2011,Pelham - Throgs Neck,Black,0 - 19,3,17.9,0,0,2,11.9
+604,2011,Coney Island - Sheepshead Bay,Black,All,11,56.4,0,0,13,66.6
+605,2011,Upper Eastside,Unknown,40 - 49,0,NA,0,NA,0,NA
+606,2011,Lower Manhattan,Black,All,1,41.1,1,100,3,123.2
+607,2011,Kingsbridge - Riverdale,Black,30 - 39,2,143.4,0,0,0,0
+608,2010,Greenpoint,Native American,All,0,0,0,0,0,0
+609,2010,Stapleton - St. George,Hispanic,60+,0,0,0,0,1,44.1
+610,2012,Downtown - Heights - Park Slope,White,30 - 39,5,13.7,0,0,1,2.7
+611,2011,Ridgewood - Forest Hills,Asian/Pacific Islander,20 - 29,1,17.9,0,0,1,17.9
+612,2013,Upper Westside,Asian/Pacific Islander,40 - 49,0,0,0,0,0,0
+613,2010,Borough Park,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+614,2010,Pelham - Throgs Neck,Asian/Pacific Islander,40 - 49,0,0,0,0,0,0
+615,2012,Unknown,Hispanic,20 - 29,36,NA,3,NA,14,NA
+616,2013,Stapleton - St. George,Multiracial,0 - 19,0,0,0,0,0,0
+617,2013,Bedford Stuyvesant - Crown Heights,Hispanic,30 - 39,5,77.8,1,20,4,62.2
+618,2013,Bedford Stuyvesant - Crown Heights,White,30 - 39,4,39.4,0,0,1,9.8
+619,2011,South Beach - Tottenville,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+620,2010,Flushing - Clearview,Asian/Pacific Islander,60+,0,0,0,0,0,0
+621,2012,Stapleton - St. George,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+622,2011,Gramercy Park - Murray Hill,Multiracial,All,0,0,0,0,0,0
+623,2011,Sunset Park,Asian/Pacific Islander,30 - 39,1,12.7,0,0,1,12.7
+624,2013,Bedford Stuyvesant - Crown Heights,Black,40 - 49,36,115.1,10,27.8,28,89.5
+625,2011,Port Richmond,Asian/Pacific Islander,60+,0,0,0,0,0,0
+626,2012,Jamaica,Asian/Pacific Islander,50 - 59,1,14.5,1,100,1,14.5
+627,2011,Greenwich Village - SoHo,Hispanic,40 - 49,4,428,1,25,2,214
+628,2013,East New York,Hispanic,60+,3,33.2,1,33.3,3,33.2
+629,2010,Fordham - Bronx Park,Multiracial,0 - 19,0,0,0,0,0,0
+630,2011,Willowbrook,Native American,20 - 29,0,0,0,0,0,0
+631,2011,Unknown,Multiracial,30 - 39,0,NA,0,NA,0,NA
+632,2010,Kingsbridge - Riverdale,White,30 - 39,1,23.8,1,100,1,23.8
+633,2013,Jamaica,Black,60+,0,0,0,0,3,9.4
+634,2011,West Queens,All,All,164,33.3,31,18.9,101,20.5
+635,2013,Bensonhurst - Bay Ridge,Multiracial,40 - 49,0,0,0,0,0,0
+636,2010,Flushing - Clearview,Unknown,20 - 29,0,NA,0,NA,0,NA
+637,2012,Hunts Point - Mott Haven,Multiracial,All,0,0,0,0,0,0
+638,2013,Ridgewood - Forest Hills,Multiracial,30 - 39,*,*,0,0,0,0
+639,2011,Northeast Bronx,White,20 - 29,0,0,0,0,0,0
+640,2011,Canarsie - Flatlands,Native American,60+,0,0,0,0,0,0
+641,2010,Flushing - Clearview,White,20 - 29,0,0,0,0,0,0
+642,2013,Bensonhurst - Bay Ridge,Hispanic,20 - 29,0,0,0,0,0,0
+643,2012,Bensonhurst - Bay Ridge,Hispanic,All,8,27.4,1,12.5,5,17.1
+644,2011,Greenpoint,Unknown,All,0,NA,0,NA,0,NA
+645,2011,Port Richmond,White,60+,0,0,0,0,0,0
+646,2012,Fresh Meadows,Unknown,20 - 29,0,NA,0,NA,0,NA
+647,2012,Rockaway,Unknown,50 - 59,0,NA,0,NA,0,NA
+648,2013,South Beach - Tottenville,White,50 - 59,1,4.1,1,100,2,8.1
+649,2011,Kingsbridge - Riverdale,Native American,40 - 49,0,0,0,0,0,0
+650,2013,High Bridge - Morrisania,Black,40 - 49,13,129.4,6,46.2,12,119.5
+651,2012,High Bridge - Morrisania,Multiracial,20 - 29,0,0,0,0,0,0
+652,2011,Fordham - Bronx Park,Unknown,All,0,NA,0,NA,0,NA
+653,2012,Southwest Queens,Multiracial,60+,0,0,0,0,0,0
+654,2011,Sunset Park,Native American,0 - 19,0,0,0,0,0,0
+655,2011,Long Island City - Astoria,White,60+,0,0,0,0,0,0
+656,2011,Central Harlem - Morningside Heights,Black,20 - 29,36,253.1,4,11.1,20,140.6
+657,2010,Williamsburg - Bushwick,Unknown,30 - 39,0,NA,0,NA,0,NA
+658,2013,Kingsbridge - Riverdale,Asian/Pacific Islander,All,0,0,0,0,0,0
+659,2013,Hunts Point - Mott Haven,Multiracial,50 - 59,0,0,0,0,0,0
+660,2010,Crotona - Tremont,Black,40 - 49,13,141.7,2,15.4,16,174.5
+661,2012,Union Square - Lower Eastside,White,50 - 59,3,29.8,1,33.3,2,19.9
+662,2011,Downtown - Heights - Park Slope,Hispanic,20 - 29,11,167.9,2,18.2,3,45.8
+663,2011,Union Square - Lower Eastside,Unknown,30 - 39,0,NA,0,NA,0,NA
+664,2010,Stapleton - St. George,Native American,0 - 19,0,0,0,0,0,0
+665,2010,West Queens,White,All,23,28.5,7,30.4,16,19.8
+666,2010,East Flatbush - Flatbush,Hispanic,50 - 59,4,104.6,1,25,4,104.6
+667,2011,Long Island City - Astoria,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+668,2011,Sunset Park,Multiracial,30 - 39,0,0,0,0,0,0
+669,2012,Borough Park,Black,20 - 29,2,84,0,0,1,42
+670,2010,Unknown,Native American,0 - 19,0,NA,0,NA,0,NA
+671,2013,Downtown - Heights - Park Slope,Black,30 - 39,3,57.9,1,33.3,3,57.9
+672,2013,Southwest Queens,White,40 - 49,2,25.5,1,50,2,25.5
+673,2012,Fresh Meadows,Unknown,All,0,NA,0,NA,0,NA
+674,2013,Rockaway,Black,20 - 29,9,133,1,11.1,1,14.8
+675,2010,Ridgewood - Forest Hills,Hispanic,30 - 39,6,51.9,1,16.7,5,43.2
+676,2013,Union Square - Lower Eastside,Unknown,60+,0,NA,0,NA,0,NA
+677,2010,Hunts Point - Mott Haven,Black,30 - 39,11,240.5,1,9.1,8,174.9
+678,2010,Kingsbridge - Riverdale,Multiracial,30 - 39,0,0,0,0,0,0
+679,2012,Williamsburg - Bushwick,White,50 - 59,0,0,0,0,1,82
+680,2011,Pelham - Throgs Neck,Hispanic,0 - 19,2,4.3,0,0,2,4.3
+681,2010,Southeast Queens,Native American,0 - 19,0,0,0,0,0,0
+682,2013,Hunts Point - Mott Haven,Asian/Pacific Islander,40 - 49,0,0,0,0,0,0
+683,2012,Upper Westside,Multiracial,0 - 19,0,0,0,0,0,0
+684,2011,Canarsie - Flatlands,Hispanic,20 - 29,4,158,1,25,2,79
+685,2012,Willowbrook,Black,40 - 49,0,0,0,0,0,0
+686,2013,East Flatbush - Flatbush,Multiracial,0 - 19,1,67.9,0,0,0,0
+687,2011,Sunset Park,Unknown,All,0,NA,0,NA,0,NA
+688,2013,Upper Eastside,Hispanic,60+,2,62.9,0,0,1,31.4
+689,2010,Upper Westside,Black,All,26,155.2,5,19.2,13,77.6
+690,2013,Washington Heights - Inwood,Asian/Pacific Islander,60+,0,0,0,0,0,0
+691,2011,Long Island City - Astoria,Unknown,0 - 19,0,NA,0,NA,0,NA
+692,2011,High Bridge - Morrisania,Black,50 - 59,8,91.7,3,37.5,17,194.9
+693,2012,East Harlem,Black,60+,2,34,1,50,2,34
+694,2013,Upper Westside,Hispanic,40 - 49,1,23.5,1,100,2,47
+695,2011,Union Square - Lower Eastside,Unknown,20 - 29,0,NA,0,NA,0,NA
+696,2011,East New York,Hispanic,All,20,27.3,7,35,25,34.2
+697,2012,Gramercy Park - Murray Hill,Multiracial,40 - 49,0,0,0,0,0,0
+698,2010,Fresh Meadows,Hispanic,All,3,21.2,1,33.3,0,0
+699,2013,Flushing - Clearview,Unknown,20 - 29,0,NA,0,NA,0,NA
+700,2013,Hunts Point - Mott Haven,Unknown,30 - 39,0,NA,0,NA,0,NA
+701,2010,Greenwich Village - SoHo,Hispanic,0 - 19,1,119.1,0,0,0,0
+702,2010,Coney Island - Sheepshead Bay,Multiracial,40 - 49,0,0,0,0,0,0
+703,2012,Long Island City - Astoria,Native American,All,0,0,0,0,0,0
+704,2011,Fordham - Bronx Park,Asian/Pacific Islander,40 - 49,0,0,0,0,0,0
+705,2010,Fordham - Bronx Park,Native American,All,0,0,0,0,0,0
+706,2012,Pelham - Throgs Neck,Native American,All,0,0,0,0,0,0
+707,2010,Flushing - Clearview,Unknown,60+,0,NA,0,NA,0,NA
+708,2010,Jamaica,Black,All,90,56,14,15.6,72,44.8
+709,2011,Port Richmond,Multiracial,All,0,0,0,0,0,0
+710,2011,Bayside - Little Neck,Hispanic,60+,0,0,0,0,0,0
+711,2013,Kingsbridge - Riverdale,Native American,0 - 19,0,0,0,0,0,0
+712,2010,Kingsbridge - Riverdale,Black,40 - 49,3,198.2,1,33.3,1,66.1
+713,2011,Port Richmond,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+714,2010,Washington Heights - Inwood,Black,30 - 39,11,261,1,9.1,6,142.3
+715,2010,Upper Westside,Multiracial,0 - 19,0,0,0,0,0,0
+716,2010,Rockaway,Unknown,50 - 59,0,NA,0,NA,0,NA
+717,2012,East Flatbush - Flatbush,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+718,2013,Union Square - Lower Eastside,Native American,40 - 49,0,0,0,0,0,0
+719,2011,Chelsea - Clinton,Native American,20 - 29,0,0,0,0,0,0
+720,2012,Rockaway,White,20 - 29,0,0,0,0,0,0
+721,2010,Lower Manhattan,Native American,40 - 49,0,0,0,0,0,0
+722,2010,East New York,Unknown,30 - 39,0,NA,0,NA,0,NA
+723,2010,Borough Park,Native American,20 - 29,0,0,0,0,0,0
+724,2013,Northeast Bronx,Unknown,50 - 59,0,NA,0,NA,0,NA
+725,2012,Greenpoint,White,30 - 39,9,47.5,2,22.2,4,21.1
+726,2010,Coney Island - Sheepshead Bay,Hispanic,All,7,20,2,28.6,8,22.8
+727,2013,South Beach - Tottenville,Asian/Pacific Islander,All,0,0,0,0,0,0
+728,2013,Northeast Bronx,Hispanic,All,16,32.7,3,18.8,10,20.4
+729,2013,Unknown,Hispanic,20 - 29,28,NA,6,NA,12,NA
+730,2012,East New York,Black,60+,3,21.2,2,66.7,2,14.2
+731,2010,Port Richmond,Hispanic,40 - 49,1,30,0,0,1,30
+732,2012,Long Island City - Astoria,Multiracial,60+,0,0,0,0,0,0
+733,2010,Long Island City - Astoria,Unknown,40 - 49,0,NA,0,NA,0,NA
+734,2013,Greenwich Village - SoHo,Hispanic,All,6,98.8,2,33.3,5,82.4
+735,2012,Port Richmond,Multiracial,30 - 39,0,0,0,0,0,0
+736,2011,Union Square - Lower Eastside,Asian/Pacific Islander,60+,0,0,0,0,0,0
+737,2010,Ridgewood - Forest Hills,Unknown,40 - 49,0,NA,0,NA,0,NA
+738,2012,Gramercy Park - Murray Hill,Native American,50 - 59,0,0,0,0,0,0
+739,2012,Coney Island - Sheepshead Bay,Native American,60+,0,0,0,0,0,0
+740,2012,Kingsbridge - Riverdale,Black,60+,0,0,0,0,1,36.3
+741,2012,Chelsea - Clinton,Unknown,30 - 39,0,NA,0,NA,0,NA
+742,2011,Flushing - Clearview,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+743,2010,Chelsea - Clinton,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+744,2012,Flushing - Clearview,White,20 - 29,0,0,0,0,0,0
+745,2013,Greenpoint,Hispanic,20 - 29,4,77.5,0,0,1,19.4
+746,2012,Southeast Queens,Asian/Pacific Islander,60+,0,0,0,0,1,19.5
+747,2011,Flushing - Clearview,All,All,17,6.5,7,41.2,12,4.6
+748,2010,Williamsburg - Bushwick,Multiracial,20 - 29,0,0,0,0,0,0
+749,2010,Fresh Meadows,White,40 - 49,0,0,0,0,1,24.7
+750,2012,Fordham - Bronx Park,Multiracial,20 - 29,0,0,0,0,0,0
+751,2010,Bedford Stuyvesant - Crown Heights,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+752,2013,Lower Manhattan,Multiracial,0 - 19,0,0,0,0,0,0
+753,2011,Jamaica,Multiracial,60+,0,0,0,0,0,0
+754,2011,Downtown - Heights - Park Slope,Black,60+,4,54.2,3,75,4,54.2
+755,2012,Canarsie - Flatlands,White,40 - 49,1,17.6,1,100,1,17.6
+756,2012,Long Island City - Astoria,Hispanic,60+,0,0,0,0,0,0
+757,2011,Rockaway,Native American,50 - 59,0,0,0,0,0,0
+758,2010,Fresh Meadows,Multiracial,0 - 19,0,0,0,0,0,0
+759,2011,High Bridge - Morrisania,Hispanic,All,59,45.6,13,22,59,45.6
+760,2010,Unknown,Asian/Pacific Islander,All,10,NA,2,NA,6,NA
+761,2012,Northeast Bronx,Unknown,30 - 39,0,NA,0,NA,0,NA
+762,2012,Jamaica,White,0 - 19,0,0,0,0,0,0
+763,2013,Southeast Queens,Unknown,20 - 29,0,NA,0,NA,0,NA
+764,2011,Long Island City - Astoria,Multiracial,60+,0,0,0,0,0,0
+765,2010,Bensonhurst - Bay Ridge,Black,60+,0,0,0,0,0,0
+766,2010,Unknown,Unknown,30 - 39,0,NA,0,NA,0,NA
+767,2012,East New York,Multiracial,40 - 49,0,0,0,0,0,0
+768,2013,Fresh Meadows,Hispanic,60+,0,0,0,0,0,0
+769,2011,East Harlem,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+770,2012,Stapleton - St. George,Native American,0 - 19,0,0,0,0,0,0
+771,2011,Sunset Park,Unknown,50 - 59,0,NA,0,NA,0,NA
+772,2011,Jamaica,Asian/Pacific Islander,60+,0,0,0,0,0,0
+773,2013,Upper Westside,Hispanic,50 - 59,0,0,0,0,2,46.6
+774,2012,South Beach - Tottenville,Multiracial,20 - 29,0,0,0,0,0,0
+775,2013,Long Island City - Astoria,Unknown,50 - 59,0,NA,0,NA,0,NA
+776,2013,Downtown - Heights - Park Slope,Black,50 - 59,4,83.1,0,0,3,62.3
+777,2013,Crotona - Tremont,Multiracial,0 - 19,0,0,0,0,0,0
+778,2010,Coney Island - Sheepshead Bay,Native American,All,0,0,0,0,0,0
+779,2011,Willowbrook,Unknown,0 - 19,0,NA,0,NA,0,NA
+780,2011,Willowbrook,Native American,All,0,0,0,0,0,0
+781,2013,Union Square - Lower Eastside,White,60+,2,12.7,2,100,2,12.7
+782,2013,Rockaway,Hispanic,All,5,20,0,0,3,12
+783,2013,Rockaway,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+784,2013,Flushing - Clearview,White,All,3,3.8,0,0,0,0
+785,2013,Borough Park,Native American,40 - 49,0,0,0,0,0,0
+786,2011,Sunset Park,Black,30 - 39,0,0,0,0,2,296
+787,2013,Kingsbridge - Riverdale,Black,0 - 19,0,0,0,0,0,0
+788,2012,Long Island City - Astoria,All,All,74,34.4,10,13.5,33,15.3
+789,2013,Downtown - Heights - Park Slope,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+790,2010,East New York,Hispanic,30 - 39,9,92.4,4,44.4,9,92.4
+791,2011,Long Island City - Astoria,Unknown,All,0,NA,0,NA,0,NA
+792,2011,Northeast Bronx,Multiracial,60+,0,0,0,0,0,0
+793,2011,Unknown,Multiracial,20 - 29,1,NA,0,NA,2,NA
+794,2013,Downtown - Heights - Park Slope,Asian/Pacific Islander,20 - 29,1,27.3,0,0,0,0
+795,2012,Lower Manhattan,Hispanic,0 - 19,0,0,0,0,0,0
+796,2010,Greenpoint,Unknown,30 - 39,0,NA,0,NA,0,NA
+797,2012,Chelsea - Clinton,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+798,2012,Fordham - Bronx Park,White,50 - 59,1,38.5,0,0,1,38.5
+799,2011,East Flatbush - Flatbush,Multiracial,All,0,0,0,0,0,0
+800,2013,Bedford Stuyvesant - Crown Heights,White,60+,0,0,0,0,1,39.5
+801,2010,Williamsburg - Bushwick,Black,20 - 29,23,214.6,3,13,14,130.6
+802,2011,Crotona - Tremont,Multiracial,All,0,0,0,0,0,0
+803,2013,Southeast Queens,White,All,1,3.8,0,0,1,3.8
+804,2013,Sunset Park,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+805,2011,Stapleton - St. George,Unknown,All,0,NA,0,NA,0,NA
+806,2010,Upper Westside,Native American,40 - 49,0,0,0,0,0,0
+807,2011,Willowbrook,Unknown,60+,0,NA,0,NA,0,NA
+808,2010,Coney Island - Sheepshead Bay,Asian/Pacific Islander,60+,0,0,0,0,0,0
+809,2010,Fresh Meadows,Native American,60+,0,0,0,0,0,0
+810,2010,West Queens,White,30 - 39,5,41.2,2,40,3,24.7
+811,2011,Fresh Meadows,Unknown,30 - 39,0,NA,0,NA,0,NA
+812,2013,Borough Park,Black,20 - 29,2,83.7,0,0,1,41.8
+813,2010,Bensonhurst - Bay Ridge,Multiracial,20 - 29,0,0,0,0,0,0
+814,2012,Bedford Stuyvesant - Crown Heights,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+815,2010,Northeast Bronx,Native American,0 - 19,*,*,0,0,0,0
+816,2013,Northeast Bronx,Multiracial,60+,0,0,0,0,0,0
+817,2012,Willowbrook,Native American,0 - 19,0,0,0,0,0,0
+818,2013,Central Harlem - Morningside Heights,Native American,20 - 29,0,0,0,0,0,0
+819,2013,Union Square - Lower Eastside,Multiracial,20 - 29,1,101.5,0,0,0,0
+820,2010,Greenpoint,Black,40 - 49,2,348.1,0,0,1,174.1
+821,2010,Port Richmond,White,20 - 29,1,39.7,0,0,0,0
+822,2011,Lower Manhattan,Asian/Pacific Islander,60+,0,0,0,0,0,0
+823,2010,Hunts Point - Mott Haven,Asian/Pacific Islander,60+,0,0,0,0,0,0
+824,2010,Unknown,Unknown,60+,0,NA,0,NA,0,NA
+825,2010,Greenpoint,Hispanic,All,1,3.4,1,100,11,37.4
+826,2011,Kingsbridge - Riverdale,White,0 - 19,0,0,0,0,0,0
+827,2012,Stapleton - St. George,Black,30 - 39,4,142.1,0,0,1,35.5
+828,2012,Upper Eastside,Asian/Pacific Islander,All,4,19.1,1,25,1,4.8
+829,2010,Unknown,Native American,60+,0,NA,0,NA,0,NA
+830,2012,South Beach - Tottenville,Multiracial,40 - 49,0,0,0,0,0,0
+831,2013,Ridgewood - Forest Hills,Black,30 - 39,1,95.6,0,0,1,95.6
+832,2010,Stapleton - St. George,Black,60+,3,122.3,2,66.7,3,122.3
+833,2013,Ridgewood - Forest Hills,Unknown,60+,0,NA,0,NA,0,NA
+834,2010,Coney Island - Sheepshead Bay,White,40 - 49,4,17.4,2,50,3,13
+835,2013,Stapleton - St. George,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+836,2010,Bayside - Little Neck,Black,60+,0,0,0,0,0,0
+837,2012,Bayside - Little Neck,Asian/Pacific Islander,30 - 39,0,0,0,0,0,0
+838,2011,Upper Westside,Unknown,0 - 19,0,NA,0,NA,0,NA
+839,2012,Bensonhurst - Bay Ridge,Hispanic,0 - 19,0,0,0,0,0,0
+840,2012,West Queens,Hispanic,30 - 39,29,61.4,3,10.3,12,25.4
+841,2011,Bayside - Little Neck,Hispanic,30 - 39,0,0,0,0,0,0
+842,2011,Borough Park,Unknown,40 - 49,0,NA,0,NA,0,NA
+843,2011,Hunts Point - Mott Haven,Hispanic,60+,2,15.1,0,0,2,15.1
+844,2011,Chelsea - Clinton,White,0 - 19,1,13.7,0,0,0,0
+845,2010,Rockaway,White,50 - 59,0,0,0,0,0,0
+846,2010,West Queens,Native American,50 - 59,0,0,0,0,0,0
+847,2013,Unknown,Native American,20 - 29,0,NA,0,NA,0,NA
+848,2010,Southeast Queens,Hispanic,All,5,21.6,2,40,5,21.6
+849,2011,Upper Eastside,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+850,2012,Long Island City - Astoria,Unknown,30 - 39,0,NA,0,NA,0,NA
+851,2010,Bayside - Little Neck,Multiracial,All,0,0,0,0,0,0
+852,2011,East Flatbush - Flatbush,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+853,2012,South Beach - Tottenville,Asian/Pacific Islander,60+,0,0,0,0,0,0
+854,2011,South Beach - Tottenville,White,60+,0,0,0,0,0,0
+855,2010,Downtown - Heights - Park Slope,White,All,16,12.6,4,25,9,7.1
+856,2011,South Beach - Tottenville,Native American,60+,0,0,0,0,0,0
+857,2012,East Flatbush - Flatbush,Unknown,0 - 19,0,NA,0,NA,0,NA
+858,2013,Port Richmond,Native American,20 - 29,0,0,0,0,0,0
+859,2011,Central Harlem - Morningside Heights,Black,60+,4,24,1,25,6,36
+860,2013,Hunts Point - Mott Haven,Multiracial,All,0,0,0,0,0,0
+861,2010,Borough Park,White,20 - 29,1,3.3,0,0,0,0
+862,2012,Greenpoint,Black,30 - 39,1,146.6,0,0,0,0
+863,2010,Williamsburg - Bushwick,Native American,30 - 39,0,0,0,0,0,0
+864,2012,Crotona - Tremont,Hispanic,20 - 29,15,61.5,3,20,10,41
+865,2013,East New York,Black,60+,5,34.3,3,60,6,41.2
+866,2010,Bensonhurst - Bay Ridge,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+867,2010,Canarsie - Flatlands,Native American,0 - 19,0,0,0,0,0,0
+868,2013,Rockaway,Unknown,50 - 59,0,NA,0,NA,0,NA
+869,2013,Fordham - Bronx Park,Native American,20 - 29,0,0,0,0,0,0
+870,2013,Long Island City - Astoria,Hispanic,50 - 59,2,29,0,0,1,14.5
+871,2010,West Queens,White,40 - 49,4,36.3,3,75,6,54.4
+872,2012,Bayside - Little Neck,All,All,2,2.3,0,0,0,0
+873,2010,Gramercy Park - Murray Hill,Multiracial,30 - 39,0,0,0,0,0,0
+874,2011,Bedford Stuyvesant - Crown Heights,Hispanic,20 - 29,3,42.8,0,0,4,57
+875,2011,Downtown - Heights - Park Slope,White,50 - 59,1,8.4,0,0,3,25.2
+876,2012,Central Harlem - Morningside Heights,Native American,40 - 49,0,0,0,0,0,0
+877,2013,Chelsea - Clinton,Native American,30 - 39,0,0,0,0,0,0
+878,2011,Jamaica,White,50 - 59,1,33.5,1,100,1,33.5
+879,2013,Central Harlem - Morningside Heights,Unknown,30 - 39,0,NA,0,NA,0,NA
+880,2011,Northeast Bronx,Black,30 - 39,9,67.1,3,33.3,8,59.6
+881,2010,Jamaica,Hispanic,0 - 19,2,12.9,0,0,0,0
+882,2012,Willowbrook,Multiracial,0 - 19,0,0,0,0,0,0
+883,2010,Kingsbridge - Riverdale,Unknown,50 - 59,0,NA,0,NA,0,NA
+884,2012,Southeast Queens,Black,0 - 19,0,0,0,0,0,0
+885,2012,High Bridge - Morrisania,Unknown,40 - 49,0,NA,0,NA,0,NA
+886,2013,Borough Park,Unknown,40 - 49,0,NA,0,NA,0,NA
+887,2011,Unknown,Unknown,All,0,NA,0,NA,0,NA
+888,2010,Sunset Park,Multiracial,0 - 19,0,0,0,0,0,0
+889,2012,West Queens,Native American,All,0,0,0,0,0,0
+890,2013,Bayside - Little Neck,Hispanic,0 - 19,0,0,0,0,0,0
+891,2011,South Beach - Tottenville,Native American,50 - 59,0,0,0,0,0,0
+892,2013,Ridgewood - Forest Hills,Black,60+,0,0,0,0,0,0
+893,2013,Rockaway,White,20 - 29,0,0,0,0,0,0
+894,2011,Sunset Park,Native American,30 - 39,0,0,0,0,0,0
+895,2011,Union Square - Lower Eastside,Hispanic,60+,2,22.9,1,50,3,34.3
+896,2010,Lower Manhattan,White,0 - 19,0,0,0,0,0,0
+897,2010,South Beach - Tottenville,Multiracial,All,0,0,0,0,0,0
+898,2010,Greenpoint,Unknown,60+,0,NA,0,NA,0,NA
+899,2010,Fresh Meadows,Black,0 - 19,0,0,0,0,0,0
+900,2010,East Harlem,Asian/Pacific Islander,All,2,31.1,0,0,0,0
+901,2010,Crotona - Tremont,White,50 - 59,0,0,0,0,0,0
+902,2011,Stapleton - St. George,White,30 - 39,1,14.2,0,0,0,0
+903,2012,Lower Manhattan,White,60+,0,0,0,0,0,0
+904,2010,Bayside - Little Neck,Native American,60+,0,0,0,0,0,0
+905,2013,Lower Manhattan,Black,40 - 49,*,*,0,0,0,0
+906,2010,Jamaica,White,All,4,18.7,1,25,3,14.1
+907,2012,East Harlem,Native American,50 - 59,0,0,0,0,0,0
+908,2010,Kingsbridge - Riverdale,Unknown,0 - 19,0,NA,0,NA,0,NA
+909,2013,Bensonhurst - Bay Ridge,White,30 - 39,0,0,0,0,0,0
+910,2010,Crotona - Tremont,White,30 - 39,2,379.9,0,0,0,0
+911,2013,Kingsbridge - Riverdale,White,0 - 19,0,0,0,0,0,0
+912,2010,Union Square - Lower Eastside,Hispanic,0 - 19,1,10.3,0,0,0,0
+913,2013,Upper Westside,Asian/Pacific Islander,All,1,5.2,0,0,0,0
+914,2010,Central Harlem - Morningside Heights,Black,20 - 29,30,220.6,1,3.3,5,36.8
+915,2012,Greenpoint,Native American,50 - 59,0,0,0,0,0,0
+916,2012,Downtown - Heights - Park Slope,Asian/Pacific Islander,60+,0,0,0,0,0,0
+917,2010,East Harlem,White,50 - 59,0,0,0,0,1,74.2
+918,2011,Bedford Stuyvesant - Crown Heights,Unknown,40 - 49,0,NA,0,NA,0,NA
+919,2012,Rockaway,Asian/Pacific Islander,30 - 39,*,*,0,0,0,0
+920,2010,Willowbrook,Black,20 - 29,0,0,0,0,0,0
+921,2010,Chelsea - Clinton,Asian/Pacific Islander,60+,0,0,0,0,0,0
+922,2010,West Queens,Asian/Pacific Islander,0 - 19,0,0,0,0,0,0
+923,2011,Port Richmond,Multiracial,40 - 49,0,0,0,0,0,0
+924,2010,Greenpoint,Black,30 - 39,0,0,0,0,3,435.9
+925,2012,Ridgewood - Forest Hills,Asian/Pacific Islander,20 - 29,0,0,0,0,0,0
+926,2013,East Flatbush - Flatbush,Native American,0 - 19,0,0,0,0,0,0
+927,2013,Bedford Stuyvesant - Crown Heights,Unknown,All,0,NA,0,NA,0,NA
+928,2013,Flushing - Clearview,Native American,60+,0,0,0,0,0,0
+929,2012,Downtown - Heights - Park Slope,Hispanic,All,17,42,2,11.8,10,24.7
+930,2011,Jamaica,Black,All,71,44,9,12.7,52,32.2
+931,2011,Bedford Stuyvesant - Crown Heights,Multiracial,0 - 19,0,0,0,0,0,0
+932,2010,East New York,White,60+,0,0,0,0,0,0
+933,2012,Fresh Meadows,White,0 - 19,0,0,0,0,0,0
+934,2010,High Bridge - Morrisania,Asian/Pacific Islander,50 - 59,0,0,0,0,0,0
+935,2011,East New York,Unknown,All,0,NA,0,NA,0,NA
+936,2010,Washington Heights - Inwood,Native American,20 - 29,0,0,0,0,0,0
+937,2010,Southeast Queens,Unknown,20 - 29,0,NA,0,NA,0,NA
+938,2013,Kingsbridge - Riverdale,Multiracial,30 - 39,0,0,0,0,0,0
+939,2010,East Flatbush - Flatbush,Native American,20 - 29,0,0,0,0,0,0
+940,2012,Stapleton - St. George,White,20 - 29,0,0,0,0,0,0
+941,2012,Chelsea - Clinton,Native American,0 - 19,0,0,0,0,0,0
+942,2012,East New York,Asian/Pacific Islander,0 - 19,1,32,0,0,0,0
+943,2012,Ridgewood - Forest Hills,Multiracial,0 - 19,0,0,0,0,0,0
+944,2013,Port Richmond,White,40 - 49,1,31.2,1,100,1,31.2
+945,2013,Southwest Queens,Hispanic,0 - 19,3,11.2,0,0,0,0
+946,2010,Unknown,White,20 - 29,22,NA,4,NA,5,NA
+947,2013,Greenwich Village - SoHo,Asian/Pacific Islander,30 - 39,0,0,0,0,0,0
+948,2013,Downtown - Heights - Park Slope,White,50 - 59,1,8.6,0,0,1,8.6
+949,2013,Southeast Queens,Asian/Pacific Islander,All,0,0,0,0,0,0
+950,2011,Northeast Bronx,Hispanic,0 - 19,2,13.5,0,0,1,6.7
+951,2013,Fordham - Bronx Park,Black,40 - 49,8,86.6,2,25,9,97.5
+952,2011,Upper Eastside,Hispanic,50 - 59,2,98.5,0,0,0,0
+953,2011,Port Richmond,White,40 - 49,0,0,0,0,0,0
+954,2010,Central Harlem - Morningside Heights,White,60+,0,0,0,0,0,0
+955,2011,Washington Heights - Inwood,Asian/Pacific Islander,40 - 49,0,0,0,0,0,0
+956,2010,Fordham - Bronx Park,All,All,129,51,28,21.7,120,47.5
+957,2012,Greenwich Village - SoHo,White,30 - 39,6,46.5,1,16.7,1,7.7
+958,2010,Fresh Meadows,White,20 - 29,1,15.3,0,0,0,0
+959,2012,Kingsbridge - Riverdale,All,All,19,20.6,5,26.3,12,13
+960,2013,Willowbrook,Hispanic,50 - 59,1,72.2,0,0,1,72.2
+961,2013,Long Island City - Astoria,Native American,30 - 39,0,0,0,0,0,0
+962,2010,Greenpoint,Hispanic,60+,1,19.4,1,100,2,38.9
+963,2012,East Harlem,Asian/Pacific Islander,40 - 49,0,0,0,0,0,0
+964,2010,West Queens,Black,50 - 59,2,49.6,1,50,6,148.8
+965,2012,Fresh Meadows,Hispanic,All,1,6.9,0,0,1,6.9
+966,2010,Bedford Stuyvesant - Crown Heights,Multiracial,All,1,19.6,0,0,0,0
+967,2010,Canarsie - Flatlands,Black,20 - 29,13,71.5,4,30.8,7,38.5
+968,2013,Northeast Bronx,Unknown,60+,0,NA,0,NA,0,NA
+969,2010,Central Harlem - Morningside Heights,Hispanic,0 - 19,3,23.2,1,33.3,0,0
+970,2010,Williamsburg - Bushwick,Multiracial,0 - 19,0,0,0,0,0,0
+971,2011,Unknown,Multiracial,40 - 49,1,NA,0,NA,1,NA
+972,2010,Union Square - Lower Eastside,Black,40 - 49,3,172.7,0,0,6,345.5
+973,2012,Washington Heights - Inwood,Multiracial,All,1,36.8,0,0,0,0
+974,2012,Lower Manhattan,Unknown,50 - 59,0,NA,0,NA,0,NA
+975,2012,Southeast Queens,Black,50 - 59,5,30.2,2,40,5,30.2
+976,2013,Bedford Stuyvesant - Crown Heights,Hispanic,20 - 29,4,57.3,0,0,1,14.3
+977,2010,Fordham - Bronx Park,Multiracial,30 - 39,0,0,0,0,0,0
+978,2013,Unknown,Native American,40 - 49,0,NA,0,NA,0,NA
+979,2011,South Beach - Tottenville,Native American,40 - 49,0,0,0,0,0,0
+980,2013,Jamaica,Hispanic,60+,0,0,0,0,0,0
+981,2013,Bayside - Little Neck,Native American,30 - 39,0,0,0,0,0,0
+982,2011,South Beach - Tottenville,White,50 - 59,0,0,0,0,0,0
+983,2012,Unknown,White,60+,8,NA,2,NA,9,NA
+984,2012,Upper Westside,Native American,50 - 59,0,0,0,0,0,0
+985,2010,Southwest Queens,White,40 - 49,1,12.1,1,100,1,12.1
+986,2012,Kingsbridge - Riverdale,White,60+,0,0,0,0,0,0
+987,2011,South Beach - Tottenville,Multiracial,40 - 49,0,0,0,0,0,0
+988,2011,Rockaway,Hispanic,60+,0,0,0,0,0,0
+989,2011,Long Island City - Astoria,Black,30 - 39,0,0,0,0,3,150.4
+990,2012,Union Square - Lower Eastside,Black,60+,1,45.9,0,0,0,0
+991,2012,Northeast Bronx,Asian/Pacific Islander,20 - 29,1,116.3,0,0,0,0
+992,2012,Central Harlem - Morningside Heights,Hispanic,All,36,88,6,16.7,12,29.3
+993,2013,Flushing - Clearview,White,60+,0,0,0,0,0,0
+994,2010,Stapleton - St. George,Multiracial,All,0,0,0,0,0,0
+995,2012,Port Richmond,White,60+,1,17.9,0,0,0,0
+996,2011,Unknown,Black,40 - 49,21,NA,2,NA,26,NA
+997,2013,Rockaway,White,60+,0,0,0,0,0,0
+998,2013,Gramercy Park - Murray Hill,Hispanic,All,11,101.5,1,9.1,1,9.2
+999,2013,Bensonhurst - Bay Ridge,Black,60+,0,0,0,0,0,0

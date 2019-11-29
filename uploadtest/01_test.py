@@ -14,6 +14,11 @@ from sklearn.model_selection import train_test_split
 from sklearn.feature_selection import mutual_info_classif, mutual_info_regression
 from sklearn.feature_selection import SelectKBest, SelectPercentile
 from flask_cors import CORS
+import requests
+import urllib.request
+import time
+from bs4 import BeautifulSoup
+
 app = Flask(__name__)
 CORS(app)
 #------------------------------------------------- Uploads are handled here
@@ -25,48 +30,102 @@ def upload_file1():
 @app.route('/uploader', methods = ['GET', 'POST'])
 def upload_file():
    if request.method == 'POST':
-      files = glob.glob('./upload/*')
-      for f in files:
+        files = glob.glob('./upload/*')
+        for f in files:
          os.remove(f)
-# request.files conatains (werkzeug.datastructures.FileStorage)  
-      for f in request.files.getlist('file'): 
-# f.save(arg1 is the path, arg2 is the filename)
-         print(f.filename)
-         f.save(os.path.join(app.config['UPLOAD_PATH'],  secure_filename(f.filename)))
-      return 'file uploaded successfully'
-#------------------------------------------------- Processing probability distribution request
-@app.route('/json2',methods=['POST','GET'])
-def hello_world3():
+        # request.files conatains (werkzeug.datastructures.FileStorage)  
+        datasets_array=[]
+        for f in request.files.getlist('file'):
+            datasets_array.append(f.filename) 
+        # f.save(arg1 is the path, arg2 is the filename)
+            print("Uploaded: "+f.filename,file=sys.stderr)
+            f.save(os.path.join(app.config['UPLOAD_PATH'],  f.filename))
+        return make_response(jsonify({"msg":"uploaded successfully","datasets_array":datasets_array}), 200)
+#------------------------------------------------- Processing search-datasets request
+@app.route('/search_datasets',methods=['POST','GET'])
+def search_datasets_func():
+    if(request.is_json):
+        files = glob.glob('./upload/*')
+        for f in files:
+            os.remove(f)
+        req=request.get_json();
+        keyword=req.get("keyword_to_search")
+        max_num=req.get("max_number")
+        link_list=[]
+        datasets_array=[]
+        count=0
+        first_url="https://data.cityofnewyork.us/browse?amp=&q="+keyword+"&sortBy=relevance&page=1"
+        link_list.append(first_url)
+        paginationlink = requests.get(first_url)
+        soup = BeautifulSoup(paginationlink.text, "html.parser")
+        links=soup.findAll("a",{"class":"pageLink"})
+        for link in links:
+            link_list.append("https://data.cityofnewyork.us"+link['href'])
+        print(link_list)
+        for url in link_list:
+            if(count<max_num):
+                datalink1="https://dev.socrata.com/foundry/data.cityofnewyork.us/"
+                datalink2='https://data.cityofnewyork.us/resource/'
+                response = requests.get(url)
+                soup = BeautifulSoup(response.text, "html.parser")
+                links=soup.findAll("div", {"class": "browse2-result"})
+                dict2={}
+                #print("url in link")
+            if(count<max_num):
+                for link in links:
+                    if(count<max_num):
+                        try:
+                            href=link.findAll("a",{"class":"browse2-result-api-link"})[0]["href"].replace(datalink1,datalink2)+".json"
+                            title=link.findAll("a",{"class":"browse2-result-name-link"})[0].string
+                            dict2[title]=href
+                        except IndexError:
+                            pass
+                            #print(link.findAll("a",{"class":"browse2-result-name-link"})[0].string)
+                #print(dict2)
+            for key in dict2:
+                if(count<max_num):
+                    try:
+                        data=pd.read_json(dict2[key])
+                        datasets_array.append(re.sub("/","",key)+".csv")
+                        #print(key)
+                        if not (os.path.exists("upload/"+re.sub("/","",key)+".csv")):
+                            data.to_csv(r"upload/"+re.sub("/","",key)+".csv",sep=",")
+                            count=count+1
+                            print("fetched: ",count,"\n")
+                    except:
+                        print("error in file location")
+        return make_response(jsonify({"datasets_array":datasets_array}), 200)
+#------------------------------------------------- Processing first bar request
+@app.route('/first_bar',methods=['POST','GET'])
+def first_bar():
     if(request.is_json):
         req=request.get_json();
-        if(req.get("datasets")!=''):
-            datasets=req.get("datasets")
-            result={}
-            for dataset in datasets:
-                dataset_name=dataset+".csv";
-                data=pd.read_csv(dataset_name)
-                newData={}
-                for i in data:
-                    len=data[i].size
-                    dict_test=[]
-                    newData[i]=data[i].value_counts().to_dict()
-                    for j in newData[i]:
-                        p=newData[i][j]/len
-                        if(p!=0):
-                            print("P is: ",i,p, file=sys.stderr)
-                            dict_test.append(round(p,4))
-                    newData[i]=dict_test
-                result[dataset]=newData
-        for i in result:
-            print("Result is: ",i, file=sys.stderr)
-        return make_response(jsonify(result), 200)
+        if(req.get("type")=="uploaded"):
+            mypath='./uploaded/*.csv'
+        else:
+            mypath='./upload/*.csv'
+        dict1={}
+        for filename in glob.glob(mypath):
+            df = pd.read_csv(filename);
+            fname=re.sub(r'.csv', '',filename[9:])
+            for col in df.columns:
+                if col not in dict1:
+                    dict1[col]=1
+                else:
+                    dict1[col]=dict1[col]+1
+        sorted_dict = sorted(dict1.items(), key=lambda x:x[1], reverse=True)
+        dict3={}
+        for a, b in sorted_dict: 
+            dict3[a]=b
+        dict4={"attributes":list(dict3.keys()),"frequency":list(dict3.values())}
+        return make_response(jsonify(dict4), 200)
 #------------------------------------------------- Processing process request
 @app.route('/json',methods=['POST','GET'])
 def hello_world2():
     if(request.is_json):
         req=request.get_json();
         datasets=req.get("datasets");
-        print("datasets are: ",req.get("all"), file=sys.stderr)
+        #print("datasets are: ",req.get("all"), file=sys.stderr)
         if(req.get("myrequest")=='data'):
             datasets_with_Attributes={}
             count=0;
@@ -136,30 +195,33 @@ def hello_world2():
             return make_response(jsonify(dict1), 200)
     else:
         return make_response(jsonify({"message": "Else"}), 200)
-#------------------------------------------------- Processing first bar request
-@app.route('/first_bar',methods=['POST','GET'])
-def first_bar():
+
+#------------------------------------------------- Processing probability distribution request
+@app.route('/json2',methods=['POST','GET'])
+def hello_world3():
     if(request.is_json):
         req=request.get_json();
-        if(req.get("type")=="uploaded"):
-            mypath='./uploaded/*.csv'
-        else:
-            mypath='./upload/*.csv'
-        dict1={}
-        for filename in glob.glob(mypath):
-            df = pd.read_csv(filename);
-            fname=re.sub(r'.csv', '',filename[9:])
-            for col in df.columns:
-                if col not in dict1:
-                    dict1[col]=1
-                else:
-                    dict1[col]=dict1[col]+1
-        sorted_dict = sorted(dict1.items(), key=lambda x:x[1], reverse=True)
-        dict3={}
-        for a, b in sorted_dict: 
-            dict3[a]=b
-        dict4={"attributes":list(dict3.keys()),"frequency":list(dict3.values())}
-        return make_response(jsonify(dict4), 200)
+        if(req.get("datasets")!=''):
+            datasets=req.get("datasets")
+            result={}
+            for dataset in datasets:
+                dataset_name=dataset+".csv";
+                data=pd.read_csv(dataset_name)
+                newData={}
+                for i in data:
+                    len=data[i].size
+                    dict_test=[]
+                    newData[i]=data[i].value_counts().to_dict()
+                    for j in newData[i]:
+                        p=newData[i][j]/len
+                        if(p!=0):
+                            print("P is: ",i,p, file=sys.stderr)
+                            dict_test.append(round(p,4))
+                    newData[i]=dict_test
+                result[dataset]=newData
+        for i in result:
+            print("Result is: ",i, file=sys.stderr)
+        return make_response(jsonify(result), 200)
 #--------------------------------------------------------------------- Processing stat request
 @app.route('/statmetrics',methods=['POST','GET'])
 def stat_metric():
@@ -239,7 +301,7 @@ def stat_metric():
             return make_response(jsonify({"correlation_data":corr_dict}), 200)
 # ---------------------------------------------------------------------------------------KL-Divergnce
         elif(req.get("req_for")=='kl_div'):
-            print("Kl_div got ",req.get("given"), file=sys.stderr)
+            #print("Kl_div got ",req.get("given"), file=sys.stderr)
             kl_dict={}
             given=req.get("given")
             numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']
@@ -384,33 +446,6 @@ def stat_metric2():
         return make_response(jsonify({"message": "Else"}), 200)
 # ---------------------------------------------------------------------------------------
 
-def process_data():
-    # datasets_with_Attributes starts here
-    datasets_with_Attributes={}
-    for filename in glob.glob('*.csv'):
-        df = pd.read_csv(filename)
-        fname=re.sub(r'.csv', '',filename)
-        datasets_with_Attributes[fname]=df.columns.tolist()
-    unionA={}
-    for key in datasets_with_Attributes:
-        for val in datasets_with_Attributes[key]:
-            if val not in unionA:
-                unionA[val]=1
-            else:
-                unionA[val]=unionA[val]+1
-    sorted_Atrributes = sorted(unionA, key=unionA.get, reverse=True)
-    # return only shared attrbutes
-    only_shared_attributes=[]
-    count=0
-    for key in sorted_Atrributes:
-        if(unionA[key]>1):
-            count=count+1
-            only_shared_attributes.insert(count,key)
-    # create the data for json reply
-    mydata={"unionA":unionA,"datasets_with_Attributes":datasets_with_Attributes,"sorted_Atrributes":sorted_Atrributes,"only_shared_attributes":only_shared_attributes}
-    return mydata
-def pr():
-    return {"hi":"data1"}
 
 
 #--------------------------------Main program starts here
