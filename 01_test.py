@@ -120,7 +120,7 @@ def search_datasets_func():
                             data=pd.read_json(dict2[key])
                             #print(key)
                             if not (os.path.exists("upload/"+re.sub("/","",key)+".csv")):
-                                data.to_csv(r"upload/"+re.sub("/","",key)+".csv",sep=",")
+                                data.to_csv(r"upload/"+re.sub("/","",key)+".csv",sep=",",index=False)
                                 count=count+1
                                 print("fetched: ",count,"\n")
                         except:
