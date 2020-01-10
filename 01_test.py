@@ -55,11 +55,15 @@ def search_datasets_func():
         #keywordlist=["health","education"]
         #dictionary with datasetname as key and taglist as value {"datasetsname":[tag1,tag2]}
         datasets_with_tag_array={}
+        # Dictionary to hold tags with keywords as keys
+        dict_of_tags_basedon_keyword={}
         # ready for treemap; contains keyword as name and tags as children {"name"=keyword,"value"=75,children=[]} 
         keyword_and_tag_array=[]
         # To avoid duplicate tags;
         uniq_taglist=[]
         for keyword in keywordlist:
+            # Temorporary array to hold the tags to use later on dictionary
+            temp_array_for_tags_basedon_keyword=[]
             #array to hold dictionaries containing tag name and value [{"name":tagname, "value":25},{"name":tagname2, "value":25}]
             temp_dict_for_datasets_and_tag=[]
             # temoporay dictionary to hold name value and children
@@ -106,6 +110,7 @@ def search_datasets_func():
                                     tags_array.append(tag)
                                     if tag not in uniq_taglist:
                                         uniq_taglist.append(tag)
+                                        temp_array_for_tags_basedon_keyword.append(tag)
                                         array_to_contain_tag_dict.append({"name":tag,"value":25})
                                 datasets_with_tag_array[title]=tags_array
                                 temp_dict_for_datasets_and_tag.extend(array_to_contain_tag_dict)
@@ -130,7 +135,8 @@ def search_datasets_func():
             temp_dict["children"]=temp_dict_for_datasets_and_tag
             keyword_and_tag_array.append(temp_dict)
             #keyword_and_tag_array is for Treemap
-        return make_response(jsonify({"keyword_and_tag_array":keyword_and_tag_array,"datasets_with_tag_array":datasets_with_tag_array}), 200)
+            dict_of_tags_basedon_keyword[keyword]=temp_array_for_tags_basedon_keyword
+        return make_response(jsonify({"keyword_and_tag_array":keyword_and_tag_array,"datasets_with_tag_array":datasets_with_tag_array,"dict_of_tags_basedon_keyword":dict_of_tags_basedon_keyword}), 200)
 #------------------------------------------------- Processing first bar request
 @app.route('/first_bar',methods=['POST','GET'])
 def first_bar():
