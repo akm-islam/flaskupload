@@ -1,0 +1,1001 @@
+borough,block,lot,bin,agency,building,rating,current_source_energy_intensity_kbtu_sq_ft,current_total_ghg_emissions_mtco2e,rating_2,source_energy_intensity_kbtu_sq_ft,total_ghg_emissions_mtco2e,address,city,state,gross_sq_ft,year_built,epapmbenchmarkedas,zip,campus_name
+2,2383,12,2001505,1332 Fulton Ave D C C Inc,ACS, N/A , 180.6 ,4.9,N/A,155.9,4.3,N/A, 157.7 ,4.3,164.8,4.5,Individual building,,
+1,93,1,1062652,ACS Administrative Site,ACS, 57 , 239.0 ,6.2,55,242.1,6.3,59, 228.3 ,5.9,217.9,5.6,Individual building,64.0,
+3,4484,13,3098733,ACS Administrative Site,ACS, 16 , 286.6 ,8.6,19,268.3,7.9,20, 258.6 ,7.6,252.1,7.5,Space within building,24.0,
+2,4101,1,2044743,ACS Bronx Field Office,ACS, 7 , 316.2 ,8.9,14,269.6,7.2,12, 273.0 ,7.4,282.8,7.9,Individual building,12.0,
+3,2022,18,3057913,Administration Site,ACS, 21 , 313.6 ,9.8,31,272.4,8.4,35, 257.9 ,7.5,256.1,7.6,Individual building,37.0,
+3,1230,44,3031082,Albany Day Care and Senior Center,ACS, N/A , 137.8 ,4.0,N/A,143.0,4.1,N/A, 131.5 ,3.7,158.6,4.5,Individual building,,
+3,1420,51,3038317,All My Children Daycare and Nursery School,ACS, N/A , 177.2 ,4.6,N/A,218.7,5.7,N/A, 170.4 ,4.4,161.7,4.2,Individual building,,
+4,12022,20,4260903,All My Children Daycare and Nursery School,ACS, N/A , 192.1 ,5.2,N/A,201.3,5.4,N/A, 205.7 ,5.5,196.3,5.2,Individual building,,
+4,10193,1,4216947,All My Children Daycare and Nursery School,ACS, N/A , 136.0 ,3.7,N/A,128.0,3.4,N/A, 151.1 ,4.1,133.4,3.6,Individual building,,
+4,12062,51,4261925,Alpha Kappa Alpha Sorority Child Care Center,ACS, N/A , 144.5 ,3.7,N/A,128.4,3.3,N/A, 120.9 ,3.1,135.6,3.5,Individual building,,
+2,2861,129,2109470,Babove Worldwide Institute Inc,ACS, N/A , 160.7 ,5.1,N/A,149.8,4.8,N/A, 143.2 ,4.7,135.4,4.6,Individual building,,
+4,12599,8,4271346,Babove Worldwide Institute Inc,ACS, N/A , 137.5 ,5.4,N/A,123.5,4.5,N/A, 117.0 ,4.0,115.8,4.1,Individual building,,
+1,962,100,1069579,Bellevue Hospital Center (Space),ACS, 96 , 343.5 ,11.3,97,329.6,10.9,99, 302.9 ,9.9,306.5,10.4,Individual building,99.0,
+2,3089,24,2012517,Belmont Community Day Care Center,ACS, N/A , 204.0 ,5.3,N/A,162.0,4.2,N/A, 181.9 ,4.7,196.0,5.1,Individual building,,
+4,10941,206,4234212,Blanche Day Care Center,ACS, N/A , 162.8 ,5.6,N/A,171.0,5.8,N/A, 158.7 ,5.3,188.7,6.6,Individual building,,
+2,2738,35,2005938,Bridges Juvenile Center Intake & Admissions,ACS, N/A , 28.7 ,0.8,N/A,14.6,0.4,N/A, 10.8 ,0.3,8.1,0.2,Individual building,,
+2,3748,15,2024083,Bronxdale Tenants League DDC Inc,ACS, N/A , 103.3 ,2.8,N/A,105.1,2.9,N/A, 114.8 ,3.1,121.3,3.3,Individual building,,
+3,3023,32,3070819,Bushwick Improvement Society Inc,ACS, N/A , 138.4 ,3.6,N/A,128.2,3.3,N/A, 97.4 ,2.5,127.4,3.3,Individual building,,
+3,3227,10,3073394,Bushwick United Housing Development Fund Corp,ACS, N/A , 131.0 ,3.4,N/A,139.9,3.6,N/A, 121.2 ,3.1,125.7,3.3,Individual building,,
+3,3043,1,3070967,Bushwick United Housing Development Fund Corp,ACS, N/A , 75.0 ,2.2,N/A,77.2,2.3,N/A, 81.7 ,2.4,90.3,2.7,Individual building,,
+3,3228,20,3073408,Bushwick United Housing Development Fund Corp,ACS, N/A , 135.1 ,4.4,N/A,111.8,3.7,N/A, 106.6 ,3.4,121.4,3.8,Individual building,,
+2,3125,1,2013174,Cardinal Day Care Center #2,ACS, N/A , 108.1 ,2.8,N/A,131.2,3.4,N/A, 135.1 ,3.5,123.3,3.2,Individual building,,
+4,386,7,4004679,Catholic Charities Neighborhood Services Inc,ACS, N/A , 119.8 ,4.0,N/A,115.6,3.9,N/A, 100.8 ,3.3,139.2,4.4,Individual building,,
+4,10917,29,4233644,Charles R Drew Early Learning Center,ACS, N/A , 182.7 ,5.0,N/A,188.7,5.0,N/A, 186.7 ,5.0,180.5,4.8,Individual building,,
+2,2420,40,2001910,Children Pride Early Learning Center,ACS, N/A , 272.1 ,9.2,N/A,256.0,8.6,N/A, 218.4 ,7.3,233.1,8.1,Individual building,,
+5,174,6,5004830,Childrens Aide Society Inc,ACS, N/A , 198.8 ,6.2,N/A,160.9,4.9,N/A, 160.4 ,4.6,163.1,4.9,Individual building,,
+1,479,1,1007156,Chinese Community Concern Parents,ACS, N/A , 289.4 ,8.6,N/A,297.0,8.8,N/A, 285.2 ,8.5,282.7,8.4,Individual building,,
+4,10021,1,4214446,Clifford Glover Day Care Center Inc,ACS, N/A , 146.3 ,3.8,N/A,139.7,3.6,N/A, 149.1 ,3.9,158.5,4.1,Individual building,,
+3,3498,8,3378202,Crossroads Juvenile Center,ACS, N/A , 152.8 ,4.6,N/A,171.9,5.5,N/A, 172.1 ,5.4,180.5,5.8,Individual building,,
+3,1253,7,3032188,Day Care Center,ACS, N/A , 105.1 ,2.8,N/A,98.7,2.7,N/A, 87.4 ,2.4,96.1,2.6,Individual building,,
+4,10155,29,4216225,Dual Center ACS Administrative Site,ACS, 74 , 179.4 ,5.1,76,171.1,4.9,72, 179.9 ,5.3,182.5,5.4,Individual building,72.0,
+2,2939,90,2009866,East Tremont-Crotona Day Care Center,ACS, N/A , 150.2 ,5.1,N/A,133.3,4.4,N/A, 125.0 ,4.2,129.7,4.5,Individual building,,
+2,2272,38,2093913,Episcopal Social Services of NY,ACS, N/A , 187.4 ,5.0,N/A,157.8,4.3,N/A, 209.9 ,7.1,188.9,6.0,Individual building,,
+3,5049,1,3115846,Episcopal Social Services of NY,ACS, N/A , 212.2 ,5.5,N/A,190.2,4.9,N/A, 186.7 ,4.8,193.0,5.0,Individual building,,
+4,1726,5,4042862,Episcopal Social Services of NY,ACS, N/A , 184.1 ,4.8,N/A,183.1,4.7,N/A, 170.3 ,4.4,157.7,4.1,Individual building,,
+1,350,8,1004240,Escuela Hispana Montessori #2,ACS, N/A , 162.5 ,5.1,N/A,140.8,4.7,N/A, 130.6 ,4.3,141.0,4.9,Individual building,,
+3,1224,45,3030896,Friends of Crown Heights #2,ACS, N/A , 211.9 ,5.5,N/A,198.9,5.2,N/A, 192.9 ,5.0,206.8,5.4,Individual building,,
+3,1296,1,3034153,Friends of Crown Heights #3,ACS, N/A , 215.0 ,6.7,N/A,240.7,7.6,N/A, 208.9 ,6.5,138.9,4.1,Individual building,,
+3,4006,37,3089020,Friends of Crown Heights Educational Center Inc,ACS, N/A , 158.2 ,4.1,N/A,140.8,3.6,N/A, 134.5 ,3.5,148.9,3.9,Individual building,,
+3,1361,66,3036100,Friends of Crown Heights Educational Center Inc,ACS, N/A , 147.6 ,3.9,N/A,137.4,3.6,N/A, 125.9 ,3.3,142.0,3.7,Individual building,,
+3,1246,1,3031845,Friends of Crown Heights Educational Center Inc,ACS, N/A , 88.5 ,2.3,N/A,80.7,2.1,N/A, 71.5 ,1.9,79.0,2.0,Individual building,,
+3,1240,56,3031515,Friends of Crown Heights Educational Center Inc,ACS, N/A , 144.7 ,4.3,N/A,112.2,3.3,N/A, 108.0 ,3.0,152.9,4.3,Individual building,,
+3,4315,40,3097095,Friends of Crown Heights Educational Center Inc,ACS, N/A , 210.1 ,5.5,N/A,190.1,5.0,N/A, 175.8 ,4.6,209.7,5.5,Individual building,,
+3,3976,70,3088473,Friends of Crown Heights Educational Center Inc,ACS, N/A , 149.1 ,3.9,N/A,135.0,3.5,N/A, 127.6 ,3.3,128.3,3.4,Individual building,,
+3,4457,1,3098472,Friends of Crown Heights Educational Center Inc,ACS, N/A , 184.3 ,6.3,N/A,227.2,8.0,N/A, 171.3 ,6.1,179.3,6.3,Individual building,,
+3,3531,23,3081165,Friends of Crown Heights Educational Center Inc,ACS, N/A , 124.1 ,3.6,N/A,123.4,3.7,N/A, 102.6 ,3.1,154.9,4.6,Individual building,,
+3,1280,54,3033470,Friends of Crown Heights Educational Center Inc,ACS, N/A , 141.5 ,3.7,N/A,139.8,3.7,N/A, 145.3 ,3.8,136.0,3.6,Individual building,,
+3,4298,7,3096389,Friends of Crown Heights Educational Center Inc,ACS, N/A , 128.3 ,4.3,N/A,128.0,4.2,N/A, 98.9 ,3.1,129.5,4.3,Individual building,,
+3,3259,23,3074237,Grand Street Settlement Inc,ACS, N/A , 196.7 ,5.3,N/A,191.0,5.1,N/A, 172.5 ,4.6,191.8,5.1,Individual building,,
+2,3732,39,2023653,H.G. Birch Watson Day Care Center,ACS, N/A , 131.4 ,3.5,N/A,118.1,3.1,N/A, 121.5 ,3.4,158.9,6.4,Individual building,,
+2,2516,51,2003301,Highbridge Advisory SRCC,ACS, N/A , 178.9 ,4.7,N/A,176.1,4.6,N/A, 163.3 ,4.3,184.7,4.9,Individual building,,
+2,2276,1,2000133,Horizon Juvenile Center,ACS, N/A , 154.4 ,4.7,N/A,156.4,4.8,N/A, 153.8 ,4.6,160.4,5.0,Individual building,,
+2,5713,87,2087522,Kingsbridge,ACS, No data ,,, No data ,,, No data ,,,33.9,1.1,Individual building,100.0,
+1,2132,47,1063193,La Familia Unida Day Care Center,ACS, N/A , 21.1 ,0.5,N/A,16.1,0.4,N/A, 9.4 ,0.2,,,Individual building,,
+3,3433,5,3079655,Labor and Industry for Education Inc,ACS, N/A , 122.3 ,3.3,N/A,115.1,3.2,N/A, 102.5 ,2.8,124.5,3.5,Individual building,,
+3,3448,15,3080179,Labor and Industry for Education Inc,ACS, N/A , 82.0 ,2.7,N/A,90.2,3.1,N/A, 73.9 ,2.4,77.1,2.6,Individual building,,
+2,2888,21,2009316,Labor Bathgate Day Care Center,ACS, N/A , 236.1 ,6.1,N/A,168.7,4.4,N/A, 156.9 ,4.1,199.0,5.2,Individual building,,
+1,2014,36,1060189,Lutheran Social Service of NY #11,ACS, N/A , 237.1 ,7.5,N/A,215.8,6.8,N/A, 197.7 ,6.0,229.7,7.2,Individual building,,
+2,2696,30,2005346,Lutheran Social Services of NY,ACS, N/A , 106.9 ,2.8,N/A,116.4,3.0,N/A, 131.3 ,3.4,137.8,3.6,Individual building,,
+1,2032,17,1060503,Luthern Social Service of NY #13,ACS, N/A , 193.6 ,5.1,N/A,188.5,4.9,N/A, 159.3 ,4.2,182.9,4.7,Individual building,,
+1,2076,41,1061917,Luthern Social Service of NY #14,ACS, N/A , 167.4 ,4.9,N/A,167.4,5.0,N/A, 149.9 ,4.3,140.6,4.1,Individual building,,
+2,2877,522,2008966,Luthern Social Services of NY,ACS, N/A , 272.9 ,7.2,N/A,246.4,6.5,N/A, 215.8 ,5.6,194.6,5.1,Individual building,,
+3,1624,1,3044209,Luthern Social Services of NY,ACS, N/A , 160.6 ,4.3,N/A,156.1,4.1,N/A, 152.8 ,4.0,157.8,4.1,Individual building,,
+3,3331,25,3076253,Luthern Social Services of NY,ACS, N/A , 217.0 ,5.7,N/A,211.3,5.6,N/A, 191.6 ,5.1,224.2,5.9,Individual building,,
+2,2837,11,2008017,Mid Bronx Early Childhood Center Inc,ACS, N/A , 203.3 ,6.5,N/A,199.8,6.4,N/A, 188.7 ,6.1,204.1,6.7,Individual building,,
+2,3178,32,2013953,Morris Day Care and Senior Center,ACS, N/A , 195.2 ,5.2,N/A,182.5,4.8,N/A, 195.3 ,5.2,171.4,4.6,Individual building,,
+3,1331,9,3035444,Mosdoth Day Care Center,ACS, N/A , 172.2 ,4.6,N/A,137.5,3.7,N/A, 153.2 ,4.1,157.5,4.2,Individual building,,
+3,3362,55,3076869,New Life Child Care Center,ACS, N/A , 307.5 ,9.6,N/A,367.9,12.7,N/A, 299.7 ,10.1,338.0,11.0,Individual building,,
+2,4829,6,2063070,North Bronx NCNW Community Development Center,ACS, N/A , 153.8 ,4.0,N/A,132.4,3.4,N/A, 122.9 ,3.2,136.3,3.5,Individual building,,
+3,2451,8,3063507,Nuestros Ninos Child Development,ACS, N/A , 149.2 ,4.0,N/A,136.2,3.6,N/A, 136.0 ,3.6,143.9,3.8,Individual building,,
+4,12039,44,4261337,Omega PSI PHI Fraternity NU-Omicron Chapter ECEC,ACS, N/A , 214.3 ,5.7,N/A,225.9,5.9,N/A, 205.0 ,5.3,221.2,6.1,Individual building,,
+3,552,5,3008517,P.A.L. Miccio Day Care Center,ACS, N/A , 194.9 ,5.1,N/A,189.2,4.9,N/A, 173.4 ,4.5,178.7,4.6,Individual building,,
+3,947,54,3019440,Park Slope North Child Development Center Inc,ACS, N/A , 209.8 ,7.2,N/A,197.3,6.8,N/A, 177.4 ,6.0,189.3,6.4,Individual building,,
+2,2411,41,2001876,Philip Michaels Day Care Center,ACS, N/A , 200.1 ,5.2,N/A,188.8,4.9,N/A, 181.9 ,4.7,192.2,5.0,Individual building,,
+3,3805,26,3084628,Police Athletic League Inc,ACS, N/A , 162.3 ,4.3,N/A,154.2,4.1,N/A, 156.4 ,4.1,169.8,4.5,Individual building,,
+1,2111,58,1062652,Rena Day Care Center,ACS, N/A , 151.6 ,4.0,N/A,147.5,3.9,N/A, 142.6 ,3.8,145.4,3.9,Individual building,,
+3,139,1,3000256,Brooklyn Borough Hall,DCAS, 5 , 419.9 ,15.1,5,401.6,14.4,23, 286.2 ,9.0,270.0,8.6,Individual building,29.0,Brooklyn Supreme Court Campus
+3,1498,6,3040195,S C O Family of Services,ACS, N/A , 104.8 ,3.3,N/A,115.7,3.6,N/A, 112.7 ,3.4,112.7,3.5,Individual building,,
+3,3568,1,3326658,SCO Family of Services,ACS, N/A , 233.5 ,6.1,N/A,191.1,5.0,N/A, 157.9 ,4.1,159.4,4.2,Individual building,,
+4,1669,38,4041534,SCO Family of Services,ACS, N/A , 218.1 ,5.8,N/A,200.0,5.3,N/A, 193.2 ,5.1,200.3,5.3,Individual building,,
+2,3523,34,2021465,Seven Corners Day Care Center,ACS, N/A , 157.6 ,4.1,N/A,162.1,4.2,N/A, 143.8 ,3.7,92.7,2.4,Individual building,,
+3,1538,46,3041852,Shirley Chisholm Day Care Center Inc,ACS, N/A , 161.9 ,4.3,N/A,158.2,4.2,N/A, 139.8 ,3.7,142.0,3.7,Individual building,,
+3,1520,51,3339185,Shirley Chisholm Day Care Center Inc,ACS, N/A , 163.5 ,4.7,N/A,135.4,4.0,N/A, 131.2 ,3.9,158.9,4.7,Individual building,,
+3,1431,54,3038522,Shirley Chisolon Day Care Center,ACS, N/A , 114.6 ,3.0,N/A,124.1,3.3,N/A, 117.5 ,3.4,129.6,4.6,Individual building,,
+3,1036,18,3023510,Shirley Chisolum #2,ACS, N/A , 102.2 ,2.6,N/A,97.7,2.5,N/A, 96.1 ,2.5,115.1,3.3,Individual building,,
+2,2368,39,2001228,South East Bronx Neighborhood Center Inc,ACS, N/A , 138.8 ,3.6,N/A,138.1,3.6,N/A, 135.0 ,3.5,147.6,3.8,Individual building,,
+3,184,25,3000937,Strong Place for Hope DCC,ACS, N/A , 298.4 ,9.0,N/A,254.6,7.4,N/A, 256.3 ,7.3,233.7,6.7,Individual building,,
+3,391,56,3006144,Sunset Bay Community Services Inc,ACS, N/A , 118.5 ,3.2,N/A,125.2,3.3,N/A, 121.0 ,3.2,127.7,3.4,Individual building,,
+4,1749,7,4043525,The Child Center of NY Inc,ACS, N/A , 158.9 ,4.2,N/A,148.7,3.9,N/A, 118.7 ,3.1,128.3,3.4,Individual building,,
+2,3044,24,2011440,Trabajamos Community Head Start Inc,ACS, N/A , 260.8 ,6.8,N/A,274.9,7.1,N/A, 237.2 ,6.1,224.5,5.8,Individual building,,
+2,3736,1,2023714,Tremont Crotona Day Care Center,ACS, N/A , 126.4 ,3.3,N/A,119.7,3.1,N/A, 129.8 ,3.4,128.4,3.3,Individual building,,
+3,4089,25,3090717,United Community Day Care Center Inc,ACS, N/A , 294.6 ,9.9,N/A,298.5,10.1,N/A, 381.0 ,13.6,351.8,12.3,Individual building,,
+1,2108,23,1062503,United Federation of Black Community Organization,ACS, N/A , 173.1 ,4.6,N/A,169.9,4.5,N/A, 168.5 ,4.4,188.9,5.0,Individual building,,
+3,1235,58,3031302,United Interfaith Action Council of Brooklyn Inc,ACS, N/A , 107.6 ,4.2,N/A,126.6,5.2,N/A, 97.5 ,3.8,97.2,3.8,Individual building,,
+2,3217,60,2014731,University Heights Day Care Center,ACS, N/A , 62.2 ,1.6,N/A,58.3,1.5,N/A, 43.6 ,1.1,51.2,1.3,Individual building,,
+3,3803,46,3342526,University Settlement Society of New York Inc,ACS, N/A , 173.2 ,4.5,N/A,184.4,4.8,N/A, 154.3 ,4.0,187.5,4.9,Individual building,,
+3,4039,1,3089620,Urban Strategies Day Care Center,ACS, N/A , 179.4 ,4.6,N/A,160.6,4.2,N/A, 141.3 ,3.7,152.2,3.9,Individual building,,
+2,4651,44,2057523,Williamsbridge NAACP Early EEC,ACS, N/A , 146.1 ,4.0,N/A,136.7,3.8,N/A, 128.2 ,3.5,113.3,3.1,Individual building,,
+3,2014,26,3057638,Young Minds Day Care Center,ACS, N/A , 202.7 ,5.4,N/A,194.1,5.1,N/A, 187.8 ,5.0,193.5,5.1,Individual building,,
+3,7065,1,3189617,YWCA of the City of New York,ACS, N/A , 161.2 ,4.8,N/A,183.3,5.5,N/A, 174.4 ,5.1,130.9,4.1,Individual building,,
+3,583,1,3008671,Board of Elections,BOENY, 96 , 25.8 ,0.7,100,12.1,0.3,100, 5.4 ,0.1,8.9,0.2,Individual building,100.0,
+3,3923,52,3087001,Arlington Branch Library,BPL, N/A , 185.8 ,5.8,N/A,179.3,5.8,N/A, 183.0 ,5.6,187.4,6.1,Individual building,,
+3,701,1,3346119,K024,DOE, 68 , 137.6 ,4.4,76,125.4,4.0,82, 114.4 ,3.6,123.0,4.0,Individual building,78.0,
+3,5907,1,3147279,Bay Ridge Branch Library,BPL, N/A , 228.9 ,6.7,N/A,212.1,6.2,N/A, 202.1 ,5.7,206.6,5.9,Individual building,,
+3,1997,32,3057384,Bedford Branch Library and Learning Center,BPL, N/A , 184.4 ,5.7,N/A,165.1,4.6,N/A, 175.3 ,5.2,168.3,5.4,Individual building,,
+3,5598,48,3135907,Borough Park Branch Library,BPL, N/A , 123.8 ,3.2,N/A,108.9,2.8,N/A, 105.9 ,2.7,97.8,2.5,Individual building,,
+3,8680,32,3245028,Brighton Beach Branch Library,BPL, N/A , 263.6 ,7.7,N/A,270.5,8.4,N/A, 251.5 ,7.5,253.3,8.0,Individual building,,
+3,239,16,3001939,Brooklyn Heights Branch and Business Library,BPL, N/A , 177.3 ,5.2,N/A,198.6,6.0,N/A, 153.2 ,4.7,138.8,4.6,Individual building,,
+3,1220,63,3030731,Brower Park Branch Library,BPL, N/A , 239.0 ,7.8,N/A,173.4,6.0,N/A, 268.1 ,8.2,400.9,12.0,Individual building,,
+3,3489,150,3080669,Brownsville Branch Library,BPL, N/A , 202.8 ,6.1,N/A,182.9,5.4,N/A, 159.0 ,4.6,168.2,5.2,Individual building,,
+3,3098,19,3071470,Bushwick Branch Library,BPL, N/A , 190.3 ,5.7,N/A,171.8,5.6,N/A, 142.4 ,4.7,150.8,5.1,Individual building,,
+3,8204,68,3230120,Canarsie Branch Library,BPL, N/A , 172.6 ,4.8,N/A,175.6,5.2,N/A, 176.8 ,4.9,179.7,5.3,Individual building,,
+3,338,33,3004336,Carroll Gardens Branch Library,BPL, N/A , 129.2 ,4.2,N/A,133.9,4.5,N/A, 130.2 ,4.4,138.8,4.8,Individual building,,
+3,1183,2,3029665,Central Library and Learning Center,BPL, N/A , 187.3 ,5.5,N/A,181.0,5.4,N/A, 167.4 ,4.8,171.0,5.1,Individual building,,
+3,5005,33,3327822,Clarendon Branch Library,BPL, N/A , 212.3 ,6.2,N/A,187.5,5.5,N/A, 166.2 ,4.8,163.7,4.9,Individual building,,
+3,1945,36,3055495,Clinton Hill Branch Library,BPL, N/A , 331.9 ,10.8,N/A,330.6,10.7,N/A, 299.3 ,9.4,273.5,8.5,Individual building,,
+3,7019,43,3189001,Coney Island Branch Library and Learning Ctr,BPL, N/A , 223.4 ,6.9,N/A,229.0,7.5,N/A, 174.5 ,5.6,36.5,1.1,Individual building,,
+3,5144,80,3118362,Cortelyou Branch Library,BPL, N/A , 224.3 ,6.6,N/A,204.6,6.1,N/A, 237.3 ,6.7,238.1,6.7,Individual building,,
+3,4791,46,3106505,Crown Heights Branch Library,BPL, N/A , 178.0 ,5.0,N/A,171.3,4.9,N/A, 169.1 ,4.8,169.0,5.0,Individual building,,
+3,4247,33,3252993,Cypress Hills Branch Library,BPL, N/A , 327.2 ,10.2,N/A,311.5,9.9,N/A, 283.6 ,8.9,256.0,8.5,Individual building,,
+3,3241,18,3073751,DeKalb Branch Library,BPL, N/A , 186.0 ,6.0,N/A,185.6,6.2,N/A, 168.8 ,5.4,175.6,5.9,Individual building,,
+3,6302,36,3164019,Dyker Branch Library,BPL, N/A , 223.1 ,7.1,N/A,191.6,6.3,N/A, 184.2 ,5.6,182.5,5.5,Individual building,,
+3,4717,38,3103597,East Flatbush Branch Library,BPL, N/A , 204.3 ,5.9,N/A,186.9,5.3,N/A, 176.5 ,5.0,152.5,4.7,Individual building,,
+3,1396,6,3037543,Eastern Parkway Branch Library & Learning Center,BPL, N/A , 240.3 ,7.9,N/A,236.1,7.7,N/A, 234.4 ,7.3,253.6,8.1,Individual building,,
+3,5086,15,3116706,Flatbush Branch Library and Learning Center,BPL, N/A , 245.3 ,8.0,N/A,217.4,6.9,N/A, 249.9 ,8.0,194.3,6.3,Individual building,,
+3,7868,39,3219626,Flatlands Branch Library,BPL, N/A , 237.8 ,7.1,N/A,218.8,6.6,N/A, 216.0 ,6.5,208.5,6.4,Individual building,,
+3,8923,920,3343823,Gerritsen Beach Branch Library,BPL, N/A , 301.4 ,9.0,N/A,279.2,8.3,N/A, 257.1 ,7.4,164.0,5.8,Individual building,,
+3,7174,96,3194486,Gravesend Branch Library,BPL, N/A , 257.9 ,7.6,N/A,244.0,7.5,N/A, 203.1 ,5.8,201.3,6.1,Individual building,,
+3,1787,14,3049858,K025,DOE, 77 , 95.5 ,3.7,75,96.5,3.7,81, 89.6 ,3.4,91.1,3.7,Individual building,80.0,
+3,2621,32,3065691,Greenpoint Branch Library,BPL, N/A , 221.8 ,6.8,N/A,309.3,9.8,N/A, 283.1 ,8.0,263.6,8.2,Individual building,,
+3,6114,37,3155499,Hamilton Branch Library,BPL, N/A , 93.1 ,2.4,N/A,571.4,25.3,N/A, 383.2 ,15.7,586.0,25.9,Individual building,,
+3,6618,34,3175253,Highlawn Branch Library,BPL, N/A , 301.4 ,9.0,N/A,279.3,8.4,N/A, 255.6 ,7.6,266.2,8.2,Individual building,,
+3,7371,80,3200560,Homecrest Branch Library,BPL, N/A , 258.7 ,7.5,N/A,248.4,7.2,N/A, 255.4 ,7.3,248.7,7.5,Individual building,,
+3,8300,1,3234514,Jamaica Bay Branch Library,BPL, N/A , 299.4 ,9.3,N/A,268.0,8.6,N/A, 233.6 ,7.3,275.6,9.4,Individual building,,
+3,5416,14,3127572,Kensington Branch Library,BPL, N/A , 102.0 ,3.2,N/A,170.4,5.1,N/A, 282.2 ,7.9,258.4,8.3,Individual building,,
+3,7405,920,3202630,Kings Bay Branch Library,BPL, N/A , 263.6 ,7.2,N/A,277.3,7.7,N/A, 259.0 ,7.1,246.3,6.9,Individual building,,
+3,6783,68,3182576,Kings Highway Branch Library,BPL, N/A , 218.1 ,6.6,N/A,219.5,6.6,N/A, 234.3 ,6.7,216.3,6.3,Individual building,,
+3,2762,21,3068818,Leonard Branch Library,BPL, N/A , 241.7 ,7.3,N/A,241.0,7.4,N/A, 204.4 ,6.1,200.4,6.3,Individual building,,
+3,1665,1,3046408,Macon Branch Library,BPL, N/A , 234.3 ,7.7,N/A,231.3,7.3,N/A, 226.6 ,6.6,210.9,6.6,Individual building,,
+3,5518,4,3132091,Mapleton Branch Library,BPL, N/A , 211.9 ,6.2,N/A,218.0,6.5,N/A, 243.3 ,7.1,241.9,7.3,Individual building,,
+3,1774,81,3049472,Marcy Branch Library,BPL, N/A , 270.5 ,7.0,N/A,249.2,6.5,N/A, 273.1 ,7.1,243.8,6.3,Individual building,,
+3,5771,12,3143032,McKinley Park Branch Library,BPL, N/A , 249.3 ,7.3,N/A,225.9,6.9,N/A, 212.9 ,6.3,222.5,6.9,Individual building,,
+3,6709,54,3179706,Midwood Branch Library,BPL, N/A , 261.4 ,7.3,N/A,228.9,6.4,N/A, 226.3 ,6.3,226.3,6.4,Individual building,,
+3,8363,9,3235910,Mill Basin Branch Library,BPL, N/A , 338.1 ,10.0,N/A,336.2,9.8,N/A, 298.6 ,8.6,317.3,9.7,Individual building,,
+3,4090,1,3090726,New Lots Branch Library,BPL, N/A , 155.1 ,4.9,N/A,173.4,5.6,N/A, 160.2 ,4.9,177.1,5.7,Individual building,,
+3,6343,64,3165745,New Utrecht Branch Library,BPL, N/A , 237.0 ,6.7,N/A,254.9,7.5,N/A, 227.1 ,6.4,240.1,6.7,Individual building,,
+3,928,6,3018376,Pacific Branch Library,BPL, N/A , 185.8 ,5.7,N/A,162.7,5.5,N/A, 158.6 ,5.4,196.0,7.5,Individual building,,
+3,7762,53,3214944,Paerdegat Branch Library,BPL, N/A , 277.1 ,9.0,N/A,254.6,8.4,N/A, 215.4 ,6.8,209.6,7.0,Individual building,,
+3,1006,1,3022144,Park Slope Branch Library,BPL, N/A , 92.2 ,3.2,N/A,68.6,3.4,N/A, 131.2 ,4.7,183.6,6.3,Individual building,,
+3,577,29,3008650,Red Hook Branch Library,BPL, N/A , 194.4 ,5.0,N/A,136.8,3.5,N/A, 155.6 ,4.0,135.7,3.5,Individual building,,
+3,4721,28,3103730,Rugby Branch Library,BPL, N/A , 250.7 ,7.9,N/A,229.3,7.2,N/A, 201.3 ,6.3,190.9,6.2,Individual building,,
+3,6548,37,3172049,Ryder Branch Library,BPL, N/A , 295.8 ,9.2,N/A,244.8,7.3,N/A, 229.8 ,6.7,227.9,7.1,Individual building,,
+3,1498,35,3040218,Saratoga Branch Library,BPL, N/A , 233.8 ,6.9,N/A,250.0,8.4,N/A, 203.2 ,6.4,198.3,6.1,Individual building,,
+3,7458,20,3204896,Sheepshead Bay Branch Library,BPL, N/A , 230.3 ,6.2,N/A,214.9,5.9,N/A, 212.3 ,5.7,262.4,7.1,Individual building,,
+3,4413,25,3098071,Spring Creek Branch Library,BPL, N/A , 295.5 ,7.7,N/A,275.3,7.1,N/A, 297.2 ,7.7,257.3,6.7,Individual building,,
+3,3794,18,3084596,Stone Avenue Branch Library,BPL, N/A , 153.8 ,4.6,N/A,194.4,6.8,N/A, 176.2 ,5.9,185.7,6.3,Individual building,,
+3,798,34,3013507,Sunset Park Branch Library,BPL, N/A , 241.1 ,7.4,N/A,229.9,7.0,N/A, 218.9 ,6.5,232.7,7.2,Individual building,,
+3,6897,35,3186777,Ulmer Park Branch Library,BPL, N/A , 263.8 ,8.2,N/A,227.8,6.8,N/A, 210.7 ,6.2,209.6,6.3,Individual building,,
+3,2039,1,3058036,Walt Whitman Branch Library,BPL, N/A , 198.6 ,6.7,N/A,198.5,6.7,N/A, 181.7 ,6.0,187.0,6.3,Individual building,,
+3,3362,32,3076852,Washington Irving Branch Library,BPL, N/A , 244.4 ,8.0,N/A,240.9,7.5,N/A, 220.7 ,7.0,233.4,7.5,Individual building,,
+3,2189,1,3060090,Williamsburg Branch Library,BPL, N/A , 151.7 ,5.1,N/A,154.1,5.2,N/A, 123.1 ,4.1,133.9,4.9,Individual building,,
+3,5318,10,3124000,Windsor Terrace Branch Library,BPL, N/A , 290.1 ,8.6,N/A,280.8,8.5,N/A, 259.1 ,7.6,263.0,8.1,Individual building,,
+1,878,20,1086544,Baruch College Campus: Administrative Bldg,CUNY, N/A , 204.6 ,5.5,N/A,219.3,6.3,N/A, 207.8 ,5.9,210.8,6.0,Part of campus,,Baruch College Campus
+1,881,29,1018106,Baruch College Campus: Annex,CUNY, N/A , 204.6 ,5.5,N/A,219.3,6.3,N/A, 207.8 ,5.9,210.8,6.0,Part of campus,,Baruch College Campus
+1,874,1,1017861,Baruch College Campus: Early Learning Cntr,CUNY, N/A , 204.6 ,5.5,N/A,219.3,6.3,N/A, 207.8 ,5.9,210.8,6.0,Part of campus,,Baruch College Campus
+1,878,20,1018015,Baruch College Campus: Lawrence and Eris Field Bldg,CUNY, N/A , 204.6 ,5.5,N/A,219.3,6.3,N/A, 207.8 ,5.9,210.8,6.0,Part of campus,,Baruch College Campus
+1,881,31,1018107,Baruch College Campus: Library and Technology Bldg,CUNY, N/A , 204.6 ,5.5,N/A,219.3,6.3,N/A, 207.8 ,5.9,210.8,6.0,Part of campus,,Baruch College Campus
+1,878,20,1086513,Baruch College Campus: Steven L. Newman Hall,CUNY, N/A , 204.6 ,5.5,N/A,219.3,6.3,N/A, 207.8 ,5.9,210.8,6.0,Part of campus,,Baruch College Campus
+1,880,24,1086514,Baruch College Campus: William & Anita Newman Vertical,CUNY, N/A , 204.6 ,5.5,N/A,219.3,6.3,N/A, 207.8 ,5.9,210.8,6.0,Part of campus,,Baruch College Campus
+1,13,27,1000045,BMCC Campus: 25 Broadway,CUNY, N/A , 251.9 ,10.5,N/A,252.0,10.4,N/A, 287.3 ,12.1,298.3,12.3,Part of campus,,BMCC Campus
+1,127,18,1001415,BMCC Campus: 70 Murray Street,CUNY, N/A , 251.9 ,10.5,N/A,252.0,10.4,N/A, 287.3 ,12.1,298.3,12.3,Part of campus,,BMCC Campus
+1,142,50,1066406,BMCC Campus: Chambers St. Bldg   (Trailers),CUNY, N/A , 251.9 ,10.5,N/A,252.0,10.4,N/A, 287.3 ,12.1,298.3,12.3,Part of campus,,BMCC Campus
+1,142,50,1066406,BMCC Campus: Chambers St. Bldg (Main Campus),CUNY, N/A , 251.9 ,10.5,N/A,252.0,10.4,N/A, 287.3 ,12.1,298.3,12.3,Part of campus,,BMCC Campus
+1,127,1,1088292,BMCC Campus: Fiterman Hall,CUNY, N/A , 251.9 ,10.5,N/A,252.0,10.4,N/A, 287.3 ,12.1,298.3,12.3,Part of campus,,BMCC Campus
+1,1910,1,1081602,BMCC Campus: State Office Bldg. (Language Immersion),CUNY, N/A , 251.9 ,10.5,N/A,252.0,10.4,N/A, 287.3 ,12.1,298.3,12.3,Part of campus,,BMCC Campus
+2,3232,78,2015058,Bronx Community College Campus: Altschul House,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,40,2097306,Bronx Community College Campus: Alumni Gymnasium,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100241,Bronx Community College Campus: Begrisch Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100252,Bronx Community College Campus: Bliss Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100247,Bronx Community College Campus: Brown Annex,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100242,Bronx Community College Campus: Butler Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100245,Bronx Community College Campus: Clock Tower,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100240,Bronx Community College Campus: Colston Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100240,Bronx Community College Campus: Community Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100251,Bronx Community College Campus: Energy Plant,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100248,Bronx Community College Campus: Gould Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100243,Bronx Community College Campus: Gould Memorial Library,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100256,Bronx Community College Campus: Greenhouse,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100253,Bronx Community College Campus: Guggenheim Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100243,Bronx Community College Campus: Hall of Fame,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100256,Bronx Community College Campus: Havemeyer Lab,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100256,Bronx Community College Campus: Havemeyer Lab Annex,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2096464,Bronx Community College Campus: Language Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,40,2097307,Bronx Community College Campus: Loew Annex,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,1,2014898,Bronx Community College Campus: Loew Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3223,50,2090982,Bronx Community College Campus: MacCracken Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100246,Bronx Community College Campus: Main Guard House,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,620,2104900,Bronx Community College Campus: Meister Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100250,Bronx Community College Campus: New Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100249,Bronx Community College Campus: Nichols Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2831930,Bronx Community College Campus: North Hall and Library,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+3,1616,1,3393805,K026,DOE, 93 , 91.2 ,4.4,92,91.2,4.5,95, 84.6 ,3.9,98.5,4.1,Individual building,89.0,
+2,3223,50,2090981,Bronx Community College Campus: Patterson Garage,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100244,Bronx Community College Campus: Philosophy Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100241,Bronx Community College Campus: Polowczyk Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100247,Bronx Community College Campus: Roscoe C. Brown Student Center,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,620,2100254,Bronx Community College Campus: Sage Annex,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100254,Bronx Community College Campus: Sage Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3224,1,2014903,Bronx Community College Campus: Snow Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2100255,Bronx Community College Campus: South Hall,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+2,3222,62,2116208,Bronx Community College Campus: The Children's Center,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+1,13,27,1000045,Brooklyn College Campus: 25 Broadway,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7556,150,9999999,Brooklyn College Campus: BCBC PAC Office Building,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7556,150,3327322,Brooklyn College Campus: Boylan Hall,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7552,100,3347325,Brooklyn College Campus: Chiller Plant,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7557,32,3336755,Brooklyn College Campus: College Child Care,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7552,100,3347325,Brooklyn College Campus: Heating Plant,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7557,118,3205890,Brooklyn College Campus: Hillel Building,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7556,150,3327317,Brooklyn College Campus: Ingersoll Hall,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7556,150,3327317,Brooklyn College Campus: Ingersoll Hall Extension,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7556,150,3327319,Brooklyn College Campus: LaGuardia Hall,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,5245,8,3121504,Brooklyn College Campus: Newman Center,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7575,33,9999999,Brooklyn College Campus: Nostrand Ave Lot #33,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7575,53,9999999,Brooklyn College Campus: Nostrand Ave Lot #53,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7575,54,9999999,Brooklyn College Campus: Nostrand Ave Lot #54,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,5116,1,3253073,Brooklyn College Campus: President's Residence,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7552,100,3205787,Brooklyn College Campus: Roosevelt Hall,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7552,100,3205787,Brooklyn College Campus: Roosevelt Hall Extension,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,2622,28,3065733,K034,DOE, 84 , 125.4 ,6.1,83,127.8,6.3,75, 140.8 ,6.3,120.4,5.5,Individual building,86.0,
+3,7555,27,3205803,Brooklyn College Campus: Student Union,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7552,100,3389802,Brooklyn College Campus: West End Bldg,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7552,100,3391507,Brooklyn College Campus: West Quad Bldg,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7556,150,3327318,Brooklyn College Campus: Whitehead Hall,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7556,150,3327321,Brooklyn College Campus: Whitman / Gershwin Hall,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+3,7552,100,3347326,Brooklyn College Campus: William James Hall,CUNY, N/A , 319.2 ,11.6,N/A,319.2,11.5,N/A, 308.3 ,10.6,309.2,11.1,Part of campus,,Brooklyn College Campus
+2,2920,2,2086675,Bx CC  Campus: EOC - Bathgate Industrial Park,CUNY, N/A , 95.3 ,2.5,N/A,94.5,2.5,N/A, 109.6 ,2.9,119.4,3.1,Part of campus,,Bronx Community College Campus
+3,250,44,3002108,Central Office Campus: 16 Court Street - BIN 3002108,CUNY, N/A , 13.5 ,0.4,N/A,30.5,0.8,N/A, 36.8 ,1.0,36.2,0.9,Part of campus,,Central Office Campus
+1,807,39,1015182,Central Office Campus: 31st St - Admin. & Student Srvs.,CUNY, N/A , 13.5 ,0.4,N/A,30.5,0.8,N/A, 36.8 ,1.0,36.2,0.9,Part of campus,,Central Office Campus
+1,600,1002,1010382,Central Office Campus: 395 Hudson Street,CUNY, N/A , 13.5 ,0.4,N/A,30.5,0.8,N/A, 36.8 ,1.0,36.2,0.9,Part of campus,,Central Office Campus
+1,1316,5,9999999,Central Office Campus: 42nd Street - Central Office,CUNY, N/A , 13.5 ,0.4,N/A,30.5,0.8,N/A, 36.8 ,1.0,36.2,0.9,Part of campus,,Central Office Campus
+1,1086,1,1027072,Central Office Campus: BMW Bldg,CUNY, N/A , 13.5 ,0.4,N/A,30.5,0.8,N/A, 36.8 ,1.0,36.2,0.9,Part of campus,,Central Office Campus
+1,2153,81,1081875,Central Office Campus: CUNY Express,CUNY, N/A , 13.5 ,0.4,N/A,30.5,0.8,N/A, 36.8 ,1.0,36.2,0.9,Part of campus,,Central Office Campus
+1,1931,21,1058659,Central Office Campus: CUNY Hub for Innovation and Entrepreneurship,CUNY, N/A , 13.5 ,0.4,N/A,30.5,0.8,N/A, 36.8 ,1.0,36.2,0.9,Part of campus,,Central Office Campus
+2,3167,1,2013811,Central Office Campus: CUNY on the Concourse,CUNY, N/A , 13.5 ,0.4,N/A,30.5,0.8,N/A, 36.8 ,1.0,36.2,0.9,Part of campus,,Central Office Campus
+4,99999,9999,9999999,Central Office Campus: Gertz Plaza,CUNY, N/A , 13.5 ,0.4,N/A,30.5,0.8,N/A, 36.8 ,1.0,36.2,0.9,Part of campus,,Central Office Campus
+1,863,76,1017094,Central Office Campus: Institute for State and Local Government (ISLG),CUNY, N/A , 13.5 ,0.4,N/A,30.5,0.8,N/A, 36.8 ,1.0,36.2,0.9,Part of campus,,Central Office Campus
+1,1259,19,1034206,Central Office Campus: Murphy Institute,CUNY, N/A , 13.5 ,0.4,N/A,30.5,0.8,N/A, 36.8 ,1.0,36.2,0.9,Part of campus,,Central Office Campus
+1,1012,15,1080830,Central Office Campus: Research Foundation Building,CUNY, N/A , 13.5 ,0.4,N/A,30.5,0.8,N/A, 36.8 ,1.0,36.2,0.9,Part of campus,,Central Office Campus
+1,1258,9,1034196,Central Office Campus: W.R. Grace AdmissionsBldg.,CUNY, N/A , 13.5 ,0.4,N/A,30.5,0.8,N/A, 36.8 ,1.0,36.2,0.9,Part of campus,,Central Office Campus
+1,13,27,1000045,City College of NY Campus: 25 Broadway,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,1,1084075,City College of NY Campus: Aaron Davis Hall,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,2058,11,1075501,City College of NY Campus: Alumni House,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,200,1084085,City College of NY Campus: Baskerville Hall,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,200,1084083,City College of NY Campus: Compton - Goethals Hall,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,200,1084082,City College of NY Campus: Harris Hall,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,105,1085670,City College of NY Campus: Howard E. Wille Admin. Bldg.,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,100,1059410,City College of NY Campus: Marshak Hall,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,1,1084067,City College of NY Campus: Mott Hall - D. O. E.,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,200,1084081,City College of NY Campus: North Academic Cntr,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,1,1084069,City College of NY Campus: Schiff House - Child Care Cntr,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+3,1674,11,3047054,K035,DOE, 68 , 103.4 ,4.2,64,106.7,4.4,78, 103.9 ,4.3,126.2,5.6,Individual building,61.0,
+1,1957,105,1084077,City College of NY Campus: Shepard Hall,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,1,1084073,City College of NY Campus: Spitzer Sch of Architecture,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,129,1084078,City College of NY Campus: Steinman Hall,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,2071,27,1012529,City College of NY Campus: Storehouse,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,1,1084068,City College of NY Campus: Structural Bio Cntr,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,5,1813178,City College of NY Campus: The Towers at CCNY,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,100,1813261,City College of NY Campus: Vivarium,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+1,1957,200,1084084,City College of NY Campus: Wingate Hall,CUNY, N/A , 251.1 ,7.6,N/A,266.9,8.5,N/A, 245.1 ,7.4,269.4,8.3,Part of campus,,City College of New York Campus
+5,2040,1,9999999,College of SI Campus: 1H-Residence Hall - North Building,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,9999999,College of SI Campus: 2H-Residence Hall - South Building,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107296,College of SI Campus: Astrophysical Observatory,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5131066,College of SI Campus: Biological & Chemical Sciences,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107294,College of SI Campus: Business Bldg,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107291,College of SI Campus: Campus Center / Cafeteria,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107288,College of SI Campus: Campus Srvs. & Central Plant,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107297,College of SI Campus: Center for the Arts,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107289,College of SI Campus: Children's Cntr,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107292,College of SI Campus: Computer Sci. / Eng Sci & Physics,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107304,College of SI Campus: Education Bldg,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107303,College of SI Campus: Eng. / Modern Languages,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107295,College of SI Campus: Engineering Tech.- West,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5005461,College of SI Campus: Gate House,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107293,College of SI Campus: History / Pol Sci / Econ & Philosophy,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107301,College of SI Campus: Library / Cyber Café,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107342,College of SI Campus: Main Gate House,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5130987,College of SI Campus: Marcus Hall - Nursing,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107302,College of SI Campus: Mathematics Bldg,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107299,College of SI Campus: North Admin. Bldg,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5131067,College of SI Campus: Physical Therapy,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,684,261,5017131,College of SI Campus: President's Residence,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+1,153,1,1079216,Emigrant Savings Building,DCAS, 92 , 134.8 ,6.1,95,118.8,5.4,96, 109.8 ,5.0,116.0,5.5,Individual building,95.0,
+5,2040,1,5107305,"College of SI Campus: Psychology, Sociology, Anthropology, Social Wrk",CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107298,College of SI Campus: South Admin. Bldg,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107289,College of SI Campus: Sports & Recr. Cetr.,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107293,College of SI Campus: Warehouse (Vacant),CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5107300,College of SI Campus: West Admin. Bldg,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+5,2040,1,5130988,College of SI Campus: Pump House,CUNY, N/A , 313.9 ,10.1, N/A ,302.2,9.5, N/A , 280.2 ,8.7,315.2,10.0,Part of campus,,College of Staten Island Campus
+3,266,1,3002555,College of Technology Campus: 111 Livingston St - EOC,CUNY, N/A , 183.5 ,4.9, N/A ,169.2,4.6,N/A, 166.1 ,4.9,192.6,5.9,Part of campus,,College of Technology Campus
+3,250,44,3002108,College of Technology Campus: 16 Court Street,CUNY, N/A , 183.5 ,4.9,N/A,169.2,4.6,N/A, 166.1 ,4.9,192.6,5.9,Part of campus,,College of Technology Campus
+3,128,1,9999999,College of Technology Campus: Atrium,CUNY, N/A , 183.5 ,4.9,N/A,169.2,4.6,N/A, 166.1 ,4.9,192.6,5.9,Part of campus,,College of Technology Campus
+3,86,18,3329429,College of Technology Campus: Environmental Center,CUNY, N/A , 183.5 ,4.9,N/A,169.2,4.6,N/A, 166.1 ,4.9,192.6,5.9,Part of campus,,College of Technology Campus
+3,128,26,3000243,College of Technology Campus: General Bldg (Con Edison),CUNY, N/A , 183.5 ,4.9,N/A,169.2,4.6,N/A, 166.1 ,4.9,192.6,5.9,Part of campus,,College of Technology Campus
+3,118,6,3335884,College of Technology Campus: Howard Bldg,CUNY, N/A , 183.5 ,4.9,N/A,169.2,4.6,N/A, 166.1 ,4.9,192.6,5.9,Part of campus,,College of Technology Campus
+3,86,7501,3000176,College of Technology Campus: Midway Bldg,CUNY, N/A , 183.5 ,4.9,N/A,169.2,4.6,N/A, 166.1 ,4.9,192.6,5.9,Part of campus,,College of Technology Campus
+3,128,1,3335891,College of Technology Campus: Namm Hall,CUNY, N/A , 183.5 ,4.9,N/A,169.2,4.6,N/A, 166.1 ,4.9,192.6,5.9,Part of campus,,College of Technology Campus
+3,128,1,3855192,College of Technology Campus: Pearl Bldg,CUNY, N/A , 183.5 ,4.9,N/A,169.2,4.6,N/A, 166.1 ,4.9,192.6,5.9,Part of campus,,College of Technology Campus
+3,97,2,3000182,College of Technology Campus: Voorhees Bldg,CUNY, N/A , 183.5 ,4.9,N/A,169.2,4.6,N/A, 166.1 ,4.9,192.6,5.9,Part of campus,,College of Technology Campus
+1,864,1101,1017097,Graduate Center,CUNY, N/A , 238.1 ,7.7,N/A,233.6,7.5,N/A, 225.1 ,7.1,234.1,7.7,Individual building,,
+1,1767,30,1088293,Graduate Center Housing,CUNY, No data ,,,93,80.0,2.6,75, 125.1 ,4.6,138.9,5.2,Individual building,72.0,
+1,841,75,1080744,Guttman Community College,CUNY, N/A , 9.6 ,0.7,N/A,159.6,6.8,N/A, 210.5 ,6.9,247.9,8.4,Individual building,,
+2,2350,24,2001088,Hostos Community College Campus: Admin. Bldg - G,CUNY, N/A , 174.9 ,5.6,N/A,166.8,5.3,N/A, 163.0 ,5.1,172.7,5.5,Part of campus,,Hostos Community College Campus
+2,2346,18,2001038,Hostos Community College Campus: Allied Health & Sciences Bldg - A,CUNY, N/A , 174.9 ,5.6,N/A,166.8,5.3,N/A, 163.0 ,5.1,172.7,5.5,Part of campus,,Hostos Community College Campus
+2,2343,32,2001019,Hostos Community College Campus: B  Bldg,CUNY, N/A , 174.9 ,5.6,N/A,166.8,5.3,N/A, 163.0 ,5.1,172.7,5.5,Part of campus,,Hostos Community College Campus
+2,2350,16,2001087,Hostos Community College Campus: Carpet Bldg,CUNY, N/A , 174.9 ,5.6,N/A,166.8,5.3,N/A, 163.0 ,5.1,172.7,5.5,Part of campus,,Hostos Community College Campus
+1,497,1,1007560,Hostos Community College Campus: CUNY in the Heights,CUNY, N/A , 174.9 ,5.6,N/A,166.8,5.3,N/A, 163.0 ,5.1,172.7,5.5,Part of campus,,Hostos Community College Campus
+2,2343,14,2820268,Hostos Community College Campus: East Academic Complex - C,CUNY, N/A , 174.9 ,5.6,N/A,166.8,5.3,N/A, 163.0 ,5.1,172.7,5.5,Part of campus,,Hostos Community College Campus
+2,2356,20,2001147,Hostos Community College Campus: Prow Bldg  - CEWD,CUNY, N/A , 174.9 ,5.6,N/A,166.8,5.3,N/A, 163.0 ,5.1,172.7,5.5,Part of campus,,Hostos Community College Campus
+2,2350,39,2001091,Hostos Community College Campus: Savoy Bldg - D,CUNY, N/A , 174.9 ,5.6,N/A,166.8,5.3,N/A, 163.0 ,5.1,172.7,5.5,Part of campus,,Hostos Community College Campus
+2,2350,11,2817000,Hostos Community College Campus: Trailer Site #5 (Walton),CUNY, N/A , 174.9 ,5.6,N/A,166.8,5.3,N/A, 163.0 ,5.1,172.7,5.5,Part of campus,,Hostos Community College Campus
+2,2350,24,2001088,Hostos Community College Campus: Trailer Site #6 (471 Lot),CUNY, N/A , 174.9 ,5.6,N/A,166.8,5.3,N/A, 163.0 ,5.1,172.7,5.5,Part of campus,,Hostos Community College Campus
+1,225,8,1002933,Hunter College Campus: 205 Hudson Hunter MFA,CUNY, N/A , 204.5 ,6.7,N/A,212.5,6.9,N/A, 206.7 ,6.7,204.7,6.7,Part of campus,,Hunter College Campus
+1,962,100,1069579,Hunter College Campus: Brookdale East Bldg,CUNY, N/A , 204.5 ,6.7,N/A,212.5,6.9,N/A, 206.7 ,6.7,204.7,6.7,Part of campus,,Hunter College Campus
+1,962,100,1069579,Hunter College Campus: Brookdale North Bldg,CUNY, N/A , 204.5 ,6.7,N/A,212.5,6.9,N/A, 206.7 ,6.7,204.7,6.7,Part of campus,,Hunter College Campus
+1,962,100,1069579,Hunter College Campus: Brookdale West Bldg,CUNY, N/A , 204.5 ,6.7,N/A,212.5,6.9,N/A, 206.7 ,6.7,204.7,6.7,Part of campus,,Hunter College Campus
+1,1506,21,1047404,Hunter College Campus: Campus School,CUNY, N/A , 204.5 ,6.7,N/A,212.5,6.9,N/A, 206.7 ,6.7,204.7,6.7,Part of campus,,Hunter College Campus
+1,1402,49,1802539,Hunter College Campus: East Bldg,CUNY, N/A , 204.5 ,6.7,N/A,212.5,6.9,N/A, 206.7 ,6.7,204.7,6.7,Part of campus,,Hunter College Campus
+1,1050,6,1026319,Hunter College Campus: Master of Fine Arts Bldg,CUNY, N/A , 204.5 ,6.7,N/A,212.5,6.9,N/A, 206.7 ,6.7,204.7,6.7,Part of campus,,Hunter College Campus
+1,1403,1,1081419,Hunter College Campus: North Bldg,CUNY, N/A , 204.5 ,6.7,N/A,212.5,6.9,N/A, 206.7 ,6.7,204.7,6.7,Part of campus,,Hunter College Campus
+1,1399,150,1042405,Hunter College Campus: Parliamo Italiano,CUNY, N/A , 204.5 ,6.7,N/A,212.5,6.9,N/A, 206.7 ,6.7,204.7,6.7,Part of campus,,Hunter College Campus
+1,1380,30,1041133,Hunter College Campus: Roosevelt House,CUNY, N/A , 204.5 ,6.7,N/A,212.5,6.9,N/A, 206.7 ,6.7,204.7,6.7,Part of campus,,Hunter College Campus
+1,1767,39,1088302,Hunter College Campus: Silberman School of Social Work,CUNY, N/A , 204.5 ,6.7,N/A,212.5,6.9,N/A, 206.7 ,6.7,204.7,6.7,Part of campus,,Hunter College Campus
+1,1403,1,1081418,Hunter College Campus: Thomas Hunter Hall,CUNY, N/A , 204.5 ,6.7,N/A,212.5,6.9,N/A, 206.7 ,6.7,204.7,6.7,Part of campus,,Hunter College Campus
+1,1402,13,1042468,Hunter College Campus: West Bldg,CUNY, N/A , 204.5 ,6.7,N/A,212.5,6.9,N/A, 206.7 ,6.7,204.7,6.7,Part of campus,,Hunter College Campus
+1,1102,18,1027155,John Jay College Campus: 54th Street Academic Annex,CUNY, N/A , 176.6 ,6.3,N/A,251.8,8.8,N/A, 306.0 ,11.1,305.9,11.5,Part of campus,,John Jay College Campus
+1,1086,1,1027072,John Jay College Campus: BMW Building,CUNY, N/A , 176.6 ,6.3,N/A,251.8,8.8,N/A, 306.0 ,11.1,305.9,11.5,Part of campus,,John Jay College Campus
+1,1045,20,1025410,John Jay College Campus: Bramshill Residence,CUNY, N/A , 176.6 ,6.3,N/A,251.8,8.8,N/A, 306.0 ,11.1,305.9,11.5,Part of campus,,John Jay College Campus
+1,1087,25,1027085,John Jay College Campus: Haaren Hall Bldg,CUNY, N/A , 176.6 ,6.3,N/A,251.8,8.8,N/A, 306.0 ,11.1,305.9,11.5,Part of campus,,John Jay College Campus
+1,1087,25,1027984,John Jay College Campus: New Building,CUNY, N/A , 176.6 ,6.3,N/A,251.8,8.8,N/A, 306.0 ,11.1,305.9,11.5,Part of campus,,John Jay College Campus
+1,1131,1,1028826,John Jay College Campus: North Hall,CUNY, N/A , 176.6 ,6.3,N/A,251.8,8.8,N/A, 306.0 ,11.1,305.9,11.5,Part of campus,,John Jay College Campus
+1,232,2,4825459,John Jay College Campus: Queens Residence,CUNY, N/A , 176.6 ,6.3,N/A,251.8,8.8,N/A, 306.0 ,11.1,305.9,11.5,Part of campus,,John Jay College Campus
+1,1084,25,1086199,John Jay College Campus: Westport Bldg,CUNY, N/A , 176.6 ,6.3,N/A,251.8,8.8,N/A, 306.0 ,11.1,305.9,11.5,Part of campus,,John Jay College Campus
+3,8760,60,3326936,Kingsborough CC  Campus: Academic Village,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3326934,Kingsborough CC Campus: Arts and Sciences Cntr,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3326939,Kingsborough CC Campus: Central Services,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3347727,Kingsborough CC Campus: College Cntr,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3347725,Kingsborough CC Campus: Health & Physical Education Cntr,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3326938,Kingsborough CC Campus: Leon M. Goldstein HS for the Sciences,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3226937,Kingsborough CC Campus: Leon M. Goldstein Performing Arts Cntr,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3326935,Kingsborough CC Campus: Marine and  Academic Cntr,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,9999999,Kingsborough CC Campus: MV Mike Drucker Boat,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3348024,Kingsborough CC Campus: Robert J. Kibbee Library & Media Cntr,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3347726,Kingsborough CC Campus: Security (Guard House),CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,9999999,Kingsborough CC Campus: Storage and Kennel,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3852579,Kingsborough CC Campus: Temporary Bldg  #1 (UAPC),CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3852580,Kingsborough CC Campus: Temporary Bldg  #2,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3852581,Kingsborough CC Campus: Temporary Bldg  #3,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3852582,Kingsborough CC Campus: Temporary Bldg  #4,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3852583,Kingsborough CC Campus: Temporary Bldg  #5,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3852584,Kingsborough CC Campus: Temporary Bldg  #6,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3852585,Kingsborough CC Campus: Temporary Bldg  #7,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3852586,Kingsborough CC Campus: Temporary Bldg  #8,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,250,3349320,Kingsborough CC Campus: Vehicle Storage,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3347724,Kingsborough CC Campus: West Academic Cluster - Wing C,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3347724,Kingsborough CC Campus: West Academic Cluster - Wing D,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3347724,Kingsborough CC Campus: West Academic Cluster - Wing E,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3347724,Kingsborough CC Campus: West Academic Cluster - Wing F,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+3,8760,60,3326937,Kingsborough CC: Admin. Bldg,CUNY, N/A , 293.6 ,10.4,N/A,295.4,10.5,N/A, 249.8 ,8.6,299.7,11.1,Part of campus,,Kingsborough Community College Campus
+4,274,1,4003517,LaGuardia Community College Campus: B - B Bldg,CUNY, N/A , 60.7 ,2.5,N/A,62.0,2.5,N/A, 61.1 ,2.5,60.3,2.4,Part of campus,,LaGuardia Community College Campus
+4,273,1,4003516,LaGuardia Community College Campus: C - Center 3 Bldg,CUNY, N/A , 60.7 ,2.5,N/A,62.0,2.5,N/A, 61.1 ,2.5,60.3,2.4,Part of campus,,LaGuardia Community College Campus
+4,279,1,4003535,LaGuardia Community College Campus: E - E Bldg,CUNY, N/A , 60.7 ,2.5,N/A,62.0,2.5,N/A, 61.1 ,2.5,60.3,2.4,Part of campus,,LaGuardia Community College Campus
+4,278,1,4003534,LaGuardia Community College Campus: M - Joseph Shenker Hall,CUNY, N/A , 60.7 ,2.5,N/A,62.0,2.5,N/A, 61.1 ,2.5,60.3,2.4,Part of campus,,LaGuardia Community College Campus
+4,272,1,4012991,LaGuardia Community College Campus: Parking Lot (47th Ave & 29th St),CUNY, N/A , 60.7 ,2.5,N/A,62.0,2.5,N/A, 61.1 ,2.5,60.3,2.4,Part of campus,,LaGuardia Community College Campus
+4,115,163,4000515,LaGuardia Community College Campus: Parking Lot (47th Ave & 30th St),CUNY, N/A , 60.7 ,2.5,N/A,62.0,2.5,N/A, 61.1 ,2.5,60.3,2.4,Part of campus,,LaGuardia Community College Campus
+2,3247,165,2097309,Lehman College Campus: APEX Bldg,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2097311,Lehman College Campus: Bookstore Bldg,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,230,2015246,Lehman College Campus: Carman Hall,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2097318,Lehman College Campus: Chiller Plant,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2103693,Lehman College Campus: Communications Bldg,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2097317,Lehman College Campus: Concert Hall,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2097312,Lehman College Campus: Davis Hall,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2097313,Lehman College Campus: Fine Arts Bldg,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2098696,Lehman College Campus: Gillet Hall,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2119733,Lehman College Campus: Lehman College Childcare Center,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+3,191,1,3001183,K038,DOE, 68 , 88.6 ,4.0,60,95.7,4.6,77, 78.9 ,3.8,75.6,3.8,Individual building,81.0,
+2,3247,1,2097315,Lehman College Campus: Library,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2097318,Lehman College Campus: Music Bldg,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2829116,Lehman College Campus: Nursing Bldg,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2097314,Lehman College Campus: Old Gymnasium Bldg,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,5749,695,2083515,Lehman College Campus: President's Residence,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3246,2,2015222,Lehman College Campus: Reservoir Bldg  -  H.S. (D. O. E.),CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2116604,Lehman College Campus: Science Hall,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,220,2095245,Lehman College Campus: Shuster Hall,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2098697,Lehman College Campus: Speech & Theater Bldg,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,1,2097316,Lehman College Campus: Student Life Bldg,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+2,3247,220,2015245,Lehman College Campus: Tunnels,CUNY, N/A , 106.5 ,4.5,N/A,111.0,4.7,N/A, 106.6 ,4.5,104.8,4.5,Part of campus,,Lehman College Campus
+3,1259,36,3032563,Medgar Evers College Campus: 391 Eastern Pkwy (1534 Bedford Ave),CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1287,48,3033791,"Medgar Evers College Campus: AB1 - Sch of Sci, Hlth and Tech.",CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1295,2,3034085,Medgar Evers College Campus: Admissions / Bookstore Bldg,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1294,1,3034075,Medgar Evers College Campus: Bedford Bldg,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Carroll Street Bldg,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Electric Room for Portables,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Portable P01 P03,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Portable P02 P04,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Portable P05 P07 P09A,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Portable P06 P08,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Portable P09 P10,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Portable P11 P13,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Portable P12 P14,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Portable P15 P17,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Portable P16 P18,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Portable P19,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Portable P20 P23,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Portable P21,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1289,25,3337869,Medgar Evers College Campus: Portable P22,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+3,1288,1,3033796,Medgar Evers College Campus: School of Business and Student Srvs.,CUNY, N/A , 150.1 ,6.6,N/A,200.5,6.5,N/A, 188.9 ,6.0,199.6,6.2,Part of campus,,Medgar Evers College Campus
+4,7490,2,4862628,QCC  Campus: Admin. / Business Bldg,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,3011649,QCC Campus: Annex A,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,3011649,QCC Campus: Annex B,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4439435,QCC Campus: Boiler Room,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4439439,QCC Campus: C Bldg,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4862627,QCC Campus: Cafeteria / Student Union Bldg,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4439431,QCC Campus: Humanities Bldg,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4439435,QCC Campus: Kennedy Hall Gymnasium,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4444187,QCC Campus: Kurt Schmeller Library,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4439438,QCC Campus: Medical ArtsBldg,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4439433,QCC Campus: Oakland Bldg,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4439434,QCC Campus: Science Bldg,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4845889,QCC Campus: Service Bldg,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4439432,QCC Campus: Technology Bldg,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4862629,QCC Campus: Temporary #5 - Garage,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4458074,QCC Campus: Temporary Y1,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4439437,QCC Campus: Temporary Y2,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,7490,2,4834375,QCC Campus: Temporary Z,CUNY, N/A , 303.5 ,11.3,N/A,296.5,11.0,N/A, 286.7 ,10.5,309.3,11.5,Part of campus,,Queensborough Community College Campus
+4,6517,1,4467564,Queens College Campus: Alumni Hall Entrepreneurship Cntr,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6507,100,4141869,Queens College Campus: Athletic Field House,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439913,Queens College Campus: Benjamin Rosenthal Library,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439912,Queens College Campus: Campbell Dome,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,9999999,Queens College Campus: CEP - 1,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,9999999,Queens College Campus: CEP - 2,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439917,Queens College Campus: Colden Auditorium,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,9999999,Queens College Campus: DASNY Trailer,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4467560,Queens College Campus: Dining Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4467567,Queens College Campus: Dining Hall Addition,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,1259,19,1034206,Queens College Campus: Extension Cntr,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439916,Queens College Campus: Fitzgerald Gymnasium,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,4976,27,4112321,Queens College Campus: Flushing Center for Higher Ed.,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439915,Queens College Campus: Fuel Oil Pump House,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4467561,Queens College Campus: G Building,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439920,Queens College Campus: Gertz Speech Clinic,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439918,Queens College Campus: Goldstein Theatre,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4467569,Queens College Campus: Gregory Razran Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439915,Queens College Campus: Heating Plant,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,9999999,Queens College Campus: Honors Cntr,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439912,Queens College Campus: Hortense Powdermaker Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4467562,Queens College Campus: I Bldg,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+3,525,1,3008342,K027,DOE, 69 , 116.8 ,4.6,69,116.9,4.4,74, 110.0 ,4.1,123.6,4.8,Individual building,64.0,
+4,6517,1,4439920,Queens College Campus: Irrigation Pump House,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439910,Queens College Campus: Jefferson Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439921,Queens College Campus: King Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6743,29,4146646,Queens College Campus: Kissena Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439909,Queens College Campus: L-1  B & G  Admin.,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439907,Queens College Campus: L-2  B & G  Lockers,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439908,Queens College Campus: L-3  B & G Laborers & Station Engineers,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439906,Queens College Campus: L-4  B & G Shop & Storage,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439905,Queens College Campus: L-5  B & G Equipment,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4442884,Queens College Campus: Laura Arthur Colwin Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4442883,Queens College Campus: Lloyd T Delany Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,1748,36,4043494,Queens College Campus: Louis Armstrong House,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4467565,Queens College Campus: Main Gate - Security,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4141870,Queens College Campus: Margaret Kiely Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439911,Queens College Campus: Paul Klapper Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,8013,1,4167997,Queens College Campus: President's Residence,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6507,30,4141868,Queens College Campus: Queens Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439919,Queens College Campus: Rathaus Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439902,Queens College Campus: Remsen Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4467563,Queens College Campus: School of Music,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439904,Queens College Campus: Science Bldg,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,200,4467570,Queens College Campus: Student Union,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,9999999,Queens College Campus: The Summit,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,9999999,Queens College Campus: Tunnels,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+4,6517,1,4439914,Queens College Campus: Virginia Frese Hall,CUNY, N/A , 229.0 ,7.5,N/A,227.3,7.5,N/A, 219.1 ,7.1,229.0,7.8,Part of campus,,Queens College Campus
+1,1120,9,1028237,William E. Macaulay Honors College,CUNY, N/A , 293.2 ,8.9,N/A,289.3,8.9,N/A, 268.9 ,8.0,237.7,7.3,Individual building,,
+4,10104,43,4215630,York College Campus: Academic Core,CUNY, N/A , 33.1 ,0.9,N/A,38.9,1.2,N/A, 91.8 ,2.4,201.8,5.3,Part of campus,,York College Campus
+4,10117,36,4215677,York College Campus: Athletic Field Storage,CUNY, N/A , 33.1 ,0.9,N/A,38.9,1.2,N/A, 91.8 ,2.4,201.8,5.3,Part of campus,,York College Campus
+4,10103,16,4448849,York College Campus: Classroom Bldg,CUNY, N/A , 33.1 ,0.9,N/A,38.9,1.2,N/A, 91.8 ,2.4,201.8,5.3,Part of campus,,York College Campus
+4,10099,80,4467556,York College Campus: FDA Building,CUNY, N/A , 33.1 ,0.9,N/A,38.9,1.2,N/A, 91.8 ,2.4,201.8,5.3,Part of campus,,York College Campus
+4,10118,34,4858182,York College Campus: Health & Physical Edu Complex,CUNY, N/A , 33.1 ,0.9,N/A,38.9,1.2,N/A, 91.8 ,2.4,201.8,5.3,Part of campus,,York College Campus
+4,10116,26,4215675,York College Campus: Outdoor Athletics & Recreation,CUNY, N/A , 33.1 ,0.9,N/A,38.9,1.2,N/A, 91.8 ,2.4,201.8,5.3,Part of campus,,York College Campus
+4,10152,66,4462248,York College Campus: Performing Arts Cntr,CUNY, N/A , 33.1 ,0.9,N/A,38.9,1.2,N/A, 91.8 ,2.4,201.8,5.3,Part of campus,,York College Campus
+4,8050,35,4168369,York College Campus: President's Residence,CUNY, N/A , 33.1 ,0.9,N/A,38.9,1.2,N/A, 91.8 ,2.4,201.8,5.3,Part of campus,,York College Campus
+4,10099,52,4215611,York College Campus: Science Bldg,CUNY, N/A , 33.1 ,0.9,N/A,38.9,1.2,N/A, 91.8 ,2.4,201.8,5.3,Part of campus,,York College Campus
+4,10103,16,4439752,York College Campus: St. Monicas / Child Care Cntr,CUNY, N/A , 33.1 ,0.9,N/A,38.9,1.2,N/A, 91.8 ,2.4,201.8,5.3,Part of campus,,York College Campus
+3,1997,3,3057373,DCA Office,DCA, 100 , 18.8 ,0.9,100,30.5,1.5,100, 27.1 ,1.3,13.5,0.5,Space within building,100.0,
+3,2604,1,3065442,Testing Station,DCA, N/A , 68.3 ,2.0,N/A,95.7,3.6,N/A, 71.5 ,2.5,98.4,3.6,Individual building,,
+1,94,25,1001289,100 Gold Street Office Building,DCAS, 30 , 319.6 ,8.9,30,315.9,9.1,34, 299.3 ,8.6,276.6,8.3,Individual building,43.0,
+1,423,22,1005645,115 Chrystie Street Office Building,DCAS, 95 , 101.1 ,2.7,91,116.0,3.4,87, 127.9 ,4.4,131.4,4.8,Individual building,86.0,
+5,8,70,5000085,130 Stuyvesant Place Office,DCAS, 49 , 254.7 ,8.3,52,243.2,7.9,44, 260.3 ,8.9,247.9,8.4,Individual building,50.0,
+2,2947,18,2009911,Bronx Bergen Building,DCAS, 34 , 277.5 ,10.0,42,249.8,8.9,50, 227.5 ,7.9,243.8,8.7,Individual building,46.0,
+2,2443,94,2099027,Bronx Concourse Plaza,DCAS, 55 , 243.2 ,6.7,59,231.3,6.3,62, 220.9 ,6.1,222.7,6.2,Individual building,63.0,
+2,2468,1,2002869,Bronx County Courthouse,DCAS, 92 , 137.5 ,5.8,93,131.2,5.6,95, 119.2 ,4.8,126.7,5.4,Individual building,94.0,
+2,2444,1,2097114,Bronx County Hall of Justice,DCAS, 4 , 509.2 ,15.7,6,468.5,14.1,9, 432.2 ,13.3,459.0,14.3,Individual building,7.0,
+2,2454,1,2002704,Bronx Family and Criminal Court,DCAS, 32 , 323.3 ,10.0,31,320.4,10.0,42, 284.4 ,8.7,274.0,8.5,Individual building,47.0,
+2,2462,39,2101266,Bronx Housing Court,DCAS, 38 , 268.6 ,7.7,46,242.2,6.9,57, 212.9 ,5.9,237.0,6.8,Individual building,49.0,
+2,4832,9,2063174,Bronx Neighborhood Building,DCAS, 37 , 213.6 ,9.9,42,198.0,9.2,49, 182.0 ,8.4,220.9,10.4,Individual building,33.0,
+3,237,1,3001881,Brooklyn Appellate Court,DCAS, 49 , 217.9 ,7.8,50,212.8,7.5,56, 196.1 ,6.7,221.4,8.1,Individual building,47.0,
+3,169,17,3000534,Brooklyn Criminal Court,DCAS, 37 , 298.3 ,11.8,39,284.7,11.4,31, 309.3 ,13.4,338.0,13.5,Individual building,25.0,Brooklyn Criminal Court Campus
+3,140,7502,3347736,Brooklyn Family Court,DCAS, 86 , 157.7 ,4.1,87,153.1,4.0,88, 147.5 ,3.8,147.4,3.8,Individual building,88.0,
+3,266,30,3002558,Brooklyn Municipal Building,DCAS, 81 , 173.6 ,5.6,85,159.2,5.1,91, 135.3 ,4.1,145.3,4.7,Individual building,89.0,Brooklyn Supreme Court Campus
+3,139,20,3000257,Brooklyn Supreme Court,DCAS, 33 , 310.4 ,12.3,43,272.7,11.0,83, 163.3 ,5.8,160.4,5.7,Individual building,85.0,Brooklyn Supreme Court Campus
+1,200,1,1066494,Chinatown Senior Center,DCAS, N/A , 164.1 ,6.1,N/A,153.8,5.8,N/A, 132.9 ,4.9,186.6,7.8,Individual building,,
+1,122,1,1079147,City Hall,DCAS, 24 , 293.8 ,9.0,14,336.1,10.1,26, 277.4 ,8.3,283.7,9.0,Individual building,26.0,City Hall Campus
+1,154,23,1078613,City Planning Building,DCAS, 56 , 222.4 ,7.2,63,202.3,6.5,67, 190.5 ,5.9,205.9,6.9,Individual building,62.0,
+1,170,6,1001835,Clocktower Building,DCAS, 69 , 208.4 ,8.2,73,196.1,7.8,78, 181.5 ,7.0,201.4,8.5,Individual building,72.0,
+3,2467,1,3063635,Construction Shops,DCAS, N/A , 32.6 ,1.4,N/A,26.1,1.1,N/A, 24.1 ,0.9,24.9,0.9,Individual building,,
+1,155,1,1001672,Court Square Building,DCAS, 77 , 185.7 ,5.4,80,174.5,5.3,86, 153.0 ,4.6,152.1,4.8,Individual building,87.0,
+1,197,17,1002358,Excelsior Building,DCAS, 54 , 213.1 ,6.5,57,200.6,6.4,63, 186.7 ,6.0,193.7,6.1,Individual building,61.0,
+1,1769,45,1054382,Harlem Courthouse,DCAS, 35 , 231.7 ,9.2,40,214.9,9.1,52, 187.2 ,7.9,201.1,8.2,Individual building,47.0,
+1,168,32,1001831,Health Building,DCAS, 81 , 172.0 ,6.5,83,162.7,6.6,86, 152.9 ,6.2,163.5,6.6,Individual building,84.0,
+1,134,7501,1082757,Home Life Building,DCAS, 85 , 159.6 ,6.5,84,162.2,7.0,89, 143.2 ,5.9,132.8,5.9,Individual building,92.0,
+4,83,1,4000698,Long Island City Courthouse,DCAS, 68 , 179.8 ,6.7,64,185.5,7.2,71, 169.3 ,6.4,194.1,7.5,Individual building,61.0,
+1,166,27,1001830,Louis J. Lefkowitz Building,DCAS, 82 , 170.1 ,6.9,84,160.1,6.5,87, 151.2 ,5.9,159.6,6.6,Individual building,85.0,
+1,855,1,1016743,Manhattan Appellate Court,DCAS, 11 , 354.9 ,13.8,11,348.5,13.2,13, 337.7 ,13.0,331.3,13.1,Individual building,15.0,
+1,169,10,1001833,Manhattan Civil Court,DCAS, 84 , 157.4 ,6.1,91,132.7,4.8,92, 124.9 ,4.4,132.9,4.9,Individual building,91.0,
+1,167,1,1079000,Manhattan Criminal Court,DCAS, 63 , 224.2 ,8.0,62,221.4,8.1,70, 198.5 ,7.0,220.0,8.1,Individual building,64.0,Manhattan Criminal Court Campus
+1,171,31,1001842,Manhattan Family Court,DCAS, 79 , 179.5 ,6.5,80,174.1,6.2,81, 169.8 ,6.2,153.1,5.6,Individual building,87.0,
+1,121,1,1001394,Manhattan Municipal Building,DCAS, 88 , 150.0 ,5.4,88,147.4,5.3,90, 137.0 ,4.8,140.1,5.3,Individual building,90.0,City Hall Campus
+1,160,21,1085748,Manhattan Supreme Court,DCAS, 47 , 265.5 ,10.9,50,254.2,10.5,56, 236.4 ,9.3,248.3,10.5,Individual building,53.0,
+1,153,24,1001670,Manhattan Surrogate's Court,DCAS, 53 , 249.1 ,10.5,59,229.6,9.3,61, 222.7 ,9.1,226.3,9.8,Individual building,61.0,City Hall Campus
+3,85,6,3000172,OEM Headquarters,DCAS, 2 , 517.9 ,14.5,1,522.3,14.8,1, 544.1 ,15.2,488.1,14.0,Individual building,2.0,
+3,140,7503,3392969,Office Building,DCAS, 78 , 181.8 ,5.9,77,182.7,6.1,84, 158.4 ,5.1,153.7,5.1,Individual building,87.0,
+4,2274,2,4052812,Queens Borough Hall,DCAS, 68 , 208.5 ,6.5,68,206.6,6.5,72, 194.6 ,6.0,477.8,20.5,Individual building,6.0,Queens Borough Hall Campus
+4,9680,1,4448759,Queens Civil Court,DCAS, 63 , 234.9 ,7.0,69,219.0,6.6,70, 211.7 ,6.2,217.1,6.6,Individual building,69.0,
+4,9653,1,4206522,Queens Criminal Court,DCAS, 57 , 238.5 ,7.9,54,244.0,8.1,58, 230.0 ,7.5,173.7,4.8,Individual building,80.0,Queens Borough Hall Campus
+3,311,1,3255627,K029,DOE, 88 , 91.4 ,3.6,87,92.0,3.7,75, 109.5 ,4.7,116.0,4.9,Individual building,71.0,
+4,9653,1,4206522,Queens Criminal Court (Annex),DCAS, 74 , 192.7 ,5.5,72,195.1,5.6,75, 186.0 ,5.2,191.8,5.6,Individual building,74.0,Queens Borough Hall Campus
+4,10093,1,4438731,Queens Family Court,DCAS, 39 , 289.1 ,8.7,38,291.5,8.7,40, 279.7 ,8.4,282.5,8.5,Individual building,41.0,
+4,9691,1,4207071,Queens Supreme Court,DCAS, 74 , 191.4 ,6.5,74,189.1,6.6,83, 161.6 ,5.3,174.8,6.1,Individual building,80.0,
+5,7,1,5000063,Staten Island Borough Hall,DCAS, 57 , 214.1 ,7.9,58,210.0,8.0,66, 189.3 ,6.9,215.8,8.4,Individual building,56.0,Staten Island Borough Hall Campus
+5,159,65,5004530,Staten Island Civil Court,DCAS, 37 , 215.1 ,7.1,41,203.4,6.6,47, 185.5 ,6.0,183.6,6.2,Individual building,51.0,
+5,542,9,5014078,Staten Island Criminal Court,DCAS, 29 , 244.6 ,7.7,17,281.7,9.3,24, 250.7 ,7.8,254.2,8.3,Individual building,25.0,
+5,9,22,5000090,Staten Island Family Court,DCAS, 20 , 247.1 ,8.0,28,221.0,6.7,35, 198.9 ,5.9,212.0,6.6,Individual building,32.0,
+5,7,12,5000064,Staten Island Supreme Court,DCAS, 4 , 386.8 ,12.4,3,393.5,12.8,4, 365.3 ,11.5,385.2,12.8,Individual building,4.0,Staten Island Borough Hall Campus
+5,523,1,5013729,Staten Island Village Hall,DCAS, 58 , 147.1 ,6.1,62,138.7,5.8,75, 113.5 ,4.5,135.0,5.4,Individual building,64.0,
+1,153,1,1079215,Sun Building,DCAS, 69 , 207.3 ,6.9,72,197.2,6.4,78, 176.7 ,5.4,185.0,5.8,Individual building,77.0,
+1,122,1,1079146,Tweed Courthouse,DCAS, 16 , 376.3 ,14.7,19,358.7,13.9,15, 376.2 ,14.0,434.4,16.5,Individual building,8.0,City Hall Campus
+1,1130,1,1083846,American Museum of Natural History,DCLA, N/A , 326.5 ,12.8,N/A,328.7,12.8,N/A, 316.8 ,12.4,326.0,13.2,Individual building,,
+3,5778,1,3257059,American Museum of Natural History Storage,DCLA, 14 , 119.1 ,3.1,43,72.2,1.9,32, 82.3 ,2.1,89.2,2.3,Individual building,30.0,
+3,2095,45,3345162,BAM Harvey Theater (Majestic Theater),DCLA, N/A , 316.4 ,9.3,N/A,340.5,10.8,N/A, 325.2 ,9.7,365.8,11.1,Individual building,,
+3,2110,3,3059182,BAM Peter Jay Sharp Theater (Opera House),DCLA, N/A , 322.0 ,10.6,N/A,323.8,10.7,N/A, 305.8 ,9.8,329.2,11.0,Individual building,,
+3,1190,61,3029723,BBG Technical Services Center,DCLA, N/A , 152.7 ,4.5,N/A,120.7,3.1,N/A, 98.3 ,2.5,114.9,3.2,Individual building,,
+2,2462,1,2002826,Bronx Museum of the Arts,DCLA, N/A , 355.1 ,11.4,N/A,347.0,10.6,N/A, 287.2 ,8.6,301.0,9.6,Individual building,,
+2,3120,20,9999999,Bronx Zoo Campus: Admin. East,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Admin. West,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: African Labs,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: African Market Food Stand,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: African Market Gift Shop,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: African Plains Lion House,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: African Terrace Food Station,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: African Wild Dogs Holding,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Animal Commissary Barn,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+3,6062,141,3154079,K264,DOE, No data ,,, No data ,,, No data ,,,173.2,5.5,Individual building,46.0,
+2,3120,20,9999999,Bronx Zoo Campus: Aquatic Bird House,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Aquatic Stork Holding,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Asia Admission Ticket Booth 1,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Asia Admission Ticket Booth 2,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Asia Admissions Ticket Booth Storage Locker,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Asia Bazaar Gift Shop,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Asia Cart Depot,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Asia Marketplace Gift Shop,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Asia Theater & Holding Area,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Asian Horse Holding (Wild Asia Horse Shelter),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Babirusa Holding,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Bear Dens,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Beebe Lab,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Bird Dept Offices (Former Ostrich House),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Birds of Prey,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Bison Holding,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Bronx Zoo Campus: Flamingo Holding Facility,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Bronx Zoo Store,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Bronxdale (Bronx River) Admissions Ticket Booth,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Bronxdale (Bronx River) Parking Ticket Booth 1,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Bronxdale (Bronx River) Parking Ticket Booth 2,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Bronxdale (Bronx River) Parking Ticket Booth 3,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Bronxdale (Bronx River) Parking Ticket Booth 4,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Bronxdale Photo Booth and Stroller Rental,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Bug Carousel,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Bug Carousel Ticket Booth,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Business Service Trailer (Jungleworld),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Butterfly Garden & Exhibit,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Butterfly Garden Ticket Booth,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Camel Barn,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Camel Ride Ticket Booth,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Carpenter's/Foreman's Shop,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Carter Giraffe Building,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: CGC Cogeneration Plant (Turbine Plant),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Children's Zoo / Petting Zoo Feed,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Children's Zoo Animal Nursery,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Children's Zoo Holding (Multiple),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: CNG  Fenced Area,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Cntr for Global Conservation,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: CoGen Office Trailer,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Cogeneration Plant,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Comfort Station - Wild Asia,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Comfort Station - World of Darkness,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Congo Gift Shop,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Congo Gorilla Forest,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Congo Restroom,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+4,776,150,4539578,Bowery Bay WPCP: BIN 4539578,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+2,3120,20,9999999,Bronx Zoo Campus: Construction Office,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Crandall Building,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Crossroads Gift Shop,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: CS - Crossroads,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Dancing Crane,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Discover the Wild Gift Shop,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: East Elephant Walk Comfort Station,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Eco Restroom CS,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Education Trailer #1 (Jungleworld Rd),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: EGAD/Sign Shop/Animal Commissary & Office,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Electric Vault Building,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Emu Shelter,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Exhibit Shop Complex,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Farm Apartments,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Flamingo Pub,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Gains Trailer (FOZ Trailer),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Gelada Baboon Holding,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Greenhouse,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Greenhouse,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Greenhouse (near CoGen),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Grizzly Goodies Food Station,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Grote Street Guard Booth,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Group Sales,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Guest Services Trailer (Jungleworld),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Heads & Horns,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Horticulture/Greenhouse,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Incinerator Building,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Jungle World,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Jungleworld Rd Parking Ticket Booth,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Madagascar,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,"Bronx Zoo Campus: Maintenance (Horticulture Lockers, Pest Control)",DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Mammals/Cage Facility,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Media Lab,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Merchandise Receiving/Souvenir Barn,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Monkey House,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Monorail Loading Station,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Monorail Maintenance Bldg,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Monorail Ticket Booth (in Asia Plaza),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Mouse House,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Multiple Buildings behind Congo on Tram Route,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Northern Pond Food Stand,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Nyala Barn,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+3,1000,1,3021932,K039,DOE, 94 , 117.0 ,4.0,91,125.7,4.3,93, 118.5 ,4.0,132.3,4.6,Individual building,89.0,
+2,3120,20,9999999,Bronx Zoo Campus: Pere David Holding,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Pheasant Aviary,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: PUDU Bldg,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Rainey Gate Admissions Ticket Booth,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Rainey Gate Old Admissions Ticket Booth,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+4,75,1,4000548,P.S. 1 Contemporary Art Center,DCLA, N/A , 80.2 ,2.8,N/A,80.4,2.7,N/A, 78.6 ,2.6,140.3,4.6,Individual building,,
+2,3120,20,9999999,Bronx Zoo Campus: Rare Animal Range Sheds,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Red Panda Night Holding,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Reptile House,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Reptile Landing Gift Shop (Gecko Stand),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Sea Lion Exhibit,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Seabird Aviary (Aitken),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Service Gate Guard Booth,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Service Yard Cart Depot/Emergency Generator,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Service Yard Garage,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,"Bronx Zoo Campus: Shelter Bldg (Elephant, Rhino, Tiger)",DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Shuttle Maintenance Garage,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Site Features,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,2116700,Bronx Zoo Campus: Skyfari Maintenance Bldg  (Round House),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Skyfari Tension Station,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Skyfari Terminal East,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Skyfari Ticket Booth East,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Skyfari Ticket Booths West (2),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Snow Leopard Holding,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Southern Blvd Admission Ticket Booth 1,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Southern Blvd Admission Ticket Booth 2,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Southern Blvd Parking Ticket Booth 1,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Southern Blvd Parking Ticket Booth 2,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Souvenir Photo Booth (Southern Blvd Entrance),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Stand 3 (Cash Room/NYPD/Food Commissary),DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Storage Sheds & Truck Garage,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Terrace Cafe,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Tiger Mountain Holding,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Tiger Mountain Holding Bunker,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: TOPS,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Wild Asia Gaur/Eld's Deer Shelters,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Wild Asia Kanha Meadow Shelters,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Wild Asia Restaurant,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Wild Asia Tahr Shelters,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Wild Asia Uplands Shelters,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Wildlife Health Center,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: World of Birds,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: World of Birds - Prop Building,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: World of Darkness,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Yak House,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Zebra House,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Zoo Center,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Zoo Shuttle Ticket Booth East 1,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Zoo Shuttle Ticket Booth East 2,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Zoo Shuttle Ticket Booth West 1,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+2,3120,20,9999999,Bronx Zoo Campus: Zoo Shuttle Ticket Booth West 2,DCLA, N/A , 654.4 ,32.8,N/A,680.1,34.0,N/A, 683.0 ,34.3,701.3,35.2,Part of campus,,Bronx Zoo Campus
+3,2111,11,3059184,Brooklyn Academy of Music (BAM Richard B. Fisher Building),DCLA, No data ,,, No data ,,,N/A, 20.4 ,0.6,340.8,10.4,Individual building,,
+1,1134,1,9999999,Lincoln Center Campus: Metropolitan Opera House,DCLA, N/A , 11.1 ,0.5,N/A,10.4,0.4,N/A, 9.3 ,0.3,10.2,0.4,Part of campus,,Lincoln Center Campus
+3,1183,1,3337842,Brooklyn Botanical Garden Campus: Administrative Building,DCLA, N/A , 227.8 ,8.5,N/A,244.9,9.1,N/A, 250.7 ,9.1,265.6,9.9,Part of campus,,Brooklyn Botanical Garden Campus
+3,1183,1,3337842,Brooklyn Botanical Garden Campus: Conservatory,DCLA, N/A , 227.8 ,8.5,N/A,244.9,9.1,N/A, 250.7 ,9.1,265.6,9.9,Part of campus,,Brooklyn Botanical Garden Campus
+3,1183,1,3337842,Brooklyn Botanical Garden Campus: Palm House,DCLA, N/A , 227.8 ,8.5,N/A,244.9,9.1,N/A, 250.7 ,9.1,265.6,9.9,Part of campus,,Brooklyn Botanical Garden Campus
+3,1183,1,3337842,Brooklyn Botanical Garden Campus: Service Garage,DCLA, N/A , 227.8 ,8.5,N/A,244.9,9.1,N/A, 250.7 ,9.1,265.6,9.9,Part of campus,,Brooklyn Botanical Garden Campus
+3,1183,1,3337842,Brooklyn Botanical Gardens Campus: Comfort Station,DCLA, N/A , 227.8 ,8.5,N/A,244.9,9.1,N/A, 250.7 ,9.1,265.6,9.9,Part of campus,,Brooklyn Botanical Garden Campus
+3,1229,1,3031049,Brooklyn Children's Museum,DCLA, N/A , 204.5 ,5.5,N/A,207.7,5.7,N/A, 203.0 ,5.5,186.9,5.0,Individual building,,
+3,1183,26,3029667,Brooklyn Museum,DCLA, N/A , 290.7 ,9.8,N/A,289.4,9.8,N/A, 275.2 ,9.3,316.8,11.2,Individual building,,
+2,3338,52,2018094,Bx County Historical Society Campus: BCHS Archives,DCLA, N/A , 56.1 ,2.4,N/A,67.6,3.1,N/A, 56.2 ,2.5,55.5,2.5,Part of campus,,Bronx County Historical Society Campus
+2,3343,500,2018252,Bx County Historical Society Campus: BCHS Valentine Varian House,DCLA, N/A , 56.1 ,2.4,N/A,67.6,3.1,N/A, 56.2 ,2.5,55.5,2.5,Part of campus,,Bronx County Historical Society Campus
+2,3338,54,2018096,Bx County Historical Society Campus: Historical Society,DCLA, N/A , 56.1 ,2.4,N/A,67.6,3.1,N/A, 56.2 ,2.5,55.5,2.5,Part of campus,,Bronx County Historical Society Campus
+1,1009,1,1023449,Carnegie Hall - BIN 1023449,DCLA, N/A , 236.1 ,9.2,N/A,223.2,8.6,N/A, 214.5 ,8.1,268.9,10.3,Individual building,,
+1,1134,1,1081022,David H. Koch Theater,DCLA, N/A , 326.8 ,14.6,N/A,329.2,15.1,N/A, 317.1 ,14.3,358.6,17.1,Individual building,,
+1,1610,1,1051499,El Museo Del Barrio,DCLA, N/A , 412.0 ,10.7,N/A,430.3,11.1,N/A, 372.5 ,9.7,429.8,11.5,Individual building,,
+4,4960,1,4112147,Flushing Town Hall,DCLA, N/A , 299.5 ,10.2,N/A,255.2,8.1,N/A, 274.2 ,8.7,300.9,9.5,Individual building,,
+4,10101,11,4215617,Jamaica Center for Arts & Learning,DCLA, N/A , 46.2 ,1.2,N/A,75.6,2.0,N/A, 86.3 ,2.3,66.0,1.7,Individual building,,
+4,10097,10,4315254,"JCAL, Jamaica Performing Arts Center",DCLA, N/A , 283.8 ,9.2,N/A,368.4,12.3,N/A, 276.5 ,9.8,286.9,9.5,Individual building,,
+1,1134,1,1081023,Lincoln Center Campus: Avery Fisher Hall,DCLA, N/A , 11.1 ,0.5,N/A,10.4,0.4,N/A, 9.3 ,0.3,10.2,0.4,Part of campus,,Lincoln Center Campus
+1,1134,5,1028831,Lincoln Center Campus: David H. Koch Theater,DCLA, N/A , 11.1 ,0.5,N/A,10.4,0.4,N/A, 9.3 ,0.3,10.2,0.4,Part of campus,,Lincoln Center Campus
+1,1115,7,1027462,Lincoln Center Campus: David Rubenstein Atrium,DCLA, N/A , 11.1 ,0.5,N/A,10.4,0.4,N/A, 9.3 ,0.3,10.2,0.4,Part of campus,,Lincoln Center Campus
+1,1137,10,1028834,Lincoln Center Campus: Juilliard School / Alice Tully Hall,DCLA, N/A , 11.1 ,0.5,N/A,10.4,0.4,N/A, 9.3 ,0.3,10.2,0.4,Part of campus,,Lincoln Center Campus
+1,1137,1,9999999,Lincoln Center Campus: Lincoln Cntr Garage (Rose Building),DCLA, N/A , 11.1 ,0.5,N/A,10.4,0.4,N/A, 9.3 ,0.3,10.2,0.4,Part of campus,,Lincoln Center Campus
+1,1137,1,9999999,Lincoln Center Campus: Lincoln Cntr Garage / Plaza,DCLA, N/A , 11.1 ,0.5,N/A,10.4,0.4,N/A, 9.3 ,0.3,10.2,0.4,Part of campus,,Lincoln Center Campus
+1,1134,25,1028832,Lincoln Center Campus: Lincoln Cntr Theater / NY Public Library,DCLA, N/A , 11.1 ,0.5,N/A,10.4,0.4,N/A, 9.3 ,0.3,10.2,0.4,Part of campus,,Lincoln Center Campus
+3,2423,1,3063188,K019,DOE, 85 , 86.0 ,4.1,82,90.2,4.5,96, 64.0 ,2.8,82.9,4.2,Individual building,89.0,
+1,1137,7501,1077844,Lincoln Center Campus: Samuel B. & David Rose Building,DCLA, N/A , 11.1 ,0.5,N/A,10.4,0.4,N/A, 9.3 ,0.3,10.2,0.4,Part of campus,,Lincoln Center Campus
+1,1111,1,1083810,Metropolitan Museum of Art,DCLA, N/A , 482.1 ,19.4,N/A,502.2,20.6,N/A, 489.8 ,20.0,473.5,19.4,Individual building,,
+1,1493,166,1046688,Metropolitan Museum of Art Offices,DCLA, 1 , 451.4 ,13.1,1,418.3,11.9,1, 424.2 ,12.1,412.8,12.1,Individual building,1.0,
+1,1570,29,1050735,Metropolitan Museum of Art Storage,DCLA, 1 , 499.3 ,16.5,1,503.7,16.8,1, 500.1 ,17.1,446.2,15.3,Individual building,1.0,
+1,16,10,1084594,Museum of Jewish Heritage,DCLA, N/A , 461.8 ,12.0,N/A,440.2,11.4,N/A, 415.0 ,10.8,437.0,11.3,Individual building,,
+1,1609,1,1074157,Museum of the City of New York,DCLA, N/A , 240.3 ,8.0,N/A,243.8,7.8,N/A, 319.7 ,10.4,314.6,9.9,Individual building,,
+4,644,1,4441089,Museum of the Moving Image,DCLA, N/A , 174.5 ,5.6,N/A,408.2,13.3,N/A, 473.1 ,16.0,455.1,15.4,Individual building,,
+4,2018,1,4441124,New York Hall of Science,DCLA, N/A , 208.5 ,6.2,N/A,226.9,7.2,N/A, 197.0 ,6.1,213.4,7.0,Individual building,,
+3,8698,1,3999999,NY Aquarium Campus: AAHC Filter Building,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3245159,NY Aquarium Campus: Aqua Theater,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Aqua Theater Pump Room,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3245160,NY Aquarium Campus: Aquatic Animal Health Center (AAHC),DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Café,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Cart Depot,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Comfort Station,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Conservation Hall,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Dive Bunker,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Dive Shower,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: East Ticket Booth,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: East Well,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Explore the Shore/Alien Stingers,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,"NY Aquarium Campus: Grounds, Transformers",DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,1472,1,3319475,East New York Avenue SRO Residence,DHS, N/A , 222.3 ,8.1,N/A,217.3,7.9,N/A, 214.9 ,7.6,219.9,7.8,Individual building,,
+3,8698,1,3999999,NY Aquarium Campus: HP Facility Pump Room,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: HP Ozone Shed,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Hudson River,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Main Feed Room,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Merchandise Trailer,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Native Sea Life,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Operations Building,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Osborn Lab. of Marine Sciences,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Sea Cliffs,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Seaside Pavilion,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: Tunnel Holding Facility,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: West Ticket Booth,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+3,8698,1,3999999,NY Aquarium Campus: West Well,DCLA, N/A , 832.8 ,24.5,N/A,828.6,24.0,N/A, 633.2 ,17.1,395.1,10.6,Part of campus,,New York Aquarium Campus
+2,3272,1,2823777,NY Botanical Garden Campus: ECAG Discovery Cntr,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2824109,NY Botanical Garden Campus: ECAG Multi-Purpose Bldg,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2824110,NY Botanical Garden Campus: ECAG Service Bldg  (Round),DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2113012,NY Botanical Garden Campus: Enid A. Haupt Conservatory,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2113012,NY Botanical Garden Campus: Garden Café & Terrace Room,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2820080,NY Botanical Garden Campus: Harding Laboratory,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,4336,1,9999999,NY Botanical Garden Campus: Hort Srvs. Head-House,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,9999999,NY Botanical Garden Campus: Hort Srvs. Storage Building,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,4336,1,9999999,NY Botanical Garden Campus: Hort Srvs. Temporary Office,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2113265,NY Botanical Garden Campus: International Plant Science Bldg,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2113265,NY Botanical Garden Campus: Library Building,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+4,776,150,4539576,Bowery Bay WPCP: BIN 4539576,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+2,3272,1,2823760,NY Botanical Garden Campus: Nolen Building,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,4336,1,9999999,NY Botanical Garden Campus: Nolen Glasshouses,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,4336,1,9999999,NY Botanical Garden Campus: Operations Garage/Storage Bldg,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,4336,1,9999999,NY Botanical Garden Campus: Operations Multi-Purpose Bldg,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,4336,1,9999999,NY Botanical Garden Campus: Operations Office/Shops Bldg,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,4336,1,9999999,NY Botanical Garden Campus: P-10,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2113265,NY Botanical Garden Campus: Pfizer Laboratory,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,4336,1,9999999,NY Botanical Garden Campus: Pit Houses,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2113265,NY Botanical Garden Campus: Pratt Wing,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2831176,NY Botanical Garden Campus: School Groups Restroom,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3273,1,2823840,NY Botanical Garden Campus: Snuff Mill,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,4336,1,2832134,NY Botanical Garden Campus: Stone Cottage,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2113267,NY Botanical Garden Campus: Transformer Bldg,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2113266,NY Botanical Garden Campus: Visitor Center Restroom (Berm),DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2113266,NY Botanical Garden Campus: Visitor Center Ticketing & Café,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2113266,NY Botanical Garden Campus: Visitor Cntr Restroom (Fountain),DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2113266,NY Botanical Garden Campus: Visitor Cntr Shop in the Garden,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3273,112,2094718,NY Botanical Garden Campus: Warehouse Lower,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3273,122,2094718,NY Botanical Garden Campus: Warehouse Upper,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+2,3272,1,2113265,NY Botanical Garden Campus: Watson Bldg,DCLA, N/A , 121.3 ,3.7,N/A,118.9,3.7,N/A, 119.1 ,3.6,136.1,4.1,Part of campus,,New York Botanical Garden Campus
+1,1008,15,1023391,NYC Center Campus: Manhattan Theater Club,DCLA, N/A , 142.6 ,6.0,N/A,144.7,6.1,N/A, 177.7 ,7.1,185.9,7.8,Part of campus,,New York City Center Campus
+1,1008,15,1023391,NYC Center Campus: New York City Center,DCLA, N/A , 142.6 ,6.0,N/A,144.7,6.1,N/A, 177.7 ,7.1,185.9,7.8,Part of campus,,New York City Center Campus
+1,34,37,1000866,Police Museum,DCLA, N/A , 246.3 ,8.0,N/A,215.2,7.2,N/A, 180.8 ,5.7,44.2,2.1,Individual building,,
+1,544,16,1008774,Public Theater,DCLA, N/A , 349.8 ,9.1,N/A,324.0,8.4,N/A, 428.9 ,12.0,572.0,17.0,Individual building,,
+4,5107,200,4439683,Queens Botanical Garden Campus: Admin. Bldg,DCLA, N/A , 213.1 ,6.8,N/A,202.2,6.8,N/A, 180.3 ,5.8,208.8,7.0,Part of campus,,Queens Botanical Garden Campus
+4,5107,200,4439682,Queens Botanical Garden Campus: Greenhouse / Maintenance Bldg,DCLA, N/A , 213.1 ,6.8,N/A,202.2,6.8,N/A, 180.3 ,5.8,208.8,7.0,Part of campus,,Queens Botanical Garden Campus
+5,76,200,5113027,Snug Harbor Campus: Snug Harbor A-B Hyphen,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,5113028,Snug Harbor Campus: Snug Harbor B-C Hyphen,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,5113028,Snug Harbor Campus: Snug Harbor B-H Hyphen/SIM Lab,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  A/Staten Island Museum,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  C/Newhouse Center,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  D/Noble Collection,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  E,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  F,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  G/Newhouse Gallery,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  H,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  J/Gazebo,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  K/Matrons' Quarters,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  L/Power Plant,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  M/SI Children's Museum,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  N,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,1,5146247,Snug Harbor Campus: Snug Harbor Bldg  O/SICM Barn,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  P/Admin,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  Q/Greenhouse,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  R/Great Hall,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  S/Veterans Memorial Hall,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  T/Music Hall,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  U,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Bldg  V/Main Gate,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor C-D Hyphen,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Cottage 1,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Cottage 2,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Cottage 3,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Cottage 4,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor Cottage 5,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor D-E Hyphen,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor D-F Hyphen,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor M-O Connector/SICM,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,76,200,9999999,Snug Harbor Campus: Snug Harbor/Scholar's Garden,DCLA, N/A , 166.8 ,6.3,N/A,138.9,5.1,N/A, 132.1 ,4.7,147.4,5.4,Part of campus,,Snug Harbor Campus
+5,99999,9999,5999999,Staten Island Historical Society Campus: Annandale RR & Store,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,99999,9999,5999999,Staten Island Historical Society Campus: Barn Foundation,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,99999,9999,5999999,Staten Island Historical Society Campus: Barton House,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,99999,9999,5999999,Staten Island Historical Society Campus: Barton Privy,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4441,22,5999999,Staten Island Historical Society Campus: Bennett House #27,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,3299,10,5999999,Staten Island Historical Society Campus: Billiou-Stillwell-Perine House,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4444,1,5114190,Staten Island Historical Society Campus: Boehm House #11,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,2359,1,5999999,Staten Island Historical Society Campus: Britton Cottage #20,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+3,2091,3,3058531,K020,DOE, 94 , 99.4 ,5.3,92,103.9,5.5,96, 89.9 ,4.5,86.6,4.5,Individual building,97.0,
+5,5570,1,5141709,Staten Island Historical Society Campus: Car Barn,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,99999,9999,5999999,Staten Island Historical Society Campus: Christopher House,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,99999,9999,5999999,Staten Island Historical Society Campus: Cooper,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4441,1,5121946,Staten Island Historical Society Campus: Court House #1,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,99999,9999,5999999,Staten Island Historical Society Campus: Crocheron House,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,2390,194,5999999,Staten Island Historical Society Campus: Decker Farm,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4444,35,5141713,Staten Island Historical Society Campus: Edna Hayes Facility,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4441,1,5999999,Staten Island Historical Society Campus: General Store,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,99999,9999,5999999,Staten Island Historical Society Campus: Guard House,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4443,1,5999999,Staten Island Historical Society Campus: Historical Museum,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,70,60,5999999,Staten Island Historical Society Campus: Judge Jacob Tysen House,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,2278,1,5999999,Staten Island Historical Society Campus: Kruser-Finley House,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,2278,1,5999999,Staten Island Historical Society Campus: Lake Tysen House #24,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4443,1,9999999,Staten Island Historical Society Campus: Museum #3,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,99999,9999,5999999,Staten Island Historical Society Campus: New Car Barns,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,99999,9999,5999999,Staten Island Historical Society Campus: New Dorp RR,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4442,51,9999999,Staten Island Historical Society Campus: P.S. 28 #34,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4410,200,5999999,Staten Island Historical Society Campus: Parsonage Building,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,99999,9999,5999999,Staten Island Historical Society Campus: Parsonage Shed,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4441,1,5121933,Staten Island Historical Society Campus: Schwiebert House,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,99999,9999,5999999,Staten Island Historical Society Campus: Seamons Cottage,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+3,1692,17,3047914,K021,DOE, 39 , 134.6 ,6.9,55,115.9,5.7,59, 117.6 ,5.1,111.0,5.4,Individual building,70.0,
+5,99999,9999,5999999,Staten Island Historical Society Campus: Shed 38,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4441,1,5121941,Staten Island Historical Society Campus: Stephens House #30,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4437,26,5060575,Staten Island Historical Society Campus: Stephens-Prier House,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4441,1,5999999,Staten Island Historical Society Campus: Tavern,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4441,1,5999999,Staten Island Historical Society Campus: Tin Shop,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4441,4,5999999,Staten Island Historical Society Campus: Transportation Bldg  #32,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4444,10,5999999,Staten Island Historical Society Campus: Treasurer House,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4444,24,5999999,Staten Island Historical Society Campus: Voorlezer House #10,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,99999,9999,5999999,Staten Island Historical Society Campus: Wagon Factory,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,4441,1,5121933,Staten Island Historical Society Campus: Workshop Richmond Town,DCLA, N/A , 70.6 ,2.5,N/A,79.9,3.0,N/A, 65.4 ,2.4,62.7,2.3,Part of campus,,Staten Island Historical Society Campus
+5,9,1,5000088,Staten Island Museum,DCLA, N/A , 168.9 ,5.2,N/A,152.2,4.6,N/A, 151.3 ,4.5,151.9,4.6,Individual building,,
+5,314,70,5106733,Staten Island Zoo Campus: Carousel,DCLA, N/A , 339.0 ,11.4,N/A,337.7,11.7,N/A, 310.8 ,10.6,356.7,12.8,Part of campus,,Staten Island Zoo Campus
+5,314,70,5106733,Staten Island Zoo Campus: Horse Barn,DCLA, N/A , 339.0 ,11.4,N/A,337.7,11.7,N/A, 310.8 ,10.6,356.7,12.8,Part of campus,,Staten Island Zoo Campus
+5,314,70,5106733,Staten Island Zoo Campus: Hospital Building,DCLA, N/A , 339.0 ,11.4,N/A,337.7,11.7,N/A, 310.8 ,10.6,356.7,12.8,Part of campus,,Staten Island Zoo Campus
+5,314,70,5106733,Staten Island Zoo Campus: Main Zoo Building,DCLA, N/A , 339.0 ,11.4,N/A,337.7,11.7,N/A, 310.8 ,10.6,356.7,12.8,Part of campus,,Staten Island Zoo Campus
+5,314,70,5106733,Staten Island Zoo Campus: Maintenance - Commissary Building,DCLA, N/A , 339.0 ,11.4,N/A,337.7,11.7,N/A, 310.8 ,10.6,356.7,12.8,Part of campus,,Staten Island Zoo Campus
+5,314,70,5106733,Staten Island Zoo Campus: Open Air Pavilion,DCLA, N/A , 339.0 ,11.4,N/A,337.7,11.7,N/A, 310.8 ,10.6,356.7,12.8,Part of campus,,Staten Island Zoo Campus
+5,314,70,5106733,Staten Island Zoo Campus: Zoo Cafe & Gift Shop,DCLA, N/A , 339.0 ,11.4,N/A,337.7,11.7,N/A, 310.8 ,10.6,356.7,12.8,Part of campus,,Staten Island Zoo Campus
+1,2179,701,1064383,"The Cloisters, Fort Tryon Park and MET",DCLA, N/A , 312.2 ,8.1,N/A,367.6,9.5,N/A, 417.9 ,10.8,433.9,11.2,Individual building,,
+1,1909,9,1057819,The Studio Museum in Harlem,DCLA, N/A , 271.0 ,7.0,N/A,310.1,8.0,N/A, 310.7 ,8.0,336.0,8.7,Individual building,,
+2,5937,440,2117846,Wave Hill Campus: Ecology Bldg,DCLA, N/A , 45.4 ,1.6,N/A,36.8,1.3,N/A, 36.4 ,1.3,140.9,6.2,Part of campus,,Wave Hill Campus
+2,5937,440,2117850,Wave Hill Campus: Glyndor House,DCLA, N/A , 45.4 ,1.6,N/A,36.8,1.3,N/A, 36.4 ,1.3,140.9,6.2,Part of campus,,Wave Hill Campus
+4,776,150,4539577,Bowery Bay WPCP: BIN 4539577,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+2,5937,440,2117849,Wave Hill Campus: Greenhouse,DCLA, N/A , 45.4 ,1.6,N/A,36.8,1.3,N/A, 36.4 ,1.3,140.9,6.2,Part of campus,,Wave Hill Campus
+2,5937,440,2101020,Wave Hill Campus: Museum Building,DCLA, N/A , 45.4 ,1.6,N/A,36.8,1.3,N/A, 36.4 ,1.3,140.9,6.2,Part of campus,,Wave Hill Campus
+2,5937,440,2117847,Wave Hill Campus: Perkins Visitors Center,DCLA, N/A , 45.4 ,1.6,N/A,36.8,1.3,N/A, 36.4 ,1.3,140.9,6.2,Part of campus,,Wave Hill Campus
+2,5937,440,2101020,Wave Hill Campus: Wave Hill House,DCLA, N/A , 45.4 ,1.6,N/A,36.8,1.3,N/A, 36.4 ,1.3,140.9,6.2,Part of campus,,Wave Hill Campus
+3,4440,1,3848583,26th Ward WPCP: 122-66 Flatlands Ave,DEP, 24 , 734.3 ,24.5,18,777.8,24.4,18, 733.7 ,22.4,709.2,21.1,Part of campus,21.0,26th Ward WPCP Campus
+3,4452,150,3999999,26th Ward WPCP: 1533 Van Siclen Ave,DEP, 24 , 734.3 ,24.5,18,777.8,24.4,18, 733.7 ,22.4,709.2,21.1,Part of campus,21.0,26th Ward WPCP Campus
+3,2613,1,3065473,B-9 Yard,DEP, N/A , 204.8 ,8.3,N/A,187.8,7.6,N/A, 152.4 ,5.9,141.1,5.3,Individual building,,
+4,776,150,4442400,Bowery Bay WPCP: BIN 4442400,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539453,Bowery Bay WPCP: BIN 4539453,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539557,Bowery Bay WPCP: BIN 4539557,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539558,Bowery Bay WPCP: BIN 4539558,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539559,Bowery Bay WPCP: BIN 4539559,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539560,Bowery Bay WPCP: BIN 4539560,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539561,Bowery Bay WPCP: BIN 4539561,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539562,Bowery Bay WPCP: BIN 4539562,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539563,Bowery Bay WPCP: BIN 4539563,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539564,Bowery Bay WPCP: BIN 4539564,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539565,Bowery Bay WPCP: BIN 4539565,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539566,Bowery Bay WPCP: BIN 4539566,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539567,Bowery Bay WPCP: BIN 4539567,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539568,Bowery Bay WPCP: BIN 4539568,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539569,Bowery Bay WPCP: BIN 4539569,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539570,Bowery Bay WPCP: BIN 4539570,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539571,Bowery Bay WPCP: BIN 4539571,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539572,Bowery Bay WPCP: BIN 4539572,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539573,Bowery Bay WPCP: BIN 4539573,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539574,Bowery Bay WPCP: BIN 4539574,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539575,Bowery Bay WPCP: BIN 4539575,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539579,Bowery Bay WPCP: BIN 4539579,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539580,Bowery Bay WPCP: BIN 4539580,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539581,Bowery Bay WPCP: BIN 4539581,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539582,Bowery Bay WPCP: BIN 4539582,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+4,776,150,4539583,Bowery Bay WPCP: BIN 4539583,DEP, 69 , 409.3 ,13.1,70,399.4,12.9,76, 351.7 ,9.7,366.7,9.6,Part of campus,76.0,Bowery Bay WPCP Campus
+3,8116,1,3386929,Brooklyn Repair - Remsen Yard,DEP, N/A , 52.2 ,1.4,N/A,208.5,5.8,N/A, 187.5 ,6.1,161.7,5.2,Individual building,,
+3,2944,11,3070524,BWS Storehouse,DEP, 4 , 156.7 ,6.7,5,150.9,6.4,4, 154.3 ,6.4,191.2,8.4,Individual building,2.0,
+3,7452,1,3204772,Coney Island WPCP: 2580 Knapp St,DEP, 21 , 780.4 ,26.2,22,726.2,25.2,25, 666.1 ,21.9,694.1,24.9,Part of campus,26.0,Coney Island WPCP Campus
+3,7481,1,3205706,Coney Island WPCP: 3002 Ave Z,DEP, 21 , 780.4 ,26.2,22,726.2,25.2,25, 666.1 ,21.9,694.1,24.9,Part of campus,26.0,Coney Island WPCP Campus
+3,8837,1,3339298,Coney Island WPCP: Ave Z,DEP, 21 , 780.4 ,26.2,22,726.2,25.2,25, 666.1 ,21.9,694.1,24.9,Part of campus,26.0,Coney Island WPCP Campus
+3,7452,1,3204772,Coney Island WPCP: Pumping Station/Sewage Disposal,DEP, 21 , 780.4 ,26.2,22,726.2,25.2,25, 666.1 ,21.9,694.1,24.9,Part of campus,26.0,Coney Island WPCP Campus
+3,7452,1,3386004,Coney Island WPCP: Pumping Station/Sewage Disposal,DEP, 21 , 780.4 ,26.2,22,726.2,25.2,25, 666.1 ,21.9,694.1,24.9,Part of campus,26.0,Coney Island WPCP Campus
+3,7452,1,3397304,Coney Island WPCP: Pumping Station/Sewage Disposal,DEP, 21 , 780.4 ,26.2,22,726.2,25.2,25, 666.1 ,21.9,694.1,24.9,Part of campus,26.0,Coney Island WPCP Campus
+3,7452,1,3397305,Coney Island WPCP: Pumping Station/Sewage Disposal,DEP, 21 , 780.4 ,26.2,22,726.2,25.2,25, 666.1 ,21.9,694.1,24.9,Part of campus,26.0,Coney Island WPCP Campus
+4,2681,34,4059932,Construction Services,DEP, N/A , 125.0 ,5.3,N/A,117.0,5.0,N/A, 101.2 ,4.1,132.6,5.3,Individual building,,
+2,3706,1,2023318,East Bronx Water Maintenance and Repair,DEP, N/A , 387.4 ,14.3,N/A,381.6,13.9,N/A, 322.4 ,11.5,338.8,12.6,Individual building,,
+3,1894,38,3054607,Hazmat Citywide Field Operations,DEP, N/A , 248.9 ,8.5,N/A,242.8,7.9,N/A, 219.0 ,6.9,195.3,6.4,Individual building,,
+2,2780,2,9999999,Hunts Point WPCP: 1270 Ryawa Ave,DEP, 50 ," 1,752.3 ",47.2,41,1869.0,50.5,36," 1,904.9 ",51.9,1873.7,51.5,Part of campus,43.0,Hunts Point WPCP Campus
+2,2780,74,2118036,Hunts Point WPCP: 1360 REAR Ryawa Ave,DEP, 50 ," 1,752.3 ",47.2,41,1869.0,50.5,36," 1,904.9 ",51.9,1873.7,51.5,Part of campus,43.0,Hunts Point WPCP Campus
+2,2780,74,2101256,Hunts Point WPCP: 1360 Ryawa Ave,DEP, 50 ," 1,752.3 ",47.2,41,1869.0,50.5,36," 1,904.9 ",51.9,1873.7,51.5,Part of campus,43.0,Hunts Point WPCP Campus
+2,2780,74,2118037,Hunts Point WPCP: Halleck St,DEP, 50 ," 1,752.3 ",47.2,41,1869.0,50.5,36," 1,904.9 ",51.9,1873.7,51.5,Part of campus,43.0,Hunts Point WPCP Campus
+2,2779,1,2117749,Hunts Point WPCP: Sanitation Center,DEP, 50 ," 1,752.3 ",47.2,41,1869.0,50.5,36," 1,904.9 ",51.9,1873.7,51.5,Part of campus,43.0,Hunts Point WPCP Campus
+4,11900,2,4459553,Jamaica WPCP: 130th Pl,DEP, 6 , 800.9 ,22.9,6,765.3,21.8,11, 657.0 ,18.9,614.8,17.7,Part of campus,17.0,Jamaica WPCP Campus
+4,11900,2,4459551,Jamaica WPCP: 134th St,DEP, 6 , 800.9 ,22.9,6,765.3,21.8,11, 657.0 ,18.9,614.8,17.7,Part of campus,17.0,Jamaica WPCP Campus
+4,11900,2,4459552,Jamaica WPCP: 134th St,DEP, 6 , 800.9 ,22.9,6,765.3,21.8,11, 657.0 ,18.9,614.8,17.7,Part of campus,17.0,Jamaica WPCP Campus
+4,11900,2,4459546,Jamaica WPCP: 150-00 134th St,DEP, 6 , 800.9 ,22.9,6,765.3,21.8,11, 657.0 ,18.9,614.8,17.7,Part of campus,17.0,Jamaica WPCP Campus
+4,11900,2,4459547,Jamaica WPCP: 150-20 134th St,DEP, 6 , 800.9 ,22.9,6,765.3,21.8,11, 657.0 ,18.9,614.8,17.7,Part of campus,17.0,Jamaica WPCP Campus
+4,11900,2,4459548,Jamaica WPCP: 150-20 REAR 134th St,DEP, 6 , 800.9 ,22.9,6,765.3,21.8,11, 657.0 ,18.9,614.8,17.7,Part of campus,17.0,Jamaica WPCP Campus
+4,11900,2,4459549,Jamaica WPCP: 150-80 134 St,DEP, 6 , 800.9 ,22.9,6,765.3,21.8,11, 657.0 ,18.9,614.8,17.7,Part of campus,17.0,Jamaica WPCP Campus
+4,11900,2,4459550,Jamaica WPCP: 150-80 REAR 134th St,DEP, 6 , 800.9 ,22.9,6,765.3,21.8,11, 657.0 ,18.9,614.8,17.7,Part of campus,17.0,Jamaica WPCP Campus
+2,3246,1,2015221,Jerome Avenue Campus: 3055 Goulden Avenue Pump Station,DEP, N/A , 160.8 ,4.3,N/A,174.0,4.8,N/A, 147.2 ,3.8,145.1,3.8,Part of campus,,Jerome Avenue Campus
+2,3251,401,2015443,Jerome Avenue Campus: 3201 Jerome Ave,DEP, N/A , 160.8 ,4.3,N/A,174.0,4.8,N/A, 147.2 ,3.8,145.1,3.8,Part of campus,,Jerome Avenue Campus
+2,3297,43,2016944,Jerome Avenue Campus: Jerome Park Reservoir,DEP, N/A , 160.8 ,4.3,N/A,174.0,4.8,N/A, 147.2 ,3.8,145.1,3.8,Part of campus,,Jerome Avenue Campus
+2,3251,1,2015440,Jerome Avenue Campus: Jerome Park Reservoir Gatehouse 3,DEP, N/A , 160.8 ,4.3,N/A,174.0,4.8,N/A, 147.2 ,3.8,145.1,3.8,Part of campus,,Jerome Avenue Campus
+1,969,22,1083653,Maintenance Facility,DEP, N/A , 244.9 ,11.9,N/A,214.2,10.7,N/A, 180.6 ,8.9,221.7,11.5,Individual building,,
+3,7,1,3331723,Manhattan Bridge Storage,DEP, 64 , 47.2 ,2.0,73,39.2,1.6,78, 33.9 ,1.3,18.2,0.7,Individual building,96.0,
+1,275,28,1003286,Manhattan Repair Shop,DEP, N/A , 385.9 ,22.2,N/A,354.7,20.1,N/A, 359.8 ,20.7,362.6,21.5,Individual building,,
+1,2069,26,1075503,Manhattan Sewer Maintenace Yard,DEP, N/A , 126.6 ,4.6,N/A,115.8,3.9,N/A, 136.6 ,4.7,147.4,5.2,Individual building,,
+3,2525,1,3064103,Newtown Creek WPCP: 100 - 116 Provost St,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3336836,Newtown Creek WPCP: 294 Freeman St,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3330051,Newtown Creek WPCP: 315 - 343 Green St,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3336837,Newtown Creek WPCP: 320 - 322 Freeman St,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3330052,Newtown Creek WPCP: 324 - 328 Freeman St,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3397230,Newtown Creek WPCP: Aeration Tank,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398211,Newtown Creek WPCP: Center Residuals Bldg,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398219,Newtown Creek WPCP: Cm Office,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398209,Newtown Creek WPCP: Disinfection Bldg,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3397231,Newtown Creek WPCP: Elect Rm 6,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398216,Newtown Creek WPCP: Electric Room 5,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398217,Newtown Creek WPCP: Electric Room 7,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398218,Newtown Creek WPCP: Electric Room 8,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3330053,Newtown Creek WPCP: Freeman St,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398220,Newtown Creek WPCP: Gravity Thickeners,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3397228,Newtown Creek WPCP: Interim Grit 1,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398212,Newtown Creek WPCP: Interim Grit 2,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398213,Newtown Creek WPCP: Interim Grit 3,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398214,Newtown Creek WPCP: Interim Grit 4,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3332517,Newtown Creek WPCP: Main Building,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398208,Newtown Creek WPCP: North Control Bldg,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2491,101,3336623,Newtown Creek WPCP: Pollution Control,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2491,101,3336628,Newtown Creek WPCP: Pollution Control,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2491,201,3336650,Newtown Creek WPCP: Pollution Control,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2527,2,3398221,Newtown Creek WPCP: Pollution Control,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2527,2,3398222,Newtown Creek WPCP: Pollution Control,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398215,Newtown Creek WPCP: Skimmings Bldg,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2494,6,3395377,Newtown Creek WPCP: Sludge Storage Tank,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398207,Newtown Creek WPCP: South Control Bldg,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+3,2525,1,3398210,Newtown Creek WPCP: Support Bldg,DEP, 12 ," 1,101.8 ",31.0,11,1047.9,27.6,8," 1,088.9 ",29.0,810.7,21.7,Part of campus,34.0,Newtown Creek WPCP Campus
+2,3330,60,2017876,North Bronx Yard and Reservoir HQ,DEP, 100 , 41.7 ,1.2,100,43.2,1.2,98, 65.0 ,2.6,114.6,6.3,Individual building,84.0,
+1,2101,117,1084789,North River WPCP Campus: North River WPCP,DEP, 8 , 743.1 ,30.7,5,738.0,31.5,5, 738.5 ,28.3,747.7,28.1,Part of campus,7.0,North River WPCP Campus
+5,5067,500,5135536,Oakwood Beach WPCP: BIN 5135536,DEP, 13 , 795.9 ,25.5,18,736.7,22.2,13, 747.3 ,23.4,721.7,23.1,Part of campus,17.0,Oakwood Beach WPCP Campus
+5,5067,500,5156474,Oakwood Beach WPCP: BIN 5156474,DEP, 13 , 795.9 ,25.5,18,736.7,22.2,13, 747.3 ,23.4,721.7,23.1,Part of campus,17.0,Oakwood Beach WPCP Campus
+5,5067,500,5156477,Oakwood Beach WPCP: BIN 5156477,DEP, 13 , 795.9 ,25.5,18,736.7,22.2,13, 747.3 ,23.4,721.7,23.1,Part of campus,17.0,Oakwood Beach WPCP Campus
+5,5067,500,5156479,Oakwood Beach WPCP: BIN 5156479,DEP, 13 , 795.9 ,25.5,18,736.7,22.2,13, 747.3 ,23.4,721.7,23.1,Part of campus,17.0,Oakwood Beach WPCP Campus
+5,5067,500,5156482,Oakwood Beach WPCP: BIN 5156482,DEP, 13 , 795.9 ,25.5,18,736.7,22.2,13, 747.3 ,23.4,721.7,23.1,Part of campus,17.0,Oakwood Beach WPCP Campus
+5,5067,500,5156486,Oakwood Beach WPCP: BIN 5156486,DEP, 13 , 795.9 ,25.5,18,736.7,22.2,13, 747.3 ,23.4,721.7,23.1,Part of campus,17.0,Oakwood Beach WPCP Campus
+5,5067,500,5156489,Oakwood Beach WPCP: BIN 5156489,DEP, 13 , 795.9 ,25.5,18,736.7,22.2,13, 747.3 ,23.4,721.7,23.1,Part of campus,17.0,Oakwood Beach WPCP Campus
+5,5067,500,5156490,Oakwood Beach WPCP: BIN 5156490,DEP, 13 , 795.9 ,25.5,18,736.7,22.2,13, 747.3 ,23.4,721.7,23.1,Part of campus,17.0,Oakwood Beach WPCP Campus
+5,5067,500,5156491,Oakwood Beach WPCP: BIN 5156491,DEP, 13 , 795.9 ,25.5,18,736.7,22.2,13, 747.3 ,23.4,721.7,23.1,Part of campus,17.0,Oakwood Beach WPCP Campus
+5,5067,500,5156492,Oakwood Beach WPCP: BIN 5156492,DEP, 13 , 795.9 ,25.5,18,736.7,22.2,13, 747.3 ,23.4,721.7,23.1,Part of campus,17.0,Oakwood Beach WPCP Campus
+5,5067,500,5156493,Oakwood Beach WPCP: BIN 5156493,DEP, 13 , 795.9 ,25.5,18,736.7,22.2,13, 747.3 ,23.4,721.7,23.1,Part of campus,17.0,Oakwood Beach WPCP Campus
+5,5067,500,5156494,Oakwood Beach WPCP: BIN 5156494,DEP, 13 , 795.9 ,25.5,18,736.7,22.2,13, 747.3 ,23.4,721.7,23.1,Part of campus,17.0,Oakwood Beach WPCP Campus

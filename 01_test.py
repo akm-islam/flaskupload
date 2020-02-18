@@ -21,26 +21,6 @@ from bs4 import BeautifulSoup
 
 app = Flask(__name__)
 CORS(app)
-#------------------------------------------------- Uploads are handled here
-# This is where we set the path
-app.config['UPLOAD_PATH']="./upload"
-@app.route('/upload')
-def upload_file1():
-   return render_template('upload.html')
-@app.route('/uploader', methods = ['GET', 'POST'])
-def upload_file():
-   if request.method == 'POST':
-        files = glob.glob('./upload/*')
-        for f in files:
-         os.remove(f)
-        # request.files conatains (werkzeug.datastructures.FileStorage)  
-        datasets_array=[]
-        for f in request.files.getlist('file'):
-            datasets_array.append(f.filename) 
-        # f.save(arg1 is the path, arg2 is the filename)
-            print("Uploaded: "+f.filename,file=sys.stderr)
-            f.save(os.path.join(app.config['UPLOAD_PATH'],  f.filename))
-        return make_response(jsonify({"msg":"uploaded successfully","datasets_array":datasets_array}), 200)
 #------------------------------------------------- Processing search-datasets request
 @app.route('/search_datasets',methods=['POST','GET'])
 def search_datasets_func():
@@ -53,8 +33,8 @@ def search_datasets_func():
         max_num=req.get("max_number")
         #max_num=5
         #keywordlist=["health","education"]
-        #dictionary with datasetname as key and taglist as value {"datasetsname":[tag1,tag2]}
-        datasets_with_tag_array={}
+        datasets_with_tag_array={} #dictionary with datasetname as key and taglist as value {"datasetsname":[tag1,tag2]}
+        keyword_based_datasetname_array={} #dictionary with keywordnames as key and datasetname array as value {"keyword":[datasetname1,datasetname2]}
         # Dictionary to hold tags with keywords as keys
         dict_of_tags_basedon_keyword={}
         # ready for treemap; contains keyword as name and tags as children {"name"=keyword,"value"=75,children=[]} 
@@ -62,6 +42,7 @@ def search_datasets_func():
         # To avoid duplicate tags;
         uniq_taglist=[]
         for keyword in keywordlist:
+            temp_array_for_keywords_with_datasetname=[]
             # Temorporary array to hold the tags to use later on dictionary
             temp_array_for_tags_basedon_keyword=[]
             #array to hold dictionaries containing tag name and value [{"name":tagname, "value":25},{"name":tagname2, "value":25}]
@@ -102,6 +83,7 @@ def search_datasets_func():
                                 # Get the tags from here
                                 #print("link is : ",href2)
                                 title=link.findAll("a",{"class":"browse2-result-name-link"})[0].string
+                                temp_array_for_keywords_with_datasetname.append(title)
                                 dict2[title]=href
                                 taglist=link.findAll("div",{"class":"browse2-result-topics"})
                                 tag_arr=taglist[0].findAll("a")
@@ -136,13 +118,14 @@ def search_datasets_func():
             keyword_and_tag_array.append(temp_dict)
             #keyword_and_tag_array is for Treemap
             dict_of_tags_basedon_keyword[keyword]=temp_array_for_tags_basedon_keyword
-        return make_response(jsonify({"keyword_and_tag_array":keyword_and_tag_array,"datasets_with_tag_array":datasets_with_tag_array,"dict_of_tags_basedon_keyword":dict_of_tags_basedon_keyword}), 200)
+            keyword_based_datasetname_array[keyword]=temp_array_for_keywords_with_datasetname
+        return make_response(jsonify({"keyword_and_tag_array":keyword_and_tag_array,"datasets_with_tag_array":datasets_with_tag_array,"dict_of_tags_basedon_keyword":dict_of_tags_basedon_keyword,"keyword_based_datasetname_array":keyword_based_datasetname_array}), 200)
 #------------------------------------------------- Processing first bar request
 @app.route('/first_bar',methods=['POST','GET'])
 def first_bar():
     if(request.is_json):
         req=request.get_json();
-        if(req.get("type")=="uploaded"):
+        if(req.get("type")=="first_load"):
             mypath='./uploaded/*.csv'
         else:
             mypath='./upload/*.csv'
@@ -172,12 +155,12 @@ def hello_world2():
             datasets_with_Attributes={}
             count=0;
             type=req.get("type");
-            if(type=="uploaded"):
+            if(type=="first_load"):
                 mypath='./uploaded/*.csv'
             else:
                 mypath='./upload/*.csv'
             for filename in glob.glob(mypath):
-                if(type!="uploaded" and req.get("all")=="false" ):
+                if(type!="first_load" and req.get("all")=="false" ):
                     print("filename is: ",filename[9:], file=sys.stderr)
                     if(filename[9:] in datasets):
                         if(count<150):
@@ -185,13 +168,13 @@ def hello_world2():
                             df = pd.read_csv(filename);
                             fname=re.sub(r'.csv', '',filename[9:])
                             datasets_with_Attributes[fname]=df.columns.tolist()
-                elif(type=="uploaded"):
+                elif(type=="first_load"): # executed after uploaded is done
                     if(count<150):
                         count=count+1;
                         df = pd.read_csv(filename);
                         fname=re.sub(r'.csv', '',filename[11:])
                         datasets_with_Attributes[fname]=df.columns.tolist()
-                elif(req.get("all")=="true"):
+                elif(req.get("all")=="true"): # executed 
                     if(count<150):
                         count=count+1;
                         df = pd.read_csv(filename);
@@ -209,18 +192,27 @@ def hello_world2():
             count2=0
             first_bar_Arr=[]
             first_bar_values=[]
+            min_occurence=3;
             for key in sorted_Atrributes:
                 # change here to set the number of times attributes occurs
-                if(unionA[key]>2):
+                if(unionA[key]>=min_occurence):
                     count2=count2+1;
-                    #print("UnionA is ",key,unionA[key], file=sys.stderr)
-                    #first_bar_dict[key]=unionA[key]
                     first_bar_values.insert(count2,unionA[key])
                     only_shared_attributes.insert(count2,key)
+            # get the datasets with above occurence condition
+            temp_arr=[] # this is to use next to avoid dataset repeatation
+            temp_dic={} # temp dic is for new datasets_with_Attributes
+            for attr in only_shared_attributes:
+                for dataset in datasets_with_Attributes:
+                    if attr in datasets_with_Attributes[dataset]:
+                        if dataset not in temp_arr:
+                            temp_arr.append(dataset)
+                            temp_dic[dataset]=datasets_with_Attributes[dataset]
+                            print("dataset is: ",dataset, file=sys.stderr)
             # create the data for json reply
             first_bar_Arr.insert(0,only_shared_attributes)
             first_bar_Arr.insert(1,first_bar_values)
-            mydata={"first_bar_Arr":first_bar_Arr,"unionA":unionA,"datasets_with_Attributes":datasets_with_Attributes,"sorted_Atrributes":sorted_Atrributes,"only_shared_attributes":only_shared_attributes}
+            mydata={"first_bar_Arr":first_bar_Arr,"unionA":unionA,"datasets_with_Attributes":temp_dic,"sorted_Atrributes":sorted_Atrributes,"only_shared_attributes":only_shared_attributes}
             #print("json is: ",mydata, file=sys.stderr)
             return make_response(jsonify(mydata), 200)
         elif(req.get("filename")!=''):
