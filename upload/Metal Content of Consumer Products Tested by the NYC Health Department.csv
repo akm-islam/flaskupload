@@ -1,0 +1,1001 @@
+row_id,product_type,product_name,metal,concentration,units,manufacturer,made_in_country,collection_date,deleted
+659,Religious powder,Gulal powder,Lead,10.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-12-03T00:00:00.000,No
+1316,Dietary Supplement/Medications/Remedy,Brahmi Bati (Ayurvedic),Mercury,2.7,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+1374,Dietary Supplement/Medications/Remedy,Chitrakadi Bati (Yavachar & Hing) (Ayurvedic),Mercury,3.1,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd",INDIA,2015-02-25T00:00:00.000,No
+1188,Food-Candy,Duvalin candy,Lead,0.5,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2014-08-21T00:00:00.000,No
+274,Dietary Supplement/Medications/Remedy,Ovarin (Ayurvedic),Arsenic,5.2,ppm,Ban Labs Ltd.,INDIA,2011-08-25T00:00:00.000,No
+307,Food-Spice,Red Chili Powder,Lead,3.7,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-10-18T00:00:00.000,No
+1193,Food-Spice,Unlabeled spice - brown seeds,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-08-22T00:00:00.000,No
+1365,Dietary Supplement/Medications/Remedy,Sariwadi Bati (Ayurvedic),Mercury,120.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+860,Other,Cardboard,Lead,3.8,ppm,General Mills,UNKNOWN OR NOT STATED,2013-07-19T00:00:00.000,No
+643,Religious powder,Sindoor,Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-11-21T00:00:00.000,No
+691,Jewelry,Earring,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-12-20T00:00:00.000,No
+1486,Tableware/Pottery,Kansa Bowl and Spoon Set,Lead,9.9,MG/CM^2,UNKNOWN OR NOT STATED,INDIA,2015-04-16T00:00:00.000,No
+670,Dietary Supplement/Medications/Remedy,Abhrak Bhasma (Ayurvedic),Lead,81.0,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2012-12-03T00:00:00.000,No
+1185,Food-Spice,Saffron,Lead,1.2,ppm,Ltd 'Tiemti',GEORGIA,2014-08-14T00:00:00.000,No
+116,Food Other,Ambroxol Hydrochloride BP,Lead,-1.0,ppm,Square Pharmacuetical,BANGLADESH,2011-04-18T00:00:00.000,No
+414,Food-Spice,Cumin,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-04-05T00:00:00.000,No
+585,Food Other,Baby tea,Lead,-1.0,ppm,GL for Nuki Infant,ISRAEL,2012-09-07T00:00:00.000,No
+1436,Food-Spice,Coriander,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-03-03T00:00:00.000,No
+1090,Cosmetics,Dermaline Skin Lighting Cream,Mercury,-1.0,ppm,"Leivon Cosmetics,Inc Division",DOMINICAN REPUBLIC,2014-04-01T00:00:00.000,No
+595,Food-Spice,Tunisian spice mixture,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,TUNISIA,2012-09-12T00:00:00.000,No
+1307,Dietary Supplement/Medications/Remedy,Rajahpravartini Bati (Ayurvedic),Lead,35.0,ppm,Shree Baidyanath Ayurved Bahwan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+565,Food Other,Luxury tea,Lead,0.74,ppm,Chai Bora Limited,TANZANIA - UNITED REPUBLIC OF,2012-08-20T00:00:00.000,No
+1173,Cosmetics,Yoko Whitening Cream,Lead,-1.0,ppm,Siam Yoko Ltd,THAILAND,2014-08-06T00:00:00.000,No
+136,Food Other,Cordyceps,Lead,-1.0,ppm,Yiyuan,UNKNOWN OR NOT STATED,2011-04-26T00:00:00.000,No
+1377,Dietary Supplement/Medications/Remedy,Chandraprabha Bati (Loha & Shilajeet) (Ayurvedic),Arsenic,5.1,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd",INDIA,2015-02-25T00:00:00.000,No
+1347,Religious powder,Kumkuman,Lead,2.5,ppm,Y.V.S.,INDIA,2015-02-25T00:00:00.000,No
+202,Food-Spice,Chili powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-06-02T00:00:00.000,No
+1016,Toys/Children's Products,2006  Ford Mustang  Toy car,Lead,-1.0,ppm,Kinsmart,CHINA,2013-12-27T00:00:00.000,No
+114,Food-Spice,Chili powder,Lead,-1.0,ppm,Radhuni,BANGLADESH,2011-04-18T00:00:00.000,No
+360,Dietary Supplement/Medications/Remedy,Laxmana Louh (Ayurvedic),Mercury,120.0,ppm,Vyas Pharmaceuticals,INDIA,2012-01-23T00:00:00.000,No
+364,Dietary Supplement/Medications/Remedy,Ovarin (Ayurvedic),Arsenic,100.0,ppm,Ban Labs Ltd.,INDIA,2012-01-23T00:00:00.000,No
+853,Dietary Supplement/Medications/Remedy,Dhanwanthari Gulika (Ayurvedic),Mercury,15.0,ppm,Ashtavaidyan Thaikkattu Mooss Vaidyaratnam Oushad,INDIA,2013-07-17T00:00:00.000,No
+511,Food-Spice,Georgian spice,Lead,11.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2012-06-15T00:00:00.000,No
+6,Food-Candy,Lucas Muecas candy,Lead,-1.0,ppm,Lucas Muecas,MEXICO,2011-01-06T00:00:00.000,No
+770,Food-Spice,Asafoetida (Hing),Lead,1.7,ppm,UNKNOWN OR NOT STATED,INDIA,2013-03-29T00:00:00.000,No
+1214,Toys/Children's Products,Painted metal car,Lead,0.81,ppm,Mattel,THAILAND,2014-09-11T00:00:00.000,No
+444,Food-Candy,CarlosV candy bar,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2012-04-30T00:00:00.000,No
+493,Dietary Supplement/Medications/Remedy,Ras Raj Gutica (Ayurvedic),Lead,8.4,ppm,UNKNOWN OR NOT STATED,INDIA,2012-06-07T00:00:00.000,No
+1445,Cosmetics,Kajal,Lead,5.8,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-03-16T00:00:00.000,No
+395,Food-Spice,Orange powder,Lead,9.8,ppm,UNKNOWN OR NOT STATED,GEORGIA,2012-03-09T00:00:00.000,No
+598,Dietary Supplement/Medications/Remedy,Unlabeled powder (Ayurvedic),Arsenic,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-09-20T00:00:00.000,No
+830,Food-Spice,Turmeric powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-06-27T00:00:00.000,No
+814,Food-Spice,Orange powder,Lead,0.98,ppm,UNKNOWN OR NOT STATED,TOGO,2013-06-17T00:00:00.000,No
+330,Food Other,Breakfast cereal,Lead,0.72,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-12-05T00:00:00.000,No
+1598,Food-Spice,Chili powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-12-11T00:00:00.000,No
+224,Religious powder,Incense stick,Lead,14.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-06-13T00:00:00.000,No
+1503,Jewelry,Hand Bracelet,Lead,17.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2015-06-10T00:00:00.000,No
+21,Food Other,Cheetos Crunchy,Lead,-1.0,ppm,Frito Lays,DOMINICAN REPUBLIC,2011-02-07T00:00:00.000,No
+245,Food-Spice,Chili powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-07-14T00:00:00.000,No
+436,Toys/Children's Products,Wooden block,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BRAZIL,2012-04-23T00:00:00.000,No
+282,Food-Spice,Spice,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UZBEKISTAN,2011-08-26T00:00:00.000,No
+725,Food-Spice,Xarcho,Lead,1.1,ppm,UNKNOWN OR NOT STATED,GEORGIA,2013-02-21T00:00:00.000,No
+90,Food-Spice,Georgian spice (Yellow flour),Lead,14000.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-04-07T00:00:00.000,No
+178,Dietary Supplement/Medications/Remedy,Dehshuddhi (Ayurvedic),Arsenic,-1.0,ppm,Amit Pharmacy,INDIA,2011-05-17T00:00:00.000,No
+91,Food-Spice,Uckho Suneli,Lead,8.5,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-04-07T00:00:00.000,No
+1144,Food-Spice,Fakoye,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MALI,2014-06-26T00:00:00.000,No
+1580,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Arsenic,2.4,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+1009,Other,Decorative Beads,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,OTHER EUROPEAN,2013-12-19T00:00:00.000,No
+583,Food-Spice,Shrimp powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,NIGERIA,2012-09-07T00:00:00.000,No
+1130,Food Other,Orange Blossom Honey,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-05-22T00:00:00.000,No
+534,Food-Spice,Bouillon cubes,Lead,-1.0,ppm,NESTLE NIGERIA PLC,NIGERIA,2012-07-17T00:00:00.000,No
+682,Cosmetics,Kajal,Lead,6.3,ppm,Hashmi,PAKISTAN,2012-12-18T00:00:00.000,No
+967,Dietary Supplement/Medications/Remedy,Madhunashini Vati (Ayurvedic),Lead,11.0,ppm,Divya Pharmacy,INDIA,2013-11-15T00:00:00.000,No
+152,Food-Spice,Utskho (Fenugreak),Lead,34.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-05-04T00:00:00.000,No
+863,Toys/Children's Products,Crayon,Lead,4.9,ppm,Creative Kids TM,CHINA,2013-07-19T00:00:00.000,No
+645,Religious powder,Red Sindoor,Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-11-21T00:00:00.000,No
+207,Food-Spice,Coriander seeds,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-06-03T00:00:00.000,No
+953,Dietary Supplement/Medications/Remedy,Vasant Kusumakar Ras With Gold & Pearl (Ayurvedic),Lead,33.0,ppm,Dabur India Ltd.,INDIA,2013-11-15T00:00:00.000,No
+1589,Dietary Supplement/Medications/Remedy,Shu Gan Wan (Poria & Peony Combo Extract),Arsenic,-1.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+1537,Food-Spice,Georgian spice,Lead,18000.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2015-09-30T00:00:00.000,No
+1143,Dietary Supplement/Medications/Remedy,Keroglobin liquid vitamin,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,JAMAICA,2014-06-26T00:00:00.000,No
+772,Food-Spice,Coriander,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2013-03-29T00:00:00.000,No
+1179,Food-Spice,Kharcho,Lead,3300.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2014-08-14T00:00:00.000,No
+1126,Dietary Supplement/Medications/Remedy,Napa Paracetamol,Lead,-1.0,ppm,BEXIMCO PHARMACEUTICALS LTD,BANGLADESH,2014-05-16T00:00:00.000,No
+277,Dietary Supplement/Medications/Remedy,Ovarin (Ayurvedic),Lead,12000.0,ppm,Ban Labs Ltd.,INDIA,2011-08-25T00:00:00.000,No
+836,Toys/Children's Products,Plastic toy,Lead,3.6,ppm,UNKNOWN OR NOT STATED,CHINA,2013-07-09T00:00:00.000,No
+559,Toys/Children's Products,Tonka Toy truck,Lead,-1.0,ppm,Hasbro,CHINA,2012-08-10T00:00:00.000,No
+1581,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Lead,3.5,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+693,Dietary Supplement/Medications/Remedy,Kapah,Lead,2.0,ppm,KAPAH,AFGHANISTAN,2012-12-27T00:00:00.000,No
+409,Food Other,Herb tea,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,ECUADOR,2012-04-03T00:00:00.000,No
+1335,Dietary Supplement/Medications/Remedy,Kaishore Guggulu (Ayurvedic),Arsenic,2.6,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+1392,Dietary Supplement/Medications/Remedy,Rajbati (Gandhak Bati)(Gandhak&Sonth) (Ayurvedic),Mercury,12.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+900,Food-Spice,Brown seasoning powder,Lead,-1.0,ppm,Patisen Production,SENEGAL,2013-09-10T00:00:00.000,No
+1209,Food Other,Fig,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,TURKEY,2014-09-10T00:00:00.000,No
+661,Cosmetics,Kumkum powder,Lead,3.2,ppm,Y.V.S.&Co. Madras,INDIA,2012-12-03T00:00:00.000,No
+1102,Cosmetics,Omic Soap,Mercury,-1.0,ppm,MItchell group,LEBANON,2014-04-01T00:00:00.000,No
+1597,Food-Spice,Mustard seeds,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-12-11T00:00:00.000,No
+325,Food-Spice,Turmeric powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-11-22T00:00:00.000,No
+1457,Dietary Supplement/Medications/Remedy,Herbal Tablets,Mercury,3.1,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-03-26T00:00:00.000,No
+620,Food-Spice,Georgian spice,Lead,8000.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-10-16T00:00:00.000,No
+1260,Food-Spice,Cinnamon,Lead,1.5,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-01-26T00:00:00.000,No
+47,Dietary Supplement/Medications/Remedy,Adusol (Ayurvedic),Lead,0.015,ppm,Ajanta Medicals PVT. LTD,INDIA,2011-03-10T00:00:00.000,No
+280,Food-Spice,Turmeric powder,Lead,0.72,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-08-25T00:00:00.000,No
+183,Dietary Supplement/Medications/Remedy,Bal Sathi Children's Capillary (Ayurvedic),Mercury,0.1,ppm,M/S. Vaidya Jagannath G. Dwivedi,INDIA,2011-05-17T00:00:00.000,No
+482,Food-Spice,Chili Powder,Lead,2.8,ppm,Unmarked package,BANGLADESH,2012-06-02T00:00:00.000,No
+1062,Food-Spice,Chili powder,Lead,1.1,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2014-02-28T00:00:00.000,No
+60,Dietary Supplement/Medications/Remedy,Infants Gripe Mixture,Lead,-1.0,ppm,P.A. Benjamin Manufacturing Co. LTD,JAMAICA,2011-03-24T00:00:00.000,No
+211,Food Other,Bon Bon Bum,Lead,-1.0,ppm,Colombina,DOMINICAN REPUBLIC,2011-06-07T00:00:00.000,No
+79,Food-Spice,Safflower-yellow flower,Lead,12.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-04-04T00:00:00.000,No
+1198,Food Other,Tea,Lead,0.49,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2014-08-22T00:00:00.000,No
+625,Food Other,Plantain Flour,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,GHANA,2012-10-22T00:00:00.000,No
+1635,Food-Spice,Seasoning powder,Lead,0.54,ppm,UNKNOWN OR NOT STATED,ALGERIA,2015-12-30T00:00:00.000,No
+1287,Toys/Children's Products,Sensory Toy (red apple),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2015-02-25T00:00:00.000,No
+1284,Toys/Children's Products,Sensory Toy (green pear),Lead,0.91,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-02-25T00:00:00.000,No
+873,Food-Candy,Dromec - Hard candy,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-07-25T00:00:00.000,No
+947,Food-Spice,Yellow brown spice,Lead,1.7,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-11-01T00:00:00.000,No
+1561,Toys/Children's Products,Thomas train,Lead,4.6,ppm,Mattel Inc,CHINA,2015-11-18T00:00:00.000,No
+239,Food-Spice,Chili powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2011-06-29T00:00:00.000,No
+352,Jewelry,Bracelet,Lead,160.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-12-19T00:00:00.000,No
+1571,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Arsenic,1.6,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+573,Toys/Children's Products,Crayon,Lead,0.96,ppm,UNKNOWN OR NOT STATED,CHINA,2012-09-04T00:00:00.000,No
+589,Dietary Supplement/Medications/Remedy,Bitters,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,JAMAICA,2012-09-07T00:00:00.000,No
+1429,Religious powder,Holi color - Yellow,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-02-25T00:00:00.000,No
+1604,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Tian Wang Bu Xin Wan),Arsenic,-1.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+600,Dietary Supplement/Medications/Remedy,Unlabeled powder (Ayurvedic),Mercury,8300.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-09-20T00:00:00.000,No
+369,Dietary Supplement/Medications/Remedy,Garbha Chintamani Ras(Vrihat) (Swarna Yukt) (Ayur),Lead,120.0,ppm,Shree Baidyanath,INDIA,2012-01-23T00:00:00.000,No
+803,Dietary Supplement/Medications/Remedy,Herbs (Wild Jujube Tea),Lead,-1.0,ppm,Jiangyin Tianjiang Herb work Co.,CHINA,2013-06-12T00:00:00.000,No
+1155,Dietary Supplement/Medications/Remedy,Bo Ying Compound,Lead,2.1,ppm,Eu Yan Sang International Limited,UNITED STATES,2014-07-29T00:00:00.000,No
+442,Food-Candy,Mangopers Paletas lollipops,Lead,-1.0,ppm,Productos Karla S.A. DE C.V.,MEXICO,2012-04-30T00:00:00.000,No
+1386,Dietary Supplement/Medications/Remedy,Kankayan Bati (Gulm) (Ayurvedic),Mercury,18.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+560,Food-Spice,Unlabeled spice,Lead,0.6,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-08-13T00:00:00.000,No
+524,Toys/Children's Products,Car toy,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-06-23T00:00:00.000,No
+658,Religious powder,Asthagandha powder,Lead,9.9,ppm,UNKNOWN OR NOT STATED,INDIA,2012-12-03T00:00:00.000,No
+976,Dietary Supplement/Medications/Remedy,Long Dan Xie Gan Tang,Mercury,-1.0,ppm,Meridian Pro,CHINA,2013-11-15T00:00:00.000,No
+85,Food Other,Tea,Lead,3.2,ppm,UNKNOWN OR NOT STATED,MOROCCO,2011-04-06T00:00:00.000,No
+961,Dietary Supplement/Medications/Remedy,Gita Madhumehantak Vati (Ayurvedic),Arsenic,24.0,ppm,Gita Bhawan Ayurved Sansthan,INDIA,2013-11-15T00:00:00.000,No
+880,Food-Spice,Turmeric powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-08-06T00:00:00.000,No
+1321,Dietary Supplement/Medications/Remedy,Arogyavardhini Bati (Ayurvedic),Mercury,11.0,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+39,Jewelry,Children's jewelry set (MSA),Lead,180.0,ppm,UNKNOWN OR NOT STATED,CHINA,2011-03-09T00:00:00.000,No
+1533,Toys/Children's Products,Wooden block,Lead,12.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-09-21T00:00:00.000,No
+100,Food-Spice,Dhania (Coriander powder),Lead,2.6,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-04-11T00:00:00.000,No
+959,Dietary Supplement/Medications/Remedy,Gita Madhumehantak Vati (Ayurvedic),Lead,66000.0,ppm,Gita Bhawan Ayurved Sansthan,INDIA,2013-11-15T00:00:00.000,No
+65,Food-Spice,Cumin,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-03-25T00:00:00.000,No
+851,Dietary Supplement/Medications/Remedy,Ashtavargam Kashayam (Ayurvedic),Mercury,-1.0,ppm,Thaikkattu Mooss Vaidyaratnam Oushadhasala (P) Ltd,INDIA,2013-07-17T00:00:00.000,No
+987,Dietary Supplement/Medications/Remedy,Rhinathiol,Lead,-1.0,ppm,Unither Liquid Manufacturing,FRANCE,2013-11-18T00:00:00.000,No
+234,Toys/Children's Products,Crayons,Lead,9.0,ppm,UNKNOWN OR NOT STATED,CHINA,2011-06-23T00:00:00.000,No
+1523,Food-Spice,Mole,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2015-08-28T00:00:00.000,No
+341,Food-Spice,Georgian spice,Lead,8.4,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-12-12T00:00:00.000,No
+1518,Toys/Children's Products,Crayon,Lead,1.6,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-08-06T00:00:00.000,No
+1502,Food Other,Farina (cereal),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2015-06-09T00:00:00.000,No
+1339,Dietary Supplement/Medications/Remedy,Kaishore Guggulu (Ayurvedic),Mercury,0.89,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+58,Food-Spice,Chili powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-03-22T00:00:00.000,No
+547,Food-Spice,Turmeric powder,Lead,0.67,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-07-31T00:00:00.000,No
+1364,Dietary Supplement/Medications/Remedy,Sariwadi Bati (Ayurvedic),Mercury,81.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+53,Food-Candy,Dulces Vero Mango,Lead,0.44,ppm,Dulces Vero,MEXICO,2011-03-17T00:00:00.000,No
+361,Dietary Supplement/Medications/Remedy,Phal (Ayurvedic),Arsenic,-1.0,ppm,Shree Aushadh Pratisthan,INDIA,2012-01-23T00:00:00.000,No
+675,Food-Candy,Chocolate candy,Lead,-1.0,ppm,Kraft Foods Pakistan LTD,PAKISTAN,2012-12-11T00:00:00.000,No
+351,Food Other,Chapulinas,Lead,70.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2011-12-16T00:00:00.000,No
+792,Food Other,Mango,Lead,62.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2013-05-30T00:00:00.000,No
+451,Food-Spice,Turmeric,Lead,-1.0,ppm,Swad,INDIA,2012-05-11T00:00:00.000,No
+756,Dietary Supplement/Medications/Remedy,Homeopathic remedy for stomach disorder,Lead,-1.0,ppm,Kapsons Homoeo Clinics & Pharmacies,INDIA,2013-03-29T00:00:00.000,No
+64,Food-Spice,Georgian spice,Lead,1.5,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-03-25T00:00:00.000,No
+1582,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Mercury,-1.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+269,Dietary Supplement/Medications/Remedy,Shatavari Kalpa (Ayurvedic),Lead,-1.0,ppm,The Ayurvedeeya Arkashala Ltd. Satara,INDIA,2011-08-25T00:00:00.000,No
+378,Food-Spice,Asafoetida (Hing),Lead,3.6,ppm,UNKNOWN OR NOT STATED,INDIA,2012-01-23T00:00:00.000,No
+1113,Toys/Children's Products,Toy helicopter,Lead,-1.0,ppm,Mattel,CHINA,2014-04-23T00:00:00.000,No
+832,Food-Spice,Shan spice mix for meat & vegetable,Lead,-1.0,ppm,Shan Foods (Private) Ltd.,PAKISTAN,2013-06-27T00:00:00.000,No
+619,Food-Spice,Garam Masala,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2012-10-11T00:00:00.000,No
+189,Food Other,Dried Lily Bulb,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,CHINA,2011-05-20T00:00:00.000,No
+1568,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Arsenic,1.7,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+260,Food-Spice,Oregano,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-08-17T00:00:00.000,No
+266,Dietary Supplement/Medications/Remedy,Mahadhanwantaram Gulika (Ayurvedic),Lead,6.6,ppm,Arya Vaidya Sala,INDIA,2011-08-25T00:00:00.000,No
+366,Dietary Supplement/Medications/Remedy,Ovarin (Ayurvedic),Mercury,70000.0,ppm,Ban Labs Ltd.,INDIA,2012-01-23T00:00:00.000,No
+1207,Cosmetics,Lakme Kajal,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2014-09-08T00:00:00.000,No
+1286,Toys/Children's Products,Sensory Toy (purple grapes),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2015-02-25T00:00:00.000,No
+321,Food Other,Mole Poblano,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2011-11-15T00:00:00.000,No
+736,Cosmetics,Tepezcohuite,Lead,-1.0,ppm,Technobotanica de Mexico,MEXICO,2013-03-15T00:00:00.000,No
+1553,Food-Spice,Harde whole,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-10-07T00:00:00.000,No
+293,Food Other,Fruit in syrup,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-09-08T00:00:00.000,No
+672,Dietary Supplement/Medications/Remedy,Shatavari Capsules (Ayurvedic),Arsenic,-1.0,ppm,Goodcare Pharma (P) Ltd.,INDIA,2012-12-03T00:00:00.000,No
+1405,Dietary Supplement/Medications/Remedy,Arshoghni Bati (Ayurvedic),Arsenic,5.4,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd",INDIA,2015-02-25T00:00:00.000,No
+604,Dietary Supplement/Medications/Remedy,Swarna Malini Vasant (Ayurvedic),Arsenic,1300.0,ppm,Amrita Drugs,INDIA,2012-09-20T00:00:00.000,No
+1275,Jewelry,Amulet-heart pendant,Lead,7.9,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-02-19T00:00:00.000,No
+1540,Toys/Children's Products,Blue toy (Smurf),Lead,47.0,ppm,UNKNOWN OR NOT STATED,VIET NAM,2015-10-02T00:00:00.000,No
+1181,Food-Spice,Utskho Suneli,Lead,2.5,ppm,UNKNOWN OR NOT STATED,GEORGIA,2014-08-14T00:00:00.000,No
+653,Food-Spice,Curry,Lead,0.51,ppm,Edward Beharry,GUYANA,2012-11-29T00:00:00.000,No
+597,Food-Spice,Oxtail Seasoning,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-09-19T00:00:00.000,No
+1495,Food-Spice,Chili powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-05-21T00:00:00.000,No
+1383,Dietary Supplement/Medications/Remedy,Kankayan Bati (Gulm) (Ayurvedic),Arsenic,2.7,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+779,Cosmetics,Surma,Lead,350000.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-04-06T00:00:00.000,No
+838,Food-Candy,Pollito Alvbro,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2013-07-16T00:00:00.000,No
+1112,Food Other,Tea,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2014-04-18T00:00:00.000,No
+1476,Dietary Supplement/Medications/Remedy,Herbal tablets,Mercury,10.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-03-26T00:00:00.000,No
+22,Food Other,Cheetos Crunchy,Lead,-1.0,ppm,Frito Lay,DOMINICAN REPUBLIC,2011-02-07T00:00:00.000,No
+632,Religious powder,Incense,Lead,3.8,ppm,UNKNOWN OR NOT STATED,MOROCCO,2012-10-22T00:00:00.000,No
+1295,Religious powder,Sindur,Lead,1.4,ppm,UNKNOWN OR NOT STATED,INDIA,2015-02-25T00:00:00.000,No
+51,Food-Spice,Curry powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-03-16T00:00:00.000,No
+505,Food-Spice,Turmeric,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2012-06-15T00:00:00.000,No
+1097,Cosmetics,Neko Brightening Gel,Lead,-1.0,ppm,Neko Industries UK,LEBANON,2014-04-01T00:00:00.000,No
+542,Food-Spice,Turmeric,Lead,0.67,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-07-27T00:00:00.000,No
+584,Food-Spice,Palm Oil,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,NIGERIA,2012-09-07T00:00:00.000,No
+101,Food-Spice,Paprika,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-04-11T00:00:00.000,No
+38,Jewelry,Children's jewelry set,Lead,74.0,ppm,UNKNOWN OR NOT STATED,CHINA,2011-03-09T00:00:00.000,No
+1063,Food-Spice,Turmeric powder,Lead,3.5,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2014-02-28T00:00:00.000,No
+30,Food-Spice,Chilli powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-02-15T00:00:00.000,No
+1022,Food-Spice,Berbere,Lead,220.0,ppm,UNKNOWN OR NOT STATED,ERITREA,2014-01-08T00:00:00.000,No
+131,Food-Spice,Cumin powder,Lead,-1.0,ppm,"Square Consumer Products, Ltd",BANGLADESH,2011-04-22T00:00:00.000,No
+1536,Food-Spice,Georgian spice,Lead,3200.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2015-09-30T00:00:00.000,No
+1596,Food-Spice,Cumin seeds,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-12-11T00:00:00.000,No
+828,Food Other,Cereal,Lead,1.6,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-06-27T00:00:00.000,No
+411,Food Other,Quinua,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,ECUADOR,2012-04-03T00:00:00.000,No
+1109,Dietary Supplement/Medications/Remedy,Bo Ying Compound,Lead,16.0,ppm,Eu Yan Sang Hong Kong Limited,HONG KONG,2014-04-08T00:00:00.000,No
+1019,Toys/Children's Products,Toy car,Lead,-1.0,ppm,Melissa and Doug,UNITED STATES,2013-12-27T00:00:00.000,No
+1167,Cosmetics,Deluxe Nadinola Bleaching Cream,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,JAMAICA,2014-08-06T00:00:00.000,No
+447,Cosmetics,Surma (Hashmi),Lead,260000.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2012-05-04T00:00:00.000,No
+566,Dietary Supplement/Medications/Remedy,Five phosph. 6X (Homeopathic),Arsenic,-1.0,ppm,Dr. Reckeweg & Co. GmbH,GERMANY,2012-08-22T00:00:00.000,No
+623,Food-Spice,Leafy spice,Lead,1.7,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-10-16T00:00:00.000,No
+157,Cosmetics,Ruby Rose Deluxe Makeup Kit (Eyeshadow),Lead,11.0,ppm,Ruby Rose Cosmetique S.A.R.L.,GEORGIA,2011-05-04T00:00:00.000,No
+888,Toys/Children's Products,Wooden block,Lead,39.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-08-27T00:00:00.000,No
+1535,Toys/Children's Products,Wooden block,Lead,5.2,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2015-09-21T00:00:00.000,No
+1402,Dietary Supplement/Medications/Remedy,Rajahprawartini Bati (Hera Bola&Alua) (Ayurvedic),Lead,21.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+636,Cosmetics,Roli Kumkum,Lead,14.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-11-21T00:00:00.000,No
+1320,Dietary Supplement/Medications/Remedy,Arogyavardhini Bati (Ayurvedic),Lead,44.0,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+1274,Food-Spice,Cinnamon bark,Lead,4.9,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2015-02-19T00:00:00.000,No
+847,Dietary Supplement/Medications/Remedy,Manasamitra Vatakam (Ayurvedic),Mercury,490.0,ppm,Amrita Drugs,INDIA,2013-07-17T00:00:00.000,No
+1153,Toys/Children's Products,Wooden toy,Lead,9.5,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-07-28T00:00:00.000,No
+1202,Food-Spice,Curry Powder,Lead,0.46,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2014-09-05T00:00:00.000,No
+913,Food-Spice,Chili Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-10-11T00:00:00.000,No
+1432,Food-Spice,Kobeba sini,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,EGYPT,2015-02-26T00:00:00.000,No
+1359,Dietary Supplement/Medications/Remedy,Marichyadi Bati (Ayurvedic),Mercury,18.0,ppm,Shree Baidyanath; Ayurved Bhawan Pvt. Ltd.,INDIA,2015-02-25T00:00:00.000,No
+834,Cosmetics,Surma Special,Lead,620000.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-06-27T00:00:00.000,No
+350,Food-Spice,Chili powder,Lead,0.78,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-12-15T00:00:00.000,No
+1593,Dietary Supplement/Medications/Remedy,Shu Gan Wan (Poria & Peony Combo Extract),Lead,1.5,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+1602,Toys/Children's Products,Crayon,Lead,2.9,ppm,UNKNOWN OR NOT STATED,INDIA,2015-12-11T00:00:00.000,No
+1017,Toys/Children's Products,67 Chevy toy car,Lead,-1.0,ppm,Mattel,MALAYSIA,2013-12-27T00:00:00.000,No
+401,Toys/Children's Products,BMW Z4 COUPE,Lead,-1.0,ppm,"Kintoy Die-Casting Mfy., Ltd",CHINA,2012-03-22T00:00:00.000,No
+827,Food-Spice,Red hot spices,Lead,4300.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-06-27T00:00:00.000,No
+1544,Food-Spice,Chili powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-10-07T00:00:00.000,No
+921,Food-Spice,Turmeric,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-10-18T00:00:00.000,No
+339,Food-Spice,Cilantro,Lead,4.6,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-12-12T00:00:00.000,No
+1525,Toys/Children's Products,Plastic Toy,Lead,-1.0,ppm,Hasbro,CHINA,2015-09-03T00:00:00.000,No
+1587,Dietary Supplement/Medications/Remedy,Shu Gan Wan (Poria & Peony Combo Extract),Lead,1.4,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+1058,Food-Spice,Cumin,Lead,12.0,ppm,BANGLADESH,BANGLADESH,2014-02-24T00:00:00.000,No
+896,Food-Spice,Ground okra powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MALI,2013-09-04T00:00:00.000,No
+883,Food-Spice,Xarcho Sunely,Lead,7100.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2013-08-15T00:00:00.000,No
+865,Toys/Children's Products,Crayon,Lead,1.2,ppm,Crayola,UNITED STATES,2013-07-23T00:00:00.000,No
+612,Toys/Children's Products,Orange toy car,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-10-09T00:00:00.000,No
+288,Food-Spice,Chili powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-09-02T00:00:00.000,No
+1082,Cosmetics,Neoprosone Forte Soap,Mercury,-1.0,ppm,Technopharma Ltd UK,LEBANON,2014-04-01T00:00:00.000,No
+1588,Dietary Supplement/Medications/Remedy,Shu Gan Wan (Poria & Peony Combo Extract),Mercury,-1.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+1494,Toys/Children's Products,Toy phone,Lead,1300.0,ppm,UNKNOWN OR NOT STATED,CHINA,2015-05-21T00:00:00.000,No
+886,Cosmetics,Purple Nail Polish,Lead,-1.0,ppm,Mark Wins International,UNKNOWN OR NOT STATED,2013-08-22T00:00:00.000,No
+287,Food-Spice,Garam Masala,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-09-02T00:00:00.000,No
+452,Food-Spice,Chili powder,Lead,0.87,ppm,Square Consumer Products Ltd,BANGLADESH,2012-05-11T00:00:00.000,No
+850,Dietary Supplement/Medications/Remedy,Koosmanda Rasayanam (Ayurvedic),Mercury,0.13,ppm,Ashtavaidyan Thaikkattu Mooss Vaidyaratnam Oushadh,INDIA,2013-07-17T00:00:00.000,No
+494,Dietary Supplement/Medications/Remedy,Garbhapal Ras (Ayurvedic),Arsenic,81.0,ppm,Shri Vishwamitra Ayurved Pharmaceuticals PVT LTD,INDIA,2012-06-07T00:00:00.000,No
+512,Food-Spice,Georgian spice,Lead,3.2,ppm,UNKNOWN OR NOT STATED,GEORGIA,2012-06-15T00:00:00.000,No
+40,Jewelry,Earrings (Lady bug red/black ),Lead,69.0,ppm,UNKNOWN OR NOT STATED,KOREA - DEMOCRATIC PEOPLE'S REPUBLIC OF,2011-03-09T00:00:00.000,No
+822,Dietary Supplement/Medications/Remedy,Turmeric Standardized,Lead,-1.0,ppm,Nature's Way Products,UNITED STATES,2013-06-25T00:00:00.000,No
+180,Dietary Supplement/Medications/Remedy,Dehshuddhi (Ayurvedic),Mercury,5.0,ppm,Amit Pharmacy,INDIA,2011-05-17T00:00:00.000,No
+483,Toys/Children's Products,Kids Crayons,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-06-06T00:00:00.000,No
+1277,Jewelry,Amulet-metal clasps,Lead,1000000.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-02-19T00:00:00.000,No
+1355,Dietary Supplement/Medications/Remedy,Marichyadi Bati (Ayurvedic),Arsenic,6.5,ppm,Shree Baidyanath; Ayurved Bhawan Pvt. Ltd.,INDIA,2015-02-25T00:00:00.000,No
+492,Dietary Supplement/Medications/Remedy,Ras Raj Gutica (Ayurvedic),Lead,2.3,ppm,UNKNOWN OR NOT STATED,INDIA,2012-06-07T00:00:00.000,No
+1133,Tableware/Pottery,White mug,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-05-22T00:00:00.000,No
+1247,Food-Spice,Saneli,Lead,17000.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2015-01-06T00:00:00.000,No
+317,Food-Spice,Spice,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,JAMAICA,2011-11-04T00:00:00.000,No
+1300,Dietary Supplement/Medications/Remedy,Gaisantak Bati (Ayurvedic),Arsenic,3.7,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+1417,Dietary Supplement/Medications/Remedy,Saptamrit Lauh (Mulethi & Lauh) (Ayurvedic),Arsenic,16.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+984,Dietary Supplement/Medications/Remedy,Terpone Enfants,Lead,-1.0,ppm,Rosa Phyto Pharma,FRANCE,2013-11-18T00:00:00.000,No
+944,Cosmetics,Eyeliner pencil,Lead,7.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-11-01T00:00:00.000,No
+291,Food-Candy,Candy,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-09-08T00:00:00.000,No
+869,Dietary Supplement/Medications/Remedy,Gastrodia Tea or Gastrodia Tuber,Lead,-1.0,ppm,Jiangyin Tianjiang Herb Work Co.,CHINA,2013-07-23T00:00:00.000,No
+187,Food Other,Chinese Pearl Barley,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,CHINA,2011-05-20T00:00:00.000,No
+1334,Dietary Supplement/Medications/Remedy,Chitrakadi Bati (Ayurvedic),Mercury,4.9,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+1393,Dietary Supplement/Medications/Remedy,Agnitundi Bati (Ayurvedic),Arsenic,7.7,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+506,Food-Spice,Turmeric,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2012-06-15T00:00:00.000,No
+1145,Food-Spice,Soubala,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MALI,2014-06-26T00:00:00.000,No
+797,Food-Spice,Red Chilli Powder,Lead,3.5,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-06-07T00:00:00.000,No
+1531,Toys/Children's Products,Block,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-09-10T00:00:00.000,No
+1438,Toys/Children's Products,Blocks,Lead,-1.0,ppm,Melissa and Doug,UNITED STATES,2015-03-03T00:00:00.000,No
+540,Dietary Supplement/Medications/Remedy,Georgian Dietary Supplement for Headaches,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-07-27T00:00:00.000,No
+405,Food-Spice,Mixed spices,Lead,23.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-03-30T00:00:00.000,No
+1268,Food-Spice,Turmeric,Lead,700.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-02-06T00:00:00.000,No
+572,Toys/Children's Products,Crayon,Lead,0.97,ppm,UNKNOWN OR NOT STATED,THAILAND,2012-09-04T00:00:00.000,No
+679,Food-Spice,Cumin Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MOROCCO,2012-12-12T00:00:00.000,No
+191,Food Other,Black cloud Ears Fungus,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,CHINA,2011-05-20T00:00:00.000,No
+254,Food Other,Churritos,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-07-20T00:00:00.000,No
+558,Toys/Children's Products,Modeling Clay,Lead,4.3,ppm,UNKNOWN OR NOT STATED,CHINA,2012-08-10T00:00:00.000,No
+1054,Dietary Supplement/Medications/Remedy,Prenatal fish oil,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2014-02-12T00:00:00.000,No
+458,Food-Candy,Candy,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-05-14T00:00:00.000,No
+1621,Dietary Supplement/Medications/Remedy,Poria & Peony Combo Extract (Conc)/Shu Gan Wan,Mercury,-1.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+1368,Dietary Supplement/Medications/Remedy,Arogyawardhini Bati (Shilajeet&Kutki) (Ayurvedic),Lead,16.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+397,Food-Spice,Georgian spice,Lead,11.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-03-09T00:00:00.000,No
+407,Food-Spice,Whole Grain Masala,Lead,-1.0,ppm,Best Food Inc.,PAKISTAN,2012-03-31T00:00:00.000,No
+1460,Dietary Supplement/Medications/Remedy,Herbal powder,Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-03-26T00:00:00.000,No
+18,Dietary Supplement/Medications/Remedy,Calcimax 500,Lead,2.7,ppm,Meyer Vitabiotics,INDIA,2011-01-24T00:00:00.000,No
+954,Dietary Supplement/Medications/Remedy,Vasant Kusumakar Ras With Gold & Pearl (Ayurvedic),Lead,19.0,ppm,Dabur India Ltd.,INDIA,2013-11-15T00:00:00.000,No
+59,Dietary Supplement/Medications/Remedy,Cetamol - liquid pain & fever reliever,Lead,-1.0,ppm,Cetamol,JAMAICA,2011-03-24T00:00:00.000,No
+499,Food Other,Dried Fish,Lead,0.85,ppm,UNKNOWN OR NOT STATED,JAPAN,2012-06-08T00:00:00.000,No
+249,Food-Spice,Garam masala,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-07-14T00:00:00.000,No
+445,Food-Spice,Jumbo Aroma,Lead,0.84,ppm,Jumbo UK Limited,UNITED KINGDOM,2012-05-02T00:00:00.000,No
+133,Food-Spice,Coriander powder,Lead,-1.0,ppm,"Square Consumer Products, Ltd.",BANGLADESH,2011-04-22T00:00:00.000,No
+173,Jewelry,Jewelry,Lead,7.5,ppm,Purchase Name,UNKNOWN OR NOT STATED,2011-05-17T00:00:00.000,No
+1265,Food-Spice,Svaneti salt,Lead,4100.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2015-01-29T00:00:00.000,No
+1134,Tableware/Pottery,Orange mug,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-05-22T00:00:00.000,No
+1524,Food Other,Tea,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2015-08-28T00:00:00.000,No
+36,Cosmetics,Surma (Hashmi),Lead,610000.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-03-06T00:00:00.000,No
+8,Jewelry,String for amulet/tabeez,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-01-13T00:00:00.000,No
+426,Food-Candy,Pollito Alvbro Lollipop,Lead,-1.0,ppm,Pollito Alvbro S.A DE CV,MEXICO,2012-04-11T00:00:00.000,No
+538,Food Other,Nimko,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2012-07-25T00:00:00.000,No
+633,Food Other,Cassava flour,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,IVORY COAST,2012-10-24T00:00:00.000,No
+719,Food-Spice,Black Pepper,Lead,85.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-02-14T00:00:00.000,No
+1424,Religious powder,Holi Color - Pink,Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-02-25T00:00:00.000,No
+1121,Food-Spice,Georgian 'Dry Ajeeka' or 'Msurali Ajeeka',Lead,3400.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-04-29T00:00:00.000,No
+657,Religious powder,Sindoor,Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-12-03T00:00:00.000,No
+629,Food-Spice,Sweet pepper,Lead,120.0,ppm,UNKNOWN OR NOT STATED,MOROCCO,2012-10-22T00:00:00.000,No
+1440,Food Other,Crickettes,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-03-04T00:00:00.000,No
+326,Dietary Supplement/Medications/Remedy,Filmet Suspension,Lead,-1.0,ppm,BEXIMCO Pharma,BANGLADESH,2011-11-23T00:00:00.000,No
+1192,Food-Spice,Cumin (Jeera),Lead,0.69,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-08-22T00:00:00.000,No
+674,Dietary Supplement/Medications/Remedy,Shatavari Capsules (Ayurvedic),Mercury,0.076,ppm,Goodcare Pharma (P) Ltd.,INDIA,2012-12-03T00:00:00.000,No
+1539,Toys/Children's Products,Plastic toy bottle,Lead,14.0,ppm,UNKNOWN OR NOT STATED,CHINA,2015-10-02T00:00:00.000,No
+244,Food-Spice,Cumin,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-07-14T00:00:00.000,No
+373,Food-Spice,Turmeric powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-01-23T00:00:00.000,No
+955,Dietary Supplement/Medications/Remedy,Vasant Kusumakar Ras With Gold & Pearl (Ayurvedic),Mercury,39000.0,ppm,Dabur India Ltd.,INDIA,2013-11-15T00:00:00.000,No
+750,Dietary Supplement/Medications/Remedy,Homeopathic remedy for stomach disorder,Lead,-1.0,ppm,Kapsons Homoeo Clinics & Pharmacies,INDIA,2013-03-29T00:00:00.000,No
+1031,Dietary Supplement/Medications/Remedy,Long Dan Xie Gan Wan,Arsenic,3.0,ppm,Lanzhou Traditional Herbs,CHINA,2014-01-15T00:00:00.000,No
+945,Cosmetics,Mascara,Lead,48.0,ppm,UNKNOWN OR NOT STATED,UNITED KINGDOM,2013-11-01T00:00:00.000,No
+185,Food Other,Chinese Mushrooms,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,CHINA,2011-05-20T00:00:00.000,No
+1356,Dietary Supplement/Medications/Remedy,Marichyadi Bati (Ayurvedic),Arsenic,7.1,ppm,Shree Baidyanath; Ayurved Bhawan Pvt. Ltd.,INDIA,2015-02-25T00:00:00.000,No
+235,Toys/Children's Products,Toy bus,Lead,22.0,ppm,Devrian Global Industries LLC,CHINA,2011-06-25T00:00:00.000,No
+1632,Dietary Supplement/Medications/Remedy,Poria & Peony Combo Extract (Conc)/Shu Gan Wan,Lead,1.1,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+780,Other,Shea Butter,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-04-11T00:00:00.000,No
+214,Toys/Children's Products,Toy,Lead,-1.0,ppm,Melissa & Doug LLC,UNKNOWN OR NOT STATED,2011-06-08T00:00:00.000,No
+801,Dietary Supplement/Medications/Remedy,Herbs (Tuckahoe Tea),Lead,-1.0,ppm,Jiangyin Tianjiang Herb Work Co.,CHINA,2013-06-12T00:00:00.000,No
+1231,Dietary Supplement/Medications/Remedy,Gripe Water,Lead,-1.0,ppm,"MOM Enterprises, Inc.",UNITED STATES,2014-11-12T00:00:00.000,No
+215,Dietary Supplement/Medications/Remedy,Kankayan Bati (Gulma) (Ayurvedic),Arsenic,9.5,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2011-06-13T00:00:00.000,No
+489,Dietary Supplement/Medications/Remedy,Pushyanug Churna (Ayurvedic),Lead,2.6,ppm,Shri Yash Remedies,INDIA,2012-06-07T00:00:00.000,No
+1299,Dietary Supplement/Medications/Remedy,Gaisantak Bati (Ayurvedic),Arsenic,4.8,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+219,Dietary Supplement/Medications/Remedy,Raj Bati (Ayurvedic),Lead,3.0,ppm,Shree Baidyanath Ayurved Bhawan,INDIA,2011-06-13T00:00:00.000,No
+353,Food Other,Dried shrimp,Lead,2.7,ppm,UNKNOWN OR NOT STATED,COTE D'IVOIRE,2012-01-05T00:00:00.000,No
+1401,Dietary Supplement/Medications/Remedy,Rajahprawartini Bati (Hera Bola&Alua) (Ayurvedic),Lead,23.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+1204,Food-Spice,Cumin,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2014-09-05T00:00:00.000,No
+819,Food-Spice,Turmeric root,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-06-25T00:00:00.000,No
+548,Food-Spice,Coriander,Lead,0.55,ppm,UNKNOWN OR NOT STATED,GEORGIA,2012-08-03T00:00:00.000,No
+331,Food-Spice,Georgian spice (Utsko Suneli),Lead,260.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-12-05T00:00:00.000,No
+1184,Food-Spice,Coriander,Lead,1.2,ppm,UNKNOWN OR NOT STATED,GEORGIA,2014-08-14T00:00:00.000,No
+551,Dietary Supplement/Medications/Remedy,Praval Pishti (Ayurvedic),Arsenic,-1.0,ppm,Rashtriya Ayurvedic Oushadhi Nirmanshala,INDIA,2012-08-08T00:00:00.000,No
+1250,Dietary Supplement/Medications/Remedy,Ashwagandadi Leha (Ayurvedic),Lead,-1.0,ppm,Bharath Pharmacy,INDIA,2015-01-15T00:00:00.000,No
+197,Toys/Children's Products,Non-hardening modeling sand,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,SWEDEN,2011-05-26T00:00:00.000,No
+16,Food-Spice,Chili powder,Lead,3.8,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-01-21T00:00:00.000,No
+24,Food Other,Dulces Vero,Lead,-1.0,ppm,Viacom,MEXICO,2011-02-08T00:00:00.000,No
+1468,Dietary Supplement/Medications/Remedy,Herbal mixture,Arsenic,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-03-26T00:00:00.000,No
+744,Food Other,Kajoli Fish,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2013-03-22T00:00:00.000,No
+484,Dietary Supplement/Medications/Remedy,Watercress and Onion Syrup,Lead,1.8,ppm,UNKNOWN OR NOT STATED,DOMINICAN REPUBLIC,2012-06-06T00:00:00.000,No
+1314,Dietary Supplement/Medications/Remedy,Brahmi Bati (Ayurvedic),Lead,6.4,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+77,Food-Spice,Chili powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-04-04T00:00:00.000,No
+146,Food-Spice,Curry powder,Lead,1.2,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-04-28T00:00:00.000,No
+1046,Food-Spice,Red hot rouge chaud,Lead,-1.0,ppm,Al-Durra food products co.,IRAN (ISLAMIC REPUBLIC OF),2014-01-17T00:00:00.000,No
+1140,Dietary Supplement/Medications/Remedy,Sing-Lin Fritillary Bulb Extract,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,CHINA,2014-06-02T00:00:00.000,No
+930,Food Other,Chocolate Milk Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-10-22T00:00:00.000,No
+1464,Dietary Supplement/Medications/Remedy,Herbal pills,Mercury,9.9,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-03-26T00:00:00.000,No
+1623,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/ Tian Wang Bu Xin Wan,Lead,1.1,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+733,Food-Spice,Cumin,Lead,0.36,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-03-05T00:00:00.000,No
+412,Dietary Supplement/Medications/Remedy,Special Gunpowder (Tea),Lead,3.2,ppm,UNKNOWN OR NOT STATED,CHINA,2012-04-04T00:00:00.000,No
+549,Food-Spice,Khmeli,Lead,1.4,ppm,UNKNOWN OR NOT STATED,GEORGIA,2012-08-03T00:00:00.000,No
+263,Dietary Supplement/Medications/Remedy,Phalasarpis (Ayurvedic),Lead,0.63,ppm,Ashtavaidyan Thaikkattu Mooss Vaidyaratnam Oushadh,INDIA,2011-08-25T00:00:00.000,No
+981,Dietary Supplement/Medications/Remedy,Chandraprabah (Ayurvedic),Lead,17.0,ppm,Jaihind Pharmacy,INDIA,2013-11-15T00:00:00.000,No
+800,Cosmetics,Surma,Lead,390000.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-06-07T00:00:00.000,No
+807,Dietary Supplement/Medications/Remedy,Biota seed,Lead,-1.0,ppm,Jiangyin Tianjiang Herb Work Co,CHINA,2013-06-12T00:00:00.000,No
+84,Food-Spice,Oregano,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MOROCCO,2011-04-06T00:00:00.000,No
+1454,Food-Spice,Turmeric powder,Lead,530.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-03-18T00:00:00.000,No
+1034,Dietary Supplement/Medications/Remedy,Long Dan Xie Gan Wan,Mercury,0.11,ppm,Lanzhou Traditional Herbs,CHINA,2014-01-15T00:00:00.000,No
+513,Food-Spice,Zaprana,Lead,5.8,ppm,UNKNOWN OR NOT STATED,GEORGIA,2012-06-15T00:00:00.000,No
+754,Dietary Supplement/Medications/Remedy,Homeopathic remedy for stomach disorder,Mercury,-1.0,ppm,Kapsons Homoeo Clinics & Pharmacies,INDIA,2013-03-29T00:00:00.000,No
+1052,Toys/Children's Products,Brown and green wooden train (Percy),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-02-04T00:00:00.000,No
+1399,Dietary Supplement/Medications/Remedy,Rajahprawartini Bati (Hera Bola&Alua) (Ayurvedic),Arsenic,7.1,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+980,Dietary Supplement/Medications/Remedy,Chandraprabah (Ayurvedic),Arsenic,-1.0,ppm,Jaihind Pharmacy,INDIA,2013-11-15T00:00:00.000,No
+357,Dietary Supplement/Medications/Remedy,Garbha Dharak Yog (Ayurvedic),Mercury,100000.0,ppm,Vyas Pharmaceuticals,INDIA,2012-01-23T00:00:00.000,No
+1124,Food Other,Georgian 'Kaklis Muraba' or 'Walnut Jam',Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-04-29T00:00:00.000,No
+472,Other,Sacred candle,Lead,16.0,ppm,UNKNOWN OR NOT STATED,DOMINICAN REPUBLIC,2012-05-30T00:00:00.000,No
+745,Food-Spice,Whole red pepper,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2013-03-29T00:00:00.000,No
+854,Dietary Supplement/Medications/Remedy,Shaddharanam Gulika (Ayurvedic),Mercury,0.46,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-07-17T00:00:00.000,No
+918,Food-Candy,Portico powder candy,Lead,1.1,ppm,J Hecho,MEXICO,2013-10-17T00:00:00.000,No
+258,Food Other,Tea leaves,Lead,-1.0,ppm,Al-K Bous,YEMEN,2011-08-09T00:00:00.000,No
+70,Dietary Supplement/Medications/Remedy,Vasant Kusumakar Ras with Gold and Pearl (Ayur),Arsenic,-1.0,ppm,Dabur India LTD.,INDIA,2011-03-30T00:00:00.000,No
+1560,Food Other,Tortilla,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2015-11-18T00:00:00.000,No
+337,Food-Spice,Georgian salt,Lead,450.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-12-12T00:00:00.000,No
+1222,Dietary Supplement/Medications/Remedy,Shatavari (Ayurvedic),Lead,0.29,ppm,UNKNOWN OR NOT STATED,INDIA,2014-09-23T00:00:00.000,No
+1172,Cosmetics,Idole Extra Lemon,Mercury,-1.0,ppm,EU,SPAIN,2014-08-06T00:00:00.000,No
+1289,Food-Spice,Turmeric powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-02-25T00:00:00.000,No
+983,Dietary Supplement/Medications/Remedy,Chandraprabah (Ayurvedic),Mercury,1.0,ppm,Jaihind Pharmacy,INDIA,2013-11-15T00:00:00.000,No
+546,Food Other,Water,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2012-07-27T00:00:00.000,No
+878,Food Other,Donitas,Lead,-1.0,ppm,"Fritos Totis, S.A. DE C.V.",MEXICO,2013-07-26T00:00:00.000,No
+637,Cosmetics,Roli Kumkum,Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-11-21T00:00:00.000,No
+644,Religious powder,Red Sindoor,Lead,2.9,ppm,UNKNOWN OR NOT STATED,INDIA,2012-11-21T00:00:00.000,No
+1380,Dietary Supplement/Medications/Remedy,Chandraprabha Bati (Loha & Shilajeet) (Ayurvedic),Mercury,4.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd",INDIA,2015-02-25T00:00:00.000,No
+783,Cosmetics,Trividol,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,COLOMBIA,2013-04-30T00:00:00.000,No
+852,Dietary Supplement/Medications/Remedy,Sahacharadi Thailam Mezhupakam (Ayurvedic),Mercury,-1.0,ppm,Vaidyaratnam Oushadhasala (P) Ltd,INDIA,2013-07-17T00:00:00.000,No
+241,Food-Candy,Mini Paleta Payaso,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2011-07-13T00:00:00.000,No
+1168,Cosmetics,Deluxe Nadinola Bleaching Cream,Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,JAMAICA,2014-08-06T00:00:00.000,No
+1053,Toys/Children's Products,Red and blue wooden train,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-02-04T00:00:00.000,No
+704,Food-Spice,Curry,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,GUYANA,2013-02-02T00:00:00.000,No
+1552,Dietary Supplement/Medications/Remedy,Suvarmu Prasan (Ayurvedic),Mercury,0.15,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-10-07T00:00:00.000,No
+539,Dietary Supplement/Medications/Remedy,Panadol,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-07-27T00:00:00.000,No
+710,Food-Spice,Meat Spices,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2013-02-05T00:00:00.000,No
+1501,Food Other,Lentil,Lead,1.7,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-06-09T00:00:00.000,No
+1425,Religious powder,Holi Color - Orange,Arsenic,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-02-25T00:00:00.000,No
+1369,Dietary Supplement/Medications/Remedy,Arogyawardhini Bati (Shilajeet&Kutki) (Ayurvedic),Mercury,5400.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+226,Cosmetics,Surma (Hashmi),Lead,140000.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-06-16T00:00:00.000,No
+270,Dietary Supplement/Medications/Remedy,Shatavari Kalpa (Ayurvedic),Mercury,-1.0,ppm,The Ayurvedeeya Arkashala Ltd. Satara,INDIA,2011-08-25T00:00:00.000,No
+95,Food-Spice,Svanuri salt,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-04-07T00:00:00.000,No
+1435,Food-Spice,Turmeric,Lead,490.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-03-03T00:00:00.000,No
+781,Jewelry,Assorted Beads,Lead,-1.0,ppm,Amscan,UNKNOWN OR NOT STATED,2013-04-11T00:00:00.000,No
+76,Tableware/Pottery,Miniature clay pot (ingested),Lead,25000.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-04-01T00:00:00.000,No
+223,Dietary Supplement/Medications/Remedy,Vatvidhwansan Ras (Ayurvedic),Mercury,15000.0,ppm,Shree Baidyanath,INDIA,2011-06-13T00:00:00.000,No
+1018,Toys/Children's Products,Hotwheels,Lead,-1.0,ppm,Hotwheels,MALAYSIA,2013-12-27T00:00:00.000,No
+231,Dietary Supplement/Medications/Remedy,Garbhapal Ras (Ayurvedic),Mercury,19000.0,ppm,UNKNOWN OR NOT STATED,INDIA,2011-06-21T00:00:00.000,No
+757,Dietary Supplement/Medications/Remedy,Homeopathic remedy for stomach disorder,Mercury,-1.0,ppm,Kapsons Homoeo Clinics & Pharmacies,INDIA,2013-03-29T00:00:00.000,No
+515,Toys/Children's Products,Princess Dominoes,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-06-15T00:00:00.000,No
+264,Dietary Supplement/Medications/Remedy,Phalasarpis (Ayurvedic),Mercury,-1.0,ppm,Ashtavaidyan Thaikkattu Mooss Vaidyaratnam Oushadh,INDIA,2011-08-25T00:00:00.000,No
+376,Dietary Supplement/Medications/Remedy,Shatavari,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-01-23T00:00:00.000,No
+1412,Dietary Supplement/Medications/Remedy,Shankh Bati (Ayurvedic),Arsenic,5.6,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+908,Dietary Supplement/Medications/Remedy,Herbal remedy for reproductive health (grayish pellets),Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-09-24T00:00:00.000,No
+618,Food-Spice,Curry Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2012-10-11T00:00:00.000,No
+158,Cosmetics,Face powder,Lead,2.1,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-05-04T00:00:00.000,No
+1079,Cosmetics,Cora Super White brightening gel,Lead,-1.0,ppm,Under license of Cora Jacobsohn,LEBANON,2014-04-01T00:00:00.000,No
+820,Dietary Supplement/Medications/Remedy,Selenium 200 MCG,Lead,-1.0,ppm,"Solgar, Inc.",UNITED STATES,2013-06-25T00:00:00.000,No
+1161,Cosmetics,La Bamakoise,Lead,-1.0,ppm,H Cosmetiques CI,ITALY,2014-08-06T00:00:00.000,No
+518,Food Other,Cassava,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-06-19T00:00:00.000,No
+208,Food Other,Lentil,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-06-03T00:00:00.000,No
+545,Dietary Supplement/Medications/Remedy,Vital Multi for Women,Lead,0.53,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-07-27T00:00:00.000,No
+895,Food-Spice,Yellow mustard,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MALI,2013-09-04T00:00:00.000,No
+1001,Food-Spice,Cumin,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2013-12-10T00:00:00.000,No
+313,Food Other,Shrimps,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-10-20T00:00:00.000,No
+662,Religious powder,Bhai Tika (orange powder),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-12-03T00:00:00.000,No
+596,Food Other,Hot pepper paste,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,TUNISIA,2012-09-12T00:00:00.000,No
+1239,Food Other,Spinach,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2014-12-18T00:00:00.000,No
+1570,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Mercury,0.026,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+1349,Dietary Supplement/Medications/Remedy,Brahmi Bati (Buddhi Vardhak) (Ayurvedic),Arsenic,240.0,ppm,Shree Baidyanath,INDIA,2015-02-25T00:00:00.000,No
+1057,Food-Spice,Turmeric,Lead,160.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2014-02-24T00:00:00.000,No
+943,Cosmetics,Surma,Lead,770000.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-11-01T00:00:00.000,No
+1271,Food-Spice,Biryani spice,Lead,0.75,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2015-02-13T00:00:00.000,No
+1309,Dietary Supplement/Medications/Remedy,Rajahpravartini Bati (Ayurvedic),Mercury,29.0,ppm,Shree Baidyanath Ayurved Bahwan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+1238,Toys/Children's Products,Painted wooden block,Lead,40.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-12-16T00:00:00.000,No
+193,Toys/Children's Products,Crayon,Lead,3.3,ppm,UNKNOWN OR NOT STATED,CHINA,2011-05-24T00:00:00.000,No
+151,Dietary Supplement/Medications/Remedy,Festal (Name in Russian),Lead,-1.0,ppm,Aventis,UNKNOWN OR NOT STATED,2011-05-04T00:00:00.000,No
+739,Food-Spice,Garam Masala Powder,Lead,0.57,ppm,UNKNOWN OR NOT STATED,INDIA,2013-03-22T00:00:00.000,No
+1297,Food-Spice,Turmeric powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-02-25T00:00:00.000,No
+1358,Dietary Supplement/Medications/Remedy,Marichyadi Bati (Ayurvedic),Lead,3.2,ppm,Shree Baidyanath; Ayurved Bhawan Pvt. Ltd.,INDIA,2015-02-25T00:00:00.000,No
+996,Dietary Supplement/Medications/Remedy,VigoRoyal (Ayurvedic),Arsenic,5.9,ppm,UNKNOWN OR NOT STATED,INDIA,2013-12-10T00:00:00.000,No
+184,Food-Spice,Turmeric powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2011-05-17T00:00:00.000,No
+1624,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/ Tian Wang Bu Xin Wan,Mercury,110.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+370,Dietary Supplement/Medications/Remedy,Pigmento (Ayurvedic),Arsenic,27.0,ppm,Charak Pharma Pvt. Ltd.,INDIA,2012-01-23T00:00:00.000,No
+46,Food-Spice,Tea masala,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2011-03-10T00:00:00.000,No
+960,Dietary Supplement/Medications/Remedy,Gita Madhumehantak Vati (Ayurvedic),Mercury,310.0,ppm,Gita Bhawan Ayurved Sansthan,INDIA,2013-11-15T00:00:00.000,No
+190,Food Other,Dried Enoki Mushrooms,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,CHINA,2011-05-20T00:00:00.000,No
+808,Dietary Supplement/Medications/Remedy,Herbs (Fleeceflower Tea),Lead,-1.0,ppm,Jiangyin Tianjiang herb Work Co,CHINA,2013-06-12T00:00:00.000,No
+106,Food-Spice,Turmeric powder,Lead,1300.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-04-14T00:00:00.000,No
+774,Food-Spice,Turmeric,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2013-03-29T00:00:00.000,No
+531,Toys/Children's Products,Dominos,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-07-09T00:00:00.000,No
+428,Toys/Children's Products,Plastic toy,Lead,-1.0,ppm,"Zuffa,LLC",CHINA,2012-04-12T00:00:00.000,No
+606,Dietary Supplement/Medications/Remedy,Swarna Malini Vasant (Ayurvedic),Mercury,32000.0,ppm,Amrita Drugs,INDIA,2012-09-20T00:00:00.000,No
+946,Food-Spice,Green brown spice,Lead,1.3,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-11-01T00:00:00.000,No
+668,Religious powder,Bhai Tika (white powder),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-12-03T00:00:00.000,No
+915,Food-Candy,Tamarindo Candy stick,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-10-17T00:00:00.000,No
+309,Food-Spice,Seasoning,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-10-20T00:00:00.000,No
+203,Food-Candy,Laposse,Lead,-1.0,ppm,Elaborado,MEXICO,2011-06-02T00:00:00.000,No
+948,Food Other,Red dye - food coloring,Lead,1.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-11-01T00:00:00.000,No
+474,Religious powder,Sindoor (orange powder),Lead,330000.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-05-31T00:00:00.000,No
+667,Religious powder,Bhai Tika,Lead,2.9,ppm,UNKNOWN OR NOT STATED,INDIA,2012-12-03T00:00:00.000,No
+796,Food-Spice,Turmeric,Lead,61.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-06-07T00:00:00.000,No
+29,Tableware/Pottery,Clay pot,Lead,6.2,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-02-08T00:00:00.000,No
+1397,Dietary Supplement/Medications/Remedy,Agnitundi Bati (Ayurvedic),Mercury,6500.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+508,Food-Spice,Fenugreek,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2012-06-15T00:00:00.000,No
+956,Dietary Supplement/Medications/Remedy,Gita Madhumehantak Vati (Ayurvedic),Arsenic,20.0,ppm,Gita Bhawan Ayurved Sansthan,INDIA,2013-11-15T00:00:00.000,No
+909,Food-Candy,Huevitos,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,ECUADOR,2013-09-25T00:00:00.000,No
+1150,Food-Spice,Korma spice mixture,Lead,-1.0,ppm,Shan Foods (Private) Ltd.,PAKISTAN,2014-07-12T00:00:00.000,No
+1029,Dietary Supplement/Medications/Remedy,Long Dan Xie Gan Tang (Gentian Draining Formula),Lead,-1.0,ppm,Meridian Herbal Products,CHINA,2014-01-15T00:00:00.000,No
+1408,Dietary Supplement/Medications/Remedy,Arshoghni Bati (Ayurvedic),Lead,6.3,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd",INDIA,2015-02-25T00:00:00.000,No
+372,Dietary Supplement/Medications/Remedy,Pigmento (Ayurvedic),Mercury,29000.0,ppm,Charak Pharma Pvt. Ltd.,INDIA,2012-01-23T00:00:00.000,No
+962,Dietary Supplement/Medications/Remedy,Gita Madhumehantak Vati (Ayurvedic),Cadmium,-1.0,ppm,Gita Bhawan Ayurved Sansthan,INDIA,2013-11-15T00:00:00.000,No
+1611,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Lead,2.8,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+1270,Food-Spice,Chili powder,Lead,1.7,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2015-02-13T00:00:00.000,No
+1262,Food-Spice,Turmeric,Lead,790.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-01-26T00:00:00.000,No
+63,Food-Spice,Georgian spice,Lead,0.7,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-03-25T00:00:00.000,No
+1526,Food Other,Bay Leaves,Lead,0.79,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-09-10T00:00:00.000,No
+295,Dietary Supplement/Medications/Remedy,Bo ying compound,Lead,2.3,ppm,Eu Yan Sang,HONG KONG,2011-09-08T00:00:00.000,No
+964,Dietary Supplement/Medications/Remedy,Gita Madhumehantak Vati (Ayurvedic),Mercury,44.7,ppm,Gita Bhawan Ayurved Sansthan,INDIA,2013-11-15T00:00:00.000,No
+997,Dietary Supplement/Medications/Remedy,VigoRoyal (Ayurvedic),Lead,2.9,ppm,UNKNOWN OR NOT STATED,INDIA,2013-12-10T00:00:00.000,No
+978,Dietary Supplement/Medications/Remedy,Qualiherb Chinese Herbal Formula,Lead,-1.0,ppm,"Sheng Chang Pharmaceutical Co., Ltd.",TAIWAN - PROVINCE OF CHINA,2013-11-15T00:00:00.000,No
+1006,Food-Spice,Curry powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2013-12-12T00:00:00.000,No
+698,Toys/Children's Products,Yellow donut shape wheel,Lead,290.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-01-22T00:00:00.000,No
+1601,Food-Spice,Hing,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-12-11T00:00:00.000,No
+1346,Religious powder,Kumkuman,Lead,-1.0,ppm,Y.V.S.,INDIA,2015-02-25T00:00:00.000,No
+391,Cosmetics,Baby Massage Cream,Lead,-1.0,ppm,"Distribuidora Comercial Jafra, S.A. de C.V.",MEXICO,2012-02-23T00:00:00.000,No
+877,Toys/Children's Products,Toy car,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,CHINA,2013-07-25T00:00:00.000,No
+543,Food-Spice,Chili Powder,Lead,0.58,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-07-27T00:00:00.000,No
+456,Food Other,Tiger Pops,Lead,-1.0,ppm,Colombina,COLOMBIA,2012-05-14T00:00:00.000,No
+1384,Dietary Supplement/Medications/Remedy,Kankayan Bati (Gulm) (Ayurvedic),Lead,11.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+44,Food-Spice,Turmeric powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2011-03-10T00:00:00.000,No
+1234,Toys/Children's Products,Doll,Lead,-1.0,ppm,MGA Entertainment UK Ltd,CHINA,2014-11-20T00:00:00.000,No
+1360,Dietary Supplement/Medications/Remedy,Marichyadi Bati (Ayurvedic),Mercury,37.0,ppm,Shree Baidyanath; Ayurved Bhawan Pvt. Ltd.,INDIA,2015-02-25T00:00:00.000,No
+54,Toys/Children's Products,Painted Metal Toy School Bus,Lead,41.0,ppm,Buddy L Corp,MACAU,2011-03-17T00:00:00.000,No
+507,Food-Spice,Turmeric,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2012-06-15T00:00:00.000,No
+1142,Dietary Supplement/Medications/Remedy,DPH Expectorant,Lead,-1.0,ppm,FEDERATED PHARMACEUTTICAL,JAMAICA,2014-06-26T00:00:00.000,No
+1276,Jewelry,Amulet-metal wires,Lead,39.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-02-19T00:00:00.000,No
+570,Food-Spice,Spice,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-08-31T00:00:00.000,No
+431,Dietary Supplement/Medications/Remedy,Nurofen For Children,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-04-23T00:00:00.000,No
+1372,Dietary Supplement/Medications/Remedy,Chitrakadi Bati (Yavachar & Hing) (Ayurvedic),Lead,2.8,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd",INDIA,2015-02-25T00:00:00.000,No
+348,Food-Spice,Turmeric powder,Lead,1.5,ppm,SQUARE CONSUMER PRODUCTS LTD,BANGLADESH,2011-12-15T00:00:00.000,No
+300,Food-Spice,Jamaican Green Seasoning,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,JAMAICA,2011-09-23T00:00:00.000,No
+1354,Dietary Supplement/Medications/Remedy,Brahmi Bati (Buddhi Vardhak) (Ayurvedic),Mercury,22000.0,ppm,Shree Baidyanath,INDIA,2015-02-25T00:00:00.000,No
+365,Dietary Supplement/Medications/Remedy,Ovarin (Ayurvedic),Lead,24000.0,ppm,Ban Labs Ltd.,INDIA,2012-01-23T00:00:00.000,No
+497,Dietary Supplement/Medications/Remedy,Kanyalohadi Vati (Ayurvedic),Lead,5.9,ppm,Shri Yash Remedies,INDIA,2012-06-07T00:00:00.000,No
+1154,Dietary Supplement/Medications/Remedy,Bo Ying Compound,Arsenic,-1.0,ppm,Eu Yan Sang International Limited,UNITED STATES,2014-07-29T00:00:00.000,No
+1625,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/ Tian Wang Bu Xin Wan,Arsenic,-1.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+889,Food-Spice,Turmeric powder,Lead,510.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2013-08-29T00:00:00.000,No
+240,Tableware/Pottery,Clay pitcher,Lead,14000.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-07-06T00:00:00.000,No
+1546,Food-Spice,Jaifal (Nutmeg),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-10-07T00:00:00.000,No
+11,Food-Spice,Turmeric (Haldi),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2011-01-19T00:00:00.000,No
+441,Food-Candy,Rebanaditas lollipop,Lead,-1.0,ppm,Candy Pops S.A. DE C.V.,MEXICO,2012-04-30T00:00:00.000,No
+663,Religious powder,Bhai Tika,Lead,2.3,ppm,UNKNOWN OR NOT STATED,INDIA,2012-12-03T00:00:00.000,No
+1044,Food-Spice,Bombay Biryani spice mix,Lead,-1.0,ppm,Z F Industries,PAKISTAN,2014-01-17T00:00:00.000,No
+311,Food Other,Tamarind,Lead,1.1,ppm,UNKNOWN OR NOT STATED,MEXICO,2011-10-20T00:00:00.000,No
+1038,Food-Spice,Black onion powder,Lead,6.9,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-01-17T00:00:00.000,No
+1512,Toys/Children's Products,Crayon,Lead,0.72,ppm,UNKNOWN OR NOT STATED,CHINA,2015-07-10T00:00:00.000,No
+118,Dietary Supplement/Medications/Remedy,Zovia Kids Multivitamin Syrup,Lead,-1.0,ppm,OPSONIN PHARMA LIMITED,BANGLADESH,2011-04-18T00:00:00.000,No
+1197,Food-Spice,Red Chili,Lead,0.64,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2014-08-22T00:00:00.000,No
+1530,Other,Soil,Lead,380.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-09-10T00:00:00.000,No
+1430,Religious powder,Holi color - Yellow,Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-02-25T00:00:00.000,No
+1213,Toys/Children's Products,Painted figurine,Lead,0.73,ppm,Mattel,CHINA,2014-09-11T00:00:00.000,No
+1575,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Lead,2.7,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+155,Food-Spice,Khmeli- spice medley,Lead,13.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-05-04T00:00:00.000,No
+162,Food-Spice,Kinzi,Lead,20.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-05-04T00:00:00.000,No
+1448,Food-Spice,Turmeric,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-03-17T00:00:00.000,No
+1558,Food-Spice,Oregano,Lead,0.91,ppm,UNKNOWN OR NOT STATED,DOMINICAN REPUBLIC,2015-10-19T00:00:00.000,No
+392,Toys/Children's Products,Plastic toy,Lead,350.0,ppm,UNKNOWN OR NOT STATED,CHINA,2012-02-23T00:00:00.000,No
+487,Food Other,Plaster mixture,Lead,1.2,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-06-06T00:00:00.000,No
+419,Dietary Supplement/Medications/Remedy,Cordial de Monell,Lead,-1.0,ppm,Mallen Laboratories,DOMINICAN REPUBLIC,2012-04-05T00:00:00.000,No
+383,Food-Spice,Chili powder,Lead,5.5,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2012-02-01T00:00:00.000,No
+1249,Dietary Supplement/Medications/Remedy,Calcarea Phosphate,Lead,-1.0,ppm,Dr. Wilmar Schwabe,INDIA,2015-01-14T00:00:00.000,No
+1351,Dietary Supplement/Medications/Remedy,Brahmi Bati (Buddhi Vardhak) (Ayurvedic),Lead,84.0,ppm,Shree Baidyanath,INDIA,2015-02-25T00:00:00.000,No
+591,Toys/Children's Products,Yellow Oil Pastel,Lead,1.1,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-09-11T00:00:00.000,No
+439,Food-Spice,Chili powder,Lead,26.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2012-04-30T00:00:00.000,No
+932,Food Other,Rice,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-10-22T00:00:00.000,No
+1233,Toys/Children's Products,Wooden toy,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-11-20T00:00:00.000,No
+1183,Food-Spice,Georgian spice (Purple Basil),Lead,2.8,ppm,UNKNOWN OR NOT STATED,GEORGIA,2014-08-14T00:00:00.000,No
+727,Food-Spice,Yellow Flower,Lead,1.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2013-02-21T00:00:00.000,No
+148,Food-Spice,Suneli,Lead,14000.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-05-03T00:00:00.000,No
+418,Dietary Supplement/Medications/Remedy,Gastop,Lead,-1.0,ppm,Labratorios Sued,DOMINICAN REPUBLIC,2012-04-05T00:00:00.000,No
+384,Food-Spice,Chili powder,Lead,3.3,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2012-02-03T00:00:00.000,No
+71,Dietary Supplement/Medications/Remedy,Vasant Kusumakar Ras with Gold and Pearl (Ayur),Lead,29.0,ppm,Dabur India LTD.,INDIA,2011-03-30T00:00:00.000,No
+1609,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Tian Wang Bu Xin Wan),Mercury,150.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+1326,Dietary Supplement/Medications/Remedy,Agnitundi Bati (Ayurvedic),Lead,3.5,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+1278,Jewelry,Amulet-black string,Lead,150.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-02-19T00:00:00.000,No
+177,Dietary Supplement/Medications/Remedy,Mahasudarshan (Ayurvedic),Mercury,2.2,ppm,Shree Baidyanath Ayurved,INDIA,2011-05-17T00:00:00.000,No
+729,Food-Spice,Turmeric,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-03-05T00:00:00.000,No
+634,Cosmetics,Surma (Hashmi),Lead,930000.0,ppm,Hashmi Surmi,UNKNOWN OR NOT STATED,2012-11-21T00:00:00.000,No
+1030,Dietary Supplement/Medications/Remedy,Long Dan Xie Gan Tang (Gentian Draining Formula),Mercury,-1.0,ppm,Meridian Herbal Products,CHINA,2014-01-15T00:00:00.000,No
+1242,Food Other,Vegetables and beef baby food,Lead,-1.0,ppm,Gerber,UNITED STATES,2014-12-18T00:00:00.000,No
+578,Toys/Children's Products,Red toy train,Lead,28.0,ppm,Ludorum PLC RCIL,CHINA,2012-09-05T00:00:00.000,No
+344,Food-Candy,Candy (Special cantaloup),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-12-13T00:00:00.000,No
+1452,Food-Spice,Chili powder,Lead,110.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-03-18T00:00:00.000,No
+991,Dietary Supplement/Medications/Remedy,Unlabeled capsules (Ayurvedic),Lead,6.2,ppm,UNKNOWN OR NOT STATED,INDIA,2013-12-10T00:00:00.000,No
+550,Food-Spice,Fenugreek,Lead,1.6,ppm,UNKNOWN OR NOT STATED,GEORGIA,2012-08-03T00:00:00.000,No
+713,Food-Spice,Chili powder,Lead,9.4,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-02-14T00:00:00.000,No
+1543,Dietary Supplement/Medications/Remedy,Somvct-34,Lead,0.6,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-10-07T00:00:00.000,No
+424,Food Other,Bon Gout seasoning cube,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,SENEGAL,2012-04-10T00:00:00.000,No
+554,Dietary Supplement/Medications/Remedy,Apetamine,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,HAITI,2012-08-09T00:00:00.000,No
+1590,Dietary Supplement/Medications/Remedy,Shu Gan Wan (Poria & Peony Combo Extract),Lead,1.8,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+973,Dietary Supplement/Medications/Remedy,Long Dan Xie Gan Tang,Arsenic,-1.0,ppm,Meridian Pro,CHINA,2013-11-15T00:00:00.000,No
+831,Food-Spice,Red Chili Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-06-27T00:00:00.000,No
+1375,Dietary Supplement/Medications/Remedy,Chitrakadi Bati (Yavachar & Hing) (Ayurvedic),Mercury,2.8,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd",INDIA,2015-02-25T00:00:00.000,No
+296,Other,Sheetrock peeling,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-09-14T00:00:00.000,No
+970,Dietary Supplement/Medications/Remedy,Long Dan Xie Gan Tang,Arsenic,-1.0,ppm,Meridian Pro,CHINA,2013-11-15T00:00:00.000,No
+1529,Food-Spice,Biryani,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-09-10T00:00:00.000,No
+1574,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Arsenic,1.7,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+627,Food-Spice,Moroccan spice,Lead,58.0,ppm,UNKNOWN OR NOT STATED,MOROCCO,2012-10-22T00:00:00.000,No
+920,Food-Candy,Powder candy,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2013-10-17T00:00:00.000,No
+1269,Food-Spice,Red pepper powder,Lead,90.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-02-06T00:00:00.000,No
+817,Toys/Children's Products,Crayon,Lead,1.2,ppm,kidcentives,CHINA,2013-06-25T00:00:00.000,No
+529,Cosmetics,Surma,Lead,300000.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2012-06-28T00:00:00.000,No
+1116,Food-Spice,Georgian spice (Dzeera),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-04-29T00:00:00.000,No
+590,Toys/Children's Products,Yellow crayon,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-09-11T00:00:00.000,No
+912,Food-Spice,Cumin,Lead,1200.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-10-11T00:00:00.000,No
+429,Cosmetics,Jackelin Gliter Eyeliner,Lead,-1.0,ppm,Pantina Cosmetics Inc,UNITED STATES,2012-04-17T00:00:00.000,No
+676,Food Other,Chapulines,Lead,340.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2012-12-12T00:00:00.000,No
+804,Dietary Supplement/Medications/Remedy,Herbs (Coptis Tea),Lead,-1.0,ppm,Jiangyin Tianjiang Herbs Co,CHINA,2013-06-12T00:00:00.000,No
+1606,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Tian Wang Bu Xin Wan),Mercury,170.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+145,Food-Spice,Coriander powder,Lead,8.3,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-04-28T00:00:00.000,No
+743,Cosmetics,Surma,Lead,0.99,ppm,UNKNOWN OR NOT STATED,INDIA,2013-03-22T00:00:00.000,No
+1603,Toys/Children's Products,Crayon,Lead,0.76,ppm,UNKNOWN OR NOT STATED,INDIA,2015-12-11T00:00:00.000,No
+569,Cosmetics,Religious Ash,Lead,140.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-08-22T00:00:00.000,No
+1025,Toys/Children's Products,Red toy car,Lead,-1.0,ppm,Mattel,THAILAND,2014-01-09T00:00:00.000,No
+243,Toys/Children's Products,Wooden block,Lead,-1.0,ppm,Melissa & Doug,CHINA,2011-07-14T00:00:00.000,No
+1224,Food-Spice,Turmeric powder,Lead,16.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2014-10-10T00:00:00.000,No
+1514,Food-Spice,Curry powder,Lead,0.44,ppm,UNKNOWN OR NOT STATED,JAMAICA,2015-07-23T00:00:00.000,No
+393,Toys/Children's Products,Mario Toy,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-02-23T00:00:00.000,No
+504,Cosmetics,Body Lotion,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,JAPAN,2012-06-08T00:00:00.000,No
+1306,Dietary Supplement/Medications/Remedy,Rajahpravartini Bati (Ayurvedic),Arsenic,96.0,ppm,Shree Baidyanath Ayurved Bahwan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+1342,Religious powder,Festival Colors,Lead,2.5,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-02-25T00:00:00.000,No
+246,Food-Spice,Coriander,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-07-14T00:00:00.000,No
+1556,Toys/Children's Products,Wooden block,Lead,10.0,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2015-10-15T00:00:00.000,No
+751,Dietary Supplement/Medications/Remedy,Homeopathic remedy for stomach disorder,Mercury,-1.0,ppm,Kapsons Homoeo Clinics & Pharmacies,INDIA,2013-03-29T00:00:00.000,No
+1427,Religious powder,Holi Color - Orange,Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-02-25T00:00:00.000,No
+1599,Food-Spice,Turmeric,Lead,0.53,ppm,UNKNOWN OR NOT STATED,INDIA,2015-12-11T00:00:00.000,No
+711,Dietary Supplement/Medications/Remedy,Forty Malt,Lead,-1.0,ppm,Labortories Dr. Collado,DOMINICAN REPUBLIC,2013-02-07T00:00:00.000,No
+455,Dietary Supplement/Medications/Remedy,Gripe Water,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNITED KINGDOM,2012-05-14T00:00:00.000,No
+890,Food-Spice,Cumin powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2013-08-29T00:00:00.000,No
+766,Food-Spice,Dry Mango Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2013-03-29T00:00:00.000,No
+33,Food Other,Baking yeast,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-02-22T00:00:00.000,No
+132,Food-Spice,Curry powder,Lead,-1.0,ppm,"Square Consumer Products, Ltd",BANGLADESH,2011-04-22T00:00:00.000,No
+1329,Dietary Supplement/Medications/Remedy,Chitrakadi Bati (Ayurvedic),Arsenic,16.0,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+12,Food-Spice,Garam masala,Lead,3.2,ppm,UNKNOWN OR NOT STATED,INDIA,2011-01-19T00:00:00.000,No
+1064,Food-Spice,Cumin powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2014-02-28T00:00:00.000,No
+408,Food-Spice,Turmeric,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2012-03-31T00:00:00.000,No
+1442,Toys/Children's Products,Red toy tin pot,Lead,78.0,ppm,UNKNOWN OR NOT STATED,ECUADOR,2015-03-05T00:00:00.000,No
+1165,Cosmetics,Dawmy Lightening Body Cream,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,COTE D'IVOIRE,2014-08-06T00:00:00.000,No
+650,Food-Spice,Food coloring powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-11-21T00:00:00.000,No
+935,Food-Spice,Georgian spice (Kharcho),Lead,1.7,ppm,UNKNOWN OR NOT STATED,GEORGIA,2013-10-25T00:00:00.000,No
+1035,Dietary Supplement/Medications/Remedy,Chamomile oil,Lead,-1.0,ppm,ROZ laboratories Inc,PHILIPPINES,2014-01-17T00:00:00.000,No
+593,Toys/Children's Products,Power Rangers Super Samurai,Lead,-1.0,ppm,Power Rangers LLC,CHINA,2012-09-12T00:00:00.000,No
+1117,Food-Spice,Georgian 'Tkemali' - Red plum sauce,Lead,1.1,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-04-29T00:00:00.000,No
+563,Toys/Children's Products,Yellow Dora shaker toy,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-08-13T00:00:00.000,No
+1094,Cosmetics,Deluxe Nadinola Bleaching Cream,Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,JAMAICA,2014-04-01T00:00:00.000,No
+434,Toys/Children's Products,Plastic doll,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BRAZIL,2012-04-23T00:00:00.000,No
+1132,Food Other,Tea,Lead,0.21,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-05-22T00:00:00.000,No
+737,Cosmetics,Brown powder,Lead,0.38,ppm,UNKNOWN OR NOT STATED,MEXICO,2013-03-15T00:00:00.000,No
+126,Jewelry,Bracelet,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-04-19T00:00:00.000,No
+532,Toys/Children's Products,Toy,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-07-09T00:00:00.000,No
+995,Dietary Supplement/Medications/Remedy,Rejvon (Ayurvedic),Mercury,1.4,ppm,UNKNOWN OR NOT STATED,INDIA,2013-12-10T00:00:00.000,No
+303,Food Other,Dried fruits,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-10-06T00:00:00.000,No
+1608,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Tian Wang Bu Xin Wan),Lead,1.1,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+110,Food Other,Olla Azteca Tamarind Pulp,Lead,-1.0,ppm,El Azteca de Mexico,MEXICO,2011-04-15T00:00:00.000,No
+1450,Food-Spice,Chili Powder,Lead,4.9,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-03-17T00:00:00.000,No
+1135,Toys/Children's Products,Minio Twist Crayon,Lead,-1.0,ppm,Bazic,UNKNOWN OR NOT STATED,2014-05-27T00:00:00.000,No
+555,Toys/Children's Products,Stocking Train,Lead,1.1,ppm,Melissa + Doug,UNITED STATES,2012-08-10T00:00:00.000,No
+1137,Dietary Supplement/Medications/Remedy,Bo Ying  Compound,Lead,2.5,ppm,Eu Yan Sang (Hong Kong) Limited,HONG KONG,2014-06-02T00:00:00.000,No
+680,Food-Spice,Cinnamon Powder,Lead,4.4,ppm,UNKNOWN OR NOT STATED,MOROCCO,2012-12-12T00:00:00.000,No
+1251,Dietary Supplement/Medications/Remedy,Nutritional supplement,Lead,0.83,ppm,UNKNOWN OR NOT STATED,INDIA,2015-01-15T00:00:00.000,No
+399,Food-Spice,Georgian spice,Lead,1000.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-03-09T00:00:00.000,No
+640,Food-Spice,Turmeric powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-11-21T00:00:00.000,No
+88,Dietary Supplement/Medications/Remedy,Purple flower,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MOROCCO,2011-04-06T00:00:00.000,No
+387,Food Other,BrookBond Tea,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-02-14T00:00:00.000,No
+793,Food-Spice,Fried Rice Seasoning,Lead,-1.0,ppm,Chief,TRINIDAD AND TOBAGO,2013-06-03T00:00:00.000,No
+1626,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/ Tian Wang Bu Xin Wan,Lead,1.1,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+149,Food Other,Tamarind,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-05-03T00:00:00.000,No
+385,Food-Spice,Turmeric powder,Lead,870.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2012-02-03T00:00:00.000,No
+1218,Dietary Supplement/Medications/Remedy,Gulan Chagans Salt (Ayurvedic),Lead,0.77,ppm,UNKNOWN OR NOT STATED,INDIA,2014-09-23T00:00:00.000,No
+1089,Cosmetics,Dermaline Skin Lighting Cream,Lead,-1.0,ppm,"Leivon Cosmetics,Inc Division",DOMINICAN REPUBLIC,2014-04-01T00:00:00.000,No
+1228,Food-Spice,Blue Fenugreek,Lead,47.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2014-11-06T00:00:00.000,No
+874,Food-Candy,Hard candy,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-07-25T00:00:00.000,No
+1305,Dietary Supplement/Medications/Remedy,Rajahpravartini Bati (Ayurvedic),Arsenic,99.0,ppm,Shree Baidyanath Ayurved Bahwan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+1186,Food-Spice,Khemeli Suneli,Lead,0.49,ppm,Ltd 'Tiemti',GEORGIA,2014-08-14T00:00:00.000,No
+537,Food-Spice,Tuco orange seasoning,Lead,-1.0,ppm,Sibarila,PERU,2012-07-18T00:00:00.000,No
+1106,Cosmetics,Ikb Brightening gel with 'Arbutin Complex',Mercury,-1.0,ppm,Mitchell group,LEBANON,2014-04-01T00:00:00.000,No
+514,Food-Candy,Cervecita lollipop,Lead,-1.0,ppm,"Dulces Beny, S. A. De C.V.",MEXICO,2012-06-15T00:00:00.000,No
+1313,Dietary Supplement/Medications/Remedy,Brahmi Bati (Ayurvedic),Lead,7.0,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+50,Food-Spice,Ajwain,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-03-16T00:00:00.000,No
+738,Cosmetics,Surma,Lead,1.4,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2013-03-15T00:00:00.000,No
+485,Dietary Supplement/Medications/Remedy,Sancochito,Lead,-1.0,ppm,Laboratorios Dr. Collado,DOMINICAN REPUBLIC,2012-06-06T00:00:00.000,No
+1039,Food-Spice,Black pepper powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,SAUDI ARABIA,2014-01-17T00:00:00.000,No
+521,Paint Supplies,Washable Fingerpaint,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-06-23T00:00:00.000,No
+1042,Food-Spice,Mixed seven spice powder,Lead,1.5,ppm,UNKNOWN OR NOT STATED,IRAN (ISLAMIC REPUBLIC OF),2014-01-17T00:00:00.000,No
+1451,Cosmetics,Baby Powder,Lead,2.5,ppm,Mothercare,PAKISTAN,2015-03-18T00:00:00.000,No
+1461,Dietary Supplement/Medications/Remedy,Herbal tablets,Lead,100.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-03-26T00:00:00.000,No
+1014,Tableware/Pottery,Clay cup,Lead,2900.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2013-12-23T00:00:00.000,No
+1241,Food Other,Tender cottage cheese,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,RUSSIAN FEDERATION,2014-12-18T00:00:00.000,No
+768,Food Other,Rice and lentil,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2013-03-29T00:00:00.000,No
+519,Other,Dog Food,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-06-23T00:00:00.000,No
+759,Dietary Supplement/Medications/Remedy,Homeopathic remedy for stomach disorder,Lead,-1.0,ppm,Kapsons Homoeo Clinics & Pharmacies,INDIA,2013-03-29T00:00:00.000,No
+1333,Dietary Supplement/Medications/Remedy,Chitrakadi Bati (Ayurvedic),Mercury,2.2,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+1004,Food-Spice,Asafoetida (Hing),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2013-12-10T00:00:00.000,No
+304,Food Other,Seeds (Semilla de Calabasa),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-10-06T00:00:00.000,No
+1622,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/ Tian Wang Bu Xin Wan,Arsenic,-1.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+1398,Dietary Supplement/Medications/Remedy,Agnitundi Bati (Ayurvedic),Mercury,4000.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+1605,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Tian Wang Bu Xin Wan),Lead,1.2,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+928,Food-Spice,Vegetable Hot Soup Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-10-22T00:00:00.000,No
+1237,Food-Spice,Meat spice,Lead,0.82,ppm,UNKNOWN OR NOT STATED,GEORGIA,2014-12-09T00:00:00.000,No
+720,Food-Spice,Spice,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2013-02-20T00:00:00.000,No
+975,Dietary Supplement/Medications/Remedy,Long Dan Xie Gan Tang,Lead,3.0,ppm,Meridian Pro,CHINA,2013-11-15T00:00:00.000,No
+1293,Food-Spice,Turmeric powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2015-02-25T00:00:00.000,No
+333,Food-Spice,Spice,Lead,2.1,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-12-05T00:00:00.000,No
+109,Food-Spice,Cumin powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-04-14T00:00:00.000,No
+213,Food Other,Potato chips,Lead,-1.0,ppm,Frito Lay Dominicana,DOMINICAN REPUBLIC,2011-06-07T00:00:00.000,No
+1344,Religious powder,Festival Colors,Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-02-25T00:00:00.000,No
+1026,Food-Candy,Chocolate,Lead,3.5,ppm,UNKNOWN OR NOT STATED,ECUADOR,2014-01-14T00:00:00.000,No
+731,Food-Spice,Turmeric,Lead,48.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-03-05T00:00:00.000,No
+1387,Dietary Supplement/Medications/Remedy,Kankayan Bati (Gulm) (Ayurvedic),Mercury,36.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+765,Religious powder,Tabiz Powder,Lead,760.0,ppm,UNKNOWN OR NOT STATED,INDIA,2013-03-29T00:00:00.000,No
+1256,Food-Spice,Curry Powder,Lead,530.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-01-20T00:00:00.000,No
+868,Dietary Supplement/Medications/Remedy,Black Dates Tea or Zizphuskernel,Lead,-1.0,ppm,"Jiangyin Tianjiang Herb Work Co,",CHINA,2013-07-23T00:00:00.000,No
+681,Food-Spice,Ginger Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MOROCCO,2012-12-12T00:00:00.000,No
+1099,Cosmetics,Precious Ultra Brightening Gel,Lead,-1.0,ppm,Precious Beauty Products Ltd,LEBANON,2014-04-01T00:00:00.000,No
+267,Dietary Supplement/Medications/Remedy,Mahadhanwantaram Gulika (Ayurvedic),Mercury,1.4,ppm,Arya Vaidya Sala,INDIA,2011-08-25T00:00:00.000,No
+61,Dietary Supplement/Medications/Remedy,Children's DPH decongestant,Lead,-1.0,ppm,Federal Pharmaceutical,JAMAICA,2011-03-24T00:00:00.000,No
+359,Dietary Supplement/Medications/Remedy,Laxmana Louh (Ayurvedic),Lead,180.0,ppm,Vyas Pharmaceuticals,INDIA,2012-01-23T00:00:00.000,No
+974,Dietary Supplement/Medications/Remedy,Long Dan Xie Gan Tang,Cadmium,-1.0,ppm,Meridian Pro,CHINA,2013-11-15T00:00:00.000,No
+673,Dietary Supplement/Medications/Remedy,Shatavari Capsules (Ayurvedic),Lead,-1.0,ppm,Goodcare Pharma (P) Ltd.,INDIA,2012-12-03T00:00:00.000,No
+1426,Religious powder,Holi Color - Orange,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-02-25T00:00:00.000,No
+1348,Religious powder,Kumkuman,Mercury,-1.0,ppm,Y.V.S.,INDIA,2015-02-25T00:00:00.000,No
+778,Food-Spice,Cinnamon,Lead,2.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2013-04-01T00:00:00.000,No
+459,Dietary Supplement/Medications/Remedy,Loratadina,Lead,-1.0,ppm,Ultra Laboratoros,MEXICO,2012-05-16T00:00:00.000,No
+1576,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Mercury,0.021,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+1304,Dietary Supplement/Medications/Remedy,Gaisantak Bati (Ayurvedic),Mercury,2.5,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+299,Dietary Supplement/Medications/Remedy,Prenatal tablets w/ Folic Acid,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-09-23T00:00:00.000,No
+1272,Food-Spice,Pepper seeds,Lead,0.81,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2015-02-13T00:00:00.000,No
+1201,Food-Spice,Turmeric,Lead,0.66,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2014-09-05T00:00:00.000,No
+1163,Cosmetics,Maxi Light - Lightening & Purifying Body Cream,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,COTE D'IVOIRE,2014-08-06T00:00:00.000,No
+871,Food-Spice,Turmeric,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-07-25T00:00:00.000,No
+587,Toys/Children's Products,Sport car,Lead,-1.0,ppm,Mattel,MALAYSIA,2012-09-07T00:00:00.000,No
+1459,Dietary Supplement/Medications/Remedy,Herbal powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-03-26T00:00:00.000,No
+1500,Food-Spice,Turmeric,Lead,730.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-06-09T00:00:00.000,No
+1,Food-Spice,Turmeric powder,Lead,2.9,ppm,UNKNOWN OR NOT STATED,INDIA,2011-01-04T00:00:00.000,No
+1180,Food-Spice,Kondarie,Lead,1.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2014-08-14T00:00:00.000,No
+97,Food-Spice,Jeera (Cumin),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-04-11T00:00:00.000,No
+1051,Toys/Children's Products,Toy train,Lead,7.1,ppm,UNKNOWN OR NOT STATED,CHINA,2014-02-04T00:00:00.000,No
+977,Dietary Supplement/Medications/Remedy,Qualiherb Chinese Herbal Formula,Arsenic,-1.0,ppm,"Sheng Chang Pharmaceutical Co., Ltd.",TAIWAN - PROVINCE OF CHINA,2013-11-15T00:00:00.000,No
+346,Food-Candy,Candy,Lead,-1.0,ppm,Montes Y CIA S.A. DE CV,MEXICO,2011-12-13T00:00:00.000,No
+394,Other,Zipper Handle,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-03-05T00:00:00.000,No
+951,Cosmetics,Surma,Lead,520000.0,ppm,UNKNOWN OR NOT STATED,INDIA,2013-11-13T00:00:00.000,No
+1015,Food Other,Chapulines,Lead,1800.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-12-24T00:00:00.000,No
+1232,QA/QC - Lab test,Surma,Lead,830000.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-11-19T00:00:00.000,No
+937,Food Other,Kundal,Lead,1.8,ppm,UNKNOWN OR NOT STATED,GEORGIA,2013-10-25T00:00:00.000,No
+1263,Food-Spice,Chili powder,Lead,69.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-01-26T00:00:00.000,No
+1362,Dietary Supplement/Medications/Remedy,Sariwadi Bati (Ayurvedic),Arsenic,55.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+200,Cosmetics,Kohl,Lead,300000.0,ppm,UNKNOWN OR NOT STATED,INDIA,2011-06-01T00:00:00.000,No
+1194,Food Other,Tea,Lead,1.8,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2014-08-22T00:00:00.000,No
+1318,Dietary Supplement/Medications/Remedy,Arogyavardhini Bati (Ayurvedic),Arsenic,11.0,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+775,Religious powder,Incense stick,Lead,1.9,ppm,UNKNOWN OR NOT STATED,INDIA,2013-03-29T00:00:00.000,No
+1088,Cosmetics,Hypprogel Body Cream,Mercury,-1.0,ppm,Picos,COTE D'IVOIRE,2014-04-01T00:00:00.000,No
+1244,Toys/Children's Products,Toys,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-12-18T00:00:00.000,No
+686,Food Other,Orange food coloring,Lead,3.5,ppm,Preema International Limited,UNITED KINGDOM,2012-12-18T00:00:00.000,No
+403,Food-Spice,Chili powder,Lead,5.3,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-03-30T00:00:00.000,No
+283,Cosmetics,Surma (Hashmi),Lead,610000.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-08-30T00:00:00.000,No
+37,Jewelry,Children's jewelry,Lead,38.0,ppm,UNKNOWN OR NOT STATED,CHINA,2011-03-09T00:00:00.000,No
+1373,Dietary Supplement/Medications/Remedy,Chitrakadi Bati (Yavachar & Hing) (Ayurvedic),Lead,2.6,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd",INDIA,2015-02-25T00:00:00.000,No
+1421,Religious powder,Holi Color - Pink,Arsenic,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-02-25T00:00:00.000,No
+336,Food Other,Peanut bar,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-12-07T00:00:00.000,No
+1488,Food-Spice,Red Pepper,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2015-04-29T00:00:00.000,No
+813,Food-Spice,Sweet potatoes,Lead,-1.0,ppm,GERBER,UNITED STATES,2013-06-12T00:00:00.000,No
+613,Toys/Children's Products,Yellow toy car,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-10-09T00:00:00.000,No
+844,Dietary Supplement/Medications/Remedy,Brihadwata Chintamani (Bhi. Ra.) (Ayurvedic),Mercury,140000.0,ppm,Kumar Ayurvedic Drugs,INDIA,2013-07-17T00:00:00.000,No
+1225,Food-Spice,Cumin powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2014-10-10T00:00:00.000,No
+1040,Food-Spice,Cumin powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-01-17T00:00:00.000,No
+1011,Food Other,Dried shrimp/fish,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,GHANA,2013-12-23T00:00:00.000,No
+1520,Dietary Supplement/Medications/Remedy,Trishun (Ayurvedic),Lead,1.9,ppm,Zandu/ Emami Limited,INDIA,2015-08-10T00:00:00.000,No
+222,Dietary Supplement/Medications/Remedy,Vatvidhwansan Ras (Ayurvedic),Lead,20000.0,ppm,Shree Baidyanath,INDIA,2011-06-13T00:00:00.000,No
+457,Food-Candy,Max Fruitacidas,Lead,-1.0,ppm,Colombina,COLOMBIA,2012-05-14T00:00:00.000,No
+1507,Toys/Children's Products,Wooden block,Lead,410.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-06-26T00:00:00.000,No
+599,Dietary Supplement/Medications/Remedy,Unlabeled powder (Ayurvedic),Lead,7.4,ppm,UNKNOWN OR NOT STATED,INDIA,2012-09-20T00:00:00.000,No
+15,Food-Spice,Turmeric powder,Lead,610.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-01-21T00:00:00.000,No
+154,Food-Spice,Svanuri salt,Lead,35.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-05-04T00:00:00.000,No
+256,Tableware/Pottery,Glass cup,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-07-25T00:00:00.000,No
+1554,Food-Spice,Turmeric root,Lead,0.73,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-10-07T00:00:00.000,No
+170,Cosmetics,Kohl,Lead,440000.0,ppm,UNKNOWN OR NOT STATED,MOROCCO,2011-05-05T00:00:00.000,No
+111,Food Other,Donitas (chili and lemon fried flour chips),Lead,-1.0,ppm,Totis,MEXICO,2011-04-15T00:00:00.000,No
+171,Toys/Children's Products,Chalk,Lead,3.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-05-17T00:00:00.000,No
+314,Food-Candy,Chocolate,Lead,5.1,ppm,UNKNOWN OR NOT STATED,MEXICO,2011-10-20T00:00:00.000,No
+371,Dietary Supplement/Medications/Remedy,Pigmento (Ayurvedic),Lead,7.3,ppm,Charak Pharma Pvt. Ltd.,INDIA,2012-01-23T00:00:00.000,No
+1288,Toys/Children's Products,Sensory Toy (golden pineapple),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2015-02-25T00:00:00.000,No
+1564,Food-Spice,Cumin,Lead,0.95,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-12-03T00:00:00.000,No
+1490,Religious powder,Sindoor,Lead,10.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-05-05T00:00:00.000,No
+1627,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/ Tian Wang Bu Xin Wan,Mercury,200.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+1591,Dietary Supplement/Medications/Remedy,Shu Gan Wan (Poria & Peony Combo Extract),Mercury,-1.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+788,Food Other,Chocolate,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-05-21T00:00:00.000,No
+1482,Toys/Children's Products,Toy car,Lead,110.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-04-08T00:00:00.000,No
+320,Food-Spice,Georgian spice,Lead,2900.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-11-10T00:00:00.000,No
+840,Dietary Supplement/Medications/Remedy,Rasraj Ras (with gold) (Ayurvedic),Mercury,220000.0,ppm,Shree Baidyanath Ayurved Bhawan Pvt. Ltd.,INDIA,2013-07-17T00:00:00.000,No
+1449,Food-Spice,Cumin,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-03-17T00:00:00.000,No
+1376,Dietary Supplement/Medications/Remedy,Chandraprabha Bati (Loha & Shilajeet) (Ayurvedic),Arsenic,4.7,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd",INDIA,2015-02-25T00:00:00.000,No
+861,Toys/Children's Products,Pencil,Lead,3.2,ppm,UNKNOWN OR NOT STATED,CHINA,2013-07-19T00:00:00.000,No
+665,Religious powder,Bhai Tika (yellow powder),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-12-03T00:00:00.000,No
+581,Food-Spice,Jamaican curry powder,Lead,-1.0,ppm,Grace Kennedy LTD,JAMAICA,2012-09-07T00:00:00.000,No
+1462,Dietary Supplement/Medications/Remedy,Herbal pills,Arsenic,14.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-03-26T00:00:00.000,No
+128,Food Other,Red jelly filled cookie,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2011-04-20T00:00:00.000,No
+821,Food-Spice,Turmeric Root Powder (Curcuma longa),Lead,0.91,ppm,Mountain Rose Herbs,INDIA,2013-06-25T00:00:00.000,No
+1328,Dietary Supplement/Medications/Remedy,Agnitundi Bati (Ayurvedic),Mercury,14000.0,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+829,Food-Spice,Red Chili Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-06-27T00:00:00.000,No
+1628,Dietary Supplement/Medications/Remedy,Poria & Peony Combo Extract (Conc)/Shu Gan Wan,Arsenic,-1.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+453,Cosmetics,Surma (Hashmi),Lead,26000.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2012-05-14T00:00:00.000,No
+72,Dietary Supplement/Medications/Remedy,Vasant Kusumakar Ras with Gold and Pearl (Ayur),Mercury,31000.0,ppm,Dabur India LTD.,INDIA,2011-03-30T00:00:00.000,No
+1023,Toys/Children's Products,White and orange toy truck,Lead,-1.0,ppm,Mattel,THAILAND,2014-01-09T00:00:00.000,No
+716,Food-Spice,Cinnamon Powder,Lead,880.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-02-14T00:00:00.000,No
+1013,Food Other,Dried Leaves called 'Koo-Ka in Ghana,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,GHANA,2013-12-23T00:00:00.000,No
+1123,Food Other,Vashlis Muraba or 'Apple Jam',Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-04-29T00:00:00.000,No
+789,Food-Candy,Peppermint candy,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-05-21T00:00:00.000,No
+1366,Dietary Supplement/Medications/Remedy,Arogyawardhini Bati (Shilajeet&Kutki) (Ayurvedic),Arsenic,2.7,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+881,Food-Spice,Pomegranate Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-08-06T00:00:00.000,No
+425,Food-Candy,Semaforo lollipop,Lead,-1.0,ppm,Dulces Vero S.A. DE C.V,MEXICO,2012-04-11T00:00:00.000,No
+327,Dietary Supplement/Medications/Remedy,Napa Paracetamol,Lead,-1.0,ppm,NAPA,BANGLADESH,2011-11-23T00:00:00.000,No
+1177,Food-Spice,Saunuri Marili,Lead,1500.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2014-08-14T00:00:00.000,No
+375,Food-Spice,Turmeric powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-01-23T00:00:00.000,No
+718,Food-Spice,Turmeric Powder,Lead,2.7,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-02-14T00:00:00.000,No
+1331,Dietary Supplement/Medications/Remedy,Chitrakadi Bati (Ayurvedic),Lead,2.1,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+723,Food Other,Spicy Trail Mix,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2013-02-20T00:00:00.000,No
+617,Food Other,Green Food Coloring,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-10-11T00:00:00.000,No
+1559,Cosmetics,Surma (Hashmi),Lead,750000.0,ppm,HASHMI SURMA SPECIAL,PAKISTAN,2015-10-26T00:00:00.000,No
+815,Food-Candy,Zaza cream chewy candy,Lead,-1.0,ppm,PECCIN,BRAZIL,2013-06-19T00:00:00.000,No
+228,Food-Spice,Hmely Sunele/Kenza,Lead,1300.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-06-20T00:00:00.000,No
+477,Religious powder,Sindoor (yellow powder),Cadmium,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-05-31T00:00:00.000,No
+1513,Toys/Children's Products,Crayon,Lead,1.6,ppm,UNKNOWN OR NOT STATED,CHINA,2015-07-10T00:00:00.000,No
+1620,Dietary Supplement/Medications/Remedy,Poria & Peony Combo Extract (Conc)/Shu Gan Wan,Lead,1.1,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+117,Dietary Supplement/Medications/Remedy,Ketotifen 1 mg,Lead,-1.0,ppm,ACI Limited,BANGLADESH,2011-04-18T00:00:00.000,No
+1479,Food-Spice,Svanuri Salt,Lead,0.59,ppm,UNKNOWN OR NOT STATED,GEORGIA,2015-04-02T00:00:00.000,No
+1434,Food-Spice,Cardamom,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,EGYPT,2015-02-26T00:00:00.000,No
+113,Food-Spice,Turmeric,Lead,5.5,ppm,Radhuni,BANGLADESH,2011-04-18T00:00:00.000,No
+99,Food-Spice,Unlabeled spice,Lead,-1.0,ppm,Preema International LTD,UNITED KINGDOM,2011-04-11T00:00:00.000,No
+603,Dietary Supplement/Medications/Remedy,Laxmi Vilas Ras (Nardiya) (Ayurvedic),Mercury,59000.0,ppm,Dabur,INDIA,2012-09-20T00:00:00.000,No
+592,Toys/Children's Products,Colored pencil,Lead,2.6,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-09-12T00:00:00.000,No
+1223,Food-Spice,Chili powder,Lead,1.4,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2014-10-10T00:00:00.000,No
+248,Food-Spice,Mustard seeds,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-07-14T00:00:00.000,No
+949,Cosmetics,Surma,Lead,700000.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-11-08T00:00:00.000,No
+1583,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Arsenic,2.3,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+27,Jewelry,Fashion hair clip,Lead,330000.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-02-08T00:00:00.000,No
+1048,Toys/Children's Products,Toy figurine,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2014-02-04T00:00:00.000,No
+785,Dietary Supplement/Medications/Remedy,Sleep aid (Herbal capsules),Arsenic,2.8,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-05-03T00:00:00.000,No
+81,Food-Spice,Ginger powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MOROCCO,2011-04-06T00:00:00.000,No
+1021,Food Other,Teff Flour,Lead,4.5,ppm,UNKNOWN OR NOT STATED,ERITREA,2014-01-08T00:00:00.000,No
+769,Food Other,Rock Salt,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2013-03-29T00:00:00.000,No
+843,Dietary Supplement/Medications/Remedy,Strainil (Ayurvedic),Mercury,0.14,ppm,Global Remedies,INDIA,2013-07-17T00:00:00.000,No
+715,Food-Spice,Coriander Powder,Lead,1.5,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-02-14T00:00:00.000,No
+1166,Cosmetics,Dawmy Lightening Body Cream,Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,COTE D'IVOIRE,2014-08-06T00:00:00.000,No
+1484,Food-Spice,Red Chili Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-04-11T00:00:00.000,No
+160,Food-Spice,Chili pepper,Lead,6.2,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-05-04T00:00:00.000,No
+647,Religious powder,Gulal powder,Lead,16.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-11-21T00:00:00.000,No
+1200,Toys/Children's Products,Crayon,Lead,0.53,ppm,Sargent Art,CHINA,2014-08-29T00:00:00.000,No
+103,Food Other,Dried Fish,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-04-14T00:00:00.000,No
+1024,Toys/Children's Products,Blue and white toy car,Lead,-1.0,ppm,Mattel,THAILAND,2014-01-09T00:00:00.000,No
+556,Toys/Children's Products,Water Soluble Painting Crayons,Lead,5.1,ppm,Caran D'Ache,SWITZERLAND,2012-08-10T00:00:00.000,No
+1187,Food-Candy,Felon Mini,Lead,1.0,ppm,carratera guadalajara,MEXICO,2014-08-21T00:00:00.000,No
+363,Dietary Supplement/Medications/Remedy,Phal (Ayurvedic),Mercury,-1.0,ppm,Shree Aushadh Pratisthan,INDIA,2012-01-23T00:00:00.000,No
+356,Dietary Supplement/Medications/Remedy,Garbha Dharak Yog (Ayurvedic),Lead,110.0,ppm,Vyas Pharmaceuticals,INDIA,2012-01-23T00:00:00.000,No
+449,Food-Spice,Coriander,Lead,-1.0,ppm,Swad,INDIA,2012-05-11T00:00:00.000,No
+706,Toys/Children's Products,Toy balls,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-02-02T00:00:00.000,No
+435,Toys/Children's Products,Plastic toy,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,CHINA,2012-04-23T00:00:00.000,No
+322,Food-Spice,Pepita,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2011-11-15T00:00:00.000,No
+1296,Food-Spice,Red Chilli Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-02-25T00:00:00.000,No
+870,Toys/Children's Products,Toy car,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,CHINA,2013-07-24T00:00:00.000,No
+1340,Dietary Supplement/Medications/Remedy,Kaishore Guggulu (Ayurvedic),Mercury,0.9,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+347,Food-Candy,Candy (Caramelo Macizo Acidulado),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-12-13T00:00:00.000,No
+465,Jewelry,Necklace,Lead,1.4,ppm,UNKNOWN OR NOT STATED,MEXICO,2012-05-16T00:00:00.000,No
+1322,Dietary Supplement/Medications/Remedy,Arogyavardhini Bati (Ayurvedic),Mercury,2.5,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+867,Dietary Supplement/Medications/Remedy,Acorrus Rhizome,Lead,5.1,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-07-23T00:00:00.000,No
+13,Food-Spice,Garam masala,Lead,3.8,ppm,UNKNOWN OR NOT STATED,INDIA,2011-01-19T00:00:00.000,No
+1447,Food-Spice,Coriander,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-03-17T00:00:00.000,No
+446,Food-Spice,Fish Powder,Lead,-1.0,ppm,Namprik Maesri Ltd.,THAILAND,2012-05-02T00:00:00.000,No
+469,Toys/Children's Products,Toy,Lead,1.9,ppm,Spin Master Ltd.,CHINA,2012-05-23T00:00:00.000,No
+1413,Dietary Supplement/Medications/Remedy,Shankh Bati (Ayurvedic),Lead,33.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+1298,Food-Spice,Chilli powder,Lead,1.0,ppm,Pran Agro Ltd,BANGLADESH,2015-02-25T00:00:00.000,No
+374,Food-Spice,Chili powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-01-23T00:00:00.000,No
+69,Food-Spice,Coriander seeds,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-03-29T00:00:00.000,No
+957,Dietary Supplement/Medications/Remedy,Gita Madhumehantak Vati (Ayurvedic),Arsenic,-1.0,ppm,Gita Bhawan Ayurved Sansthan,INDIA,2013-11-15T00:00:00.000,No
+1292,Food-Spice,Kashmiri chilli powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2015-02-25T00:00:00.000,No
+305,Food-Spice,Turmeric,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-10-18T00:00:00.000,No
+1020,Cosmetics,Surma,Lead,730000.0,ppm,UNKNOWN OR NOT STATED,AFGHANISTAN,2014-01-07T00:00:00.000,No
+1162,Cosmetics,La Bamakoise,Mercury,-1.0,ppm,H Cosmetiques CI,ITALY,2014-08-06T00:00:00.000,No
+247,Food-Spice,Turmeric,Lead,1.7,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-07-14T00:00:00.000,No
+1631,Dietary Supplement/Medications/Remedy,Poria & Peony Combo Extract (Conc)/Shu Gan Wan,Arsenic,-1.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+1101,Cosmetics,Omic Soap,Lead,-1.0,ppm,MItchell group,LEBANON,2014-04-01T00:00:00.000,No
+726,Food-Spice,Georgian spice (Ucho),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2013-02-21T00:00:00.000,No
+885,Cosmetics,Pink Nail Polish,Lead,-1.0,ppm,Mark Wins International,UNKNOWN OR NOT STATED,2013-08-22T00:00:00.000,No
+929,Food-Spice,Vegetable soup powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-10-22T00:00:00.000,No
+450,Food-Spice,Curry powder,Lead,0.7,ppm,UNKNOWN OR NOT STATED,INDIA,2012-05-11T00:00:00.000,No
+386,Toys/Children's Products,Toy car,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-02-14T00:00:00.000,No
+1458,Dietary Supplement/Medications/Remedy,Herbal powder,Arsenic,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-03-26T00:00:00.000,No
+1350,Dietary Supplement/Medications/Remedy,Brahmi Bati (Buddhi Vardhak) (Ayurvedic),Arsenic,110.0,ppm,Shree Baidyanath,INDIA,2015-02-25T00:00:00.000,No
+950,Toys/Children's Products,Wooden block,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2013-11-08T00:00:00.000,No
+1517,Dietary Supplement/Medications/Remedy,Talco,Lead,-1.0,ppm,Simonds,CHILE,2015-07-24T00:00:00.000,No
+1511,Toys/Children's Products,Crayon,Lead,1.2,ppm,UNKNOWN OR NOT STATED,CHINA,2015-07-10T00:00:00.000,No
+1407,Dietary Supplement/Medications/Remedy,Arshoghni Bati (Ayurvedic),Lead,16.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd",INDIA,2015-02-25T00:00:00.000,No
+172,Jewelry,Jewelry,Lead,15.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-05-17T00:00:00.000,No
+1110,Dietary Supplement/Medications/Remedy,Bo Ying Compound,Mercury,-1.0,ppm,Eu Yan Sang Hong Kong Limited,HONG KONG,2014-04-08T00:00:00.000,No
+1195,Food-Spice,Biryani Masala,Lead,0.53,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-08-22T00:00:00.000,No
+1487,Food-Spice,Coriander,Lead,1.7,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2015-04-29T00:00:00.000,No
+818,Jewelry,Mother Theresa Jewelry Charm,Lead,460.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-06-25T00:00:00.000,No
+319,Food-Spice,Georgian spice,Lead,2800.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-11-10T00:00:00.000,No
+276,Dietary Supplement/Medications/Remedy,Ovarin (Ayurvedic),Lead,6800.0,ppm,Ban Labs Ltd.,INDIA,2011-08-25T00:00:00.000,No
+849,Dietary Supplement/Medications/Remedy,Dasamoolarishtam (Ayurvedic),Mercury,-1.0,ppm,Thaikkattu Mooss Vaidyaratnam Oushadhasala (P) Ltd,INDIA,2013-07-17T00:00:00.000,No
+1139,Dietary Supplement/Medications/Remedy,Sing-Lin Fritillary Bulb Extract,Arsenic,-1.0,ppm,UNKNOWN OR NOT STATED,CHINA,2014-06-02T00:00:00.000,No
+230,Dietary Supplement/Medications/Remedy,Garbhapal Ras (Ayurvedic),Lead,22000.0,ppm,UNKNOWN OR NOT STATED,INDIA,2011-06-21T00:00:00.000,No
+527,Toys/Children's Products,Toy car,Lead,35.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-06-23T00:00:00.000,No
+696,Food-Spice,Okra seasoning,Lead,5.5,ppm,UNKNOWN OR NOT STATED,MALI,2013-01-15T00:00:00.000,No
+3,Food-Spice,Cumin seeds,Lead,2.8,ppm,UNKNOWN OR NOT STATED,INDIA,2011-01-04T00:00:00.000,No
+1203,Food-Spice,Black Pepper,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2014-09-05T00:00:00.000,No
+1092,Cosmetics,NeoClear Body Butter,Mercury,-1.0,ppm,UNKNOWN OR NOT STATED,LEBANON,2014-04-01T00:00:00.000,No
+135,Food-Spice,Rhizoma simi lacis glabrae,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-04-26T00:00:00.000,No
+138,Food-Spice,Almonds,Lead,-1.0,ppm,Yiyuan,UNKNOWN OR NOT STATED,2011-04-26T00:00:00.000,No
+1550,Dietary Supplement/Medications/Remedy,Suvarmu Prasan (Ayurvedic),Arsenic,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-10-07T00:00:00.000,No
+1070,Jewelry,Peacock bottle charm,Lead,22.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-04-01T00:00:00.000,No
+1050,Dietary Supplement/Medications/Remedy,Desenfriol Ito,Lead,-1.0,ppm,Desenfriol Ito,MEXICO,2014-02-04T00:00:00.000,No
+700,Food-Spice,Garam Masala,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-01-25T00:00:00.000,No
+717,Food-Spice,Cumin Powder,Lead,560.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-02-14T00:00:00.000,No
+776,Other,Grinding Stone,Lead,3.9,ppm,UNKNOWN OR NOT STATED,INDIA,2013-03-29T00:00:00.000,No
+272,Dietary Supplement/Medications/Remedy,Ovarin (Ayurvedic),Arsenic,1200.0,ppm,Ban Labs Ltd.,INDIA,2011-08-25T00:00:00.000,No
+968,Dietary Supplement/Medications/Remedy,Madhunashini Vati (Ayurvedic),Lead,6.7,ppm,Divya Pharmacy,INDIA,2013-11-15T00:00:00.000,No
+602,Dietary Supplement/Medications/Remedy,Laxmi Vilas Ras (Nardiya) (Ayurvedic),Lead,2.4,ppm,Dabur,INDIA,2012-09-20T00:00:00.000,No
+963,Dietary Supplement/Medications/Remedy,Gita Madhumehantak Vati (Ayurvedic),Lead,70000.0,ppm,Gita Bhawan Ayurved Sansthan,INDIA,2013-11-15T00:00:00.000,No
+1566,Food-Spice,Chili Powder,Lead,7.5,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-12-03T00:00:00.000,No
+400,Food-Spice,Georgian spice,Lead,18000.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-03-09T00:00:00.000,No
+639,Religious powder,Turmeric,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-11-21T00:00:00.000,No
+917,Food-Candy,Granulated candy packs,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2013-10-17T00:00:00.000,No
+257,Food-Spice,Turmeric powder,Lead,6.7,ppm,Y.V.S. & Co.,INDIA,2011-08-08T00:00:00.000,No
+826,Food-Spice,Green spices,Lead,7100.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-06-27T00:00:00.000,No
+298,Food Other,Dried fish,Lead,0.66,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-09-22T00:00:00.000,No
+1411,Dietary Supplement/Medications/Remedy,Shankh Bati (Ayurvedic),Arsenic,5.2,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+368,Dietary Supplement/Medications/Remedy,Garbha Chintamani Ras(Vrihat) (Swarna Yukt) (Ayur),Lead,-1.0,ppm,Shree Baidyanath,INDIA,2012-01-23T00:00:00.000,No
+582,Food-Spice,Ogbono,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,NIGERIA,2012-09-07T00:00:00.000,No
+1273,Food-Spice,Chili,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2015-02-19T00:00:00.000,No
+1119,Food-Spice,Georgian spice ('Zaprana' or 'Saffron'),Lead,1.7,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-04-29T00:00:00.000,No
+141,Toys/Children's Products,Painted brown ceramic miniature pot,Lead,8900.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2011-04-28T00:00:00.000,No
+764,Jewelry,Tabiz,Lead,160.0,ppm,UNKNOWN OR NOT STATED,INDIA,2013-03-29T00:00:00.000,No
+1352,Dietary Supplement/Medications/Remedy,Brahmi Bati (Buddhi Vardhak) (Ayurvedic),Lead,86.0,ppm,Shree Baidyanath,INDIA,2015-02-25T00:00:00.000,No
+1229,Food-Spice,Georgian spice (Yellow flower),Lead,22000.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2014-11-06T00:00:00.000,No
+1437,Food-Spice,Chili powder,Lead,34.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-03-03T00:00:00.000,No
+83,Food-Spice,Chili powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MOROCCO,2011-04-06T00:00:00.000,No
+237,Toys/Children's Products,Football,Lead,16.0,ppm,Multitoys,BRAZIL,2011-06-27T00:00:00.000,No
+1572,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Lead,2.7,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+1043,Food-Spice,Clasico seasoning with lime,Lead,-1.0,ppm,Tajin,MEXICO,2014-01-17T00:00:00.000,No
+1212,Toys/Children's Products,Painted metal car,Lead,-1.0,ppm,Hot Wheels,THAILAND,2014-09-11T00:00:00.000,No
+471,Toys/Children's Products,Crayon,Lead,0.57,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-05-30T00:00:00.000,No
+904,Dietary Supplement/Medications/Remedy,Herbal remedy for reproductive health (dark brown powder),Lead,1.6,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-09-24T00:00:00.000,No
+334,Dietary Supplement/Medications/Remedy,White tablet (calcium supplement),Lead,0.87,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-12-05T00:00:00.000,No
+614,Cosmetics,Eye Max,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,RUSSIAN FEDERATION,2012-10-11T00:00:00.000,No
+721,Food-Spice,Spice,Lead,53.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2013-02-20T00:00:00.000,No
+1538,Food-Spice,Georgian spice,Lead,9.9,ppm,UNKNOWN OR NOT STATED,GEORGIA,2015-09-30T00:00:00.000,No
+1562,Toys/Children's Products,Toy pig,Lead,3.4,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-11-18T00:00:00.000,No
+416,Food-Spice,Turmeric,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-04-05T00:00:00.000,No
+268,Dietary Supplement/Medications/Remedy,Shatavari Kalpa (Ayurvedic),Arsenic,-1.0,ppm,The Ayurvedeeya Arkashala Ltd. Satara,INDIA,2011-08-25T00:00:00.000,No
+26,Jewelry,Amulet/charm,Lead,500000.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-02-08T00:00:00.000,No
+859,Dietary Supplement/Medications/Remedy,Shatavar Choorna (Ayurvedic),Mercury,-1.0,ppm,Patanjali Ayurved Limited,INDIA,2013-07-17T00:00:00.000,No
+398,Food-Spice,Georgian spice,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-03-09T00:00:00.000,No
+523,Toys/Children's Products,Frog/Duck,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,CHINA,2012-06-23T00:00:00.000,No
+150,Food Other,Chocolate,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-05-03T00:00:00.000,No
+1310,Dietary Supplement/Medications/Remedy,Rajahpravartini Bati (Ayurvedic),Mercury,19.0,ppm,Shree Baidyanath Ayurved Bahwan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+626,Food-Spice,Ginger powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MOROCCO,2012-10-22T00:00:00.000,No
+1521,Dietary Supplement/Medications/Remedy,Trishun (Ayurvedic),Mercury,18000.0,ppm,Zandu/ Emami Limited,INDIA,2015-08-10T00:00:00.000,No
+1327,Dietary Supplement/Medications/Remedy,Agnitundi Bati (Ayurvedic),Mercury,17000.0,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+134,Food Other,Brown bark like material,Lead,330.0,ppm,UNKNOWN OR NOT STATED,CHINA,2011-04-26T00:00:00.000,No
+1586,Dietary Supplement/Medications/Remedy,Shu Gan Wan (Poria & Peony Combo Extract),Arsenic,-1.0,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+842,Dietary Supplement/Medications/Remedy,Palsynorm (Ayurvedic),Mercury,0.098,ppm,Four-S Lab,INDIA,2013-07-17T00:00:00.000,No
+1065,Food-Spice,Coriander powder,Lead,0.99,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2014-02-28T00:00:00.000,No
+1191,Food-Spice,Crushed Red Chili Pepper flakes,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2014-08-22T00:00:00.000,No
+1477,Food-Spice,Turmeric,Lead,590.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-03-30T00:00:00.000,No
+927,Food-Spice,Pink Milk Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-10-22T00:00:00.000,No
+684,Food-Spice,Chilli powder,Lead,-1.0,ppm,MOHO?,UNKNOWN OR NOT STATED,2012-12-18T00:00:00.000,No
+923,Food-Spice,Chicken Tandoori Powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2013-10-22T00:00:00.000,No
+62,Food-Spice,Georgian spice,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-03-25T00:00:00.000,No
+1005,Cosmetics,Kajal,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2013-12-12T00:00:00.000,No
+377,Food Other,Gooseberry,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-01-23T00:00:00.000,No
+1003,Food-Spice,Cayenne,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,INDIA,2013-12-10T00:00:00.000,No
+468,Dietary Supplement/Medications/Remedy,Loratadina,Lead,-1.0,ppm,"PRODUCTOS MAVER, S.A. DE C.V.",MEXICO,2012-05-23T00:00:00.000,No
+1577,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Arsenic,2.3,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-03T00:00:00.000,No
+1160,Dietary Supplement/Medications/Remedy,Chavitos,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2014-08-01T00:00:00.000,No
+683,Food-Spice,Coriander powder,Lead,-1.0,ppm,MOHO (?),UNKNOWN OR NOT STATED,2012-12-18T00:00:00.000,No
+594,Other,Sofa cover,Lead,6.4,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-09-12T00:00:00.000,No
+1614,Dietary Supplement/Medications/Remedy,Emperor's Tea Pill (Conc)/Tian Wang Bu Xin Wan,Lead,3.7,ppm,Lanzhou Traditional Herbs,CHINA,2015-12-16T00:00:00.000,No
+1245,Food-Spice,Curry Powder,Lead,0.81,ppm,UNKNOWN OR NOT STATED,GEORGIA,2015-01-06T00:00:00.000,No
+893,Food Other,Salsa Picante,Lead,-1.0,ppm,Sala Tamazula S.A. D.E. C.V.,MEXICO,2013-09-03T00:00:00.000,No
+1325,Dietary Supplement/Medications/Remedy,Agnitundi Bati (Ayurvedic),Lead,4.7,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2015-02-25T00:00:00.000,No
+166,Food-Spice,Georgian spice,Lead,11000.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-05-04T00:00:00.000,No
+1174,Cosmetics,Yoko Whitening Cream,Mercury,-1.0,ppm,Siam Yoko Ltd,THAILAND,2014-08-06T00:00:00.000,No
+1235,Cosmetics,Surma,Lead,720000.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2014-11-20T00:00:00.000,No
+576,Food-Candy,Mini Manicho Candy,Lead,-1.0,ppm,Universal Sweet Industries S.A.,ECUADOR,2012-09-04T00:00:00.000,No
+413,Religious powder,Grayish Powder (Prashad),Lead,32.0,ppm,UNKNOWN OR NOT STATED,INDIA,2012-04-05T00:00:00.000,No
+31,Toys/Children's Products,Red Race Car (Rust-Eze 95),Lead,73.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-02-18T00:00:00.000,No
+1285,Toys/Children's Products,Sensory Toy (yellow banana),Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2015-02-25T00:00:00.000,No
+1032,Dietary Supplement/Medications/Remedy,Long Dan Xie Gan Wan,Cadmium,-1.0,ppm,Lanzhou Traditional Herbs,CHINA,2014-01-15T00:00:00.000,No
+1403,Dietary Supplement/Medications/Remedy,Rajahprawartini Bati (Hera Bola&Alua) (Ayurvedic),Mercury,23.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+1264,Food-Spice,Curry powder,Lead,6.8,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-01-26T00:00:00.000,No
+432,Dietary Supplement/Medications/Remedy,Tahtym,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2012-04-23T00:00:00.000,No
+1541,Toys/Children's Products,Wooden toy block,Lead,52.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2015-10-02T00:00:00.000,No
+1422,Religious powder,Holi Color - Pink,Lead,1.5,ppm,UNKNOWN OR NOT STATED,INDIA,2015-02-25T00:00:00.000,No
+57,Food-Spice,Turmeric powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-03-22T00:00:00.000,No
+1036,Food Other,Maggi Magic Sarap,Lead,-1.0,ppm,Nestle Phillipines Inc,PHILIPPINES,2014-01-17T00:00:00.000,No
+1497,Toys/Children's Products,Wooden toy blocks,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNITED STATES,2015-05-21T00:00:00.000,No
+824,Dietary Supplement/Medications/Remedy,Pure Hericium Capsules,Lead,-1.0,ppm,Aloha Medicinals Inc.,UNITED STATES,2013-06-25T00:00:00.000,No
+1519,Dietary Supplement/Medications/Remedy,Trishun (Ayurvedic),Arsenic,620.0,ppm,Zandu/ Emami Limited,INDIA,2015-08-10T00:00:00.000,No
+308,Dietary Supplement/Medications/Remedy,Vitamin,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,UNKNOWN OR NOT STATED,2011-10-20T00:00:00.000,No
+1478,Food-Spice,Chili powder,Lead,6.3,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2015-03-30T00:00:00.000,No
+216,Dietary Supplement/Medications/Remedy,Kankayan Bati (Gulma) (Ayurvedic),Lead,12.0,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2011-06-13T00:00:00.000,No
+86,Food-Spice,Curry powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,MOROCCO,2011-04-06T00:00:00.000,No
+841,Dietary Supplement/Medications/Remedy,Energen (Ayurvedic),Mercury,0.2,ppm,Global Remedies,INDIA,2013-07-17T00:00:00.000,No
+858,Dietary Supplement/Medications/Remedy,Sanjeevni Vati (Ayurvedic),Mercury,8.6,ppm,Divya Pharmacy,INDIA,2013-07-17T00:00:00.000,No
+669,Dietary Supplement/Medications/Remedy,Abhrak Bhasma (Ayurvedic),Arsenic,1200.0,ppm,Shree Baidyanath Ayurved Bhawan (P) Ltd.,INDIA,2012-12-03T00:00:00.000,No
+1493,Toys/Children's Products,Toy pen,Lead,-1.0,ppm,Fisher Price,UNITED STATES,2015-05-11T00:00:00.000,No
+108,Food-Spice,Turmeric powder,Lead,1.5,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2011-04-14T00:00:00.000,No
+80,Toys/Children's Products,Yellow plastic fish with green fin,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,CHINA,2011-04-06T00:00:00.000,No
+55,Toys/Children's Products,Painted wooden toy top,Lead,170.0,ppm,UNKNOWN OR NOT STATED,MEXICO,2011-03-17T00:00:00.000,No
+1085,Cosmetics,Neoprosone-Gel,Lead,-1.0,ppm,Technopharma Ltd,INDIA,2014-04-01T00:00:00.000,No
+165,Food-Spice,Georgian spice (yellow flower),Lead,1700.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-05-04T00:00:00.000,No
+1480,Food-Spice,Red pepper powder,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2015-04-02T00:00:00.000,No
+855,Dietary Supplement/Medications/Remedy,Shilajeet Rasyan (Ayurvedic),Mercury,6.6,ppm,Divya Pharmacy,INDIA,2013-07-17T00:00:00.000,No
+1220,Dietary Supplement/Medications/Remedy,Amalaki (Ayurvedic),Lead,0.19,ppm,UNKNOWN OR NOT STATED,INDIA,2014-09-23T00:00:00.000,No
+609,Toys/Children's Products,Painted maracas,Lead,63000.0,ppm,UNKNOWN OR NOT STATED,ECUADOR,2012-10-04T00:00:00.000,No
+1077,Cosmetics,Venus de Milo cream beauty soap,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,JORDAN,2014-04-01T00:00:00.000,No
+390,Toys/Children's Products,Superman Toy,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,CHINA,2012-02-14T00:00:00.000,No
+795,Cosmetics,Surma,Lead,530000.0,ppm,UNKNOWN OR NOT STATED,PAKISTAN,2013-06-07T00:00:00.000,No
+1230,Food-Spice,Coriander,Lead,2.3,ppm,UNKNOWN OR NOT STATED,GEORGIA,2014-11-06T00:00:00.000,No
+605,Dietary Supplement/Medications/Remedy,Swarna Malini Vasant (Ayurvedic),Lead,31000.0,ppm,Amrita Drugs,INDIA,2012-09-20T00:00:00.000,No
+1125,Food-Spice,Fa sauce powder,Lead,240.0,ppm,UNKNOWN OR NOT STATED,MALI,2014-04-30T00:00:00.000,No
+940,Food-Spice,Mixed spices,Lead,1.0,ppm,UNKNOWN OR NOT STATED,JORDAN,2013-10-25T00:00:00.000,No
+1147,Food-Spice,Turmeric,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,BANGLADESH,2014-07-12T00:00:00.000,No
+771,Food-Spice,Garam Masala,Lead,2.2,ppm,UNKNOWN OR NOT STATED,INDIA,2013-03-29T00:00:00.000,No
+1418,Dietary Supplement/Medications/Remedy,Saptamrit Lauh (Mulethi & Lauh) (Ayurvedic),Lead,22.0,ppm,"Shree Baidyanath, Ayurved Bhawan Pvt. Ltd.",INDIA,2015-02-25T00:00:00.000,No
+958,Dietary Supplement/Medications/Remedy,Gita Madhumehantak Vati (Ayurvedic),Lead,74000.0,ppm,Gita Bhawan Ayurved Sansthan,INDIA,2013-11-15T00:00:00.000,No
+833,Food Other,Basmati Rice Extra Long Kernel,Lead,-1.0,ppm,DATA CORPORATION,PAKISTAN,2013-06-27T00:00:00.000,No
+882,Toys/Children's Products,Toy,Lead,4.6,ppm,Learning Curve Brand,UNITED STATES,2013-08-08T00:00:00.000,No
+159,Cosmetics,Lipstick,Lead,-1.0,ppm,UNKNOWN OR NOT STATED,GEORGIA,2011-05-04T00:00:00.000,No
