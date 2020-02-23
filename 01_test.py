@@ -18,9 +18,34 @@ import requests
 import urllib.request
 import time
 from bs4 import BeautifulSoup
-
+from flask import send_file
 app = Flask(__name__)
 CORS(app)
+# ---------------------------------------------------------------------------------------Merge datasets
+@app.route('/merge',methods=['POST','GET'])
+def merge_datasets():
+    if(request.is_json):
+        req=request.get_json();
+        datasets_array=req.get("dataset_array_to_merge")
+        mypath='upload/*.csv'
+        datasets_array=datasets_array
+        df_array=[]
+        for filename in glob.glob(mypath):
+            filename=filename[7:]
+            if filename in datasets_array:
+                dfname=filename[0:-4]
+                dfname=pd.read_csv("upload/"+filename)
+                df_array.append(dfname)
+        merged=pd.concat(df_array)
+        merged.to_csv('upload/export.csv',sep=",",index=False)
+        response=make_response(jsonify({"response":"Done"}), 200)
+        response.headers.add('Access-Control-Allow-Origin', '*')
+        return response;
+# ---------------------------------------------------------------------------------------Return to Download
+@app.route('/returnfiles')
+def return_files_tut():
+    return send_file('upload/export.csv', attachment_filename='export.csv',as_attachment=True)
+
 #------------------------------------------------- Processing search-datasets request
 @app.route('/search_datasets',methods=['POST','GET'])
 def search_datasets_func():
@@ -146,7 +171,7 @@ def first_bar():
         return make_response(jsonify(dict4), 200)
 #------------------------------------------------- Processing process request
 @app.route('/json',methods=['POST','GET'])
-def hello_world2():
+def processing():
     if(request.is_json):
         req=request.get_json();
         datasets=req.get("datasets");
@@ -160,25 +185,20 @@ def hello_world2():
             else:
                 mypath='./upload/*.csv'
             for filename in glob.glob(mypath):
-                if(type!="first_load" and req.get("all")=="false" ):
+                if(type!="first_load" and req.get("all")=="false" ):              #--------------------------- executed after uploaded is done
                     print("filename is: ",filename[9:], file=sys.stderr)
                     if(filename[9:] in datasets):
                         if(count<150):
                             count=count+1;
                             df = pd.read_csv(filename);
                             fname=re.sub(r'.csv', '',filename[9:])
+                            
                             datasets_with_Attributes[fname]=df.columns.tolist()
-                elif(type=="first_load"): # executed after uploaded is done
+                elif(type=="first_load"):                                        #--------------------------- executed after uploaded is done
                     if(count<150):
                         count=count+1;
                         df = pd.read_csv(filename);
                         fname=re.sub(r'.csv', '',filename[11:])
-                        datasets_with_Attributes[fname]=df.columns.tolist()
-                elif(req.get("all")=="true"): # executed 
-                    if(count<150):
-                        count=count+1;
-                        df = pd.read_csv(filename);
-                        fname=re.sub(r'.csv', '',filename[9:])
                         datasets_with_Attributes[fname]=df.columns.tolist()
             unionA={}
             for key in datasets_with_Attributes:
@@ -426,10 +446,6 @@ def stat_metric2():
         return make_response(jsonify({"else":"something wrong"}), 200)
     else:
         return make_response(jsonify({"message": "Else"}), 200)
-# ---------------------------------------------------------------------------------------
-
-
-
 #--------------------------------Main program starts here
 if __name__ == '__main__':
    app.run(host='0.0.0.0')
