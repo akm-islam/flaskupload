@@ -45,6 +45,10 @@ def merge_datasets():
 @app.route('/returnfiles')
 def return_files_tut():
     return send_file('upload/export.csv', attachment_filename='export.csv',as_attachment=True)
+# ---------------------------------------------------------------------------------------Return to Manual
+@app.route('/returnpdf')
+def return_files_tut2():
+    return send_file('uploaded/urbanForestManual.pdf', attachment_filename='urbanForestManual.pdf',as_attachment=True)
 
 #------------------------------------------------- Processing search-datasets request
 @app.route('/search_datasets',methods=['POST','GET'])
