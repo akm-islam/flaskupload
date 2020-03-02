@@ -19,8 +19,10 @@ import urllib.request
 import time
 from bs4 import BeautifulSoup
 from flask import send_file
+import time
 app = Flask(__name__)
 CORS(app)
+dict_to_hold_jsonlink={}
 # ---------------------------------------------------------------------------------------Merge datasets
 @app.route('/merge',methods=['POST','GET'])
 def merge_datasets():
@@ -45,7 +47,7 @@ def merge_datasets():
 @app.route('/returnfiles')
 def return_files_tut():
     return send_file('upload/export.csv', attachment_filename='export.csv',as_attachment=True)
-# ---------------------------------------------------------------------------------------Return to Manual
+# ---------------------------------------------------------------------------------------Return Manual
 @app.route('/returnpdf')
 def return_files_tut2():
     return send_file('uploaded/urbanForestManual.pdf', attachment_filename='urbanForestManual.pdf',as_attachment=True)
@@ -53,15 +55,11 @@ def return_files_tut2():
 #------------------------------------------------- Processing search-datasets request
 @app.route('/search_datasets',methods=['POST','GET'])
 def search_datasets_func():
+    global dict_to_hold_jsonlink
     if(request.is_json):
-        files = glob.glob('./upload/*')
-        for f in files:
-            os.remove(f)
         req=request.get_json();
         keywordlist=req.get("keywordlist")
         max_num=req.get("max_number")
-        #max_num=5
-        #keywordlist=["health","education"]
         datasets_with_tag_array={} #dictionary with datasetname as key and taglist as value {"datasetsname":[tag1,tag2]}
         keyword_based_datasetname_array={} #dictionary with keywordnames as key and datasetname array as value {"keyword":[datasetname1,datasetname2]}
         # Dictionary to hold tags with keywords as keys
@@ -71,11 +69,10 @@ def search_datasets_func():
         # To avoid duplicate tags;
         uniq_taglist=[]
         for keyword in keywordlist:
+            dict2={}
             temp_array_for_keywords_with_datasetname=[]
             # Temorporary array to hold the tags to use later on dictionary
             temp_array_for_tags_basedon_keyword=[]
-            #array to hold dictionaries containing tag name and value [{"name":tagname, "value":25},{"name":tagname2, "value":25}]
-            temp_dict_for_datasets_and_tag=[]
             # temoporay dictionary to hold name value and children
             temp_dict={}
             count=0
@@ -90,30 +87,25 @@ def search_datasets_func():
                 link_list.append("https://data.cityofnewyork.us"+link['href'])
             print(link_list)
             for url in link_list:
-                if(count<max_num):
+                if(len(dict2)<max_num):
                     datalink1="https://dev.socrata.com/foundry/data.cityofnewyork.us/"
                     datalink2='https://data.cityofnewyork.us/resource/'
                     response = requests.get(url)
                     soup = BeautifulSoup(response.text, "html.parser")
                     # parent div with meta tag
                     links=soup.findAll("div", {"class": "browse2-result"})
-                    dict2={}
-                    #print("url in link")
-                if(count<max_num):
-                    count2=0
                     for link in links:
                         tags_array=[]
-                        array_to_contain_tag_dict=[]
-                        if(count2<max_num):
+                        if(len(dict2)<max_num):
                             try:
                                 # get href and add .json at the end
                                 href2=link.findAll("a",{"class":"browse2-result-api-link"})[0]["href"].replace(datalink1,datalink2)
                                 href=href2+".json"
-                                # Get the tags from here
-                                #print("link is : ",href2)
+                                print(href)
                                 title=link.findAll("a",{"class":"browse2-result-name-link"})[0].string
                                 temp_array_for_keywords_with_datasetname.append(title)
                                 dict2[title]=href
+                                dict_to_hold_jsonlink[title]=href
                                 taglist=link.findAll("div",{"class":"browse2-result-topics"})
                                 tag_arr=taglist[0].findAll("a")
                                 for tag_element in tag_arr:
@@ -122,36 +114,32 @@ def search_datasets_func():
                                     if tag not in uniq_taglist:
                                         uniq_taglist.append(tag)
                                         temp_array_for_tags_basedon_keyword.append(tag)
-                                        array_to_contain_tag_dict.append({"name":tag,"value":25})
                                 datasets_with_tag_array[title]=tags_array
-                                temp_dict_for_datasets_and_tag.extend(array_to_contain_tag_dict)
-                                count2=count2+1
                             except IndexError:
                                 pass
                                 #print(link.findAll("a",{"class":"browse2-result-name-link"})[0].string)
-                    #print(dict2)
-                for key in dict2:
-                    if(count<max_num):
-                        try:
-                            data=pd.read_json(dict2[key])
-                            #print(key)
-                            if not (os.path.exists("upload/"+re.sub("/","",key)+".csv")):
-                                data.to_csv(r"upload/"+re.sub("/","",key)+".csv",sep=",",index=False)
-                                count=count+1
-                                print("fetched: ",count,"\n")
-                        except:
-                            print("error in file location")
-            temp_dict["name"]=keyword
-            temp_dict["value"]=75
-            temp_dict["children"]=temp_dict_for_datasets_and_tag
-            keyword_and_tag_array.append(temp_dict)
-            #keyword_and_tag_array is for Treemap
+                count=count+1
             dict_of_tags_basedon_keyword[keyword]=temp_array_for_tags_basedon_keyword
             keyword_based_datasetname_array[keyword]=temp_array_for_keywords_with_datasetname
-        return make_response(jsonify({"keyword_and_tag_array":keyword_and_tag_array,"datasets_with_tag_array":datasets_with_tag_array,"dict_of_tags_basedon_keyword":dict_of_tags_basedon_keyword,"keyword_based_datasetname_array":keyword_based_datasetname_array}), 200)
+            print(len(dict_to_hold_jsonlink))
+        return make_response(jsonify({"datasets_with_tag_array":datasets_with_tag_array,"dict_of_tags_basedon_keyword":dict_of_tags_basedon_keyword,"keyword_based_datasetname_array":keyword_based_datasetname_array}), 200)
+@app.route('/dataset_loader',methods=['POST','GET'])
+def load_all():
+    print("Got it")
+    start=time.time()
+    global dict_to_hold_jsonlink
+    for key in dict_to_hold_jsonlink:
+        try:
+            data=pd.read_json(dict_to_hold_jsonlink[key])
+            #data.to_csv(r"upload/"+re.sub("/","",key)+".csv",sep=",")
+        except:
+            print("error in file location")
+    print("Elapsed Time is: ",time.time() - start)
+    return make_response(jsonify({"Hello":"hi"}), 200)
 #------------------------------------------------- Processing first bar request
 @app.route('/first_bar',methods=['POST','GET'])
 def first_bar():
+    print("first bar")
     if(request.is_json):
         req=request.get_json();
         if(req.get("type")=="first_load"):
@@ -176,11 +164,13 @@ def first_bar():
 #------------------------------------------------- Processing process request
 @app.route('/json',methods=['POST','GET'])
 def processing():
+    print("Processing")
     if(request.is_json):
         req=request.get_json();
         datasets=req.get("datasets");
         #print("datasets are: ",req.get("all"), file=sys.stderr)
         if(req.get("myrequest")=='data'):
+            print("my request is data")
             datasets_with_Attributes={}
             count=0;
             type=req.get("type");
@@ -188,22 +178,14 @@ def processing():
                 mypath='./uploaded/*.csv'
             else:
                 mypath='./upload/*.csv'
-            for filename in glob.glob(mypath):
+            for filename in datasets:
+                print(filename)
                 if(type!="first_load" and req.get("all")=="false" ):              #--------------------------- executed after uploaded is done
-                    print("filename is: ",filename[9:], file=sys.stderr)
-                    if(filename[9:] in datasets):
-                        if(count<150):
-                            count=count+1;
-                            df = pd.read_csv(filename);
-                            fname=re.sub(r'.csv', '',filename[9:])
-                            
-                            datasets_with_Attributes[fname]=df.columns.tolist()
+                    df = pd.read_json(dict_to_hold_jsonlink[filename]);
+                    datasets_with_Attributes[filename]=df.columns.tolist()
                 elif(type=="first_load"):                                        #--------------------------- executed after uploaded is done
-                    if(count<150):
-                        count=count+1;
-                        df = pd.read_csv(filename);
-                        fname=re.sub(r'.csv', '',filename[11:])
-                        datasets_with_Attributes[fname]=df.columns.tolist()
+                    df = pd.read_json(dict_to_hold_jsonlink[filename]);
+                    datasets_with_Attributes[filename]=df.columns.tolist()
             unionA={}
             for key in datasets_with_Attributes:
                 for val in datasets_with_Attributes[key]:
@@ -240,6 +222,7 @@ def processing():
             #print("json is: ",mydata, file=sys.stderr)
             return make_response(jsonify(mydata), 200)
         elif(req.get("filename")!=''):
+            print("my request is !")
             file =req.get("filename")
             data=pd.read_csv(file)
             dict1={}
