@@ -22,7 +22,7 @@ from flask import send_file
 import time
 app = Flask(__name__)
 CORS(app)
-dict_to_hold_jsonlink={}
+dict_to_hold_download_link={}
 # ---------------------------------------------------------------------------------------Merge datasets
 @app.route('/merge',methods=['POST','GET'])
 def merge_datasets():
@@ -55,87 +55,74 @@ def return_files_tut2():
 #------------------------------------------------- Processing search-datasets request
 @app.route('/search_datasets',methods=['POST','GET'])
 def search_datasets_func():
-    global dict_to_hold_jsonlink
+    global dict_to_hold_download_link
     if(request.is_json):
         req=request.get_json();
-        keywordlist=req.get("keywordlist")
+        keyword_list=req.get("keywordlist")
         max_num=req.get("max_number")
-        datasets_with_tag_array={} #dictionary with datasetname as key and taglist as value {"datasetsname":[tag1,tag2]}
-        keyword_based_datasetname_array={} #dictionary with keywordnames as key and datasetname array as value {"keyword":[datasetname1,datasetname2]}
-        # Dictionary to hold tags with keywords as keys
+        start=time.time()
+        max_num2=max_num+10 # we are fetching 10 extra datasets so that if links are not dataset
+        datasets_with_tag_array={}
         dict_of_tags_basedon_keyword={}
-        # ready for treemap; contains keyword as name and tags as children {"name"=keyword,"value"=75,children=[]} 
-        keyword_and_tag_array=[]
-        # To avoid duplicate tags;
-        uniq_taglist=[]
-        for keyword in keywordlist:
-            dict2={}
-            temp_array_for_keywords_with_datasetname=[]
-            # Temorporary array to hold the tags to use later on dictionary
-            temp_array_for_tags_basedon_keyword=[]
-            # temoporay dictionary to hold name value and children
-            temp_dict={}
-            count=0
-            # list that contains all the links from first page
-            link_list=[]
-            first_url="https://data.cityofnewyork.us/browse?amp=&q="+keyword+"&sortBy=relevance&page=1"
-            link_list.append(first_url)
-            paginationlink = requests.get(first_url)
-            soup = BeautifulSoup(paginationlink.text, "html.parser")
-            links=soup.findAll("a",{"class":"pageLink"})
-            for link in links:
-                link_list.append("https://data.cityofnewyork.us"+link['href'])
-            print(link_list)
-            for url in link_list:
-                if(len(dict2)<max_num):
-                    datalink1="https://dev.socrata.com/foundry/data.cityofnewyork.us/"
-                    datalink2='https://data.cityofnewyork.us/resource/'
-                    response = requests.get(url)
-                    soup = BeautifulSoup(response.text, "html.parser")
-                    # parent div with meta tag
-                    links=soup.findAll("div", {"class": "browse2-result"})
-                    for link in links:
-                        tags_array=[]
-                        if(len(dict2)<max_num):
-                            try:
-                                # get href and add .json at the end
-                                href2=link.findAll("a",{"class":"browse2-result-api-link"})[0]["href"].replace(datalink1,datalink2)
-                                href=href2+".json"
-                                print(href)
-                                title=link.findAll("a",{"class":"browse2-result-name-link"})[0].string
-                                temp_array_for_keywords_with_datasetname.append(title)
-                                dict2[title]=href
-                                dict_to_hold_jsonlink[title]=href
-                                taglist=link.findAll("div",{"class":"browse2-result-topics"})
-                                tag_arr=taglist[0].findAll("a")
-                                for tag_element in tag_arr:
-                                    tag=tag_element.find("span").string
-                                    tags_array.append(tag)
-                                    if tag not in uniq_taglist:
-                                        uniq_taglist.append(tag)
-                                        temp_array_for_tags_basedon_keyword.append(tag)
-                                datasets_with_tag_array[title]=tags_array
-                            except IndexError:
-                                pass
-                                #print(link.findAll("a",{"class":"browse2-result-name-link"})[0].string)
-                count=count+1
-            dict_of_tags_basedon_keyword[keyword]=temp_array_for_tags_basedon_keyword
-            keyword_based_datasetname_array[keyword]=temp_array_for_keywords_with_datasetname
-            print(len(dict_to_hold_jsonlink))
+        keyword_based_datasetname_array={}
+        #keyword_list=['health','energy','education']
+        files = glob.glob('./upload/*')
+        for f in files:
+            os.remove(f)
+        for keyword in keyword_list:
+            print("Fetching ...",keyword)
+            temp_list_for_tags=[]
+            temp_list_for_datasets=[]
+            url = 'http://api.us.socrata.com/api/catalog/v1?q='+keyword+'&domains=data.cityofnewyork.us&offset=0&limit='+str(max_num2)
+            resp = requests.get(url=url)
+            data = resp.json()
+            tags_dict={}
+            for i in data['results']:
+                if len(temp_list_for_datasets)<max_num and i['resource']['type']=='dataset':
+                    datasetname=re.sub("/","",i['resource']['name'])
+                    dataset_id=i['resource']['id']
+                    try:
+                        url2='https://data.cityofnewyork.us/resource/'+dataset_id+".csv"
+                        dict_to_hold_download_link[datasetname]=url2
+                        #data=pd.read_csv(url2)
+                        #data.to_csv("./upload/"+datasetname+".csv",sep=",",index=False)
+                        datasets_with_tag_array[datasetname]=i['classification']['domain_tags']
+                        temp_list_for_tags+=i['classification']['domain_tags']
+                        tags_dict[datasetname]=i['classification']['domain_tags']
+                        temp_list_for_datasets.append(datasetname)
+                        #print("Found :",i['resource']['type'],dataset_id)
+                    except:
+                        print("Error :",i['resource']['type'],datasetname)
+                        #data.to_csv("./upload/"+i['resource']['name']+".csv")
+            dict_of_tags_basedon_keyword[keyword]=temp_list_for_tags
+            uniq=[]
+            for key in dict_of_tags_basedon_keyword:
+                temp=[]
+                for tag in dict_of_tags_basedon_keyword[key]:
+                    if tag not in uniq:
+                        temp.append(tag)
+                        uniq.append(tag)
+                    else:
+                        pass
+                dict_of_tags_basedon_keyword[key]=temp
+            keyword_based_datasetname_array[keyword]=temp_list_for_datasets
+        print("Elapsed time: ",time.time()-start)
         return make_response(jsonify({"datasets_with_tag_array":datasets_with_tag_array,"dict_of_tags_basedon_keyword":dict_of_tags_basedon_keyword,"keyword_based_datasetname_array":keyword_based_datasetname_array}), 200)
+#------------------------------------------------- Downloading datasets after search-datasets request
 @app.route('/dataset_loader',methods=['POST','GET'])
 def load_all():
     print("Got it")
     start=time.time()
-    global dict_to_hold_jsonlink
-    for key in dict_to_hold_jsonlink:
+    global dict_to_hold_download_link
+    for key in dict_to_hold_download_link:
         try:
-            data=pd.read_json(dict_to_hold_jsonlink[key])
-            #data.to_csv(r"upload/"+re.sub("/","",key)+".csv",sep=",")
+            data=pd.read_csv(dict_to_hold_download_link[key])
+            data.to_csv(r"upload/"+re.sub("/","",key)+".csv",sep=",",index=False)
         except:
             print("error in file location")
     print("Elapsed Time is: ",time.time() - start)
-    return make_response(jsonify({"Hello":"hi"}), 200)
+    return make_response(jsonify({"Download status":"Downloadin is done!"}), 200)
+
 #------------------------------------------------- Processing first bar request
 @app.route('/first_bar',methods=['POST','GET'])
 def first_bar():
@@ -164,13 +151,11 @@ def first_bar():
 #------------------------------------------------- Processing process request
 @app.route('/json',methods=['POST','GET'])
 def processing():
-    print("Processing")
     if(request.is_json):
         req=request.get_json();
         datasets=req.get("datasets");
         #print("datasets are: ",req.get("all"), file=sys.stderr)
         if(req.get("myrequest")=='data'):
-            print("my request is data")
             datasets_with_Attributes={}
             count=0;
             type=req.get("type");
@@ -178,14 +163,20 @@ def processing():
                 mypath='./uploaded/*.csv'
             else:
                 mypath='./upload/*.csv'
-            for filename in datasets:
-                print(filename)
+            for filename in glob.glob(mypath):
                 if(type!="first_load" and req.get("all")=="false" ):              #--------------------------- executed after uploaded is done
-                    df = pd.read_json(dict_to_hold_jsonlink[filename]);
-                    datasets_with_Attributes[filename]=df.columns.tolist()
+                    if(filename[9:] in datasets):
+                        if(count<150):
+                            count=count+1;
+                            df = pd.read_csv(filename);
+                            fname=re.sub(r'.csv', '',filename[9:])
+                            datasets_with_Attributes[fname]=df.columns.tolist()
                 elif(type=="first_load"):                                        #--------------------------- executed after uploaded is done
-                    df = pd.read_json(dict_to_hold_jsonlink[filename]);
-                    datasets_with_Attributes[filename]=df.columns.tolist()
+                    if(count<150):
+                        count=count+1;
+                        df = pd.read_csv(filename);
+                        fname=re.sub(r'.csv', '',filename[11:])
+                        datasets_with_Attributes[fname]=df.columns.tolist()
             unionA={}
             for key in datasets_with_Attributes:
                 for val in datasets_with_Attributes[key]:
@@ -214,7 +205,6 @@ def processing():
                         if dataset not in temp_arr:
                             temp_arr.append(dataset)
                             temp_dic[dataset]=datasets_with_Attributes[dataset]
-                            print("dataset is: ",dataset, file=sys.stderr)
             # create the data for json reply
             first_bar_Arr.insert(0,only_shared_attributes)
             first_bar_Arr.insert(1,first_bar_values)
@@ -222,7 +212,6 @@ def processing():
             #print("json is: ",mydata, file=sys.stderr)
             return make_response(jsonify(mydata), 200)
         elif(req.get("filename")!=''):
-            print("my request is !")
             file =req.get("filename")
             data=pd.read_csv(file)
             dict1={}
@@ -257,12 +246,9 @@ def hello_world3():
                     for j in newData[i]:
                         p=newData[i][j]/len
                         if(p!=0):
-                            print("P is: ",i,p, file=sys.stderr)
                             dict_test.append(round(p,4))
                     newData[i]=dict_test
                 result[dataset]=newData
-        for i in result:
-            print("Result is: ",i, file=sys.stderr)
         return make_response(jsonify(result), 200)
 #--------------------------------------------------------------------- Processing stat request
 @app.route('/statmetrics',methods=['POST','GET'])
@@ -309,7 +295,7 @@ def stat_metric():
                     dict2={}
                     for att in given[1]:
                         if att in data.columns:
-                            print("Correlation: ",att)
+                            
                             dict2[att]=data.corr()[att].drop(att,axis=0).to_dict()
                     corr_dict[dataset]=dict2
                             #print("data is ",corr_dict, file=sys.stderr)
@@ -400,7 +386,7 @@ def stat_metric2():
             return make_response(jsonify({"correlation_data":corr_dict}), 200)
 # ---------------------------------------------------------------------------------------KL-Divergnce
         elif(req.get("req_for")=='kl_div'):
-            print("Kl_div got ",req.get("given"), file=sys.stderr)
+            
             kl_dict={}
             given=req.get("given")
             numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']
