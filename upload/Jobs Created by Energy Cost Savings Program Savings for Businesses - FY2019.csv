@@ -1,0 +1,49 @@
+no,applicant_name,address,zip_code,emp,total,savings_annual,investment,borough,latitude,longitude,community_board,council_district,census_tract,bin,bbl,nta
+1,The Dime Savings Bank of Williamsburg,"300 Cadman Plaza West, Brooklyn, NY",11201,151,,7354.0,,BROOKLYN,40.695198,-73.99086899999999,302.0,33.0,502.0,3001937.0,3002390001.0,Brooklyn Heights-Cobble Hill
+2,VaynerMedia LLC,"21-09 Borden Avenue, Queens, NY",11101,100,,11462.0,,QUEENS,40.740383,-73.949562,402.0,26.0,1.0,4000531.0,4000690004.0,Hunters Point-Sunnyside-West Maspeth
+3,"Wild Edibles, Inc.","740 Barry Street, Bronx, NY",10474,28,279.0,16293.0,"$1,343,000.00",BRONX,40.812618,-73.894712,202.0,17.0,93.0,2005902.0,2027360115.0,Hunts Point
+4,"North Brooklyn Industrial Center aka Evergreen, Inc. @ 164 Cook Street","164 Cook Street, Brooklyn, NY",11206,0,,,"$230,237.00",BROOKLYN,40.70288,-73.93640500000001,301.0,34.0,485.0,3071626.0,3031230015.0,Bushwick South
+5,Allison Eden Studios (164) Tenant in SEP,"164 Cook Street, Brooklyn, NY",11206,6,,1221.0,,BROOKLYN,40.70288,-73.93640500000001,301.0,34.0,485.0,3071626.0,3031230015.0,Bushwick South
+6,Treasure Asset StorageLLC,"122 West 146th St., New York, NY",10039,4,,,"$938,321.00",MANHATTAN,40.821456,-73.936588,110.0,9.0,232.0,1000000.0,1020140045.0,Central Harlem North-Polo Grounds
+7,"J&B Realty, LLC  dba Gallant & Wein Corp.","11-20 43rd Road, Queens, NY",11101,30,40.0,17843.0,"$133,046.00",QUEENS,40.750848,-73.948587,402.0,26.0,19.0,4005214.0,4004450001.0,Hunters Point-Sunnyside-West Maspeth
+8,"Kickstarter, Inc.","58 Kent Street, Brooklyn, NY",1222,123,,16013.0,"$4,275,000.00",,,,,,,,,
+9,"Evergreen, Inc. (162)","162 Cook Street, Brookyn, NY",11206,0,,,"$230,237.00",BROOKLYN,40.702869,-73.93646600000001,301.0,34.0,485.0,3071625.0,3031230014.0,Bushwick South
+10,Wood Works (162),"162 Cook Street, Brookyn, NY",11206,2,,615.0,,BROOKLYN,40.702869,-73.93646600000001,301.0,34.0,485.0,3071625.0,3031230014.0,Bushwick South
+11,Rufus Corporation,"1545 Dean Street, Brooklyn, NY",11213,2,,1144.0,"$150,000.00",BROOKLYN,40.676173999999996,-73.93681600000001,308.0,36.0,311.0,3035656.0,3013400051.0,Crown Heights North
+12,Threefold Holding LLC,"209 Third Avenue, Brooklyn, NY",11217,6,133.0,4992.0,"$42,655.00",BROOKLYN,40.679704,-73.98449699999999,306.0,33.0,119.0,3006987.0,3004270010.0,Park Slope-Gowanus
+13,"Global Container Terminal New York, LP","300 Western Avenue, State Island, NY",10303,292,,308631.0,"$13,203,502.00",STATEN IS,40.633645,-74.182637,501.0,49.0,323.0,5000000.0,5014100250.0,Mariner's Harbor-Arlington-Port Ivory-Graniteville
+14,"Evergreen, Inc. (158)","158 Cook Street, Brooklyn, NY",11206,0,292.0,,"$460,475.00",BROOKLYN,40.702845,-73.936589,301.0,34.0,485.0,3071624.0,3031230012.0,Bushwick South
+15,NR Wood (158),"158 Cook Street, Brooklyn, NY",11206,6,,2113.0,,BROOKLYN,40.702845,-73.936589,301.0,34.0,485.0,3071624.0,3031230012.0,Bushwick South
+16,Charles H Greenthal Management Corp.,"30-30 Northern Blvd, Suite 400, Queens, NY",11101,91,,6104.0,,QUEENS,40.751201,-73.934402,401.0,26.0,171.0,4003411.0,4002390060.0,Hunters Point-Sunnyside-West Maspeth
+17,Brooklyn Wholesale Bakery LLC,"828 /east 144th Street, Queens, NY",11378,252,,12184.0,,,,,,,,,,
+18,"New Palace Painters Supply Co., Inc.","528-540 E 180th Street, Bronx, NY",10457,15,364.0,3342.0,"$995,000.00",BRONX,40.850637,-73.89394,206.0,15.0,37504.0,,,East Tremont
+19,"Presentation Products, Inc.","30-02 48th Avenue, Queens, NY",11101,25,,4395.0,,QUEENS,40.741426000000004,-73.937833,402.0,26.0,199.0,4003546.0,4002870011.0,Hunters Point-Sunnyside-West Maspeth
+20,"Harry Brainum, Jr., Inc.","360 McGuinness Blvd. Brooklyn, NY",11364,21,,6522.0,"$168,000.00",,,,,,,,,
+21,"Klienberg Electric, Inc.","850 Third Avenue, Brooklyn, Ny",11232,93,,4570.0,,BROOKLYN,40.658518,-74.003327,307.0,38.0,18.0,3009889.0,3006710001.0,Sunset Park West
+22,"Concept Farm, Inc.","11-25 44th Road, Queens, NY",11101,18,157.0,772.0,,QUEENS,40.749237,-73.949061,402.0,26.0,19.0,4005223.0,4004460021.0,Hunters Point-Sunnyside-West Maspeth
+23,Uncommon Goods LLC,"140 58th Street, Bldg. B Unit 7A, Brooklyn, NY",11220,270,,4146.0,,BROOKLYN,40.645338,-74.022864,307.0,38.0,18.0,3414976.0,3057780001.0,Sunset Park West
+24,UTC Corporation,"55 Water Street, 4th fl, Brooklyn, NY",11201,61,,4762.0,,BROOKLYN,40.703301,-73.992047,302.0,33.0,21.0,3000019.0,3000260050.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
+25,"William Sonoma, Inc. dba West Elm","55 Water Street, 4th fl, Brooklyn, NY",11201,370,,41477.0,,BROOKLYN,40.703301,-73.992047,302.0,33.0,21.0,3000019.0,3000260050.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
+26,"MKJ Communications, Inc.","850 Third Avenue, Brooklyn, NY",11232,18,719.0,2897.0,,BROOKLYN,40.658518,-74.003327,307.0,38.0,18.0,3009889.0,3006710001.0,Sunset Park West
+27,"S.D.C. Designs, LLC","30-30 47th Avenue,Ste 520, Queens, NY",11101,53,,7778.0,,QUEENS,40.743168,-73.93656800000001,402.0,26.0,199.0,4003540.0,4002820001.0,Hunters Point-Sunnyside-West Maspeth
+28,"E&C Property Holdings, Inc.","48-40 34th Street, Queens, NY",11378,484,,13957.0,"$33,517,049.00",QUEENS,40.740316,-73.931613,402.0,26.0,199.0,4003455.0,4002550016.0,Hunters Point-Sunnyside-West Maspeth
+29,Delvi Realty Corp. dba Rovi Construction Corp.,"18-48 Steinway Street, Queens, NY",11105,2,,3203.0,"$287,000.00",QUEENS,40.779245,-73.898267,401.0,22.0,12301.0,4448619.0,4008130063.0,Steinway
+30,"Krasnyi Oktybar, Inc./Red October","60 20th Street, Brooklyn, NY",11232,17,556.0,3842.0,"$19,619.00",BROOKLYN,40.665171,-73.998144,307.0,38.0,18.0,3336798.0,3006350010.0,Sunset Park West
+31,David Weeks Studio LLC,"1818-1820 Atlantic Avenue, Brooklyn, NY",11206,15,,684.0,"$168,000.00",BROOKLYN,40.677347,-73.929334,308.0,36.0,307.0,3035578.0,3013370019.0,Crown Heights North
+32,Music Archive Collection LLC,"58-86 Grand Avenue, Queens, NY",11378,1,16.0,3087.0,,QUEENS,40.720275,-73.90894200000001,405.0,30.0,525.0,4540084.0,4026810044.0,Maspeth
+33,"Tristate Plumbing Services, Inc.","1421/1431-1439 Cromwell Avenue, Bronx, NY",10452,134,,13725.0,"$79,100.00",,,,,,,,,
+34,"Grimm Ales, LLC","990 Metroplitan Avenue, Brooklyn, NY",11232,2,,1475.0,"$79,137.12",,,,,,,,,
+35,"Bragard, Inc.","37-10 Crescent Street, Queens, NY",11101,31,,4326.0,,QUEENS,40.756693,-73.934899,401.0,26.0,33.0,4004444.0,4003677501.0,Queensbridge-Ravenswood-Long Island City
+36,"Octopus Garden, Inc./Octopus Two Corp.","15 Newark Avenue, Staten Island, NY",10302,9,176.0,5490.0,"$34,300.00",STATEN IS,40.638163,-74.14348000000001,501.0,49.0,207.0,5103978.0,5011230034.0,Port Richmond
+37,"SIM Ditigal New York, Inc. dba Post FactoryNY","12-14 Debrosses St., aka 115-17 Watts St., New York , NY",10013,54,,34313.0,"$421,802.99",MANHATTAN,40.723365,-74.008756,101.0,1.0,39.0,1002932.0,1002250006.0,SoHo-TriBeCa-Civic Center-Little Italy
+38,"T&M Richardson, LLC","279 N. Henry St, Brooklyn, NY",11222,3,,17843.0,"$1,246,218.00",BROOKLYN,40.728858,-73.944097,301.0,33.0,589.0,3000000.0,3026290011.0,Greenpoint
+39,"Barry X Ball Studio, Inc.","193 Banker Street, Brooklyn, NY",11222,15,,3966.0,"$9,830,316.73",BROOKLYN,40.725029,-73.955523,301.0,33.0,561.0,3065495.0,3026160045.0,Greenpoint
+40,Rogers Surveying PLLC,"2420 Arthur Kill Road, Staten Island, NY",11354,40,,6896.0,"$1,605,000.00",,,,,,,,,
+41,Bimmy's LLC,"47-00 33rd Street, Queens, NY",11101,188,,13875.0,$-,QUEENS,40.742385999999996,-73.932148,402.0,26.0,199.0,4003447.0,4002520018.0,Hunters Point-Sunnyside-West Maspeth
+42,"Worldwide Plumbing Supply, Inc.","125 Lake Avenue, Staten Island, NY",10303,43,343.0,10837.0,"$727,389.00",STATEN IS,40.633518,-74.150942,501.0,49.0,239.0,5000000.0,5011610001.0,Mariner's Harbor-Arlington-Port Ivory-Graniteville
+43,"JPR Mechanical, Inc.","429 East 164th Street, Bronx, NY",10456,183,,2059.0,,BRONX,40.826204,-73.911037,203.0,17.0,185.0,2092356.0,2023860067.0,Morrisania-Melrose
+44,Albert Einstein College of Medicine,"1196 Pierce Avenue, Bronx, NY",10461,42,,7288.0,"$609,760.00",BRONX,40.848176,-73.846583,211.0,13.0,286.0,2044325.0,2040900019.0,Van Nest-Morris Park-Westchester Square
+45,T&Z Properties LLC (received date is 11/1/2011 on application),"54-21 73rd Place, Queens, NY",11378,14,,3203.0,"$107,492.00",QUEENS,40.729191,-73.888992,405.0,30.0,49302.0,4062880.0,4028030084.0,Maspeth
+46,Pilotworks Brooklyn LLC,"630 Flushing Avenue, Unit 200, Brooklyn, NY",11206,12,,4392.0,,BROOKLYN,40.699963000000004,-73.948449,303.0,36.0,257.0,3329628.0,3017200001.0,Bedford
+47,GBW LLC,"42-46 Walworth Street, Brooklyn, NY",11205,66,,37027.0,"$206,200.00",BROOKLYN,40.697957,-73.95494599999999,303.0,33.0,1237.0,3338196.0,3017160048.0,Bedford
+48,"Free Bread, Inc.","630 Flushing Avenue, Unit    , Brooklyn, NY",11206,11,328.0,400.0,,BROOKLYN,40.699963000000004,-73.948449,303.0,36.0,257.0,3329628.0,3017200001.0,Bedford

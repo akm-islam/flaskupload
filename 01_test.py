@@ -23,7 +23,7 @@ import time
 app = Flask(__name__)
 CORS(app)
 dict_to_hold_download_link={}
-# ---------------------------------------------------------------------------------------Merge datasets
+#--------------------------------------------------------------------------------------------------------------------------------------------------- Merge datasets
 @app.route('/merge',methods=['POST','GET'])
 def merge_datasets():
     if(request.is_json):
@@ -43,7 +43,7 @@ def merge_datasets():
         response=make_response(jsonify({"response":"Done"}), 200)
         response.headers.add('Access-Control-Allow-Origin', '*')
         return response;
-# ---------------------------------------------------------------------------------------Return to Download
+#--------------------------------------------------------------------------------------------------------------------------------------------------- Return to Download
 @app.route('/returnfiles')
 def return_files_tut():
     return send_file('upload/export.csv', attachment_filename='export.csv',as_attachment=True)
@@ -52,7 +52,7 @@ def return_files_tut():
 def return_files_tut2():
     return send_file('uploaded/urbanForestManual.pdf', attachment_filename='urbanForestManual.pdf',as_attachment=True)
 
-#------------------------------------------------- Processing search-datasets request
+#--------------------------------------------------------------------------------------------------------------------------------------------------- Processing search-datasets request
 @app.route('/search_datasets',methods=['POST','GET'])
 def search_datasets_func():
     global dict_to_hold_download_link
@@ -107,8 +107,11 @@ def search_datasets_func():
                 dict_of_tags_basedon_keyword[key]=temp
             keyword_based_datasetname_array[keyword]=temp_list_for_datasets
         print("Elapsed time: ",time.time()-start)
-        return make_response(jsonify({"datasets_with_tag_array":datasets_with_tag_array,"dict_of_tags_basedon_keyword":dict_of_tags_basedon_keyword,"keyword_based_datasetname_array":keyword_based_datasetname_array}), 200)
-#------------------------------------------------- Downloading datasets after search-datasets request
+        return make_response(jsonify({
+            "datasets_with_tag_array":datasets_with_tag_array,
+            "dict_of_tags_basedon_keyword":dict_of_tags_basedon_keyword,
+            "keyword_based_datasetname_array":keyword_based_datasetname_array}), 200)
+#--------------------------------------------------------------------------------------------------------------------------------------------------- Downloading datasets after search-datasets request
 @app.route('/dataset_loader',methods=['POST','GET'])
 def load_all():
     print("Got it")
@@ -123,33 +126,8 @@ def load_all():
     print("Elapsed Time is: ",time.time() - start)
     return make_response(jsonify({"Download status":"Downloadin is done!"}), 200)
 
-#------------------------------------------------- Processing first bar request
-@app.route('/first_bar',methods=['POST','GET'])
-def first_bar():
-    print("first bar")
-    if(request.is_json):
-        req=request.get_json();
-        if(req.get("type")=="first_load"):
-            mypath='./uploaded/*.csv'
-        else:
-            mypath='./upload/*.csv'
-        dict1={}
-        for filename in glob.glob(mypath):
-            df = pd.read_csv(filename);
-            fname=re.sub(r'.csv', '',filename[9:])
-            for col in df.columns:
-                if col not in dict1:
-                    dict1[col]=1
-                else:
-                    dict1[col]=dict1[col]+1
-        sorted_dict = sorted(dict1.items(), key=lambda x:x[1], reverse=True)
-        dict3={}
-        for a, b in sorted_dict: 
-            dict3[a]=b
-        dict4={"attributes":list(dict3.keys()),"frequency":list(dict3.values())}
-        return make_response(jsonify(dict4), 200)
-#------------------------------------------------- Processing process request
-@app.route('/json',methods=['POST','GET'])
+#--------------------------------------------------------------------------------------------------------------------------------------------------- Processing showlink request
+@app.route('/showlink_processor',methods=['POST','GET'])
 def processing():
     if(request.is_json):
         req=request.get_json();
@@ -227,7 +205,7 @@ def processing():
     else:
         return make_response(jsonify({"message": "Else"}), 200)
 
-#------------------------------------------------- Processing probability distribution request
+#--------------------------------------------------------------------------------------------------------------------------------------------------- Processing probability distribution request
 @app.route('/json2',methods=['POST','GET'])
 def hello_world3():
     if(request.is_json):

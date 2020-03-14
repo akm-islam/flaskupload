@@ -1,0 +1,66 @@
+bin_number,building,sqft,electric,natural_gas_usage_1,fuel_oil_2_delivery_1,fuel_oil_4_delivery_1,fuel_oil_6_delivery_1,steam_usage_1,electric_usage,natural_gas_usage_2,fuel_oil_2_b5_delivery,fuel_oil_2_delivery_2,fuel_oil_4_delivery_2,fuel_oil_6_delivery_2,steam_usage_2,types
+2009911,Bronx Bergen Building,"* 90,000",,,,,,,,,,,1740.0,,,Gas Primary/FO Secondary
+1001289,Office Building 100 Gold St,"* 594,000",,,,,,,,,4660.0,1497.0,,,,Gas Primary/FO Secondary
+1001835,Clocktower Building,"* 369,376",,,,,,,,,,,,,,ConEd Steam
+2099027,Bronx Concourse Plaza,"* 231,190",,,,,,,,,,,,,,Gas Only
+1078613,City Planning Building,"* 101,150",,,,,,,,,,,,,,ConEd Steam
+3392969,Office Building (345 Adams Street),"* 333,652",,,,,,,,,511.0,,,,,Gas Primary/FO Secondary
+5000085,Office Building (130 Stuyvesant Place SI),"* 333,652",,,,,,,,,,,,,,"No boilers, Heated with Gas Fired Chillers"
+1079215,Sun Building,"* 242,962",,,,,,,,,,,,,,ConEd Steam
+1002358,Excelsior Building,"* 59,000",,,,,,,,,,1957.0,,,,Gas Primary/FO Secondary
+1001830,Louis J Lefkowitz Building,"* 474,150",,,,,,,,,,,,,,ConEd Steam
+1001831,Health Building,"* 406,109",,,,,,,,,,,,,,ConEd Steam
+1082757,Home Life Building,"* 272,616",,,,,,,,,,,,,,ConEd Steam
+1001672,Court Square Building,"* 364,802",,,,,,,,,,1731.0,,,,Gas Primary/FO Secondary
+1079216,Emigrant Savings Building,"* 286,000",,,,,,,,,,,,,,ConEd Steam
+2113095,Bronx Hall of Justice,"* 784,000",,,,,,,,,,7810.0,,,,Gas Primary/FO Secondary
+3000534,Brooklyn Criminal Court,"* 264,100",,,,,,,,,,,1205.0,,,"Gas Primary/FO Secondary, also feeds Brooklyn House of Detention"
+1016743,Manhattan Appellate Court,"* 54,300",,,,,,,,,,,,,,ConEd Steam
+1085748,Manhattan Supreme Court,"* 322,300",,,,,,,,,,,,,,ConEd Steam
+1054382,Harlem Courthouse,"* 25,988",,,,,,,,,,3102.0,,,,Gas Primary/FO Secondary
+2002704,Bronx Family and Criminal Court,"* 490,000",,,,,,,,,,5007.0,,,,Gas Primary/FO Secondary
+3331865,Red Hook Community Court,"* 32,820",,,,,,,,,,,,,,Leased Space for Which DCAS pays the energy bill
+4438731,Queens Family Court,"* 300,150",,,,,,,,,,464.0,,,,Gas Primary/FO Secondary
+2101266,Bronx Housing Court,"* 99,504",,,,,,,,,,263.0,,,,Gas Primary/FO Secondary
+4000698,Long Island City Courthouse,"* 59,540",,,,,,,,,,850.0,,,,Gas Primary/FO Secondary
+4207071,Queens Supreme Court,"* 308,200",,,,,,,,,662.0,,,,,Gas Primary/FO Secondary
+1001842,Manhattan Family Court,"* 491,000",,,,,,,,,,,,,,ConEd Steam
+5004530,Staten Island Civil Court,"* 18,000",,,,,,,,,,,,,,Gas Only
+1001833,Manhattan Civil Court,"* 467,455",,,,,,,,,,,,,,ConEd Steam
+4448759,Queens Civil Court,"* 320,535",,,,,,,,,,1224.0,,,,Gas Primary/FO Secondary
+3167212,Dyker School,"* 51,680",,,,,,,,,,2000.0,,,,
+3025510,John Jay High School,"* 318,125",,,,,261648.0,,,,,2000.0,,232200.0,,
+1001388,Murry Bergtraum High School,"* 366,200",,,,,,,,,,,,,,
+3378160,Emma L. Johnston School,"* 88,400",,,7302.0,,,,,,,3500.0,,,,
+3081032,Dr. Rose B. English,"* 82,400",,,,,57351.0,,,,,,,,,
+3177680,The Highlawn School,"* 86,989",,,,21503.0,,,,,,,25004.0,,,
+2003051,P.S.73X,"* 98,500",,,74015.0,,,,,,,79500.0,,,,
+1076751,George Washington High School,"* 337,260",,,43320.0,,59168.0,,,,,,,225640.0,,
+2027459,James Monroe High School,"* 304,975",,,,,187311.0,,,,,,,153259.0,,
+2082444,The City Island School,"* 59,460",,,,15505.0,,,,,,,21504.0,,,
+1052384,Roberto Clemente,"* 72,080",,,,,,,,,,,,,,
+4529898,P.S.208Q,"* 87,600",,,,,,,,,,3000.0,,,,
+1001037,High School of Economics & Finance,"* 115,125",,,,,,,,,,,,,,
+4195688,Richmond Hill High School,"* 224,360",,,,,134732.0,,,,,,,128012.0,,
+1001035,High School for Leadership in Public Services,"* 99,000",,,,,,,,,,,,,,
+3045047,George E. Wibecan School,"* 106,860",,,,,47830.0,,,,,,,42342.0,,
+1064871,Shorac Kappock School,"* 115,375",,,,,,,,,,,,,,
+3085070,Roberto Clemente School,"* 64,925",,,,,34161.0,,,,,,,29191.0,,
+3043248,Thaddeus Stevens School,"* 130,925",,,,,47891.0,,,,,,,,,
+4181565,Forest Park School,"* 90,665",,,2000.0,,,,,,,2500.0,,,,
+4085173,Seneca School,"* 57,843",,,6502.0,,,,,,,,,,,
+2013899,Middle School 399,"* 133,325",,,,,87524.0,,,,,,,,,
+4004170,Dutch Kills,"* 79,325",,,3001.0,,,,,,,7700.0,,,,
+3032886,Medger Evers Middle College,"* 57,580",,,,,,,,,,,,,,
+2011810,Theodore Roosevelt High School,"* 382,925",,,,,266589.0,,,,,,,183350.0,,
+2010604,MS / High School 270,"* 70,230",,,,,,,,,,,,,,
+4467711,P.S.43Q,"* 167,480",,,1978.0,,,,,,,5400.0,,,,
+3083660,William H. Maxwell High School,"* 180,175",,,,,,,,,,,,,,
+3154215,Brooklyn School District 20,"* 62,180",,,,,,,,,,2001.0,,,,
+4268900,Saint Albans School,"* 51,660",,,,22433.0,,,,,,,19009.0,,,
+2086851,George J. Werdan III School,"* 156,125",,,,,,,,,,,,,,
+2096013,Institute for Environmental Learning,"* 162,125",,,,,,,,,,,,,,
+5113169,The Michael J. Petrides School,"* 299,200",,,2283.0,,,,,,,18665.0,,,,
+3246519,Manhattan Beach School,"* 56,988",,,,,,,,,,,,,,
+2097990,The Multiple Intelligence School,"* 68,050",,,,,,,,,,,,,,
+1087537,Norman Thomas High School,"* 314,952",,,,,,,,,,,,,,

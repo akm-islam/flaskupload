@@ -1,0 +1,1001 @@
+bbl,street_number,street_name,borough,zip,benchmarking_submission,entry_number,site_eui,weather_normalized_source_eui,water_per_square_foot,energy_star_score,ghg,reported_building_square_footage,reported_facility_type,number_of_buildings,reported_bins,latitude,longitude,community_board,community_council,census_tract,bin,nta
+1001840005,,MARGINAL STREET     ,MANHATTAN,10013,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1001840008,,MARGINAL STREET     ,MANHATTAN,10013,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1000160150,250,VESEY PLACE         ,MANHATTAN,10282,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1000360012,,PIER 9              ,MANHATTAN,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1000360018,   PIER11,SOUTH STREET        ,MANHATTAN,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1000360025,   PIER13,SOUTH STREET        ,MANHATTAN,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1000360030,   PIER14,SOUTH STREET        ,MANHATTAN,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1000730002,  PIER-15,SOUTH STREET        ,MANHATTAN,10038,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1001610003,,PARK ROW            ,MANHATTAN,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1005540035,45,PARK AVENUE SOUTH   ,MANHATTAN,10003,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1006510011,46,MARGINAL STREET     ,MANHATTAN,10014,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1006620002,,MARGINAL STREET     ,MANHATTAN,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1006620011,     111A,  11 AVENUE         ,MANHATTAN,10011,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1006620016,     111B,  11 AVENUE         ,MANHATTAN,10011,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1006620019,     111C,  11 AVENUE         ,MANHATTAN,10011,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1006650010,,MARGINAL STREET     ,MANHATTAN,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1007060013,,WEST 35 STREET      ,MANHATTAN,10001,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1009910050,,MARGINAL STREET     ,MANHATTAN,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1009910059,    24-50,F D R DRIVE         ,MANHATTAN,10010,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1011070012,,WEST 48 STREET      ,MANHATTAN,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1011090100,,PIER                ,MANHATTAN,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1011660135,,WEST 75 STREET,MANHATTAN,0,Yes,638.0,124.3,279.0,,,620.76,57422.0,Other,1.0,1030727.0,,,,,,,
+1014809001,,F D R DRIVE         ,MANHATTAN,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1014829020,,F D R DRIVE         ,MANHATTAN,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1017400017,2367,5 AVENUE            ,MANHATTAN,10037,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1018190040,8,RANDALLS IS ROAD    ,MANHATTAN,10035,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+1022150089,1271,TERRACE VIEW AVENUE ,MANHATTAN,10034,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+2024430091,820,CONCOURSE VILLIAGE W,BRONX               ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+2024900001,45,RIVER AVENUE        ,BRONX               ,10451,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+2025390002,,MAJ WM DEEGAN BLVD  ,BRONX               ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+2026040174,,OAK POINT AVENUE    ,BRONX               ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+2027810500,,HUNTS POINT AVENUE,BRONX,10474,Yes,2647.0,176.9,479.6,,22.0,13946.14,952000.0,Warehouse (Refrigerated),12.0,,,,,,,,
+2028250030,,MORRIS AVENUE       ,BRONX               ,10457,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+2028660105,,MACOMBS ROAD        ,BRONX               ,10453,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+2028820216,,WEST 176 STREET     ,BRONX               ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+2042220005,1500,EASTCHESTER ROAD    ,BRONX               ,10461,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+2051410700,150,CO-OP CITY BOULEVARD,BRONX               ,10475,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+2052630191,,REEDS MILL LANE     ,BRONX               ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+2052860015,2385,PINKNEY AVENUE      ,BRONX               ,10475,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3002450029,,ATLANTIC AVENUE     ,BROOKLYN            ,11201,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3002550012,,REMSEN STREET       ,BROOKLYN            ,11201,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3006120250,5,ERIE BASIN          ,BROOKLYN            ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3029620001,,SCHOLES STREET      ,BROOKLYN            ,11237,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3029620037,,VARICK AVENUE       ,BROOKLYN            ,11237,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3029680020,,VARICK AVENUE       ,BROOKLYN            ,11237,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3044080001,1205,FLATLANDS AVENUE    ,BROOKLYN            ,11234,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3044110001,921,COZINE AVENUE       ,BROOKLYN            ,11208,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3044520010,1266,PENNSYLVANIA AVENUE,BROOKLYN,11207,Yes,1203.0,206.6,239.4,,,84653.85,7672280.0,Multifamily Housing,1.0,,,,,,,,
+3044520125,155,SCHROEDERS AVENUE,BROOKLYN,11207,Yes,1203.0,206.6,239.4,,,84653.85,7672280.0,Multifamily Housing,1.0,,,,,,,,
+3060620048,,89 STREET           ,BROOKLYN            ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3079690009,5200,UTICA AVENUE        ,BROOKLYN            ,11234,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3081340001,10101,EAST 101 STREET     ,BROOKLYN            ,11236,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3085911500,,FLATBUSH AVENUE     ,BROOKLYN            ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3087208001,,SEACOAST TERRACE    ,BROOKLYN            ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4000110001,2,55 AVENUE           ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4000130160,     2-39,  54 AVENUE         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4085200175,   271-11,  76 AVENUE,QUEENS,11040,Yes,342.0,,,,,,381993.0,Senior Care Facility,1.0,,,,,,,,
+4000340001,     5-43,BORDEN AVENUE,QUEENS,11101,Yes,2386.0,40.5,114.4,,,415.27,120638.0,Multifamily Housing,1.0,4860183.0,,,,,,,
+4000360001,    54-08,VERNON BOULEVARD,QUEENS,11101,Yes,2395.0,52.1,102.8,,,205.36,55498.0,Warehouse (Unrefrigerated),1.0,4000204.0,,,,,,,
+4000390182,    11-58,BORDEN AVENUE,QUEENS,11101,Yes,1493.0,42.0,62.6,,,350.2,136500.0,Other,1.0,4000210.0,,,,,,,
+4000500001,    10-01,  45 ROAD           ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4000500017,    10-41,  45 ROAD,QUEENS,11101,Yes,1959.0,,,,,,66800.0,Office,1.0,4000411.0,,,,,,,
+4000610011,    47-40,  21 STREET,QUEENS,11101,Yes,349.0,45.6,127.5,12.66,95.0,768.29,199365.0,Office,1.0,4441830.0,,,,,,,
+4000680055,    25-20,BORDEN AVENUE       ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4000690001,    21-07,BORDEN AVENUE       ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4000690004,    21-09,BORDEN AVENUE,QUEENS,11101,Yes,1734.0,48.5,82.7,,55.0,669.15,168000.0,Warehouse (Unrefrigerated),1.0,4000531.0,,,,,,,
+4000710001,    21-02,  49 AVENUE,QUEENS,11101,Yes,2466.0,,,,,,,Warehouse (Unrefrigerated),1.0,4000539.0,,,,,,,
+4000710124,    24-02,  49 AVENUE,QUEENS,11101,Yes,1618.0,,,,,,656241.0,Warehouse (Unrefrigerated),1.0,,,,,,,,
+4000830018,    45-40,COURT SQUARE        ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4000840011,    45-18,COURT SQUARE,QUEENS,11101,Yes,2590.0,103.7,265.7,,,991.57,120000.0,Office,1.0,,,,,,,,
+4000860001,    22-44,JACKSON AVENUE,QUEENS,11101,Yes,1009.0,41.1,72.8,,78.0,443.58,168600.0,Warehouse (Unrefrigerated),1.0,4000860001.0,,,,,,,
+4000970004,    47-37,AUSTELL PLACE       ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4000980011,    47-15,PEARSON PLACE,QUEENS,11101,Yes,1948.0,65.8,111.7,,45.0,476.66,87516.0,Warehouse (Unrefrigerated),1.0,4436642.0,,,,,,,
+4000980022,    47-61,PEARSON PLACE,QUEENS,11101,Yes,1036.0,13.9,27.7,,63.0,53.34,55576.0,Warehouse (Unrefrigerated),1.0,4000741.0,,,,,,,
+4000980030,    47-10,AUSTELL PLACE,QUEENS,11101,Yes,1062.0,27.6,53.7,,,142.87,75864.0,Office,1.0,4436643.0,,,,,,,
+4001000012,    25-11,  49 AVENUE         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4001050012,    23-23,BORDEN AVENUE       ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4001130001,    50-09,  27 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4001150048,    47-25,27 STREET           ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4001150187,    47-50,  30 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4001160021,    38-04,BARNETT AVENUE      ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4001200012,    48-18,NORTHERN BOULEVARD,QUEENS,11101,Yes,633.0,139.0,457.6,,,2812.46,217599.0,Mall (Strip Mall and Enclosed),1.0,4000822.0,,,,,,,
+4001200028,    50-30,NORTHERN BOULEVARD  ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4001250010,    38-04,  48 STREET         ,QUEENS              ,11104,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4001430001,    47-00,NORTHERN BOULEVARD,QUEENS,11101,Yes,214.0,82.7,183.6,,,775.1,126125.0,Storage/Shipping/Non-Refrigerated Warehouse,1.0,4001351.0,,,,,,,
+4001430010,    45-10,  48 STREET,QUEENS,11377,Yes,1973.0,106.7,271.8,,71.0,1116.68,129790.0,Retail,2.0,,,,,,,,
+4001830040,    41-02,NORTHERN BOULEVARD,QUEENS,11101,Yes,1508.0,19.7,44.1,,66.0,114.63,78182.0,Warehouse (Unrefrigerated),1.0,,,,,,,,
+4001830051,    42-02,NORTHERN BOULEVARD  ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4001830146,    42-52,NORTHERN BOULEVARD,QUEENS,11101,Yes,879.0,53.2,113.9,8.08,,211.87,55176.0,Retail,1.0,4002368.0,,,,,,,
+4002140016,    36-02,NORTHERN BOULEVARD,QUEENS,11101,Yes,2002.0,,,1.06,,,101973.0,Self-Storage,1.0,4003101.0,,,,,,,
+4002140021,    36-20,NORTHERN BOULEVARD  ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002140210,    33-00,NORTHERN BOULEVARD,QUEENS,11101,Yes,2509.0,38.1,120.4,,95.0,1519.28,436814.0,Office,1.0,4003105.0,,,,,,,
+4002140243,    34-08,NORTHERN BOULEVARD  ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002230001,    38-01,  47 AVENUE,QUEENS,11101,Yes,1604.0,20.0,46.5,,,125.06,82000.0,Self-Storage,2.0,,,,,,,,
+4002300001,    47-36,  36 STREET,QUEENS,11101,Yes,1708.0,39.6,63.9,0.0,,341.88,139143.0,Other,1.0,4003273.0,,,,,,,
+4002370001,    48-49,  35 STREET,QUEENS,11101,Yes,1797.0,46.0,106.0,4.73,42.0,1025.17,255337.0,Warehouse (Unrefrigerated),1.0,4003397.0,,,,,,,
+4002390111,    32-04,NORTHERN BOULEVARD  ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4016340001,   100-15,DITMARS BOULEVARD,QUEENS,11369,Yes,1660.0,,,,64.0,,,Hotel,1.0,4040807.0,,,,,,,
+4002430035,    43-20,  34 STREET,QUEENS,11101,Yes,996.0,92.4,145.9,,,305.48,53816.0,Warehouse (Unrefrigerated),1.0,2773304.0,,,,,,,
+4002470018,    45-11,  33 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002510001,    47-51,  33 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002510015,    47-15,  33 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002520001,    32-35,  48 AVENUE,QUEENS,11101,Yes,1806.0,47.1,55.4,,100.0,708.01,216300.0,Office,1.0,4003446.0,,,,,,,
+4002520018,    32-36,  47 AVENUE,QUEENS,11101,Yes,1496.0,52.6,60.4,,100.0,708.01,193620.0,Office,1.0,4003447.0,,,,,,,
+4002530001,    47-36,VAN DAM STREET      ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002530017,    47-14,  32 PLACE,QUEENS,11101,Yes,486.0,0.0,0.0,,,123.83,0.0,Other,1.0,4003449.0,,,,,,,
+4002550001,    33-01,HUNTERS POINT AVENUE,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002560021,    34-24,HUNTERS POINT AVENUE,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002650001,    43-43,QUEENS STREET,QUEENS,11101,Yes,1422.0,51.2,101.9,,65.0,508.49,143678.0,Warehouse (Unrefrigerated),1.0,4003482.0,,,,,,,
+4002650006,    43-15,QUEENS STREET,QUEENS,11101,Yes,1424.0,58.0,95.2,,76.0,192.78,52500.0,Warehouse (Unrefrigerated),1.0,4003483.0,,,,,,,
+4002660003,    43-22,QUEENS STREET       ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002740001,    30-20,THOMSON AVENUE,QUEENS,11101,Yes,2446.0,80.5,241.3,,,4295.66,609247.0,Education,1.0,4003517.0,,,,,,,
+4002850001,    31-10,31 PLACE,QUEENS,11106,Yes,1791.0,11.6,17.2,,97.0,61.01,68150.0,Warehouse (Unrefrigerated),1.0,4003544.0,,,,,,,
+4002860001,    30-40,  48 AVENUE,QUEENS,11101,Yes,1104.0,46.1,84.7,3.08,62.0,202.11,65415.0,Warehouse (Unrefrigerated),1.0,4003545.0,,,,,,,
+4002870011,    48-02,  30 PLACE          ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002880056,    49-20,VAN DAM STREET,QUEENS,11101,Yes,1516.0,21.5,52.6,,61.0,86.31,51463.0,Warehouse (Unrefrigerated),1.0,,,,,,,,
+4002890001,    49-47,  31 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002920001,    29-01,BORDEN AVENUE       ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002920027,    29-10,HUNTERS POINT AVENUE,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002940150,    29-00,REVIEW AVENUE,QUEENS,11101,Yes,729.0,16.3,28.7,0.91,86.0,191.97,165000.0,Warehouse (Unrefrigerated),1.0,4436712.0,,,,,,,
+4002940173,    30-02,REVIEW AVENUE,QUEENS,11101,Yes,2054.0,,,,100.0,,,Warehouse (Unrefrigerated),1.0,4003565.0,,,,,,,
+4002940200,    30-54,REVIEW AVENUE       ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002950035,    30-01,REVIEW AVENUE       ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4002950052,    30-28,STARR AVENUE,QUEENS,11101,Yes,2553.0,21.6,43.9,,,205.65,134593.0,Warehouse (Unrefrigerated),1.0,4307188.0,,,,,,,
+4002950052,    30-28,STARR AVENUE,QUEENS,11101,Yes,2627.0,21.6,43.9,,,205.65,134593.0,Warehouse (Unrefrigerated),1.0,4307188.0,,,,,,,
+4002970001,    34-35,REVIEW AVENUE,QUEENS,11101,Yes,1147.0,100.8,182.8,,,1077.93,160000.0,Other,1.0,4436713.0,,,,,,,
+4003020006,    34-01,STARR AVENUE,QUEENS,11101,Yes,2630.0,75.5,166.9,,72.0,490.7,88000.0,Hotel,1.0,4865484.0,,,,,,,
+4003120079,    37-88,REVIEW AVENUE       ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4003120089,    38-20,REVIEW AVENUE       ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4003120330,    39-30,REVIEW AVENUE       ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4003120350,    38-60,REVIEW AVENUE       ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4003130001,    33-26,VERNON BOULEVARD    ,QUEENS              ,11106,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4003220118,    34-24,VERNON BOULEVARD    ,QUEENS              ,11106,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4003300019,    10-06,  35 AVENUE         ,QUEENS              ,11106,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4003660001,    37-24,  24 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4003730021,    37-12,  37 AVENUE,QUEENS,11101,Yes,1404.0,125.2,246.9,,56.0,670.59,76243.0,Office,1.0,4004537.0,,,,,,,
+4003760001,    34-01,  38 AVENUE,QUEENS,11101,Yes,778.0,,,,,,,Office,1.0,4004564.0,,,,,,,
+4003770013,    35-02,  37 AVENUE         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4003870031,    38-26,  27 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4003870032,    38-30,  27 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4003920010,    39-25,  21 STREET,QUEENS,11101,Yes,1605.0,10.4,25.6,,,68.33,85000.0,Self-Storage,1.0,,,,,,,,
+4003960010,    39-21,CRESCENT STREET     ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4003990017,    39-05,  29 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004020012,    29-23,  40 ROAD           ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004020025,    40-03,  29 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004070037,    40-34,CRESCENT STREET     ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004090001,    22-19,  41 AVENUE,QUEENS,11101,Yes,441.0,76.2,222.0,,36.0,771.91,112589.0,Office,1.0,,,,,,,,
+4004100009,    40-29,  21 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004100019,    21-02,  40 AVENUE         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004100030,    40-18,  22 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004100038,    40-36,  22 STREET,QUEENS,11101,Yes,442.0,32.5,70.8,,98.0,186.56,79200.0,Office,1.0,,,,,,,,
+4004100046,    21-05,  41 AVENUE,QUEENS,11101,Yes,754.0,39.4,59.2,,88.0,244.19,100923.0,Warehouse (Unrefrigerated),1.0,4004973.0,,,,,,,
+4004110031,    41-02,  22 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004120001,    22-09,QUEENS PLAZA NORTH,QUEENS,11101,Yes,476.0,84.7,178.4,,62.0,444.94,73704.0,Office,1.0,,,,,,,,
+4004150004,    25-01,QUEENS PLAZA NORTH  ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004160010,    27-01,QUEENS PLAZA NORTH,QUEENS,11101,Yes,14.0,60.5,172.9,,82.0,7162.29,689884.0,Office,1.0,,,,,,,,
+4004160021,    41-21,  27 STREET,QUEENS,11101,Yes,14.0,60.5,172.9,,82.0,7162.29,689884.0,Office,1.0,,,,,,,,
+4004180014,    41-15,  29 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004250005,    23-10,QUEENS PLAZA SOUTH  ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004270060,    42-02,  22 STREET,QUEENS,11101,Yes,1150.0,102.9,308.8,,,721.49,80000.0,Other,1.0,4005076.0,,,,,,,
+4004290003,    24-01,  43 AVENUE,QUEENS,11101,Yes,1879.0,73.2,108.2,,,414.74,76000.0,Other,1.0,,,,,,,,
+4004360021,    23-10,  43 AVENUE         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004380026,    21-02,  44 ROAD,QUEENS,11101,Yes,2472.0,47.9,160.0,,30.0,508.23,113000.0,K-12 School,1.0,4020255.0,,,,,,,
+4004390002,    21-30,  44 ROAD,QUEENS,11101,Yes,1233.0,46.7,93.7,,,207.3,64000.0,Warehouse (Unrefrigerated),1.0,4004390002.0,,,,,,,
+4004400008,    43-01,  22 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004410016,    21-16,  43 AVENUE,QUEENS,11101,Yes,2039.0,59.2,116.9,,95.0,512.0,125000.0,Office,1.0,4005198.0,,,,,,,
+4004430014,    12-12,  43 AVENUE,QUEENS,11101,Yes,2069.0,103.2,259.3,,23.0,889.08,108880.0,Office,1.0,4005206.0,,,,,,,
+4004490001,    10-10,  44 AVENUE         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004490013,    44-02,  11 STREET,QUEENS,11101,Yes,2041.0,98.0,237.4,,59.0,1178.47,140000.0,Office,1.0,4005274.0,,,,,,,
+4004610016,    42-11,QUEENS PLAZA SOUTH  ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004710758,    39-34,  21 STREET,QUEENS,11101,Yes,2146.0,34.4,68.8,,97.0,209.62,87069.0,Hotel,1.0,4005328.0,,,,,,,
+4004880011,     5-41,  44 DRIVE          ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4004900011,    27-50,   1 STREET         ,QUEENS              ,11102,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4005220001,    12-01,  34 AVENUE         ,QUEENS              ,11106,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4005760012,    25-10,  30 AVENUE         ,QUEENS              ,11102,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4005930001,    30-03,  30 STREET         ,QUEENS              ,11102,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4006010001,    32-15,  37 AVENUE,QUEENS,11101,Yes,1021.0,,,,,,161603.0,Office,1.0,4007923.0,,,,,,,
+4006190014,    31-21,NEWTOWN AVENUE      ,QUEENS              ,11102,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4006360001,    36-01,  37 AVENUE         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4006400004,    35-37,  36 STREET         ,QUEENS              ,11106,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4006400017,    35-01,  36 STREET         ,QUEENS              ,11106,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4006410009,    35-01,  37 STREET,QUEENS,11101,Yes,2009.0,81.2,211.5,,,621.24,95384.0,Entertainment/Culture,1.0,,,,,,,,
+4006450010,    34-37,  37 STREET         ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4006700008,    35-13,  41 STREET,QUEENS,11101,Yes,1834.0,9.5,31.6,,,46.68,52500.0,Warehouse (Unrefrigerated),3.0,4436909.0,,,,,,,
+4006760010,    32-75,STEINWAY STREET     ,QUEENS              ,11103,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4007250022,    46-02,  31 AVENUE         ,QUEENS              ,11103,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4007480008,    50-01,NORTHERN BOULEVARD  ,QUEENS              ,11101,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4007550019,    19-40,HAZEN STREET        ,QUEENS              ,11370,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4007750023,    45-10,  19 AVENUE         ,QUEENS              ,11105,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4007820001,    43-02,DITMARS BOULEVARD   ,QUEENS              ,11105,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4008000010,    19-40,  42 STREET         ,QUEENS              ,11105,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4008330024,    22-11,  31 STREET,QUEENS,11105,Yes,1990.0,162.4,442.7,,,774.51,57396.0,Other,1.0,4017056.0,,,,,,,
+4008580005,    21-21,  21 AVENUE         ,QUEENS              ,11105,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4009070001,     4-55,  26 AVENUE         ,QUEENS              ,11102,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4009070008,     4-05,  26 AVENUE,QUEENS,11102,Yes,1405.0,35.0,80.0,,60.0,129.6,49654.0,Warehouse (Unrefrigerated),2.0,4437040.0,,,,,,,
+4009110001,     3-15,  26 AVENUE         ,QUEENS              ,11102,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4009120001,     2-15,  26 AVENUE         ,QUEENS              ,11102,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4009150006,    26-01,   1 STREET         ,QUEENS              ,11102,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4009260001,,GRAND CENTRAL PKWY  ,QUEENS              ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4010160075,    26-15,BOODY STREET,QUEENS,11377,Yes,2152.0,,,,,,75573.0,Office,1.0,,,,,,,,
+4010160098,    26-45,BROOKLYN QUEENS EP W,QUEENS              ,11377,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4010160551,    24-01,BROOKLYN QUEENS EP W,QUEENS,11377,Yes,1510.0,25.3,87.2,,7.0,194.81,81966.0,Warehouse (Unrefrigerated),1.0,,,,,,,,
+4010160565,    24-25,BROOKLYN QUEENS EP W,QUEENS              ,11377,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4010170065,    25-44,BOROUGH PLACE       ,QUEENS              ,11377,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4010180002,    25-20,BOROUGH PLACE       ,QUEENS              ,11377,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4010180020,    25-15,  50 STREET,QUEENS,11377,Yes,1602.0,60.2,133.5,,43.0,439.89,100000.0,Warehouse (Unrefrigerated),1.0,4022553.0,,,,,,,
+4010270004,    71-01,  25 AVENUE         ,QUEENS              ,11370,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4010680001,    90-10,GRAND CENTRAL PKWY  ,QUEENS              ,11369,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4010710001,    94-00,DITMARS BOULEVARD   ,QUEENS              ,11369,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4010710050,    94-01,  23 AVENUE         ,QUEENS              ,11369,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4010840001,    23-27,  89 STREET         ,QUEENS              ,11369,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4011140011,    60-01,  31 AVENUE         ,QUEENS              ,11377,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4011420001,    72-02,  31 AVENUE         ,QUEENS              ,11370,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4011850001,    62-10,NORTHERN BOULEVARD  ,QUEENS              ,11377,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4011920001,    51-00,NORTHERN BOULEVARD  ,QUEENS              ,11377,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4012110001,    56-08,  37 AVENUE,QUEENS,11377,Yes,1740.0,11.3,36.5,,96.0,56.45,53000.0,Warehouse (Unrefrigerated),1.0,4027649.0,,,,,,,
+4012570032,    70-05,  35 AVENUE         ,QUEENS              ,11372,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4012740035,    74-09,  37 AVENUE,QUEENS,11372,Yes,2478.0,102.9,237.0,,,730.33,92626.0,Office,1.0,4029563.0,,,,,,,
+4012810038,    81-11,  37 AVENUE,QUEENS,11372,Yes,2638.0,54.4,181.8,,45.0,388.33,76000.0,K-12 School,1.0,,,,,,,,
+4013200053,    51-11,QUEENS BOULEVARD    ,QUEENS              ,11377,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4015360135,    79-17,ALBION AVENUE       ,QUEENS              ,11373,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4016080058,    40-20, 100 STREET         ,QUEENS              ,11368,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4016320009,   100-30,DITMARS BOULEVARD   ,QUEENS              ,11369,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4016320020,   100-17,  23 AVENUE         ,QUEENS              ,11369,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4017820019,    37-10, 114 STREET         ,QUEENS              ,11368,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4017870020,   123-01,ROOSEVELT AVENUE    ,QUEENS              ,11368,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4018330215,   127-92,WILLETS POINT BLVD  ,QUEENS              ,11368,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4018330300,   127-40,WILLETS POINT BLVD  ,QUEENS              ,11368,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4018600100,    90-15,QUEENS BOULEVARD,QUEENS,11373,Yes,438.0,37.6,124.2,,92.0,1317.88,375888.0,Retail,1.0,,,,,,,,
+4018600101,    57-15,  92 STREET         ,QUEENS              ,11373,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4018600102,    92-59,  59 AVENUE         ,QUEENS              ,11373,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4018720007,    56-25,  92 STREET,QUEENS,11373,Yes,1670.0,28.5,47.6,,100.0,168.25,94380.0,K-12 School,1.0,4046340.0,,,,,,,
+4018800007,    97-11,  50 AVENUE         ,QUEENS              ,11368,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4019650015,   108-25,HOR HARDING EP SR N ,QUEENS              ,11368,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4019720038,   111-26,CORONA AVENUE       ,QUEENS              ,11368,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4020840101,    96-05,QUEENS BOULEVARD,QUEENS,11374,Yes,132.0,56.4,166.8,,67.0,969.14,197645.0,Retail,1.0,4050415.0,,,,,,,
+4020910001,    97-45,QUEENS BOULEVARD,QUEENS,11374,Yes,2343.0,61.2,109.8,,,621.98,158427.0,Office,1.0,4050460.0,,,,,,,
+4020920001,    97-77,QUEENS BOULEVARD,QUEENS,11374,Yes,699.0,,,,86.0,,,Office,1.0,4050482.0,,,,,,,
+4022460041,    71-02, 113 STREET         ,QUEENS              ,11375,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4022480099,   112-50,  72 AVENUE         ,QUEENS              ,11375,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4022480228,    70-35, 113 STREET         ,QUEENS              ,11375,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4022660081,   114-03,QUEENS BOULEVARD    ,QUEENS              ,11375,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4022700041,   112-09,QUEENS BOULEVARD,QUEENS,11375,Yes,2433.0,,,,,,300735.0,Office,1.0,,,,,,,,
+4023110250,,49 STREET           ,QUEENS              ,11377,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4023140100,    61-10,QUEENS BOULEVARD,QUEENS,11377,Yes,1765.0,206.0,259.8,,85.0,921.48,70000.0,Retail,1.0,4437383.0,,,,,,,
+4024420002,    72-01,  51 AVENUE         ,QUEENS              ,11377,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4024920094,    53-01,  74 STREET         ,QUEENS              ,11373,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4025450026,    46-50,  54 AVENUE         ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4025460024,    46-36,  54 ROAD           ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4025500090,    46-05,  56 ROAD           ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4025670150,    56-01,  55 AVENUE         ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4025730001,    50-35,  56 ROAD           ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4025730025,    50-02,  55 AVENUE         ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4025730162,    56-05,  55 DRIVE          ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4025750040,    56-75,  49 STREET         ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4025850021,    55-60,  58 STREET,QUEENS,11378,Yes,1789.0,53.6,92.3,4.78,,704.72,193000.0,Other,1.0,4058947.0,,,,,,,
+4026000092,    55-90,  48 STREET         ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4026020058,    57-47,  47 STREET         ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4026020102,    56-45,  48 STREET         ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4026570023,    58-40,BORDEN AVENUE       ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4026020190,    57-00,  49 STREET,QUEENS,11378,Yes,2102.0,,,,76.0,,,Warehouse (Unrefrigerated),1.0,4058972.0,,,,,,,
+4026020200,    57-10,  49 STREET,QUEENS,11378,Yes,1236.0,50.6,89.8,,60.0,252.96,77468.0,Warehouse (Unrefrigerated),1.0,4026020200.0,,,,,,,
+4026030072,    57-01,  49 STREET         ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4026030150,    58-38,PAGE PLACE          ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4026100357,    56-19,GRAND AVENUE,QUEENS,11378,Yes,1567.0,47.4,71.0,,,204.53,72000.0,Other,1.0,4843087.0,,,,,,,
+4026110093,    47-03,METROPOLITAN AVENUE ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4026110106,    47-12,GRAND AVENUE,QUEENS,11378,Yes,1386.0,22.2,72.5,,60.0,417.32,200000.0,Warehouse (Unrefrigerated),1.0,,,,,,,,
+4026110130,    50-00,GRAND AVENUE        ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4026110136,    51-18,GRAND AVENUE,QUEENS,11378,Yes,2084.0,44.6,100.5,,42.0,427.77,131000.0,Warehouse (Unrefrigerated),3.0,4439290.0,,,,,,,
+4026110141,    52-08,GRAND AVENUE,QUEENS,11378,Yes,1377.0,53.1,102.7,7.51,59.0,648.16,180000.0,Warehouse (Unrefrigerated),3.0,,,,,,,,
+4026110362,    52-01,FLUSHING AVENUE,QUEENS,11378,Yes,867.0,23.3,25.1,,,274.68,158904.0,Warehouse (Unrefrigerated),1.0,4059017.0,,,,,,,
+4026110480,    47-05,METROPOLITAN AVENUE ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4026220125,    58-77,  57 STREET         ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4026560064,    58-75,  54 AVENUE,QUEENS,11377,Yes,1321.0,52.0,97.8,5.11,38.0,262.63,75477.0,Warehouse (Unrefrigerated),1.0,4059709.0,,,,,,,
+4026570040,    59-02,BORDEN AVENUE       ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4026660006,    58-55,  56 DRIVE,QUEENS,11378,Yes,1302.0,132.4,394.8,,,733.29,63518.0,Warehouse (Refrigerated),1.0,4805324.0,,,,,,,
+4026660020,    58-80,  59 STREET,QUEENS,11378,Yes,1215.0,,,,,,82428.0,Food Service,1.0,4059726.0,,,,,,,
+4026690001,    58-51,MASPETH AVENUE,QUEENS,11378,Yes,2053.0,98.2,328.1,,,3504.31,380000.0,Other,1.0,4059744.0,,,,,,,
+4026780001,    58-13,GRAND AVENUE        ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4026810001,    58-30,GRAND AVENUE,QUEENS,11378,Yes,1454.0,10.8,20.2,,,110.95,151500.0,Other,1.0,4059931.0,,,,,,,
+4026810084,    58-54,  59 STREET         ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4026870021,    59-40,  55 DRIVE          ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4027990152,    69-95,  58 ROAD           ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4028020001,    72-50,GRAND AVENUE        ,QUEENS              ,11378,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4028050010,    74-04,GRAND AVENUE        ,QUEENS              ,11373,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4028050016,    74-16,GRAND AVENUE        ,QUEENS              ,11373,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4028570036,    90-02,QUEENS BOULEVARD    ,QUEENS              ,11373,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4028600016,    87-28,  58 AVENUE         ,QUEENS              ,11373,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4029740109,    61-35,DRY HARBOR ROAD     ,QUEENS              ,11379,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4029740130,    61-80,WOODHAVEN BOULEVARD ,QUEENS              ,11374,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4030840014,    97-30,QUEENS BOULEVARD    ,QUEENS              ,11374,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4030880001,    60-05,WOODHAVEN BOULEVARD ,QUEENS              ,11373,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4032190001,    69-02,BURNS STREET        ,QUEENS              ,11375,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4032340185,    70-50,AUSTIN STREET,QUEENS,11375,Yes,850.0,166.5,408.7,,,805.04,62001.0,Other,1.0,4077473.0,,,,,,,
+4033210113,   117-01,  84 AVENUE         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4033480037,    80-02,QUEENS BOULEVARD,QUEENS,11373,Yes,2451.0,60.6,171.8,,79.0,2654.32,514975.0,Office,1.0,4312089.0,,,,,,,
+4033580018,   120-46,QUEENS BOULEVARD,QUEENS,11415,Yes,281.0,64.0,91.7,,98.0,186.85,49399.0,Office,1.0,,,,,,,,
+4033750015,    47-40,METROPOLITAN AVENUE ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4033770014,    19-48,TROUTMAN STREET     ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4034100145,    18-19,FLUSHING AVENUE     ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4034100190,    18-13,FLUSHING AVENUE     ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4035390001,    10-19,IRVING AVENUE       ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4035400025,    15-40,COVERT STREET       ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4035410001,    10-95,IRVING AVENUE       ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4035570004,    11-25,WYCKOFF AVENUE      ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4036050001,    66-26,METROPOLITAN AVENUE,QUEENS,11379,Yes,2243.0,64.8,216.4,,54.0,849.99,139755.0,Retail,2.0,4443103.0,,,,,,,
+4036080253,    65-75,TRAFFIC AVENUE      ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4036080290,    63-15,TRAFFIC AVENUE      ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4036670578,    66-35,OTTO ROAD,QUEENS,11385,Yes,1829.0,69.0,100.3,3.84,47.0,507.7,95000.0,Warehouse (Unrefrigerated),1.0,4089236.0,,,,,,,
+4037030007,    68-24,68 STREET           ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4037320330,,CYPRESS AVENUE      ,QUEENS              ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4038030014,    78-16,COOPER AVENUE       ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4038040091,    70-30,  80 STREET         ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4038100093,    74-10,  88 STREET         ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4038100161,    75-02,  88 STREET         ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4038100375,    84-00,80 STREET,QUEENS,11385,Yes,763.0,122.5,184.4,,8.0,534.72,73000.0,Warehouse (Unrefrigerated),1.0,4092619.0,,,,,,,
+4038570179,    88-36,  77 AVENUE,QUEENS,11385,Yes,1435.0,66.2,121.2,,47.0,1791.42,71000.0,Warehouse (Unrefrigerated),1.0,,,,,,,,
+4038570300,    76-02,WOODHAVEN BOULEVARD ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4038840002,    72-25,WOODHAVEN BOULEVARD,QUEENS,11385,Yes,1707.0,77.7,201.0,0.0,65.0,333.95,53500.0,Retail,1.0,4095019.0,,,,,,,
+4038860074,    75-11,WOODHAVEN BOULEVARD ,QUEENS              ,11385,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4038860380,    89-89,UNION TURNPIKE      ,QUEENS              ,11375,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4038860837,    96-10,METROPOLITAN AVENUE ,QUEENS              ,11375,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4039980001,   123-15,  14 AVENUE         ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4040110001,   131-21,  14 AVENUE         ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4040110024,    11-11, 131 STREET         ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4040120045,   132-07,  14 AVENUE         ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4040310001,   109-01,  14 AVENUE,QUEENS,11356,Yes,1352.0,53.1,137.6,28.27,95.0,635.14,149000.0,Office,4.0,,,,,,,,
+4040320001,   110-01,  14 AVENUE,QUEENS,11356,Yes,1345.0,104.2,266.3,21.46,21.0,457.79,54574.0,Office,1.0,,,,,,,,
+4040650001,   112-02,  15 AVENUE         ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4040780001,   114-02,  15 AVENUE,QUEENS,11356,Yes,803.0,,,,,,107000.0,Warehouse (Unrefrigerated),4.0,,,,,,,,
+4040780026,   116-02,  15 AVENUE         ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4040800003,    18-00, 119 STREET         ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4040890045,   124-06,  14 AVENUE         ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4040920001,    15-54,18 AVENUE           ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4040940006,    14-50, 128 STREET         ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4041170001,    15-01, 131 STREET,QUEENS,11356,Yes,728.0,,,,,,,,1.0,,,,,,,,
+4041250001,   139-10,  15 AVENUE,QUEENS,11357,Yes,118.0,84.9,208.9,114.89,,618.78,92705.0,Education,1.0,4854710.0,,,,,,,
+4041430001,   135-05,  20 AVENUE,QUEENS,11356,Yes,1912.0,120.7,314.5,,33.0,3233.38,331130.0,Retail,1.0,,,,,,,,
+4041430030,   137-05,20 AVENUE,QUEENS,11356,Yes,1912.0,120.7,314.5,,33.0,3233.38,331130.0,Retail,1.0,,,,,,,,
+4041450001,   139-15,  20 AVENUE,QUEENS,11356,Yes,1354.0,121.0,326.5,,,769.16,76727.0,Mall (Strip Mall and Enclosed),1.0,4462126.0,,,,,,,
+4041480080,    17-20,WHITESTONE EP SR W  ,QUEENS              ,11357,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4041720007,    20-07, 127 STREET         ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4041730010,    20-05,128 STREET          ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4041830075,   142-02,  20 AVENUE         ,QUEENS              ,11357,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4041910094,   143-10,  20 AVENUE         ,QUEENS              ,11357,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4042060001,   130-17,  23 AVENUE         ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4042560110,   119-19,GRAHAM COURT        ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4042570143,   119-09,  26 AVENUE         ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4042730040,   128-28,  25 AVENUE         ,QUEENS              ,11356,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4042730090,   129-09,  26 AVENUE         ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4042820100,    25-70,WHITESTONE EP SR W  ,QUEENS              ,11357,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4042910020,   119-15,  27 AVENUE         ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4043600001,   130-30,  31 AVENUE         ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4043610027,   131-23,  31 AVENUE         ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4043620024,    30-56,WHITESTONE EP SR W,QUEENS,11357,Yes,1353.0,34.5,95.0,12.12,90.0,165.0,57106.0,Office,1.0,4464064.0,,,,,,,
+4043630100,    30-50,WHITESTONE EP SR W,QUEENS,11357,Yes,1403.0,112.2,294.5,,48.0,854.11,92745.0,Office,1.0,4540190.0,,,,,,,
+4043820001,    31-22,COLLEGE POINT BLVD  ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4043850030,    31-05,COLLEGE POINT BLVD,QUEENS,11354,Yes,1019.0,,,,,,169696.0,Other,1.0,,,,,,,,
+4043950002,    31-44, 125 STREET         ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4043950008,   124-16,  31 AVENUE,QUEENS,11354,Yes,1876.0,0.0,0.0,,,122.59,0.0,,1.0,,,,,,,,
+4044050029,   133-15,  32 AVENUE         ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4044060032,    31-06,FARRINGTON STREET   ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4045310395,     7-02, 154 STREET         ,QUEENS              ,11357,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4045310460,   152-35,  10 AVENUE         ,QUEENS              ,11357,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4049260014,    27-40, 170 STREET         ,QUEENS              ,11358,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4049460096,    34-33,COLLINS PLACE       ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4049580048,   135-27,NORTHERN BOULEVARD  ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4049590037,   137-07,NORTHERN BOULEVARD  ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4049630065,   131-01,  39 AVENUE         ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4049630200,    36-30,COLLEGE POINT BLVD  ,QUEENS              ,11355,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4049720065,   133-31,  39 AVENUE,QUEENS,11354,Yes,1622.0,,,48.33,,,148680.0,Retail,1.0,,,,,,,,
+4049760015,   135-13,ROOSEVELT AVENUE,QUEENS,11354,Yes,1228.0,96.7,241.9,,14.0,1787.0,233230.0,Hotel,1.0,4112316.0,,,,,,,
+4049800005,    39-01,MAIN STREET         ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4049800011,   136-21,ROOSEVELT AVENUE    ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4049810009,    33-23,UNION STREET,QUEENS,11354,Yes,2057.0,0.0,0.0,,,1172.71,0.0,,1.0,,,,,,,,
+4050020046,   139-66,  35 AVENUE,QUEENS,11354,Yes,327.0,152.4,266.8,,7.0,1045.94,87106.0,Senior Care Facility,1.0,,,,,,,,
+4050140004,    36-17,PARSONS BOULEVARD,QUEENS,11354,Yes,640.0,,,,,,114521.0,Senior Care Facility,1.0,,,,,,,,
+4050150054,   144-61,  38 AVENUE         ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4050190005,   136-20,ROOSEVELT AVENUE,QUEENS,11354,Yes,292.0,97.2,205.0,,60.0,1190.43,166738.0,Retail,1.0,4113546.0,,,,,,,
+4050430011,    41-24,KISSENA BOULEVARD   ,QUEENS              ,11355,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4050450001,    41-61,KISSENA BOULEVARD,QUEENS,11355,Yes,1188.0,6.7,9.6,,100.0,118.53,247641.0,Office,1.0,,,,,,,,
+4050660110,    40-70,DELONG STREET       ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4050660255,    41-06,DELONG STREET       ,QUEENS              ,11355,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4050660622,   131-33,AVERY AVENUE        ,QUEENS              ,11355,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4050660644,   131-10,MAPLE AVENUE        ,QUEENS              ,11355,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4051210020,    41-60,MAIN STREET         ,QUEENS              ,11355,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4051810046,   142-31,FRANKLIN AVENUE     ,QUEENS              ,11355,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4051830055,   143-17,FRANKLIN AVENUE     ,QUEENS              ,11355,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4051990021,    44-22,PARSONS BOULEVARD   ,QUEENS              ,11355,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4052680019,   154-08,NORTHERN BOULEVARD  ,QUEENS              ,11354,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4053230250,    40-01, 168 STREET,QUEENS,11358,Yes,2121.0,216.5,443.7,,,371.83,24500.0,"Service (Vehicle Repair/Service, Postal Service)",1.0,,,,,,,,
+4053510013,   171-20,STATION ROAD        ,QUEENS              ,11358,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4054280037,    43-01, 170 STREET         ,QUEENS              ,11358,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4059000002,   212-15,  26 AVENUE,QUEENS,11360,Yes,1522.0,243.0,684.4,,,318.75,15506.0,Retail,8.0,,,,,,,,
+4059000002,   212-15,  26 AVENUE,QUEENS,11360,Yes,1523.0,121.9,407.2,,,159.1,13900.0,Other,8.0,4845831.0,,,,,,,
+4059000002,   212-15,  26 AVENUE,QUEENS,11360,Yes,1525.0,149.4,499.2,,,178.6,12729.0,Retail,8.0,,,,,,,,
+4059000002,   212-15,  26 AVENUE,QUEENS,11360,Yes,1527.0,239.5,815.4,,25.0,887.38,39487.0,Supermarket/Grocery,8.0,4458661.0,,,,,,,
+4059000002,   212-15,  26 AVENUE,QUEENS,11360,Yes,1530.0,149.5,499.5,,,196.31,13982.0,Retail,8.0,,,,,,,,
+4060190108,   216-50,  28 AVENUE         ,QUEENS              ,11360,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4062590016,    42-41, 201 STREET         ,QUEENS              ,11361,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4063710010,   136-20,BOOTH MEMORIAL AVE  ,QUEENS              ,11355,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4064010019,   139-22,BOOTH MEMORIAL AVE,QUEENS,11355,Yes,172.0,341.3,752.9,,2.0,3259.61,129020.0,Hospital (General Medical and Surgical),1.0,4861615.0,,,,,,,
+4065070200,   149-11,MELBOURNE AVENUE    ,QUEENS              ,11367,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4065170250,   152-50,MELBOURNE AVENUE    ,QUEENS              ,11367,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4066850001,   147-06,  76 AVENUE,QUEENS,11367,Yes,1082.0,76.5,172.6,,,474.99,83794.0,College/University (Campus-Level),1.0,4144493.0,,,,,,,
+4067050001,    75-31, 150 STREET         ,QUEENS              ,11367,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4067900020,   158-29,JEWEL AVENUE        ,QUEENS              ,11365,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4067900022,   158-11,JEWEL AVENUE,QUEENS,11365,Yes,2581.0,253.4,393.6,,18.0,3504.19,176600.0,Office,2.0,,,,,,,,
+4068310022,   159-05,UNION TURNPIKE      ,QUEENS              ,11366,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4069840001,    74-04,UTOPIA PARKWAY      ,QUEENS              ,11366,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4070210001,    8150A,UTOPIA PARKWAY,QUEENS,11432,Yes,1059.0,154.9,309.8,,,1488.44,137050.0,Library,25.0,,,,,,,,
+4070210001,    8150A,UTOPIA PARKWAY,QUEENS,11432,Yes,1268.0,126.0,209.4,,,1998.52,247424.0,Recreation,25.0,4439412.0,,,,,,,
+4070210001,    8150A,UTOPIA PARKWAY,QUEENS,11432,Yes,1269.0,275.5,446.5,,1.0,104.81,6106.0,Office,25.0,4439412.0,,,,,,,
+4070210001,    8150A,UTOPIA PARKWAY,QUEENS,11432,Yes,1270.0,190.0,347.8,,4.0,105.39,8258.0,Office,25.0,,,,,,,,
+4070210001,    8150A,UTOPIA PARKWAY,QUEENS,11432,Yes,1273.0,155.0,309.8,,,136.24,12544.0,Office,25.0,,,,,,,,
+4070210001,    8150A,UTOPIA PARKWAY,QUEENS,11432,Yes,1275.0,143.9,195.0,,,1202.92,142700.0,College/University (Campus-Level),25.0,,,,,,,,
+4070210001,    8150A,UTOPIA PARKWAY,QUEENS,11432,Yes,1277.0,188.9,345.3,,14.0,835.19,66000.0,Office,25.0,,,,,,,,
+4070210001,    8150A,UTOPIA PARKWAY,QUEENS,11432,Yes,1279.0,190.0,347.8,,,2749.12,215389.0,College/University (Campus-Level),25.0,4439412.0,,,,,,,
+4070210001,    8150A,UTOPIA PARKWAY,QUEENS,11432,Yes,1282.0,150.5,295.0,,,756.62,72438.0,College/University (Campus-Level),25.0,,,,,,,,
+4070210001,    8150A,UTOPIA PARKWAY,QUEENS,11432,Yes,1291.0,183.1,323.2,,14.0,1090.33,90000.0,Residence Hall/Dormitory,25.0,4439412.0,,,,,,,
+4070210001,    8150A,UTOPIA PARKWAY,QUEENS,11432,Yes,1293.0,304.3,547.6,,1.0,395.26,19800.0,Office,25.0,,,,,,,,
+4070210001,    8150A,UTOPIA PARKWAY,QUEENS,11432,Yes,1294.0,183.1,323.2,,,1453.59,120000.0,College/University (Campus-Level),25.0,4439412.0,,,,,,,
+4070210001,    8150A,UTOPIA PARKWAY,QUEENS,11432,Yes,1298.0,118.5,235.4,,43.0,488.36,60000.0,Residence Hall/Dormitory,25.0,,,,,,,,
+4070670054,   183-31,HOR HARDING EP SR N ,QUEENS              ,11365,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4070670063,   183-15,HOR HARDING EP SR N ,QUEENS              ,11365,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4071150030,   186-01,  73 AVENUE,QUEENS,11366,Yes,2558.0,94.2,314.8,,22.0,1190.23,134506.0,Retail,1.0,,,,,,,,
+4071170004,   145-51,188 STREET,QUEENS,11365,Yes,1718.0,293.3,627.5,,,1796.45,84382.0,Other,1.0,,,,,,,,
+4071170130,    61-11,188 STREET,QUEENS,11365,Yes,1717.0,226.0,449.8,,8.0,2370.61,149981.0,Retail,1.0,4153294.0,,,,,,,
+4071280002,    61-00,FRANCIS LEWIS BLVD  ,QUEENS              ,11365,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4072270005,   176-60,UNION TURNPIKE      ,QUEENS              ,11366,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4078700001,    80-45,WINCHESTER BOULEVARD,QUEENS              ,11427,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4078800001,    78-70,WINCHESTER BOULEVARD,QUEENS              ,11426,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4083360001,   249-02,HOR HARDING EP SR S ,QUEENS              ,11362,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4083930001,    60-15,LITTLE NECK PARKWAY,QUEENS,11362,Yes,2113.0,24.1,48.0,0.53,,241.59,147570.0,Office,3.0,,,,,,,,
+4084000024,    55-15,LITTLE NECK PARKWAY ,QUEENS              ,11362,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4084010001,    73-50,LITTLE NECK PARKWAY ,QUEENS              ,11004,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4085200002,   270-05,  76 AVENUE,QUEENS,11004,Yes,2287.0,122.4,211.4,,,2522.61,260866.0,"Health Care: Inpatient (Specialty Hospitals, Excluding Children's)",26.0,4445327.0,,,,,,,
+4085200025,   265-32,  76 AVENUE         ,QUEENS              ,11040,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4090280001,    92-06,ATLANTIC AVENUE     ,QUEENS              ,11416,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4091310045,    78-02,LIBERTY AVENUE      ,QUEENS              ,11417,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4091720067,    98-18,ROCKAWAY BOULEVARD  ,QUEENS              ,11417,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4092810044,   129-01,JAMAICA AVENUE      ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093060001,   100-02,  91 AVENUE,QUEENS,11418,Yes,2385.0,53.0,74.2,,,187.34,60772.0,Warehouse (Unrefrigerated),1.0,4195066.0,,,,,,,
+4093420007,   134-14,JAMAICA AVENUE      ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630008,    89-40, 135 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630010,    89-47, 134 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630012,    89-45, 134 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630014,    89-41, 134 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630016,    89-37, 134 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630018,    89-33, 134 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630020,    89-29, 134 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630022,    89-25, 134 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630033,    89-02, 135 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630040,    89-22, 135 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630042,    89-26, 135 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630044,    89-30, 135 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630046,    89-34, 135 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630048,    89-38, 135 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630050,    89-42, 135 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630052,    89-48, 135 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093630054,    89-52, 135 STREET         ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093640010,    89-10,VAN WYCK EXPWY SR W ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093750174,    91-30,VAN WYCK EXPWY SR W,QUEENS,11418,Yes,1669.0,41.2,90.3,0.0,74.0,169.01,56529.0,Warehouse (Unrefrigerated),1.0,4196964.0,,,,,,,
+4093750272,   131-11,ATLANTIC AVENUE     ,QUEENS              ,11418,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4093770001,    94-15, 100 STREET         ,QUEENS              ,11416,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4094520030,   117-03,  97 AVENUE         ,QUEENS              ,11419,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4095390001,   100-02,ROCKAWAY BOULEVARD,QUEENS,11417,Yes,1985.0,4.2,6.2,36.49,100.0,13.68,54150.0,Office,1.0,4202778.0,,,,,,,
+4096250013,   139-30,QUEENS BOULEVARD    ,QUEENS              ,11435,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4096570001,    80-25, 126 STREET         ,QUEENS              ,11415,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4096640001,   137-02,  83 AVENUE         ,QUEENS              ,11435,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4096760013,    89-18,SUTPHIN BOULEVARD,QUEENS,11435,Yes,2098.0,60.6,200.6,,63.0,344.98,60675.0,Office,1.0,4206749.0,,,,,,,
+4096950014,   152-01,  88 AVENUE         ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4096980027,   139-01,HILLSIDE AVENUE     ,QUEENS              ,11435,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4097240096,   144-25,  87 AVENUE         ,QUEENS              ,11435,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4097490036,    84-35, 152 STREET         ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4097540001,   155-02,  90 AVENUE,QUEENS,11432,Yes,2124.0,,,88.43,,,56778.0,Multifamily Housing,1.0,4459168.0,,,,,,,
+4097560018,    90-27,PARSONS BOULEVARD,QUEENS,11432,Yes,1342.0,10.6,35.5,,,186.54,187173.0,Other,1.0,4441691.0,,,,,,,
+4097570023,    90-04, 160 STREET,QUEENS,11432,Yes,1334.0,58.5,144.4,,82.0,312.61,63492.0,Office,1.0,4208850.0,,,,,,,
+4097600001,   161-01,JAMAICA AVENUE      ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4097600031,    82-14, 161 STREET         ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4097610018,    89-35, 162 STREET,QUEENS,11432,Yes,1333.0,10.1,33.6,,,149.07,157897.0,Other,1.0,4857934.0,,,,,,,
+4097610083,   162-29,JAMAICA AVENUE,QUEENS,11432,Yes,1991.0,49.0,127.0,,,393.77,99375.0,Retail,1.0,4208889.0,,,,,,,
+4097630025,   153-28,HILLSIDE AVENUE     ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4097630026,   153-30,HILLSIDE AVENUE     ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4097630051,,88 AVENUE           ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4097930001,   163-19,JAMAICA AVENUE,QUEENS,11432,Yes,1217.0,63.2,196.6,,59.0,319.88,54978.0,Retail,1.0,4209572.0,,,,,,,
+4097950001,   165-17,JAMAICA AVENUE,QUEENS,11432,Yes,2411.0,10.9,28.3,0.0,100.0,88.54,101704.0,Office,1.0,4209597.0,,,,,,,
+4098110016,    91-31, 175 STREET         ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4098130052,    88-40, 164 STREET         ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4098580011,   164-11,CHAPIN PARKWAY,QUEENS,11432,Yes,1130.0,287.0,398.1,,4.0,1622.92,95412.0,Senior Care Facility,1.0,4210853.0,,,,,,,
+4098850008,    86-50,EDGERTON BOULEVARD  ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4099380078,    86-45,87 DRIVE            ,QUEENS              ,11421,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4099500001,   182-17,AVON STREET         ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4099910001,   138-54,  94 AVENUE         ,QUEENS              ,11435,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4100010001,    95-04, 149 STREET,QUEENS,11435,Yes,1238.0,9.9,33.1,462.74,64.0,49.97,53666.0,Warehouse (Unrefrigerated),1.0,4214025.0,,,,,,,
+4100970020,   153-20,JAMAICA AVENUE      ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4101010007,   160-16,JAMAICA AVENUE      ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4101010027,    92-32,UNION HALL STREET   ,QUEENS              ,11433,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4101020004,   162-10,JAMAICA AVENUE      ,QUEENS              ,11432,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4101080301,   155-19,LIBERTY AVENUE      ,QUEENS              ,11433,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4101140017,   154-21,SOUTH ROAD          ,QUEENS              ,11433,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4101190028,   105-08,GUY R BREWER BLVD   ,QUEENS              ,11433,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4101510065,   163-25,ARCHER AVENUE       ,QUEENS              ,11433,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4101580001,   165-08,LIBERTY AVENUE      ,QUEENS              ,11433,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4102090115,    92-33, 168 STREET         ,QUEENS              ,11433,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4102150001,    92-07, 175 STREET         ,QUEENS              ,11433,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4102170048,   168-23,DOUGLAS AVENUE      ,QUEENS              ,11433,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4103310001,   178-02,LIBERTY AVENUE      ,QUEENS              ,11433,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4103360060,   109-10, 180 STREET         ,QUEENS              ,11433,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4103360080,   109-48, 180 STREET         ,QUEENS              ,11433,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4103360160,   109-05, 178 STREET         ,QUEENS              ,11433,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4103430033,   180-34,LIBERTY AVENUE      ,QUEENS              ,11412,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4103430047,   182-20,LIBERTY AVENUE      ,QUEENS              ,11412,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4103430205,   180-05, 110 AVENUE,QUEENS,11433,Yes,1671.0,85.0,124.3,0.0,,324.05,65067.0,Self-Storage,1.0,4220271.0,,,,,,,
+4103520079,   184-10,JAMAICA AVENUE,QUEENS,11423,Yes,310.0,,,,11.0,,,Warehouse (Unrefrigerated),1.0,4220566.0,,,,,,,
+4103520089,   184-60,JAMAICA AVENUE,QUEENS,11423,Yes,330.0,,,,1.0,,,Warehouse (Unrefrigerated),1.0,4220567.0,,,,,,,
+4104470007,   191-02,  90 AVENUE         ,QUEENS              ,11423,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4105090052,    87-37,PALERMO STREET      ,QUEENS              ,11423,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4105330001,   202-15,HILLSIDE AVENUE,QUEENS,11423,Yes,218.0,,,,,,,Other,1.0,,,,,,,,
+4107630023,   217-40,  98 AVENUE         ,QUEENS              ,11429,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4107890250,   219-38,JAMAICA AVENUE      ,QUEENS              ,11428,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4107890256,   219-42,JAMAICA AVENUE      ,QUEENS              ,11428,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4108120091,   222-34,  96 AVENUE,QUEENS,11429,Yes,963.0,,,,,,,Warehouse (Unrefrigerated),1.0,4457714.0,,,,,,,
+4108130005,   222-22,JAMAICA AVENUE      ,QUEENS              ,11428,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4109060001,   203-02,203 STREET          ,QUEENS              ,11423,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4109260050,   190-20,108 ROAD            ,QUEENS              ,11412,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4109750029,   199-01, 113 AVENUE         ,QUEENS              ,11412,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4110180021,   201-15, 115 AVENUE         ,QUEENS              ,11412,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4111980050,   110-30, 221 STREET         ,QUEENS              ,11429,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4111980124,   110-39,SPRINGFIELD BLVD    ,QUEENS              ,11429,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4113000001,   218-01, 116 AVENUE         ,QUEENS              ,11411,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4114750011,   109-35, 108 STREET         ,QUEENS              ,11420,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4115430002,   110-10,ROCKAWAY BOULEVARD  ,QUEENS              ,11420,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4115430100,   112-20,ROCKAWAY BOULEVARD  ,QUEENS              ,11420,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4116230001,   118-20, 111 AVENUE         ,QUEENS              ,11420,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4116730001,   130-24, 115 AVENUE         ,QUEENS              ,11420,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4118860001,   148-18, 134 STREET,QUEENS,11430,Yes,519.0,94.4,227.3,90.44,63.0,535.48,73323.0,Hotel,1.0,,,,,,,,
+4119420302,   109-17,INWOOD STREET       ,QUEENS              ,11435,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4120190010,   145-01, 119 AVENUE         ,QUEENS              ,11436,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4120510001,   125-20,SUTPHIN BOULEVARD   ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4120930034,   135-30, 140 STREET,QUEENS,11436,Yes,2105.0,40.1,80.0,,98.0,1965.89,700000.0,Hotel,1.0,,,,,,,,
+4120990001,   144-02,NORTH CONDUIT AVENUE,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4120990016,   145-11,NORTH CONDUIT AVENUE,QUEENS,11436,Yes,621.0,127.5,310.5,14.61,24.0,761.91,77500.0,Hotel,1.0,,,,,,,,
+4120990050,   144-10, 135 AVENUE,QUEENS,11436,Yes,1313.0,83.4,203.5,,58.0,744.63,114618.0,Hotel,1.0,4518486.0,,,,,,,
+4121370020,   153-90,ROCKAWAY BOULEVARD,QUEENS,11434,Yes,1136.0,120.9,209.5,,,551.75,70690.0,Multifamily Housing,1.0,4263211.0,,,,,,,
+4121410003,   109-37,SUTPHIN BOULEVARD   ,QUEENS              ,11435,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4122610001,   156-10,BAISLEY BOULEVARD   ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4122780060,   152-65,ROCKAWAY BOULEVARD  ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4123350049,   116-01,GUY R BREWER BLVD   ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4123410031,   166-01, 116 AVENUE         ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4123850131,   168-27,BAISLEY BOULEVARD,QUEENS,11434,Yes,1559.0,,,,,,28640.0,Self-Storage,3.0,,,,,,,,
+4124060100,   180-20,LINDEN BOULEVARD    ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4124060280,,BAISLEY BOULEVARD   ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4125160057,   122-22,MERRICK BOULEVARD   ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4125290035,   132-11,BEDELL STREET       ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4129270028,   218-02, 132 AVENUE         ,QUEENS              ,11413,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4129730001,   233-15,MERRICK BOULEVARD   ,QUEENS              ,11422,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4129800001,   133-33,BROOKVILLE BOULEVARD,QUEENS              ,11422,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4129990044,   132-20,BELKNAP STREET      ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4129990220,   184-04,MERRICK BOULEVARD,QUEENS,11413,Yes,1573.0,0.0,0.1,,,0.15,96076.0,Supermarket/Grocery,1.0,4279935.0,,,,,,,
+4130570056,   143-40,SPRINGFIELD BLVD    ,QUEENS              ,11413,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4131930170,   227-15,NORTH CONDUIT AVENUE,QUEENS              ,11413,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4132960014,   165-25, 146 AVENUE         ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4133530020,   146-02,GUY R BREWER BLVD   ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4133640040,   147-35,FARMERS BOULEVARD   ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4133800011,   175-21, 149 AVENUE,QUEENS,11434,Yes,2021.0,,,,,,69345.0,Lodging,1.0,4286131.0,,,,,,,
+4134060039,   147-02, 181 STREET         ,QUEENS              ,11413,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4134120001,   182-17, 150 AVENUE         ,QUEENS              ,11413,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4134130001,   179-02, 150 AVENUE         ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4134150001,   182-02, 150 AVENUE         ,QUEENS              ,11413,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4134300002,   149-09, 183 STREET         ,QUEENS              ,11413,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4134740004,   145-73, 226 STREET         ,QUEENS              ,11413,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4134740012,   145-69, 226 STREET         ,QUEENS              ,11413,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4137910020,   230-19,ROCKAWAY BOULEVARD  ,QUEENS              ,11413,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4137910021,   230-39,ROCKAWAY BOULEVARD  ,QUEENS              ,11413,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4137910022,   230-59,ROCKAWAY BOULEVARD  ,QUEENS              ,11413,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4137910023,   230-79,ROCKAWAY BOULEVARD  ,QUEENS              ,11413,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4138950001,   154-71,BROOKVILLE BOULEVARD,QUEENS              ,11422,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4141950013,   162-31,CROSS BAY BOULEVARD ,QUEENS              ,11414,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4142600111,   153-20,SOUTH CONDUIT AVENUE,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4161870030,   114-02,OCEAN PROMENADE     ,QUEENS              ,11694,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4150110006,   145-30, 157 STREET         ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4150120006,   144-01, 157 STREET         ,QUEENS              ,11434,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4155410001,    13-07,CENTRAL AVENUE      ,QUEENS              ,11691,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4155570025,    10-45,NAMEOKE STREET      ,QUEENS              ,11691,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4155610029,    19-31,MOTT AVENUE         ,QUEENS              ,11691,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4155740008,    14-41,GATEWAY BOULEVARD   ,QUEENS              ,11691,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4156270045,    14-10,SEAGIRT BOULEVARD,QUEENS,11691,Yes,1683.0,156.6,222.5,,,962.29,81500.0,Senior Care Facility,1.0,4299228.0,,,,,,,
+4156330001,    17-11,BROOKHAVEN AVENUE   ,QUEENS              ,11691,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4156360001,    19-04,PLAINVIEW AVENUE,QUEENS,11691,Yes,1132.0,377.1,647.6,,6.0,9681.07,272986.0,Hospital (General Medical and Surgical),1.0,4430537.0,,,,,,,
+4158400006,     3-53,BEACH 49 STREET     ,QUEENS              ,11691,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4158420100,    51-15,BEACH CHANNEL DRIVE,QUEENS,11691,Yes,625.0,,,,,,125000.0,Senior Care Facility,1.0,4301899.0,,,,,,,
+4158900042,     3-57,BEACH   53 STREET,QUEENS,11691,Yes,1798.0,,,,84.0,,70000.0,Office,1.0,,,,,,,,
+4159080007,     3-16,BEACH   65 STREET   ,QUEENS              ,11692,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4159800002,    54-02,ALMEDA AVENUE       ,QUEENS              ,11692,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4161310010,    85-15,BEACH   84 STREET   ,QUEENS              ,11693,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4161510092,    95-02,ROCKAWAY BEACH BLVD ,QUEENS              ,11693,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4161660434,   113-01,BEACH CHANNEL DRIVE ,QUEENS              ,11694,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4161670099,   100-00,BEACH CHANNEL DRIVE ,QUEENS              ,11694,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4161880034,   115-02,OCEAN PROMENADE,QUEENS,11694,Yes,2138.0,,,115.98,74.0,,50877.0,Senior Care Facility,3.0,4444819.0,,,,,,,
+4163250227,67,ROCKAWAY BEACH BLVD ,QUEENS              ,11695,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+4163400020,,ROCKAWAY POINT BLVD ,QUEENS              ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+5001840360,,RICHMOND TERRACE    ,STATEN ISLAND       ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+5006830301,,MILFORD DRIVE       ,STATEN ISLAND       ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+5006830302,,MILFORD DRIVE       ,STATEN ISLAND       ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+5031280001,,BAY STREET          ,STATEN ISLAND       ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+5038510001,,FR CAPODANNO BLVD   ,STATEN ISLAND       ,0,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+5059650084,       7A,ARDEN AVENUE,STATEN ISLAND,10309,Yes,2001.0,,,,,,,Self-Storage,1.0,5153794.0,,,,,,,
+5075110001,2935-2965,VETERANS ROAD WEST  ,STATEN ISLAND       ,10309,No DOF Record as of 08/01/12,,,,,,,,,,,,,,,,,
+3015540016,1495,HERKIMER STREET,BROOKLYN,11233,Yes,2603.0,45.0,74.8,,,317.14,110000.0,Other,1.0,3042309.0,40.67715,-73.903953,16.0,37.0,367.0,3042309.0,Ocean Hill                                                                 
+2046580021,3441,BARNES AVENUE,BRONX,10467,Yes,2101.0,71.7,239.3,,23.0,520.71,77403.0,Senior Care Facility,1.0,,40.875665000000005,-73.86234,12.0,12.0,372.0,,Williamsbridge-Olinville                                                   
+1009960014,127,WEST   43 STREET    ,MANHATTAN,10036,No DOF Record as of 08/01/12,,,,,,,,,,,40.755873,-73.984454,5.0,4.0,119.0,1022613.0,Midtown-Midtown South                                                      
+4026110350,    52-15,FLUSHING AVENUE,QUEENS,11378,Yes,2148.0,34.3,63.9,,66.0,150.13,66000.0,Warehouse (Unrefrigerated),1.0,4059015.0,,,,,,,
+1010350017,315,WEST   44 STREET,MANHATTAN,10036,Yes,1533.0,68.8,164.4,,83.0,1358.66,228406.0,Office,1.0,,40.758841,-73.98954599999999,4.0,3.0,121.0,1080877.0,Clinton                                                                    
+3020680117,140,ST EDWARD'S STREET,BROOKLYN,11201,Yes,1388.0,169.2,252.9,,50.0,1345.72,129776.0,Senior Care Facility,1.0,3058264.0,40.692375,-73.977643,2.0,35.0,31.0,3058264.0,Fort Greene                                                                
+1007940017,135,WEST   18 STREET,MANHATTAN,10011,Yes,1693.0,,,,59.0,,,Office,1.0,1014716.0,40.740339,-73.996128,4.0,3.0,87.0,1014716.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+1013130005,111,EAST   58 STREET,MANHATTAN,10022,Yes,2230.0,170.1,331.6,0.28,38.0,7346.12,563530.0,Office,1.0,1037165.0,40.762013,-73.969584,5.0,4.0,11203.0,1037165.0,Turtle Bay-East Midtown                                                    
+1010070029,120,WEST   55 STREET,MANHATTAN,10019,Yes,70.0,149.4,366.4,,26.0,24451.54,1866776.0,Office,2.0,1083719.0,40.763379,-73.979001,5.0,4.0,137.0,1083719.0,Midtown-Midtown South                                                      
+3056310038,4802,  10 AVENUE,BROOKLYN,11219,Yes,1038.0,346.7,452.5,,6.0,1727.29,86000.0,Office,5.0,,40.639488,-73.998242,12.0,38.0,114.0,3336293.0,Borough Park                                                               
+1012760058,300,MADISON AVENUE,MANHATTAN,10017,Yes,2207.0,124.7,357.3,,76.0,12083.98,1071012.0,Office,1.0,,40.752235999999996,-73.979712,5.0,4.0,82.0,1085972.0,Murray Hill-Kips Bay                                                       
+4003290018,    35-11,   9 STREET,QUEENS,11106,Yes,1491.0,16.1,35.7,,,122.06,102600.0,Other,1.0,4003935.0,,,,,,,
+3001180006,146,CONCORD STREET,BROOKLYN,11201,Yes,2401.0,,,,96.0,,,Office,2.0,,40.697685,-73.985733,2.0,33.0,13.0,3335884.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+3030290090,43,MEADOW STREET,BROOKLYN,11206,Yes,1124.0,63.3,186.2,,,301.48,55184.0,Other,3.0,3070839.0,40.711003999999996,-73.93523499999999,1.0,34.0,485.0,3070839.0,Bushwick South                                                             
+1005630031,817,BROADWAY,MANHATTAN,10003,Yes,956.0,47.9,148.7,,88.0,534.0,122175.0,Office,1.0,1009134.0,40.733043,-73.99116,2.0,2.0,61.0,1009134.0,West Village                                                               
+3079200006,8719,AVENUE D,BROOKLYN,11236,Yes,2505.0,11.5,12.2,,,98.16,159946.0,Other,1.0,3397396.0,40.64458,-73.913225,18.0,45.0,960.0,3397396.0,Canarsie                                                                   
+1010100029,1401,AVENUE OF THE AMER  ,MANHATTAN,10019,No DOF Record as of 08/01/12,,,,,,,,,,,40.764427000000005,-73.977131,5.0,4.0,137.0,1023730.0,Midtown-Midtown South                                                      
+3009900069,58,   2 AVENUE,BROOKLYN,11215,Yes,1636.0,37.4,56.4,0.0,84.0,851.17,380000.0,Warehouse (Unrefrigerated),1.0,,40.673125,-73.992959,6.0,39.0,119.0,3021536.0,Park Slope-Gowanus                                                         
+1007790017,231,WEST   29 STREET,MANHATTAN,10001,Yes,2198.0,43.4,59.1,,100.0,470.19,141299.0,Office,1.0,1014283.0,40.748298999999996,-73.993937,5.0,3.0,95.0,1014283.0,Midtown-Midtown South                                                      
+1008210014,39,WEST   19 STREET,MANHATTAN,10011,Yes,1850.0,65.9,220.2,,55.0,742.69,120000.0,Office,1.0,1015465.0,40.739666,-73.992725,5.0,3.0,54.0,1015465.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+1000460001,2,WALL STREET,MANHATTAN,10005,Yes,232.0,109.1,297.6,,44.0,1883.48,192500.0,Office,1.0,1001023.0,40.707725,-74.01163199999999,1.0,1.0,7.0,1001023.0,Battery Park City-Lower Manhattan                                          
+1004820016,72,SPRING STREET,MANHATTAN,10012,Yes,510.0,61.6,162.4,,91.0,702.59,130000.0,Office,1.0,1007214.0,40.722506,-73.99763,2.0,1.0,45.0,1007214.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1000130005,11,BROADWAY,MANHATTAN,10004,Yes,275.0,100.9,237.2,,72.0,3717.62,423348.0,Office,1.0,,40.705354,-74.013731,1.0,1.0,13.0,1000044.0,Battery Park City-Lower Manhattan                                          
+3000420011,231,FRONT STREET        ,BROOKLYN            ,11201,No DOF Record as of 08/01/12,,,,,,,,,,,40.702337,-73.983976,2.0,33.0,21.0,3329427.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+1000240036,50,BROAD STREET,MANHATTAN,10004,Yes,961.0,67.3,202.4,,,1271.16,205940.0,Office,1.0,1000820.0,40.705689,-74.011455,1.0,1.0,9.0,1000820.0,Battery Park City-Lower Manhattan                                          
+5000040021,561,RICHMOND TERRACE,STATEN ISLAND,10301,Yes,1402.0,3.0,10.0,,,59.68,210598.0,Other,1.0,5000016.0,40.645886,-74.09131,1.0,49.0,81.0,5000016.0,West New Brighton-New Brighton-St. George                                  
+1013880021,921,MADISON AVENUE      ,MANHATTAN,10021,No DOF Record as of 08/01/12,,,,,,,,,,,40.772721999999995,-73.964737,8.0,4.0,130.0,1041498.0,Upper East Side-Carnegie Hill                                              
+5010520001,1351,FOREST AVENUE,STATEN ISLAND,10302,Yes,2412.0,214.3,562.9,,,1890.18,108283.0,Mall (Strip Mall and Enclosed),1.0,,40.625957,-74.134451,1.0,49.0,201.0,5024915.0,Westerleigh                                                                
+1005520026,37,WASHINGTON SQUARE W,MANHATTAN,10011,Yes,807.0,65.1,80.0,,,624.64,119090.0,Multifamily Housing,1.0,1008877.0,40.73127,-73.999423,2.0,1.0,65.0,1008877.0,West Village                                                               
+3036790030,1,JUNIUS STREET,BROOKLYN,11212,Yes,1075.0,120.0,270.0,,22.0,579.61,65500.0,Residence Hall/Dormitory,1.0,3083426.0,40.674921999999995,-73.904306,16.0,37.0,908.0,3083426.0,Brownsville                                                                
+1012910021,551,MADISON AVENUE,MANHATTAN,10022,Yes,59.0,72.8,222.1,30.59,62.0,835.37,129674.0,Office,1.0,1035770.0,40.761081,-73.97323,5.0,4.0,102.0,1035770.0,Midtown-Midtown South                                                      
+2051410260,789,CO-OP CITY BOULEVARD,BRONX               ,10475,No DOF Record as of 08/01/12,,,,,,,,,,,40.878640999999995,-73.827763,10.0,12.0,46201.0,2119182.0,Co-op City                                                                 
+1005110001,75,PRINCE STREET,MANHATTAN,10012,Yes,1030.0,72.3,210.4,,73.0,2334.95,353419.0,Office,1.0,1007942.0,40.724090000000004,-73.99741999999999,2.0,1.0,43.0,1007942.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1010260103,261,WEST   54 STREET    ,MANHATTAN,10019,No DOF Record as of 08/01/12,,,,,,,,,,,40.764426,-73.983387,5.0,3.0,137.0,1000000.0,Midtown-Midtown South                                                      
+1008310010,39,WEST   29 STREET,MANHATTAN,10001,Yes,2174.0,73.4,136.3,,,339.05,56931.0,Other,1.0,1015756.0,40.746199,-73.988957,5.0,3.0,76.0,1015756.0,Midtown-Midtown South                                                      
+1014800001,1176,YORK AVENUE,MANHATTAN,10065,Yes,612.0,1991.5,2451.9,,,38309.08,586436.0,Other,1.0,,40.761395,-73.957726,8.0,5.0,116.0,,Lenox Hill-Roosevelt Island                                                
+1013250001,845,   3 AVENUE,MANHATTAN,10022,Yes,51.0,133.7,298.3,11.35,49.0,3941.88,342387.0,Office,1.0,1038464.0,40.756688,-73.970128,6.0,4.0,98.0,1038464.0,Turtle Bay-East Midtown                                                    
+1012910010,550,MADISON AVENUE,MANHATTAN,10022,Yes,1399.0,90.4,240.8,,74.0,6987.96,871353.0,Office,1.0,1035769.0,40.761089,-73.973252,5.0,4.0,102.0,1035769.0,Midtown-Midtown South                                                      
+4016400020,   102-40,DITMARS BOULEVARD,QUEENS,11369,Yes,1314.0,83.9,185.7,,68.0,776.03,125000.0,Hotel,1.0,4865195.0,,,,,,,
+3038820006,338,DE WITT AVENUE      ,BROOKLYN            ,11207,No DOF Record as of 08/01/12,,,,,,,,,,,40.655996,-73.897428,5.0,42.0,1098.0,3086089.0,East New York                                                              
+3006520023,290,  24 STREET,BROOKLYN,11232,Yes,506.0,66.4,150.0,,,316.21,56400.0,Storage/Shipping/Non-Refrigerated Warehouse,1.0,,40.660329,-73.996277,7.0,38.0,101.0,3009588.0,Sunset Park West                                                           
+1008120006,491,   7 AVENUE,MANHATTAN,10018,Yes,662.0,39.6,80.6,,100.0,1184.51,360946.0,Office,2.0,1015236.0,40.752608,-73.98944300000001,5.0,3.0,109.0,1015236.0,Midtown-Midtown South                                                      
+1004980011,549,BROADWAY,MANHATTAN,10012,Yes,2017.0,91.2,271.3,,49.0,1735.99,217968.0,Office,1.0,,40.723656,-73.99829,2.0,1.0,49.0,1007576.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1005350036,17,WEST    3 STREET,MANHATTAN,10012,Yes,1475.0,9458.4,10141.4,,,80635.29,158590.0,College/University (Campus-Level),1.0,1008627.0,40.728347,-73.995898,2.0,1.0,5501.0,1008627.0,West Village                                                               
+1005650011,44,EAST   14 STREET,MANHATTAN,10003,Yes,1060.0,217.2,549.1,,5.0,3568.88,206442.0,Retail,1.0,1009216.0,40.735094000000004,-73.991427,2.0,2.0,61.0,1009216.0,West Village                                                               
+1008250031,1097,BROADWAY,MANHATTAN,10010,Yes,2534.0,94.9,250.6,,70.0,6080.95,744341.0,Office,1.0,1015583.0,40.741969,-73.989322,5.0,3.0,58.0,1015583.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+2023160001,101,LINCOLN AVENUE      ,BRONX               ,10454,No DOF Record as of 08/01/12,,,,,,,,,,,40.807149,-73.929969,1.0,8.0,19.0,2000759.0,Mott Haven-Port Morris                                                     
+1007870011,247,WEST   37 STREET,MANHATTAN,10018,Yes,1819.0,26.3,85.5,,92.0,344.98,139629.0,Office,1.0,,40.753475,-73.99059399999999,5.0,3.0,109.0,1014454.0,Midtown-Midtown South                                                      
+1007080037,481,  10 AVENUE         ,MANHATTAN,10018,No DOF Record as of 08/01/12,,,,,,,,,,,40.756338,-73.997881,4.0,3.0,99.0,1012494.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+5011610001,125,LAKE AVENUE,STATEN ISLAND,10303,Yes,2193.0,7.6,25.3,,97.0,118.25,166543.0,Warehouse (Unrefrigerated),1.0,,40.633518,-74.150942,1.0,49.0,239.0,5000000.0,Mariner's Harbor-Arlington-Port Ivory-Graniteville                         
+1001580001,27,DUANE STREET        ,MANHATTAN,10007,No DOF Record as of 08/01/12,,,,,,,,,,,40.713122,-74.002936,1.0,1.0,29.0,1001675.0,Chinatown                                                                  
+1008590039,424,PARK AVENUE SOUTH,MANHATTAN,10016,Yes,859.0,86.4,219.7,,64.0,1025.27,133123.0,Office,1.0,1016934.0,40.744040999999996,-73.98356899999999,5.0,2.0,74.0,1016934.0,Midtown-Midtown South                                                      
+1000110021,80,BROAD STREET,MANHATTAN,10004,Yes,2531.0,77.2,194.6,,69.0,2719.82,400000.0,Office,1.0,1000038.0,40.704322,-74.011581,1.0,1.0,9.0,1000038.0,Battery Park City-Lower Manhattan                                          
+2032910016,323,EAST  198 STREET,BRONX,10458,Yes,1928.0,57.2,81.4,0.0,,285.78,64680.0,Multifamily Housing,1.0,2017680.0,40.867854,-73.887563,7.0,15.0,40702.0,2113538.0,Bedford Park-Fordham North                                                 
+1008030067,150,WEST   28 STREET,MANHATTAN,10001,Yes,709.0,81.3,144.0,13.83,93.0,741.61,113508.0,Office,2.0,1015095.0,40.746638,-73.991963,5.0,3.0,95.0,1015095.0,Midtown-Midtown South                                                      
+3030840001,74,BOGART STREET       ,BROOKLYN            ,11206,No DOF Record as of 08/01/12,,,,,,,,,,,40.706236,-73.933545,1.0,34.0,453.0,3071392.0,Bushwick North                                                             
+1008490070,915,BROADWAY,MANHATTAN,10010,Yes,386.0,77.0,183.7,17.47,78.0,1501.97,221831.0,Office,1.0,1016226.0,40.739644,-73.989654,5.0,2.0,52.0,1016226.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+3073240001,1902,AVENUE T            ,BROOKLYN            ,11229,No DOF Record as of 08/01/12,,,,,,,,,,,40.601521000000005,-73.95284000000001,15.0,48.0,578.0,3336576.0,Madison                                                                    
+1005780047,250,HUDSON STREET,MANHATTAN,10013,Yes,116.0,87.7,226.4,0.14,78.0,2329.08,332960.0,Office,1.0,,40.724658000000005,-74.00775300000001,2.0,3.0,37.0,1009723.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+3001270001,291,CADMAN PLAZA EAST   ,BROOKLYN            ,11201,No DOF Record as of 08/01/12,,,,,,,,,,,40.695426,-73.990061,2.0,33.0,13.0,3000242.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+1008590064,105,MADISON AVENUE,MANHATTAN,10016,Yes,455.0,62.1,207.3,,70.0,977.29,167670.0,Office,1.0,1016939.0,40.744889,-73.98504100000001,5.0,2.0,74.0,1016939.0,Midtown-Midtown South                                                      
+1012660001,1260,AVENUE OF THE AMER,MANHATTAN,10020,Yes,2244.0,148.2,322.6,,35.0,13970.34,1217115.0,Office,7.0,1083860.0,40.75999,-73.980349,5.0,4.0,104.0,1083861.0,Midtown-Midtown South                                                      
+1010950035,653,  11 AVENUE,MANHATTAN,10036,Yes,926.0,116.2,282.5,,25.0,1380.91,153363.0,Hotel,1.0,1027122.0,40.764317,-73.995784,4.0,3.0,129.0,1027122.0,Clinton                                                                    
+3045520001,852,WORTMAN AVENUE      ,BROOKLYN            ,11208,No DOF Record as of 08/01/12,,,,,,,,,,,40.664691,-73.863031,5.0,42.0,1220.0,3000000.0,East New York                                                              
+5027050225,4435,VICTORY BOULEVARD,STATEN ISLAND,10314,Yes,751.0,225.8,545.1,,,12982.28,438530.0,Other,1.0,5041883.0,40.586217,-74.200825,2.0,50.0,29102.0,5041883.0,New Springville-Bloomfield-Travis                                          
+1008630027,169,MADISON AVENUE,MANHATTAN,10016,Yes,449.0,,,,90.0,,,Office,1.0,1017082.0,40.747194,-73.983362,5.0,2.0,74.0,1017082.0,Midtown-Midtown South                                                      
+1011190043,30,WEST   67 STREET,MANHATTAN,10023,Yes,920.0,312.0,930.8,,,2627.75,94885.0,Other,1.0,1028232.0,40.77345,-73.979291,7.0,6.0,153.0,1028232.0,Lincoln Square                                                             
+1012640005,1230,AVENUE OF THE AMER,MANHATTAN,10020,Yes,161.0,136.7,270.1,,55.0,3969.05,409556.0,Office,4.0,1077284.0,40.758977,-73.981089,5.0,4.0,96.0,1077287.0,Midtown-Midtown South                                                      
+1005470030,715,BROADWAY,MANHATTAN,10003,Yes,809.0,0.1,0.2,,,1.67,262739.0,College/University (Campus-Level),1.0,1088447.0,40.729099,-73.99368199999999,2.0,1.0,57.0,1008831.0,West Village                                                               
+2059520374,5625,ARLINGTON AVENUE,BRONX,10471,Yes,681.0,,,,,,40500.0,Other,1.0,,40.905009,-73.907133,8.0,11.0,323.0,2086312.0,North Riverdale-Fieldston-Riverdale                                        
+4041470001,   141-07,  20 AVENUE,QUEENS,11357,Yes,863.0,105.5,275.2,,18.0,1247.9,139253.0,Office,2.0,4437997.0,,,,,,,
+1008610064,148,MADISON AVENUE,MANHATTAN,10016,Yes,423.0,61.9,151.4,,76.0,392.0,71871.0,Office,1.0,1017000.0,40.746334999999995,-73.98401199999999,5.0,4.0,74.0,1017000.0,Midtown-Midtown South                                                      
+1009940045,130,WEST   42 STREET,MANHATTAN,10036,Yes,270.0,91.4,226.3,,52.0,1663.15,210000.0,Office,2.0,,40.755278000000004,-73.98517199999999,5.0,4.0,113.0,1022577.0,Midtown-Midtown South                                                      
+2042260040,1260,WATERS PLACE,BRONX,10461,Yes,2649.0,65.9,220.2,,69.0,2775.05,448380.0,Office,2.0,2113980.0,40.842744,-73.838413,11.0,13.0,284.0,2113980.0,Van Nest-Morris Park-Westchester Square                                    
+1001590040,128,PARK ROW            ,MANHATTAN,10007,No DOF Record as of 08/01/12,,,,,,,,,,,40.71282,-74.00178199999999,1.0,1.0,29.0,1001678.0,Chinatown                                                                  
+1010130012,256,WEST   42 STREET    ,MANHATTAN,10036,No DOF Record as of 08/01/12,,,,,,,,,,,40.756881,-73.98898,5.0,3.0,113.0,1024669.0,Midtown-Midtown South                                                      
+1000200009,45,BROADWAY,MANHATTAN,10006,Yes,368.0,89.0,251.5,,57.0,2962.47,368315.0,Office,1.0,1000804.0,40.706396999999996,-74.01282900000001,1.0,1.0,13.0,1000804.0,Battery Park City-Lower Manhattan                                          
+5005930500,300,HOWARD AVENUE,STATEN ISLAND,10301,Yes,1359.0,156.3,357.4,,45.0,116.9,10029.0,Office,1.0,,40.622406,-74.08856899999999,1.0,49.0,39.0,5106892.0,Grymes Hill-Clifton-Fox Hills                                              
+2022770082,112,BRUCKNER BOULEVARD,BRONX,10454,Yes,2046.0,12.6,24.5,,,78.61,90422.0,Warehouse (Unrefrigerated),1.0,2000138.0,40.804746,-73.922527,1.0,8.0,19.0,2000138.0,Mott Haven-Port Morris                                                     
+2023910052,979,BROOK AVENUE        ,BRONX               ,10451,No DOF Record as of 08/01/12,,,,,,,,,,,40.826004,-73.911673,3.0,17.0,143.0,2001621.0,East Concourse-Concourse Village                                           
+1015200020,1381,LEXINGTON AVENUE,MANHATTAN,10128,Yes,534.0,197.7,362.8,,,1943.69,121391.0,Public Assembly,1.0,1048310.0,40.782773999999996,-73.953181,8.0,5.0,15801.0,1048303.0,Upper East Side-Carnegie Hill                                              
+4070210100,   81-50D,UTOPIA PARKWAY,QUEENS,11432,Yes,1297.0,121.8,267.9,,,381.55,43000.0,Recreation,1.0,,,,,,,,
+2029210001,1700,BATHGATE AVENUE     ,BRONX               ,10457,No DOF Record as of 08/01/12,,,,,,,,,,,40.841941,-73.899776,3.0,15.0,165.0,2009585.0,Claremont-Bathgate                                                         
+1002160001,235,WEST STREET         ,MANHATTAN,10013,No DOF Record as of 08/01/12,,,,,,,,,,,40.721070000000005,-74.012017,1.0,1.0,39.0,1002108.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1008280064,28,WEST   27 STREET,MANHATTAN,10001,Yes,1597.0,50.7,104.8,21.12,92.0,287.76,68300.0,Office,1.0,1015663.0,40.744785,-73.989491,5.0,3.0,58.0,1015663.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+5066700001,375,SEGUINE AVENUE      ,STATEN ISLAND       ,10309,No DOF Record as of 08/01/12,,,,,,,,,,,40.516725,-74.19688000000001,3.0,51.0,198.0,5082757.0,Annadale-Huguenot-Prince's Bay-Eltingville                                 
+1014610013,425,EAST   66 STREET,MANHATTAN,10065,Yes,19.0,219.7,733.9,0.0,,6766.82,327993.0,Other,1.0,1045570.0,40.763695,-73.958053,8.0,5.0,116.0,1045570.0,Lenox Hill-Roosevelt Island                                                
+1021240025,40,AUDUBON AVENUE,MANHATTAN,10032,Yes,939.0,371.5,852.0,,,4321.13,152979.0,Office,1.0,1087858.0,40.84002,-73.938713,12.0,10.0,251.0,1087858.0,Washington Heights South                                                   
+1008390060,22,WEST   38 STREET    ,MANHATTAN,10018,No DOF Record as of 08/01/12,,,,,,,,,,,40.751355,-73.983683,5.0,4.0,84.0,1015973.0,Midtown-Midtown South                                                      
+2023400186,341,RIDER AVENUE,BRONX,10451,Yes,1114.0,38.2,49.2,,80.0,259.65,104000.0,Warehouse (Unrefrigerated),5.0,,40.813987,-73.926277,1.0,8.0,51.0,2092183.0,Mott Haven-Port Morris                                                     
+3039530045,2941,ATLANTIC AVENUE     ,BROOKLYN            ,11207,No DOF Record as of 08/01/12,,,,,,,,,,,40.677756,-73.885396,5.0,37.0,1170.0,3087979.0,East New York                                                              
+1014560046,1124,   1 AVENUE,MANHATTAN,10065,Yes,1632.0,151.9,436.2,,,482.64,38000.0,Entertainment/Culture,1.0,,40.761261,-73.960755,8.0,5.0,10602.0,1045288.0,Lenox Hill-Roosevelt Island                                                
+3054420069,1521,  48 STREET,BROOKLYN,11219,Yes,1485.0,81.8,157.3,,,343.14,62000.0,Other,1.0,3128817.0,40.632546000000005,-73.986479,12.0,44.0,234.0,3128817.0,Borough Park                                                               
+1019610039,1165,AMSTERDAM AVENUE,MANHATTAN,10027,Yes,2058.0,206.9,368.9,,,88132.58,6385382.0,College/University (Campus-Level),2.0,,40.807738,-73.960373,9.0,7.0,20101.0,1059497.0,Morningside Heights                                                        
+2023450022,391,GRAND CONCOURSE     ,BRONX               ,10451,No DOF Record as of 08/01/12,,,,,,,,,,,40.816014,-73.928428,1.0,8.0,63.0,2000000.0,West Concourse                                                             
+3014790007,1338,BROADWAY,BROOKLYN,11221,Yes,1703.0,20.0,28.0,,94.0,109.25,74500.0,House of Worship,1.0,,40.690007,-73.922974,3.0,41.0,375.0,3039618.0,Stuyvesant Heights                                                         
+2039150023,1491,ST LAWRENCE AVENUE  ,BRONX               ,10460,No DOF Record as of 08/01/12,,,,,,,,,,,40.837628,-73.86823299999999,9.0,18.0,218.0,2028476.0,West Farms-Bronx River                                                     
+1009300020,335,EAST   24 STREET,MANHATTAN,10010,Yes,1468.0,312.9,580.3,,,5151.67,197092.0,College/University (Campus-Level),1.0,1020600.0,40.737856,-73.978746,6.0,2.0,66.0,1020600.0,Murray Hill-Kips Bay                                                       
+1012620042,2,WEST   47 STREET,MANHATTAN,10036,Yes,669.0,72.0,240.5,14.98,68.0,571.14,84466.0,Office,1.0,1034339.0,40.756852,-73.979058,5.0,4.0,96.0,1034339.0,Midtown-Midtown South                                                      
+3001450035,248,DUFFIELD STREET,BROOKLYN,11201,Yes,2463.0,23.2,51.5,,100.0,261.69,156090.0,Office,1.0,3000299.0,40.690812,-73.98441899999999,2.0,33.0,15.0,3413889.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+3048540007,398,LENOX ROAD          ,BROOKLYN            ,11203,No DOF Record as of 08/01/12,,,,,,,,,,,40.654391,-73.94621,17.0,40.0,818.0,3327730.0,Erasmus                                                                    
+2035730025,604,CASTLE HILL AVENUE  ,BRONX               ,10473,No DOF Record as of 08/01/12,,,,,,,,,,,40.819186,-73.848055,9.0,18.0,90.0,2021926.0,Soundview-Castle Hill-Clason Point-Harding Park                            
+1012920069,731,   5 AVENUE         ,MANHATTAN,10022,No DOF Record as of 08/01/12,,,,,,,,,,,40.762687,-73.974161,5.0,4.0,11202.0,1035792.0,Midtown-Midtown South                                                      
+1008300017,29,WEST   28 STREET    ,MANHATTAN,10001,No DOF Record as of 08/01/12,,,,,,,,,,,40.745474,-73.989148,5.0,3.0,76.0,1015723.0,Midtown-Midtown South                                                      
+2030510001,535,EAST  182 STREET,BRONX,10457,Yes,1923.0,134.3,186.0,,,564.53,71000.0,Multifamily Housing,1.0,,40.853111,-73.89279,6.0,15.0,385.0,2095365.0,Claremont-Bathgate                                                         
+3029270168,300,MASPETH AVENUE      ,BROOKLYN            ,11211,No DOF Record as of 08/01/12,,,,,,,,,,,40.717782,-73.932448,1.0,34.0,449.0,3400373.0,East Williamsburg                                                          
+5005340025,15,VANDERBILT AVENUE   ,STATEN ISLAND       ,10304,No DOF Record as of 08/01/12,,,,,,,,,,,40.621719,-74.073986,1.0,49.0,27.0,5149730.0,Stapleton-Rosebank                                                         
+3072730001,486,NEPTUNE AVENUE,BROOKLYN,11224,Yes,802.0,9.7,32.4,,,57.79,63542.0,Multifamily Housing,1.0,3196575.0,40.579802,-73.971942,13.0,48.0,354.0,3196575.0,West Brighton                                                              
+1008590048,434,PARK AVENUE SOUTH,MANHATTAN,10016,Yes,860.0,35.0,40.7,,100.0,428.92,152709.0,Office,1.0,1016935.0,40.74431,-73.98337,5.0,2.0,74.0,1016935.0,Midtown-Midtown South                                                      
+1000210001,61,BROADWAY,MANHATTAN,10006,Yes,137.0,62.7,185.7,,88.0,3712.58,650000.0,Office,1.0,1000808.0,40.706995,-74.012335,1.0,1.0,13.0,1000808.0,Battery Park City-Lower Manhattan                                          
+2045930016,3240,BRONX BOULEVARD,BRONX,10467,Yes,1931.0,28.2,40.4,,100.0,149.95,91388.0,Office,2.0,2097380.0,40.872282,-73.870471,12.0,15.0,376.0,2097380.0,Williamsbridge-Olinville                                                   
+2059330425,750,WEST  261 STREET,BRONX,10471,Yes,1769.0,193.2,266.0,,,1409.96,101808.0,Residence Hall/Dormitory,4.0,,40.911797,-73.90700799999999,8.0,11.0,309.0,2098646.0,North Riverdale-Fieldston-Riverdale                                        
+3044520135,1279,PENNSYLVANIA AVENUE,BROOKLYN,11207,Yes,1203.0,206.6,239.4,,,84653.85,7672280.0,Multifamily Housing,1.0,,40.649361999999996,-73.883427,5.0,42.0,105801.0,3098299.0,Starrett City                                                              
+1008380032,15,WEST   36 STREET,MANHATTAN,10018,Yes,341.0,53.7,105.5,,90.0,377.41,82255.0,Office,1.0,1015930.0,40.750079,-73.984441,5.0,4.0,84.0,1015930.0,Midtown-Midtown South                                                      
+4026560115,    59-21,  58 ROAD,QUEENS,11378,Yes,1319.0,50.6,137.2,3.8,18.0,401.69,95963.0,Warehouse (Unrefrigerated),1.0,4059714.0,,,,,,,
+1008030007,153,WEST   27 STREET,MANHATTAN,10001,Yes,2196.0,64.0,124.3,,94.0,578.28,110367.0,Office,1.0,1015062.0,40.746084,-73.992515,5.0,3.0,95.0,1015062.0,Midtown-Midtown South                                                      
+3005790001,37,OTSEGO STREET,BROOKLYN,11231,Yes,2195.0,,,73.44,,,60700.0,Other,1.0,,40.674634999999995,-74.009845,6.0,38.0,53.0,3329546.0,Carroll Gardens-Columbia Street-Red Hook                                   
+1009960001,1500,BROADWAY,MANHATTAN,10036,Yes,665.0,122.6,299.4,25.42,,5759.09,535421.0,Office,1.0,1022610.0,40.756856,-73.985973,5.0,4.0,119.0,1022610.0,Midtown-Midtown South                                                      
+5017250510,1120,SOUTH AVENUE,STATEN ISLAND,10314,Yes,2172.0,60.8,167.9,,49.0,374.58,74107.0,Hotel,1.0,5151613.0,40.612403,-74.17549,2.0,50.0,29102.0,5151613.0,New Springville-Bloomfield-Travis                                          
+1012810021,361,MADISON AVENUE      ,MANHATTAN,10017,No DOF Record as of 08/01/12,,,,,,,,,,,40.754914,-73.977726,5.0,4.0,94.0,1035393.0,Midtown-Midtown South                                                      
+4050200023,    38-20,BOWNE STREET,QUEENS,11354,Yes,2201.0,83.6,218.9,,,1343.1,200000.0,Multifamily Housing,1.0,4113595.0,,,,,,,
+1001020001,154,NASSAU STREET,MANHATTAN,10038,Yes,119.0,118.2,240.4,,,6278.48,628399.0,College/University (Campus-Level),1.0,,40.711437,-74.006146,1.0,1.0,1501.0,1001357.0,Battery Park City-Lower Manhattan                                          
+1008680010,7,EAST   38 STREET,MANHATTAN,10016,Yes,1863.0,65.9,220.2,,58.0,513.67,82997.0,Office,1.0,1017228.0,40.750688000000004,-73.98205899999999,5.0,4.0,82.0,1017228.0,Murray Hill-Kips Bay                                                       
+5021650160,2,TELEPORT DRIVE,STATEN ISLAND,10314,Yes,2181.0,64.9,175.5,,83.0,889.72,166761.0,Office,1.0,5146614.0,40.603721,-74.17927399999999,2.0,50.0,29103.0,5146614.0,New Springville-Bloomfield-Travis                                          
+1006560007,,PIER   45           ,MANHATTAN,10014,No DOF Record as of 08/01/12,,,,,,,,,,,40.733185999999996,-74.011723,2.0,3.0,75.0,1012250.0,West Village                                                               
+2024300045,1160,TELLER AVENUE       ,BRONX               ,10456,No DOF Record as of 08/01/12,,,,,,,,,,,40.831568,-73.912013,4.0,16.0,17701.0,2002160.0,East Concourse-Concourse Village                                           
+1008400031,15,WEST   38 STREET    ,MANHATTAN,10018,No DOF Record as of 08/01/12,,,,,,,,,,,40.751306,-73.983524,5.0,4.0,84.0,1016002.0,Midtown-Midtown South                                                      
+2032730001,441,EAST FORDHAM ROAD,BRONX,10458,Yes,2281.0,60.5,111.4,,86.0,903.19,221531.0,Residence Hall/Dormitory,33.0,,40.860733,-73.889535,6.0,15.0,397.0,2102025.0,Belmont                                                                    
+1013190047,733,   3 AVENUE,MANHATTAN,10017,Yes,4.0,108.8,248.0,,69.0,3409.92,362578.0,Office,1.0,1037596.0,40.753074,-73.972753,6.0,4.0,90.0,1037596.0,Turtle Bay-East Midtown                                                    
+1008640025,185,MADISON AVENUE,MANHATTAN,10016,Yes,1168.0,78.0,191.5,,71.0,628.63,91800.0,Office,1.0,1017098.0,40.747861,-73.982875,6.0,2.0,74.0,1017098.0,Midtown-Midtown South                                                      
+1014620005,1275,YORK AVENUE,MANHATTAN,10065,Yes,171.0,369.1,737.9,0.0,,42715.84,1369786.0,Other,3.0,,40.764199,-73.95569499999999,8.0,5.0,116.0,1087284.0,Lenox Hill-Roosevelt Island                                                
+1010220043,1631,BROADWAY,MANHATTAN,10019,Yes,71.0,102.0,237.9,23.12,70.0,25163.9,2841655.0,Office,1.0,,40.761522,-73.983994,5.0,3.0,131.0,1024812.0,Midtown-Midtown South                                                      
+5024000118,112,RICHMOND HILL ROAD,STATEN ISLAND,10314,Yes,437.0,124.2,221.1,,71.0,2233.95,271643.0,Retail,1.0,,40.584301,-74.164907,2.0,51.0,27702.0,5039657.0,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill                   
+1007870084,554,   8 AVENUE,MANHATTAN,10018,Yes,1569.0,25.0,82.1,37.59,,638.62,272142.0,Other,1.0,,40.754411,-73.99183599999999,5.0,3.0,109.0,1014469.0,Midtown-Midtown South                                                      
+1021400050,1051,RIVERSIDE DRIVE     ,MANHATTAN,10032,No DOF Record as of 08/01/12,,,,,,,,,,,40.842399,-73.944074,12.0,10.0,255.0,1085495.0,Washington Heights South                                                   
+4107890264,   219-54,JAMAICA AVENUE,QUEENS,11428,Yes,1509.0,16.8,44.5,,64.0,72.9,54703.0,Warehouse (Unrefrigerated),1.0,,,,,,,,
+1013220001,777,   3 AVENUE,MANHATTAN,10017,Yes,946.0,,,,,,,Office,1.0,,40.75466,-73.971598,6.0,4.0,90.0,1038000.0,Turtle Bay-East Midtown                                                    
+3013350011,1680,ATLANTIC AVENUE     ,BROOKLYN            ,11213,No DOF Record as of 08/01/12,,,,,,,,,,,40.677658,-73.934958,8.0,36.0,309.0,3035549.0,Crown Heights North                                                        
+3002660050,250,JORALEMON STREET    ,BROOKLYN            ,11201,No DOF Record as of 08/01/12,,,,,,,,,,,40.692319,-73.989654,2.0,33.0,9.0,3002559.0,Brooklyn Heights-Cobble Hill                                               
+3019210001,333,WAVERLY AVENUE,BROOKLYN,11205,Yes,716.0,135.3,213.5,,,262.71,31000.0,K-12 School,1.0,3827804.0,40.688309999999994,-73.966852,2.0,35.0,197.0,3319502.0,Clinton Hill                                                               
+1012880007,5,EAST   52 STREET,MANHATTAN,10022,Yes,2580.0,133.2,297.8,,46.0,4010.15,350110.0,Office,1.0,1035709.0,40.759640000000005,-73.975916,5.0,4.0,102.0,1035709.0,Midtown-Midtown South                                                      
+1013480023,1005,   1 AVENUE         ,MANHATTAN,10022,No DOF Record as of 08/01/12,,,,,,,,,,,40.757107,-73.963814,6.0,5.0,108.0,1039972.0,Turtle Bay-East Midtown                                                    
+1010060013,141,WEST   53 STREET,MANHATTAN,10019,Yes,91.0,71.6,210.5,14.39,86.0,5802.94,898743.0,Office,1.0,,40.762625,-73.981052,5.0,4.0,131.0,1076175.0,Midtown-Midtown South                                                      
+1012900037,410,PARK AVENUE         ,MANHATTAN,10022,No DOF Record as of 08/01/12,,,,,,,,,,,40.760057,-73.97189499999999,5.0,4.0,102.0,1035752.0,Midtown-Midtown South                                                      
+1005110015,598,BROADWAY,MANHATTAN,10012,Yes,246.0,49.4,157.1,,,356.34,78616.0,Office,1.0,1007945.0,40.725045,-73.997085,2.0,1.0,43.0,1007945.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1008190027,17,WEST   17 STREET,MANHATTAN,10011,Yes,1173.0,77.8,165.6,,,364.05,55869.0,Multifamily Housing,1.0,1015415.0,40.738283,-73.993072,5.0,3.0,54.0,1015415.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+4067890065,    70-09,JEWEL AVENUE,QUEENS,11367,Yes,1784.0,107.8,359.9,,,555.52,54912.0,Other,1.0,4146991.0,,,,,,,
+3036440140,10203,AVENUE D            ,BROOKLYN            ,11236,No DOF Record as of 08/01/12,,,,,,,,,,,40.652606,-73.90343399999999,18.0,42.0,1098.0,3083084.0,East New York                                                              
+1010139012,234,WEST   42 STREET,MANHATTAN,10036,Yes,629.0,302.6,886.5,,,8072.46,308503.0,Other,1.0,1024665.0,40.756747,-73.988659,5.0,3.0,113.0,1024665.0,Midtown-Midtown South                                                      
+1008380021,35,WEST   36 STREET,MANHATTAN,10018,Yes,1218.0,49.9,107.6,,92.0,286.56,79832.0,Office,1.0,1015925.0,40.750518,-73.985487,5.0,4.0,84.0,1015925.0,Midtown-Midtown South                                                      
+1005000011,120,WOOSTER STREET      ,MANHATTAN,10012,No DOF Record as of 08/01/12,,,,,,,,,,,40.724996000000004,-74.000415,2.0,1.0,49.0,1079963.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1014560035,406,EAST   62 STREET,MANHATTAN,10065,Yes,261.0,34.7,92.2,0.0,,559.84,193270.0,Other,1.0,,40.761302,-73.960188,8.0,5.0,10602.0,1045287.0,Lenox Hill-Roosevelt Island                                                
+3043350001,2237,LINDEN BOULEVARD,BROOKLYN,11207,Yes,2633.0,136.7,279.5,,,1274.12,130500.0,Other,1.0,3387645.0,40.662938,-73.880513,5.0,42.0,1116.0,3387645.0,East New York                                                              
+1019770001,3080,BROADWAY            ,MANHATTAN,10027,No DOF Record as of 08/01/12,,,,,,,,,,,40.811921000000005,-73.96103199999999,9.0,7.0,211.0,1059669.0,Morningside Heights                                                        
+1002330002,9,CROSBY STREET       ,MANHATTAN,10013,No DOF Record as of 08/01/12,,,,,,,,,,,40.719926,-74.000289,2.0,1.0,45.0,1088790.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+3043490050,788,VAN SICLEN AVENUE   ,BROOKLYN            ,11207,No DOF Record as of 08/01/12,,,,,,,,,,,40.660294,-73.885527,5.0,42.0,1104.0,3000000.0,East New York                                                              
+2025850001,781,EAST  133 STREET,BRONX,10454,Yes,1423.0,104.6,156.7,,38.0,1077.93,143570.0,Warehouse (Unrefrigerated),1.0,2003981.0,40.800841999999996,-73.913318,1.0,17.0,19.0,2003981.0,Mott Haven-Port Morris                                                     
+1012600024,19,WEST   44 STREET,MANHATTAN,10036,Yes,838.0,96.4,268.3,,53.0,2181.5,249382.0,Office,1.0,1034224.0,40.755167,-73.98083000000001,5.0,4.0,96.0,1034224.0,Midtown-Midtown South                                                      
+1000200016,55,BROADWAY,MANHATTAN,10006,Yes,138.0,86.7,248.7,,72.0,2840.03,363378.0,Office,1.0,1000807.0,40.706638,-74.012631,1.0,1.0,13.0,1000807.0,Battery Park City-Lower Manhattan                                          
+1013740021,637,MADISON AVENUE,MANHATTAN,10022,Yes,2132.0,102.2,299.0,,30.0,1281.0,137917.0,Medical Office,1.0,1040754.0,40.763811,-73.971236,8.0,4.0,11401.0,1040754.0,Upper East Side-Carnegie Hill                                              
+3037330001,193,HINSDALE STREET     ,BROOKLYN            ,11207,No DOF Record as of 08/01/12,,,,,,,,,,,40.670553999999996,-73.900329,5.0,42.0,1144.0,3319614.0,East New York (Pennsylvania Ave)                                           
+1002120007,30,VARICK STREET,MANHATTAN,10013,Yes,577.0,98.2,259.2,,,1060.83,123057.0,Office,1.0,1002733.0,40.720626,-74.006652,1.0,1.0,33.0,1002733.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+3019200001,255,RYERSON STREET,BROOKLYN,11205,Yes,2348.0,148.8,258.4,,,165.53,17000.0,K-12 School,3.0,3334959.0,40.690247,-73.96433,2.0,35.0,193.0,3055112.0,Clinton Hill                                                               
+3026660125,927,MEEKER AVENUE,BROOKLYN,11222,Yes,1266.0,,,,24.0,,,Warehouse (Unrefrigerated),1.0,,40.727016,-73.933892,1.0,33.0,589.0,3066696.0,Greenpoint                                                                 
+1008020019,135,WEST   26 STREET,MANHATTAN,10001,Yes,983.0,8.8,29.5,,,38.43,46300.0,Office,1.0,,40.745293,-73.99255500000001,5.0,3.0,95.0,1015036.0,Midtown-Midtown South                                                      
+1012630061,48,WEST   48 STREET,MANHATTAN,10036,Yes,1929.0,78.0,198.9,,82.0,801.57,118134.0,Office,1.0,,40.758109999999995,-73.980089,5.0,4.0,96.0,1034498.0,Midtown-Midtown South                                                      
+1006450029,416,WEST   13 STREET    ,MANHATTAN,10014,No DOF Record as of 08/01/12,,,,,,,,,,,40.740569,-74.006615,2.0,3.0,79.0,1080266.0,West Village                                                               
+3031630001,105,EVERGREEN AVENUE,BROOKLYN,11206,Yes,2139.0,14.4,32.3,,96.0,154.4,145000.0,Warehouse (Unrefrigerated),1.0,3072045.0,40.699595,-73.93195,4.0,34.0,425.0,3072045.0,Bushwick South                                                             
+1009620080,522,   1 AVENUE,MANHATTAN,10016,Yes,83.0,220.4,475.2,,31.0,54829.05,2906660.0,Hospital (General Medical and Surgical),1.0,,40.741492,-73.975172,6.0,4.0,62.0,1087297.0,Murray Hill-Kips Bay                                                       
+3088080045,2840,KNAPP STREET,BROOKLYN,11235,Yes,1145.0,161.4,366.2,,7.0,800.64,66242.0,Senior Care Facility,1.0,3247955.0,40.584841,-73.93117099999999,15.0,48.0,622.0,3247955.0,Sheepshead Bay-Gerritsen Beach-Manhattan Beach                             
+1008400028,21,WEST   38 STREET,MANHATTAN,10018,Yes,1048.0,97.1,182.3,,65.0,483.14,65240.0,Office,1.0,1016000.0,40.751364,-73.983661,5.0,4.0,84.0,1016000.0,Midtown-Midtown South                                                      
+3007040054,341,  39 STREET,BROOKLYN,11232,Yes,720.0,110.7,164.5,,,1160.09,130800.0,Other,1.0,3010432.0,40.653278,-74.007222,7.0,38.0,84.0,3010432.0,Sunset Park West                                                           
+1014180032,222,EAST   64 STREET    ,MANHATTAN,10065,No DOF Record as of 08/01/12,,,,,,,,,,,40.764383,-73.963615,8.0,4.0,110.0,1087753.0,Lenox Hill-Roosevelt Island                                                
+2033440052,3530,WAYNE AVENUE        ,BRONX               ,10467,No DOF Record as of 08/01/12,,,,,,,,,,,40.881144,-73.877444,7.0,11.0,431.0,2018271.0,Norwood                                                                    
+3070680030,3020,WEST   28 STREET,BROOKLYN,11224,Yes,676.0,80.8,151.8,,,486.42,89438.0,Multifamily Housing,1.0,3189628.0,40.572604999999996,-73.99376600000001,13.0,47.0,340.0,3189628.0,Seagate-Coney Island                                                       
+5021650190,5,TELEPORT DRIVE      ,STATEN ISLAND       ,10314,No DOF Record as of 08/01/12,,,,,,,,,,,40.603168,-74.180076,2.0,50.0,29103.0,5146616.0,New Springville-Bloomfield-Travis                                          
+3001220010,265,GOLD STREET,BROOKLYN,11201,Yes,1517.0,24.9,57.2,,72.0,181.32,97929.0,Warehouse (Unrefrigerated),1.0,,40.696707,-73.983159,2.0,33.0,15.0,3329431.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+1006010013,584,WASHINGTON STREET,MANHATTAN,10014,Yes,1661.0,,,,,,160000.0,Warehouse (Unrefrigerated),1.0,,40.729601,-74.00924,2.0,3.0,69.0,,West Village                                                               
+1004200047,41,RIVINGTON STREET,MANHATTAN,10002,Yes,1169.0,69.3,218.5,,66.0,995.85,157500.0,Senior Care Facility,1.0,1005601.0,40.720928,-73.991201,3.0,1.0,18.0,1005601.0,Chinatown                                                                  
+1013110052,687,LEXINGTON AVENUE,MANHATTAN,10022,Yes,1077.0,123.2,289.3,,16.0,703.49,67657.0,Hotel,1.0,,40.760564,-73.969386,6.0,4.0,11203.0,1036889.0,Turtle Bay-East Midtown                                                    
+2036180001,2350,LAFAYETTE AVENUE    ,BRONX               ,10473,No DOF Record as of 08/01/12,,,,,,,,,,,40.823744,-73.845353,9.0,18.0,90.0,2022541.0,Soundview-Castle Hill-Clason Point-Harding Park                            
+3077630001,1900,RALPH AVENUE,BROOKLYN,11236,Yes,2135.0,,,,,,58204.0,Other,1.0,3214956.0,40.630798999999996,-73.91847800000001,18.0,46.0,720.0,3214956.0,Flatlands                                                                  
+1008070028,119,WEST   31 STREET,MANHATTAN,10001,Yes,1111.0,66.1,186.4,,77.0,1167.95,204417.0,Office,1.0,1015181.0,40.748238,-73.989952,5.0,3.0,101.0,1015181.0,Midtown-Midtown South                                                      
+3073630036,3505,NOSTRAND AVENUE     ,BROOKLYN            ,11229,No DOF Record as of 08/01/12,,,,,,,,,,,40.598631,-73.941535,15.0,46.0,570.0,3200300.0,Sheepshead Bay-Gerritsen Beach-Manhattan Beach                             
+1012950058,364,LEXINGTON AVENUE,MANHATTAN,10017,Yes,647.0,75.7,197.1,,71.0,2106.98,313770.0,Office,1.0,1036150.0,40.750514,-73.976739,5.0,4.0,80.0,1036150.0,Murray Hill-Kips Bay                                                       
+4101700023,   107-37, 166 STREET,QUEENS,11433,Yes,1034.0,78.7,136.7,51.38,,,93714.0,Multifamily Housing,1.0,4529896.0,,,,,,,
+1008110021,1333,BROADWAY,MANHATTAN,10018,Yes,92.0,56.3,139.2,,88.0,1909.7,387169.0,Office,2.0,1015226.0,40.750828999999996,-73.98776099999999,5.0,3.0,109.0,1015226.0,Midtown-Midtown South                                                      
+3030560074,246,MESEROLE STREET     ,BROOKLYN            ,11206,No DOF Record as of 08/01/12,,,,,,,,,,,40.708514,-73.938578,1.0,34.0,485.0,3325825.0,Bushwick South                                                             
+2023190055,200,EAST  135 STREET,BRONX,10451,Yes,1606.0,,,,,,,Self-Storage,5.0,,40.810699,-73.931313,1.0,8.0,51.0,2102476.0,Mott Haven-Port Morris                                                     
+3060330001,8515,RIDGE BOULEVARD     ,BROOKLYN            ,11209,No DOF Record as of 08/01/12,,,,,,,,,,,40.624746,-74.03347,10.0,43.0,62.0,3328998.0,Bay Ridge                                                                  
+1009170006,207,EAST   36 STREET    ,MANHATTAN,10016,No DOF Record as of 08/01/12,,,,,,,,,,,40.746864,-73.976823,6.0,4.0,78.0,1020203.0,Murray Hill-Kips Bay                                                       
+4010500002,    25-06,  75 STREET,QUEENS,11370,Yes,1657.0,79.8,128.7,,89.0,1495.82,300000.0,K-12 School,4.0,4437060.0,,,,,,,
+1008560011,15,EAST   26 STREET,MANHATTAN,10010,Yes,2635.0,156.0,367.7,,,1912.83,140026.0,Multifamily Housing,1.0,,40.743119,-73.987387,5.0,2.0,56.0,1016877.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+3036790030,1,JUNIUS STREET,BROOKLYN,11212,Yes,914.0,97.9,212.0,127.52,,572.02,80000.0,Multifamily Housing,1.0,,40.674921999999995,-73.904306,16.0,37.0,908.0,3083426.0,Brownsville                                                                
+3005950009,258,CONOVER STREET      ,BROOKLYN            ,11231,No DOF Record as of 08/01/12,,,,,,,,,,,40.675957000000004,-74.01675300000001,6.0,38.0,53.0,3000000.0,Carroll Gardens-Columbia Street-Red Hook                                   
+1012930014,19,EAST   57 STREET,MANHATTAN,10022,Yes,58.0,131.6,361.9,19.22,41.0,1178.17,99936.0,Office,1.0,,40.762621,-73.973128,5.0,4.0,11202.0,1086164.0,Midtown-Midtown South                                                      
+5024400002,2795,RICHMOND AVENUE,STATEN ISLAND,10314,Yes,1793.0,119.9,335.9,,67.0,3464.64,344326.0,Retail,1.0,,40.578557,-74.169595,2.0,51.0,27702.0,5108454.0,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill                   
+3029790001,114,SCOTT AVENUE        ,BROOKLYN            ,11237,No DOF Record as of 08/01/12,,,,,,,,,,,40.711263,-73.923325,1.0,34.0,449.0,3346083.0,East Williamsburg                                                          
+1012950033,622,   3 AVENUE,MANHATTAN,10017,Yes,785.0,,,,58.0,,,Office,1.0,,40.749581,-73.975324,6.0,4.0,80.0,1089024.0,Murray Hill-Kips Bay                                                       
+1008040067,146,WEST   29 STREET,MANHATTAN,10001,Yes,1325.0,60.1,115.8,,,465.14,91000.0,Office,1.0,1015131.0,40.747225,-73.99143199999999,5.0,3.0,95.0,1015131.0,Midtown-Midtown South                                                      
+1010100021,119,WEST   57 STREET,MANHATTAN,10019,Yes,816.0,85.7,228.2,,54.0,864.87,113707.0,Office,2.0,1023725.0,40.764655,-73.977972,5.0,4.0,137.0,1023725.0,Midtown-Midtown South                                                      
+2049930001,613,EAST  233 STREET,BRONX,10466,Yes,897.0,0.0,0.0,,,245.1,0.0,Other,1.0,2097440.0,40.894451000000004,-73.860659,12.0,11.0,420.0,2097440.0,Williamsbridge-Olinville                                                   
+2023630016,2984,   3 AVENUE,BRONX,10455,Yes,1916.0,14.5,36.2,,100.0,192.91,171337.0,Retail,1.0,,40.818727,-73.914241,1.0,17.0,71.0,2001182.0,Melrose South-Mott Haven North                                             
+4019070025,    55-06,  99 STREET,QUEENS,11368,Yes,1751.0,102.6,151.1,,,405.44,64602.0,Multifamily Housing,1.0,4437300.0,,,,,,,
+1013750021,655,MADISON AVENUE,MANHATTAN,10022,Yes,452.0,73.6,212.4,,78.0,1288.71,193289.0,Office,2.0,1040802.0,40.764193,-73.970644,8.0,4.0,11401.0,1040802.0,Upper East Side-Carnegie Hill                                              
+3001480046,81,WILLOUGHBY STREET,BROOKLYN,11201,Yes,1615.0,85.7,171.0,,,427.28,72900.0,Other,1.0,3000350.0,40.692184000000005,-73.985753,2.0,33.0,11.0,3000350.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+4004260001,    22-15,  43 AVENUE,QUEENS,11101,Yes,884.0,89.7,218.9,,63.0,414.34,59500.0,Office,1.0,4005067.0,,,,,,,
+3007210001,4201,   1 AVENUE         ,BROOKLYN            ,11232,No DOF Record as of 08/01/12,,,,,,,,,,,40.654835999999996,-74.014567,7.0,38.0,2.0,3337139.0,Sunset Park West                                                           
+3045250001,625,WORTMAN AVENUE,BROOKLYN,11208,Yes,1723.0,76.9,111.4,1.55,78.0,264.67,58000.0,Warehouse (Unrefrigerated),1.0,,40.662914,-73.871076,5.0,42.0,1116.0,3098935.0,East New York                                                              
+1008270064,30,WEST   26 STREET,MANHATTAN,10010,Yes,1307.0,99.7,234.4,,55.0,726.64,90720.0,Office,1.0,1015629.0,40.744102000000005,-73.989762,5.0,3.0,58.0,1015629.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+1017090016,438,EAST  116 STREET    ,MANHATTAN,10029,No DOF Record as of 08/01/12,,,,,,,,,,,40.795503000000004,-73.93424300000001,11.0,8.0,178.0,1081443.0,East Harlem North                                                          
+1000370008,110,WALL STREET,MANHATTAN,10005,Yes,41.0,108.9,238.6,13.0,64.0,2736.63,292627.0,Office,1.0,1000872.0,40.704638,-74.006694,1.0,1.0,7.0,1000872.0,Battery Park City-Lower Manhattan                                          
+3029790107,154,SCOTT AVENUE,BROOKLYN,11237,Yes,1590.0,7.7,15.4,,99.0,53.48,100000.0,Warehouse (Unrefrigerated),1.0,,40.712183,-73.923746,1.0,34.0,449.0,3346084.0,East Williamsburg                                                          
+3004890001,595,SMITH STREET        ,BROOKLYN            ,11231,No DOF Record as of 08/01/12,,,,,,,,,,,40.671528,-73.99969399999999,6.0,38.0,53.0,3336391.0,Carroll Gardens-Columbia Street-Red Hook                                   
+3004070041,345,BUTLER STREET       ,BROOKLYN            ,11217,No DOF Record as of 08/01/12,,,,,,,,,,,40.680345,-73.982312,6.0,33.0,127.0,3255165.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+2054090100,1200,STADIUM AVENUE,BRONX,10465,Yes,730.0,159.5,275.7,,18.0,1200.81,116000.0,Senior Care Facility,1.0,2075316.0,40.837281,-73.818864,10.0,13.0,27402.0,2075316.0,Pelham Bay-Country Club-City Island                                        
+5005930500,300,HOWARD AVENUE,STATEN ISLAND,10301,Yes,1365.0,81.0,145.5,,,68.87,12982.0,College/University (Campus-Level),1.0,,40.622406,-74.08856899999999,1.0,49.0,39.0,5106892.0,Grymes Hill-Clifton-Fox Hills                                              
+1012720063,38,WEST   57 STREET,MANHATTAN,10019,Yes,666.0,127.2,299.1,31.02,60.0,8392.55,820557.0,Office,1.0,1035057.0,40.763519,-73.975305,5.0,4.0,11201.0,1035057.0,Midtown-Midtown South                                                      
+1005350008,567,LA GUARDIA PLACE,MANHATTAN,10012,Yes,815.0,14.0,43.5,,,665.03,505205.0,Library,1.0,1008626.0,40.729451,-73.99775600000001,2.0,1.0,5501.0,1008626.0,West Village                                                               
+4070750001,   187-02,HOR HARDING EP SR S,QUEENS,11365,Yes,1702.0,201.2,359.6,,,995.49,73336.0,Retail,1.0,,,,,,,,
+3031780020,476,JEFFERSON STREET    ,BROOKLYN            ,11237,No DOF Record as of 08/01/12,,,,,,,,,,,40.708696,-73.92187,4.0,34.0,447.0,3072427.0,Bushwick North                                                             
+4066470035,   147-37,  70 ROAD,QUEENS,11367,Yes,619.0,45.0,102.8,,91.0,244.42,66971.0,K-12 School,1.0,4143956.0,,,,,,,
+3036790022,23,JUNIUS STREET,BROOKLYN,11212,Yes,915.0,108.7,232.5,148.39,,631.11,80000.0,Multifamily Housing,1.0,,40.674515,-73.904206,16.0,37.0,908.0,3378454.0,Brownsville                                                                
+1008570024,63,MADISON AVENUE,MANHATTAN,10016,Yes,322.0,128.8,272.7,,52.0,8651.01,786069.0,Office,1.0,1016889.0,40.743478,-73.98607,5.0,2.0,56.0,1016889.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+1010260059,252,WEST   55 STREET    ,MANHATTAN,10019,No DOF Record as of 08/01/12,,,,,,,,,,,40.765027,-73.982925,5.0,3.0,137.0,1000000.0,Midtown-Midtown South                                                      
+1012810001,547,   5 AVENUE,MANHATTAN,10017,Yes,985.0,88.7,250.8,,70.0,3501.52,437350.0,Office,1.0,1035389.0,40.755439,-73.979448,5.0,4.0,94.0,1035389.0,Midtown-Midtown South                                                      
+1001790066,139,FRANKLIN STREET     ,MANHATTAN,10013,No DOF Record as of 08/01/12,,,,,,,,,,,40.719177,-74.007547,1.0,1.0,33.0,1002017.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1017860009,219,EAST  121 STREET    ,MANHATTAN,10035,No DOF Record as of 08/01/12,,,,,,,,,,,40.800885,-73.93705899999999,11.0,8.0,194.0,1087442.0,East Harlem North                                                          
+2023870010,3362,PARK AVENUE         ,BRONX               ,10456,No DOF Record as of 08/01/12,,,,,,,,,,,40.82823,-73.91103100000001,3.0,16.0,185.0,2101893.0,Morrisania-Melrose                                                         
+1008680008,5,EAST   38 STREET    ,MANHATTAN,10016,No DOF Record as of 08/01/12,,,,,,,,,,,40.750746,-73.982199,5.0,4.0,82.0,1017227.0,Murray Hill-Kips Bay                                                       
+3088150590,3218,EMMONS AVENUE       ,BROOKLYN            ,11235,No DOF Record as of 08/01/12,,,,,,,,,,,40.584207,-73.932187,15.0,46.0,622.0,3392378.0,Sheepshead Bay-Gerritsen Beach-Manhattan Beach                             
+4157670050,     4-31,BEACH   20 STREET,QUEENS,11691,Yes,1616.0,75.9,175.2,,91.0,927.99,97800.0,Senior Care Facility,1.0,4301056.0,,,,,,,
+1018850036,1084,AMSTERDAM AVENUE,MANHATTAN,10025,Yes,554.0,197.1,288.9,,55.0,2050.99,170640.0,Medical Office,1.0,1057032.0,40.805081,-73.96234,9.0,7.0,199.0,1057032.0,Morningside Heights                                                        
+3006630001,95,  29 STREET,BROOKLYN,11232,Yes,1621.0,,,,,,115652.0,Other,1.0,3009778.0,40.659989,-74.003121,7.0,38.0,18.0,3009778.0,Sunset Park West                                                           
+1007630067,346,WEST   40 STREET,MANHATTAN,10018,Yes,1730.0,9.9,33.0,,82.0,49.18,53000.0,Warehouse (Unrefrigerated),1.0,1013695.0,40.756516,-73.992088,4.0,3.0,115.0,1013695.0,Clinton                                                                    
+1019950044,628,WEST  125 STREET,MANHATTAN,10027,Yes,2062.0,116.1,149.9,,,6169.2,657384.0,Multifamily Housing,1.0,,40.816416,-73.95897,9.0,7.0,211.0,1059889.0,Morningside Heights                                                        
+1008330054,16,WEST   32 STREET    ,MANHATTAN,10001,No DOF Record as of 08/01/12,,,,,,,,,,,40.747541,-73.986426,5.0,4.0,76.0,1015827.0,Midtown-Midtown South                                                      
+4026100336,    55-15,GRAND AVENUE,QUEENS,11378,Yes,694.0,242.7,377.7,,,4984.6,319000.0,Other,4.0,4437467.0,,,,,,,
+1000480001,140,BROADWAY,MANHATTAN,10005,Yes,9.0,155.2,318.5,,53.0,15518.13,1178137.0,Office,1.0,1001027.0,40.709043,-74.010626,1.0,1.0,7.0,1001027.0,Battery Park City-Lower Manhattan                                          
+1005400014,130,MAC DOUGAL STREET,MANHATTAN,10012,Yes,1456.0,5.0,5.7,,100.0,39.36,144268.0,Residence Hall/Dormitory,1.0,1008701.0,40.730236,-74.000274,2.0,1.0,65.0,1087045.0,West Village                                                               
+3044350050,177,VANDALIA AVENUE     ,BROOKLYN            ,11239,No DOF Record as of 08/01/12,,,,,,,,,,,40.651582,-73.882994,5.0,42.0,105801.0,3098291.0,Starrett City                                                              
+4091210024,   103-37,  98 STREET,QUEENS,11417,Yes,1684.0,14.3,40.3,18.31,,89.01,73775.0,Warehouse (Unrefrigerated),2.0,,,,,,,,
+1002820044,88,EAST BROADWAY       ,MANHATTAN,10002,No DOF Record as of 08/01/12,,,,,,,,,,,40.713745,-73.994091,3.0,1.0,8.0,1066526.0,Chinatown                                                                  
+3017780055,600,DE KALB AVENUE      ,BROOKLYN            ,11205,No DOF Record as of 08/01/12,,,,,,,,,,,40.691234,-73.95250899999999,3.0,36.0,241.0,3259375.0,Bedford                                                                    
+3060620041,8820,   4 AVENUE         ,BROOKLYN            ,11209,No DOF Record as of 08/01/12,,,,,,,,,,,40.621081,-74.029066,10.0,43.0,60.0,3000000.0,Bay Ridge                                                                  
+3067090036,1605,AVENUE J,BROOKLYN,11230,Yes,1484.0,38.7,127.6,0.0,61.0,398.48,109872.0,K-12 School,1.0,3179705.0,40.62531,-73.960298,14.0,44.0,532.0,3179705.0,Midwood                                                                    
+1001980001,100,BAXTER STREET,MANHATTAN,10013,Yes,2483.0,30.2,51.4,15.67,,491.21,253009.0,Multifamily Housing,1.0,,40.717154,-73.999567,1.0,1.0,29.0,,Chinatown                                                                  
+1012910051,555,MADISON AVENUE,MANHATTAN,10022,Yes,133.0,80.4,162.4,,88.0,3392.25,498531.0,Office,1.0,,40.761177,-73.973161,5.0,4.0,102.0,1035775.0,Midtown-Midtown South                                                      
+1006180024,214,WEST   14 STREET,MANHATTAN,10011,Yes,1582.0,73.5,176.4,,70.0,374.29,59400.0,Office,1.0,1011106.0,40.738846,-74.00039699999999,2.0,3.0,77.0,1011106.0,West Village                                                               
+1011420024,115,WEST   70 STREET,MANHATTAN,10023,Yes,1945.0,,,,48.0,,75000.0,Residence Hall/Dormitory,1.0,1029754.0,40.776348,-73.980301,7.0,6.0,157.0,1029754.0,Lincoln Square                                                             
+4086950001,    79-33, 258 STREET,QUEENS,11004,Yes,1253.0,48.1,71.9,,,273.1,93000.0,Other,2.0,,,,,,,,
+1008040044,104,WEST   29 STREET,MANHATTAN,10001,Yes,853.0,78.1,187.9,,75.0,854.34,127658.0,Office,1.0,1015125.0,40.746866,-73.990581,5.0,3.0,95.0,1015125.0,Midtown-Midtown South                                                      
+1007100029,501,  10 AVENUE         ,MANHATTAN,10018,No DOF Record as of 08/01/12,,,,,,,,,,,40.75728,-73.997199,4.0,3.0,117.0,1012527.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+1012730031,3,WEST   57 STREET,MANHATTAN,10019,Yes,2154.0,60.2,184.6,,64.0,351.43,63020.0,Office,1.0,1035073.0,40.763197,-73.974496,5.0,4.0,11201.0,1035073.0,Midtown-Midtown South                                                      
+1009190042,224,EAST   39 STREET,MANHATTAN,10016,Yes,1332.0,78.7,136.3,,60.0,1104.6,167633.0,Hotel,1.0,,40.748398,-73.974747,6.0,4.0,78.0,1020361.0,Murray Hill-Kips Bay                                                       
+1008150039,110,WEST   40 STREET,MANHATTAN,10018,Yes,252.0,67.4,148.7,,96.0,803.07,136974.0,Office,2.0,,40.753818,-73.98569599999999,5.0,4.0,113.0,1080614.0,Midtown-Midtown South                                                      
+1007940025,125,WEST   18 STREET,MANHATTAN,10011,Yes,1005.0,88.5,244.9,,69.0,2333.61,291734.0,Office,1.0,1014717.0,40.740251,-73.995926,4.0,3.0,87.0,1014717.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+2036730001,1998,BRUCKNER BOULEVARD,BRONX,10473,Yes,157.0,81.4,256.9,,32.0,1279.45,171476.0,Retail,4.0,2094839.0,40.825955,-73.856817,9.0,18.0,42.0,2094839.0,Soundview-Castle Hill-Clason Point-Harding Park                            
+1008300016,37,WEST   28 STREET,MANHATTAN,10001,Yes,1716.0,87.3,166.8,,77.0,390.96,55000.0,Office,1.0,1015722.0,40.745526,-73.989274,5.0,3.0,76.0,1015722.0,Midtown-Midtown South                                                      
+3002300001,79,WILLOW STREET       ,BROOKLYN            ,11201,No DOF Record as of 08/01/12,,,,,,,,,,,40.698674,-73.995182,2.0,33.0,301.0,3001717.0,Brooklyn Heights-Cobble Hill                                               
+1014850015,525,EAST   73 STREET    ,MANHATTAN,10021,No DOF Record as of 08/01/12,,,,,,,,,,,40.766725,-73.951264,8.0,5.0,124.0,,Lenox Hill-Roosevelt Island                                                
+1007850001,500,   8 AVENUE,MANHATTAN,10018,Yes,2274.0,90.1,194.5,,,1820.95,234132.0,Other,1.0,1014421.0,40.752943,-73.99290400000001,5.0,3.0,109.0,1014421.0,Midtown-Midtown South                                                      
+1012750012,15,EAST   40 STREET,MANHATTAN,10016,Yes,1866.0,,,,,,65257.0,Office,1.0,1035315.0,40.751771999999995,-73.980795,5.0,4.0,82.0,1035315.0,Murray Hill-Kips Bay                                                       
+1005450026,740,BROADWAY,MANHATTAN,10003,Yes,2508.0,92.0,254.3,,59.0,2537.1,316832.0,Office,4.0,1080092.0,40.729884000000006,-73.992993,2.0,2.0,57.0,1080092.0,West Village                                                               
+1013150001,655,   3 AVENUE,MANHATTAN,10017,Yes,2.0,92.5,206.3,,87.0,3061.88,384432.0,Office,1.0,1037545.0,40.750569,-73.974577,6.0,4.0,88.0,1037545.0,Turtle Bay-East Midtown                                                    
+5005340049,135,VANDERBILT AVENUE,STATEN ISLAND,10304,Yes,2291.0,236.9,420.2,,5.0,1703.94,109287.0,Senior Care Facility,1.0,5013953.0,40.620459999999994,-74.076402,1.0,49.0,27.0,5013953.0,Stapleton-Rosebank                                                         
+1008000065,150,WEST   25 STREET,MANHATTAN,10001,Yes,708.0,57.3,124.3,20.54,93.0,325.76,67969.0,Office,1.0,1014992.0,40.744785,-73.993313,4.0,3.0,91.0,1014992.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+2058030801,4481,MANHATTAN COLLEGE PY,BRONX,10471,Yes,2474.0,110.3,174.6,1.69,,4984.88,563734.0,College/University (Campus-Level),1.0,,40.890567,-73.90379,8.0,11.0,335.0,2098896.0,North Riverdale-Fieldston-Riverdale                                        
+1020010001,2351,JOE DIMAGGIO HIGHWAY,MANHATTAN,10031,Yes,260.0,41.8,78.6,0.69,,236.54,84596.0,Other,1.0,,,,,,,,
+2025990089,400,WALNUT AVENUE,BRONX,10454,Yes,332.0,39.1,130.5,,52.0,916.8,250000.0,Warehouse (Unrefrigerated),1.0,,40.805184000000004,-73.906015,1.0,17.0,19.0,2004053.0,Mott Haven-Port Morris                                                     
+4051650001,    56-45,MAIN STREET,QUEENS,11355,Yes,108.0,347.9,646.9,,37.0,14066.98,590371.0,Hospital (General Medical and Surgical),1.0,4439898.0,,,,,,,
+1008250024,27,WEST   23 STREET,MANHATTAN,10010,Yes,517.0,114.4,219.9,,89.0,1426.17,164980.0,Office,1.0,1015580.0,40.742013,-73.99065300000001,5.0,3.0,58.0,1015580.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+1015030059,20,EAST   92 STREET,MANHATTAN,10128,Yes,228.0,71.0,168.4,,47.0,458.51,85000.0,K-12 School,1.0,1083912.0,40.784999,-73.956837,8.0,4.0,16001.0,1083912.0,Upper East Side-Carnegie Hill                                              
+1012580021,11,WEST   42 STREET,MANHATTAN,10036,Yes,36.0,233.6,274.1,,,12577.99,948747.0,Office,1.0,1034198.0,40.75379,-73.981599,5.0,4.0,96.0,1034198.0,Midtown-Midtown South                                                      
+1014800001,1176,YORK AVENUE,MANHATTAN,10065,Yes,1187.0,293.2,407.5,,,1570.37,71511.0,Hospital (General Medical and Surgical),1.0,,40.761395,-73.957726,8.0,5.0,116.0,,Lenox Hill-Roosevelt Island                                                
+3017370001,544,PARK AVENUE,BROOKLYN,11205,Yes,1432.0,44.1,103.3,,,966.35,287770.0,Warehouse (Unrefrigerated),1.0,3048482.0,40.697108,-73.953713,3.0,33.0,1237.0,3048482.0,Bedford                                                                    
+3043860001,1,WORTMAN AVENUE,BROOKLYN,11207,Yes,560.0,197.0,631.7,,1.0,1598.74,88436.0,Office,1.0,3097869.0,40.653774,-73.892335,5.0,42.0,1104.0,3097768.0,East New York                                                              
+3032320001,229,EVERGREEN AVENUE,BROOKLYN,11221,Yes,1572.0,180.8,284.3,30.7,75.0,1243.2,110000.0,Senior Care Facility,1.0,3387647.0,40.696411,-73.927734,4.0,34.0,423.0,3387647.0,Bushwick South                                                             
+3079320400,5700,AVENUE D            ,BROOKLYN            ,11203,No DOF Record as of 08/01/12,,,,,,,,,,,40.642674,-73.922744,17.0,45.0,946.0,3222219.0,Rugby-Remsen Village                                                       
+1014800001,1176,YORK AVENUE,MANHATTAN,10065,Yes,1185.0,293.2,407.5,,54.0,11207.01,510341.0,Hospital (General Medical and Surgical),1.0,,40.761395,-73.957726,8.0,5.0,116.0,,Lenox Hill-Roosevelt Island                                                
+1000200004,39,BROADWAY,MANHATTAN,10006,Yes,2034.0,18454.2,24035.8,,1.0,651919.31,447452.0,Office,1.0,,40.706251,-74.012952,1.0,1.0,13.0,1000803.0,Battery Park City-Lower Manhattan                                          
+1013320001,979,   3 AVENUE,MANHATTAN,10022,Yes,796.0,,,,62.0,,,Office,1.0,,40.761167,-73.96679,6.0,4.0,108.0,1038623.0,Turtle Bay-East Midtown                                                    
+1014180006,208,EAST   64 STREET,MANHATTAN,10065,Yes,2316.0,300.3,557.4,,2.0,5748.87,230000.0,Hospital (General Medical and Surgical),1.0,1043862.0,40.764478999999994,-73.96383900000001,8.0,4.0,110.0,1043862.0,Lenox Hill-Roosevelt Island                                                
+1012600071,1156,AVENUE OF THE AMER,MANHATTAN,10036,Yes,80.0,62.1,164.9,,82.0,448.75,82690.0,Office,1.0,1034240.0,40.756622,-73.98280799999999,5.0,4.0,96.0,1034240.0,Midtown-Midtown South                                                      
+3004130007,181,   3 AVENUE         ,BROOKLYN            ,11217,No DOF Record as of 08/01/12,,,,,,,,,,,40.680535,-73.98393100000001,6.0,33.0,127.0,3414663.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+1013210001,757,   3 AVENUE,MANHATTAN,10017,Yes,316.0,84.7,227.6,,87.0,3777.77,499929.0,Office,1.0,1037986.0,40.754034999999995,-73.97205600000001,6.0,4.0,90.0,1037986.0,Turtle Bay-East Midtown                                                    
+4004390014,    44-01,  21 STREET,QUEENS,11101,Yes,2103.0,163.8,547.0,,,1276.25,83000.0,Other,1.0,4005190.0,,,,,,,
+1010140017,229,WEST   42 STREET    ,MANHATTAN,10036,No DOF Record as of 08/01/12,,,,,,,,,,,40.756571,-73.98819,5.0,3.0,119.0,1024683.0,Midtown-Midtown South                                                      
+1012630043,6,WEST   48 STREET,MANHATTAN,10036,Yes,536.0,,,,,,,Office,1.0,,40.757426,-73.978465,5.0,4.0,96.0,1034487.0,Midtown-Midtown South                                                      
+1007950028,111,WEST   19 STREET,MANHATTAN,10011,Yes,890.0,52.2,125.4,,,759.69,166000.0,Other,1.0,1014730.0,40.740715,-73.99521899999999,4.0,3.0,87.0,1014730.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+1008230073,56,WEST   22 STREET    ,MANHATTAN,10010,No DOF Record as of 08/01/12,,,,,,,,,,,40.741609999999994,-73.991823,5.0,3.0,58.0,1015552.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+2029200002,1628,BATHGATE AVENUE     ,BRONX               ,10457,No DOF Record as of 08/01/12,,,,,,,,,,,40.840303000000006,-73.900697,3.0,16.0,167.0,2086675.0,Claremont-Bathgate                                                         
+5005930500,300,HOWARD AVENUE,STATEN ISLAND,10301,Yes,1364.0,70.5,129.2,,58.0,44.85,9628.0,Office,1.0,,40.622406,-74.08856899999999,1.0,49.0,39.0,5106892.0,Grymes Hill-Clifton-Fox Hills                                              
+1014430020,353,EAST   68 STREET,MANHATTAN,10065,Yes,40.0,227.0,579.0,0.0,,1209.15,60274.0,Medical Office,1.0,1044756.0,40.765726,-73.95899399999999,8.0,5.0,118.0,1044756.0,Lenox Hill-Roosevelt Island                                                
+1008350056,22,WEST   34 STREET,MANHATTAN,10001,Yes,487.0,114.5,375.7,,,730.69,68000.0,Retail,3.0,,40.749176,-73.98634,5.0,4.0,76.0,1083636.0,Midtown-Midtown South                                                      
+1000290001,91,BROAD STREET,MANHATTAN,10004,Yes,493.0,,,,,,1125693.0,Bank/Financial Institution,1.0,,40.703953999999996,-74.01156999999999,1.0,1.0,9.0,1066031.0,Battery Park City-Lower Manhattan                                          
+1007299001,450,WEST   33 STREET,MANHATTAN,10001,Yes,578.0,,,,,,,Office,1.0,1085401.0,40.753574,-73.998838,4.0,3.0,103.0,1085401.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+5002070023,25,WEST STREET         ,STATEN ISLAND       ,10310,No DOF Record as of 08/01/12,,,,,,,,,,,40.633696,-74.118329,1.0,49.0,13302.0,5005524.0,West New Brighton-New Brighton-St. George                                  
+2023600080,824,BROOK AVENUE        ,BRONX               ,10451,No DOF Record as of 08/01/12,,,,,,,,,,,40.821763,-73.911029,1.0,17.0,71.0,2001155.0,Melrose South-Mott Haven North                                             
+3081330052,414,EAST  101 STREET,BROOKLYN,11236,Yes,1810.0,32.6,54.2,,84.0,126.65,62108.0,Warehouse (Unrefrigerated),1.0,3228742.0,40.651478000000004,-73.904127,18.0,42.0,1098.0,3228742.0,East New York                                                              
+1008570062,72,MADISON AVENUE,MANHATTAN,10016,Yes,2032.0,53.9,85.5,,98.0,234.18,60000.0,Office,1.0,1016892.0,40.743758,-73.98589,5.0,2.0,56.0,1016892.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+1001860001,107,NORTH MOORE STREET  ,MANHATTAN,10013,No DOF Record as of 08/01/12,,,,,,,,,,,40.720279999999995,-74.011696,1.0,1.0,39.0,1082816.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1007890062,240,WEST   40 STREET,MANHATTAN,10018,Yes,2076.0,85.7,224.1,,63.0,1081.05,156465.0,Office,1.0,1014508.0,40.755265,-73.989132,5.0,3.0,113.0,1014508.0,Midtown-Midtown South                                                      
+2037350012,1125,CLOSE AVENUE        ,BRONX               ,10472,No DOF Record as of 08/01/12,,,,,,,,,,,40.826291,-73.882474,9.0,17.0,52.0,2023709.0,Soundview-Bruckner                                                         
+1013160001,675,   3 AVENUE,MANHATTAN,10017,Yes,5.0,99.8,209.2,,62.0,6471.39,762051.0,Office,1.0,,40.750791,-73.973963,6.0,4.0,88.0,1037549.0,Turtle Bay-East Midtown                                                    
+1005540001,756,BROADWAY,MANHATTAN,10003,Yes,155.0,5290.1,7268.6,,1.0,64493.81,154099.0,Retail,1.0,1008952.0,40.730675,-73.992326,2.0,2.0,57.0,,West Village                                                               
+3082050011,1555,ROCKAWAY PARKWAY,BROOKLYN,11236,Yes,1752.0,96.8,285.8,,21.0,1093.1,130147.0,Senior Care Facility,1.0,3230126.0,40.642598,-73.899474,18.0,46.0,988.0,3230126.0,Canarsie                                                                   
+1001620001,1,CHATHAM SQUARE,MANHATTAN,10038,Yes,2122.0,53.1,137.1,,99.0,252.34,54429.0,Office,2.0,1001682.0,40.713559000000004,-73.998398,3.0,1.0,29.0,1001682.0,Chinatown                                                                  
+2042260016,1776,EASTCHESTER ROAD,BRONX,10461,Yes,2156.0,4.2,14.0,,100.0,90.21,230000.0,Office,1.0,2047127.0,40.849789,-73.843478,11.0,13.0,284.0,2047127.0,Van Nest-Morris Park-Westchester Square                                    
+2040420200,1601,BRONXDALE AVENUE,BRONX,10462,Yes,1674.0,45.1,150.5,,,1327.41,313718.0,Warehouse (Unrefrigerated),1.0,2969224.0,40.843548,-73.856945,11.0,13.0,238.0,2043253.0,Van Nest-Morris Park-Westchester Square                                    
+1012850015,432,MADISON AVENUE      ,MANHATTAN,10017,No DOF Record as of 08/01/12,,,,,,,,,,,40.757107,-73.976152,5.0,4.0,94.0,1035454.0,Midtown-Midtown South                                                      
+3022770001,26,NORTH   12 STREET,BROOKLYN,11249,Yes,1210.0,79.6,162.8,,,391.71,59840.0,Other,2.0,,40.724121999999994,-73.960466,1.0,33.0,557.0,,North Side-South Side                                                      
+3006250065,550,HAMILTON AVENUE     ,BROOKLYN            ,11232,No DOF Record as of 08/01/12,,,,,,,,,,,40.668108000000004,-73.996348,7.0,38.0,18.0,3008889.0,Sunset Park West                                                           
+3031520003,80,EVERGREEN AVENUE,BROOKLYN,11206,Yes,2414.0,769.4,863.8,,1.0,3745.31,89250.0,Warehouse (Unrefrigerated),1.0,,40.700647,-73.93306700000001,4.0,34.0,391.0,3259586.0,Bushwick South                                                             
+4024530040,    79-00,QUEENS BOULEVARD,QUEENS,11373,Yes,1401.0,31.6,105.5,0.0,88.0,323.84,109196.0,Hotel,1.0,4056461.0,,,,,,,
+1007600063,336,WEST   37 STREET    ,MANHATTAN,10018,No DOF Record as of 08/01/12,,,,,,,,,,,40.754573,-73.99324,4.0,3.0,111.0,1013604.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+5033550050,256,MASON AVENUE        ,STATEN ISLAND       ,10305,No DOF Record as of 08/01/12,,,,,,,,,,,40.586481,-74.08693000000001,2.0,50.0,70.0,5113497.0,Old Town-Dongan Hills-South Beach                                          
+1013200034,230,EAST   47 STREET,MANHATTAN,10017,Yes,965.0,158.3,330.7,,,2079.61,156832.0,Public Assembly,1.0,1037605.0,40.753593,-73.97131999999999,6.0,4.0,90.0,1037605.0,Turtle Bay-East Midtown                                                    
+3058020001,6201,   6 AVENUE,BROOKLYN,11220,Yes,1979.0,25.4,84.8,,1.0,56.49,23700.0,Warehouse (Unrefrigerated),7.0,3843492.0,40.636922999999996,-74.015226,7.0,38.0,118.0,3339452.0,Sunset Park East                                                           
+1008070001,399,   7 AVENUE,MANHATTAN,10001,Yes,62.0,84.3,204.8,16.22,84.0,8350.35,1130275.0,Office,1.0,1015175.0,40.749611,-73.99162,5.0,3.0,101.0,1015175.0,Midtown-Midtown South                                                      
+1008660042,48,PARK AVENUE         ,MANHATTAN,10016,No DOF Record as of 08/01/12,,,,,,,,,,,40.748898,-73.98003100000001,6.0,4.0,82.0,1017184.0,Murray Hill-Kips Bay                                                       
+1008690054,273,MADISON AVENUE,MANHATTAN,10016,Yes,315.0,,,,,,,Bank/Financial Institution,1.0,1017597.0,40.751303,-73.980369,6.0,4.0,82.0,1017597.0,Murray Hill-Kips Bay                                                       
+1012830017,400,MADISON AVENUE,MANHATTAN,10017,Yes,1000.0,,,,84.0,,,Office,1.0,,40.756265,-73.976766,5.0,4.0,94.0,1035420.0,Midtown-Midtown South                                                      
+3009570029,798,UNION STREET        ,BROOKLYN            ,11215,No DOF Record as of 08/01/12,,,,,,,,,,,40.674731,-73.976167,6.0,39.0,157.0,3020198.0,Park Slope-Gowanus                                                         
+1012700071,1350,AVENUE OF THE AMER,MANHATTAN,10019,Yes,830.0,172.0,301.8,,54.0,6542.52,516861.0,Office,1.0,1034815.0,40.762731,-73.978341,5.0,4.0,104.0,1034815.0,Midtown-Midtown South                                                      
+3064710013,2230,CROPSEY AVENUE,BROOKLYN,11214,Yes,1882.0,207.1,382.3,,8.0,1697.26,120618.0,Senior Care Facility,2.0,3329131.0,40.596631,-73.997879,11.0,43.0,294.0,3329131.0,Bensonhurst West                                                           
+1017230010,55,WEST  125 STREET,MANHATTAN,10027,Yes,2354.0,95.0,187.8,19.59,84.0,1583.88,237033.0,Office,1.0,1053499.0,40.80727,-73.94426999999999,10.0,9.0,200.0,1053499.0,Central Harlem South                                                       
+2027950014,1780,GRAND CONCOURSE,BRONX,10457,Yes,2239.0,80.8,234.4,,67.0,1324.84,179967.0,Office,1.0,2094521.0,40.846497,-73.909275,5.0,15.0,22901.0,2094521.0,Mount Hope                                                                 
+3070870076,143,LAKE STREET         ,BROOKLYN            ,11223,No DOF Record as of 08/01/12,,,,,,,,,,,40.600605,-73.97355,11.0,47.0,410.0,3190467.0,Bensonhurst East                                                           
+2023080015,26,BRUCKNER BOULEVARD,BRONX,10454,Yes,1258.0,76.6,120.3,11.93,89.0,502.77,83400.0,Office,1.0,2000683.0,40.807214,-73.928405,1.0,8.0,19.0,2000683.0,Mott Haven-Port Morris                                                     
+1007870076,262,WEST   38 STREET,MANHATTAN,10018,Yes,1394.0,52.1,111.4,,98.0,416.52,95490.0,Office,1.0,1014468.0,40.754216,-73.990478,5.0,3.0,109.0,1014468.0,Midtown-Midtown South                                                      
+2029260002,3706,   3 AVENUE,BRONX,10456,Yes,1743.0,136.3,453.3,,94.0,790.34,61748.0,Supermarket/Grocery,1.0,,40.835694000000004,-73.903052,3.0,16.0,14702.0,2009624.0,Claremont-Bathgate                                                         
+2023280025,391,EAST  149 STREET    ,BRONX               ,10455,No DOF Record as of 08/01/12,,,,,,,,,,,40.816205,-73.918153,1.0,17.0,65.0,2000859.0,Melrose South-Mott Haven North                                             
+1008880024,205,LEXINGTON AVENUE,MANHATTAN,10016,Yes,1088.0,,,25.52,,,124473.0,Office,1.0,,40.7453,-73.980512,6.0,2.0,72.0,1018475.0,Murray Hill-Kips Bay                                                       
+1014830023,537,EAST   71 STREET,MANHATTAN,10021,Yes,1561.0,135.3,443.3,,,1038.32,81767.0,"Health Care: Inpatient (Specialty Hospitals, Excluding Children's)",1.0,1046258.0,40.765809000000004,-73.953377,8.0,5.0,124.0,1046258.0,Lenox Hill-Roosevelt Island                                                
+1012600042,2,WEST   45 STREET,MANHATTAN,10036,Yes,2369.0,103.8,255.9,,46.0,1094.21,120000.0,Office,1.0,1034228.0,40.755604,-73.979975,5.0,4.0,96.0,1034228.0,Midtown-Midtown South                                                      
+5007140065,25,FANNING STREET,STATEN ISLAND,10314,Yes,976.0,39.0,130.2,,94.0,790.75,216000.0,Senior Care Facility,1.0,,40.607802,-74.123008,2.0,49.0,18702.0,5154742.0,New Springville-Bloomfield-Travis                                          
+1005860020,240,BLEECKER STREET,MANHATTAN,10014,Yes,1652.0,103.1,143.8,,32.0,316.86,44000.0,K-12 School,1.0,1009904.0,40.730614,-74.002652,2.0,3.0,67.0,1009904.0,West Village                                                               
+1007790013,241,WEST   29 STREET,MANHATTAN,10001,Yes,1844.0,91.9,144.6,,98.0,815.06,107040.0,Office,1.0,1014282.0,40.748384,-73.994139,5.0,3.0,95.0,1014282.0,Midtown-Midtown South                                                      
+1020010120,2341,JOE DIMAGGIO HIGHWAY,MANHATTAN,10027,Yes,259.0,32.8,80.1,,,221.58,86453.0,Other,1.0,,,,,,,,
+3044520080,671,LOUISIANA AVENUE,BROOKLYN,11239,Yes,447.0,54.3,107.0,,82.0,239.67,63600.0,K-12 School,1.0,3339160.0,40.645638,-73.883643,5.0,42.0,105804.0,3339160.0,Starrett City                                                              
+3067350080,1277,LOCUST AVENUE       ,BROOKLYN            ,11230,No DOF Record as of 08/01/12,,,,,,,,,,,40.618534000000004,-73.962319,14.0,44.0,768.0,,Midwood                                                                    
+1009930011,1440,BROADWAY,MANHATTAN,10018,Yes,1771.0,93.1,243.1,,70.0,5686.49,694851.0,Office,2.0,1022563.0,40.754611,-73.986761,5.0,4.0,113.0,1022563.0,Midtown-Midtown South                                                      
+1008610049,38,EAST   32 STREET    ,MANHATTAN,10016,No DOF Record as of 08/01/12,,,,,,,,,,,40.746297,-73.983489,5.0,2.0,74.0,1016994.0,Midtown-Midtown South                                                      
+1009980029,1177,AVENUE OF THE AMER,MANHATTAN,10036,Yes,76.0,96.7,280.9,,63.0,8564.75,976512.0,Office,1.0,1076173.0,40.757256,-73.982364,5.0,4.0,119.0,1076173.0,Midtown-Midtown South                                                      
+1012780069,529,   5 AVENUE,MANHATTAN,10017,Yes,57.0,86.5,253.2,,64.0,1957.92,248689.0,Office,1.0,1035365.0,40.754467,-73.979455,5.0,4.0,94.0,1035365.0,Midtown-Midtown South                                                      
+1008770013,50,GRAMERCY PARK NORTH,MANHATTAN,10010,Yes,596.0,90.7,260.8,,,571.73,70000.0,Multifamily Housing,1.0,1087279.0,40.738274,-73.985782,6.0,2.0,68.0,1087279.0,Gramercy                                                                   
+3001450032,222,DUFFIELD STREET,BROOKLYN,11201,Yes,1840.0,99.4,233.9,,41.0,1407.69,183846.0,Hotel,1.0,3000297.0,40.691454,-73.984386,2.0,33.0,15.0,3000000.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+1004410023,432,EAST   14 STREET    ,MANHATTAN,10009,No DOF Record as of 08/01/12,,,,,,,,,,,40.730846,-73.981328,3.0,2.0,34.0,1000000.0,East Village                                                               
+3021110045,144,ST FELIX STREET     ,BROOKLYN            ,11217,No DOF Record as of 08/01/12,,,,,,,,,,,40.685664,-73.977133,2.0,35.0,35.0,3059187.0,Fort Greene                                                                
+1008320024,29,WEST   30 STREET,MANHATTAN,10001,Yes,457.0,66.8,152.9,,,390.79,68764.0,Office,1.0,1015779.0,40.746531,-73.98782,5.0,4.0,76.0,1015779.0,Midtown-Midtown South                                                      
+3005230018,5,DELEVAN STREET,BROOKLYN,11231,Yes,1444.0,26.0,71.1,,,245.62,113630.0,Multifamily Housing,8.0,3336479.0,40.678634,-74.006421,6.0,38.0,59.0,3336479.0,Carroll Gardens-Columbia Street-Red Hook                                   
+1012590019,23,WEST   43 STREET,MANHATTAN,10036,Yes,2430.0,61.8,155.1,13.85,95.0,1949.67,360263.0,Office,1.0,1034206.0,40.75458,-73.981379,5.0,4.0,96.0,1034206.0,Midtown-Midtown South                                                      
+1008010008,159,WEST   25 STREET,MANHATTAN,10001,Yes,538.0,50.1,134.0,,,346.2,77000.0,Office,1.0,1015001.0,40.744868,-73.993464,4.0,3.0,91.0,1015001.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+4097950003,   165-11,JAMAICA AVENUE,QUEENS,11432,Yes,2123.0,83.2,119.5,,12.0,297.16,60986.0,House of Worship,1.0,4209598.0,,,,,,,
+1000100023,1,WHITEHALL STREET,MANHATTAN,10004,Yes,48.0,113.1,252.1,12.96,58.0,3218.11,329991.0,Office,1.0,1000027.0,40.703973,-74.013164,1.0,1.0,9.0,1000027.0,Battery Park City-Lower Manhattan                                          
+3031250007,24,ROCK STREET,BROOKLYN,11206,Yes,2297.0,108.0,274.0,,44.0,1428.24,166000.0,Warehouse (Refrigerated),1.0,3071648.0,40.704077000000005,-73.931264,1.0,34.0,453.0,3071551.0,Bushwick North                                                             
+1007630012,343,WEST   39 STREET,MANHATTAN,10018,Yes,523.0,88.2,236.9,85.62,69.0,518.81,71500.0,Hotel,1.0,,40.755877000000005,-73.992453,4.0,3.0,115.0,1087498.0,Clinton                                                                    
+1018960047,431,RIVERSIDE DRIVE,MANHATTAN,10025,Yes,345.0,98.9,127.6,,78.0,501.36,68096.0,Residence Hall/Dormitory,1.0,1057373.0,40.808423,-73.96629,9.0,7.0,205.0,1057373.0,Morningside Heights                                                        
+1005130035,93,PRINCE STREET,MANHATTAN,10012,Yes,1799.0,205.4,458.4,,36.0,1165.7,76000.0,Hotel,1.0,1007983.0,40.724697,-73.998694,2.0,1.0,49.0,1007983.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+2039430205,2000,EAST TREMONT AVENUE ,BRONX               ,10462,No DOF Record as of 08/01/12,,,,,,,,,,,40.841727,-73.85979,9.0,18.0,21001.0,2097573.0,Parkchester                                                                
+1000160260,200,WEST STREET,MANHATTAN,10282,Yes,516.0,118.9,325.0,,,22758.57,2137781.0,Bank/Financial Institution,1.0,1087239.0,40.713813,-74.013736,1.0,1.0,31703.0,1087239.0,Battery Park City-Lower Manhattan                                          
+1011370001,160,WEST   66 STREET    ,MANHATTAN,10023,No DOF Record as of 08/01/12,,,,,,,,,,,40.774428,-73.98354,7.0,6.0,149.0,1077844.0,Lincoln Square                                                             
+1007280060,442,WEST   31 STREET,MANHATTAN,10001,Yes,2078.0,55.7,121.5,,,458.83,112146.0,Multifamily Housing,1.0,,40.752320000000005,-73.99969,4.0,3.0,103.0,1012836.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+1010130039,214,WEST   42 STREET,MANHATTAN,10036,Yes,288.0,140.4,378.7,,,1400.15,119905.0,Entertainment/Culture,1.0,1024660.0,40.756324,-73.987652,5.0,3.0,113.0,1024660.0,Midtown-Midtown South                                                      
+3067770017,1630,EAST   15 STREET,BROOKLYN,11229,Yes,1274.0,87.6,250.1,11.27,62.0,973.46,132990.0,Office,1.0,3391735.0,40.609689,-73.95846999999999,15.0,48.0,554.0,3391735.0,Homecrest                                                                  
+3017200001,475,MARCY AVENUE,BROOKLYN,11206,Yes,2431.0,10.1,34.8,,,589.4,624055.0,Other,7.0,,40.699094,-73.94994,3.0,36.0,257.0,3000000.0,Bedford                                                                    
+1005560065,66,   3 AVENUE,MANHATTAN,10003,Yes,757.0,101.5,294.3,,,486.34,55079.0,Entertainment/Culture,1.0,,40.731424,-73.988555,3.0,2.0,42.0,1008982.0,East Village                                                               
+1000050010,115,BROAD STREET        ,MANHATTAN,10004,No DOF Record as of 08/01/12,,,,,,,,,,,40.702486,-74.01135699999999,1.0,1.0,9.0,1000007.0,Battery Park City-Lower Manhattan                                          
+1005970001,515,GREENWICH STREET,MANHATTAN,10013,Yes,937.0,,,16.85,,,59650.0,Office,1.0,1010358.0,40.726099,-74.009067,2.0,3.0,37.0,1010358.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+2038340081,2300,WESTCHESTER AVENUE,BRONX,10462,Yes,866.0,51.0,120.5,,,325.07,82662.0,Medical Office,1.0,,40.835725,-73.847942,10.0,18.0,96.0,2087040.0,Westchester-Unionport                                                      
+5023800040,2275,RICHMOND AVENUE     ,STATEN ISLAND       ,10314,No DOF Record as of 08/01/12,,,,,,,,,,,40.591889,-74.164174,2.0,51.0,27706.0,5107371.0,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill                   
+3000300012,50,JAY STREET          ,BROOKLYN            ,11201,No DOF Record as of 08/01/12,,,,,,,,,,,40.703396999999995,-73.986641,2.0,33.0,21.0,3329409.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+1004910046,151,AVENUE OF THE AMER,MANHATTAN,10013,Yes,185.0,64.6,169.3,,87.0,1238.17,218252.0,Office,1.0,1007385.0,40.725136,-74.00443800000001,2.0,3.0,37.0,1007385.0,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1000780004,123,WILLIAM STREET      ,MANHATTAN,10038,No DOF Record as of 08/01/12,,,,,,,,,,,40.709112,-74.006889,1.0,1.0,1502.0,1079063.0,Battery Park City-Lower Manhattan                                          
+1015250005,211,EAST   79 STREET    ,MANHATTAN,10075,No DOF Record as of 08/01/12,,,,,,,,,,,40.77408,-73.95679399999999,8.0,5.0,138.0,1048510.0,Yorkville                                                                  
+1007890067,250,WEST   40 STREET,MANHATTAN,10018,Yes,801.0,,,,85.0,,,Office,1.0,1014509.0,40.75535,-73.989334,5.0,3.0,113.0,1014509.0,Midtown-Midtown South                                                      
+2026000001,430,SOUTHERN BOULEVARD  ,BRONX               ,10455,No DOF Record as of 08/01/12,,,,,,,,,,,40.809593,-73.90734599999999,1.0,8.0,31.0,2004065.0,Mott Haven-Port Morris                                                     
+2051410390,755,CO-OP CITY BOULEVARD,BRONX,10475,Yes,1357.0,105.8,261.7,,,316.22,37911.0,College/University (Campus-Level),1.0,2072365.0,40.879023,-73.826572,10.0,12.0,46201.0,2072365.0,Co-op City                                                                 
+4100990080,   158-15,LIBERTY AVENUE,QUEENS,11433,Yes,17.0,243.4,508.2,,,4822.86,275506.0,Other,1.0,4467556.0,,,,,,,
+2024430090,200,EAST  161 STREET,BRONX,10451,Yes,1200.0,117.9,351.0,,,2073.24,201536.0,Other,1.0,2002456.0,40.826337,-73.920963,4.0,16.0,61.0,2002456.0,East Concourse-Concourse Village                                           
+3026660101,100,APOLLO STREET,BROOKLYN,11222,Yes,1370.0,67.4,138.8,,4.0,385.38,82000.0,Warehouse (Unrefrigerated),1.0,,40.728339,-73.938,1.0,33.0,589.0,3066695.0,Greenpoint                                                                 
+3001470004,351,JAY STREET,BROOKLYN,11201,Yes,2323.0,82.1,200.6,,74.0,5857.87,913378.0,Office,1.0,2678604.0,40.692882,-73.987256,2.0,33.0,11.0,3319418.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+1008010071,152,WEST   26 STREET    ,MANHATTAN,10001,No DOF Record as of 08/01/12,,,,,,,,,,,40.745422,-73.99290500000001,4.0,3.0,91.0,1015028.0,Hudson Yards-Chelsea-Flatiron-Union Square                                 
+4018610001,    91-31,QUEENS BOULEVARD,QUEENS,11373,Yes,1905.0,185.0,385.7,,11.0,1094.66,82943.0,Office,1.0,,,,,,,,
+1014830033,525,EAST   71 STREET,MANHATTAN,10021,Yes,1144.0,383.6,1258.3,,,7630.72,211990.0,Other,1.0,1087893.0,40.765886,-73.953561,8.0,5.0,124.0,1087893.0,Lenox Hill-Roosevelt Island                                                
+3050840084,123,LINDEN BOULEVARD    ,BROOKLYN            ,11226,No DOF Record as of 08/01/12,,,,,,,,,,,40.652415000000005,-73.954227,17.0,40.0,822.0,3116661.0,Prospect Lefferts Gardens-Wingate                                          
+2024430079,750,CONCOURSE VILLAGE W ,BRONX               ,10451,No DOF Record as of 08/01/12,,,,,,,,,,,40.823174,-73.923326,4.0,17.0,61.0,2002454.0,East Concourse-Concourse Village                                           
+3000630001,107,ADAMS STREET        ,BROOKLYN            ,11201,No DOF Record as of 08/01/12,,,,,,,,,,,40.701036,-73.98864300000001,2.0,33.0,21.0,3000161.0,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+1000240029,30,BROAD STREET,MANHATTAN,10004,Yes,603.0,63.7,180.5,21.98,81.0,2420.21,419795.0,Office,1.0,1000819.0,40.706179999999996,-74.01125,1.0,1.0,9.0,1000819.0,Battery Park City-Lower Manhattan                                          
+1013160030,801,   2 AVENUE,MANHATTAN,10017,Yes,877.0,91.4,217.7,,67.0,1192.57,148478.0,Office,1.0,1037553.0,40.750398,-73.97179399999999,6.0,4.0,88.0,1037553.0,Turtle Bay-East Midtown                                                    
